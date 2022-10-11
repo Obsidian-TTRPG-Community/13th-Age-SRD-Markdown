@@ -2,7 +2,7 @@
 aliases: 
 title: 13th Age Archmage Engine - SRD - Table of Contents
 ---
-![13thage_intro](0_Table_of_Contents/_attachments/13thage_intro.png)
+![13thage_intro](/0_Table_of_Contents/_attachments/13thage_intro.jpeg)
 # 13th Age Archmage Engine
 ## System Reference Document for 13th Age
 ## Table of Contents
