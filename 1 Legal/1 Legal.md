@@ -1,3 +1,6 @@
+---
+aliases: [13th Age Legal Notice]
+---
 # Legal
 
 The 13th Age Archmage Engine describes the rules of 13th Age, the 13th Age Bestiary, and 13 True Ways that you may incorporate, wholly or in part, into a derivative work.

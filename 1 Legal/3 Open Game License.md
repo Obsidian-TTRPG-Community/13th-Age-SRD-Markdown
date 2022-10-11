@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Open Game License]
 ---
 # Open Game License
 OPEN GAME LICENSE Version 1.0a

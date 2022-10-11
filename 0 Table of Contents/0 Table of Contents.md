@@ -1,27 +1,26 @@
 ---
-aliases: 
-title: 13th Age Archmage Engine - SRD - Table of Contents
+aliases: [13th Age SRD Table of Contents]
+title: 13th Age SRD Table of Contents
 ---
-![13thage_intro](/0_Table_of_Contents/_attachments/13thage_intro.jpeg)
-# 13th Age Archmage Engine
-## System Reference Document for 13th Age
+![13thage_intro](0%20Table%20of%20Contents/_attachments/13thage_intro.jpeg)
+# 13th Age System Reference Document
 ## Table of Contents
 
-0. [Table of Contents](0_Table_of_Contents)
-1. [Legal](1_Legal/1_Legal)
-	1. Product Identity
-	2. Open Content
-	3. Open Game License
-	4. 13th Age Archmage Engine
-	5. Revision History
-2. Icons
-3. Character Rules
-	1. Race
+0. [Table of Contents](0%20Table%20of%20Contents/0%20Table%20of%20Contents.md)
+1. [Legal](1%20Legal.md)
+	1. [Product Identity](1%20Legal/1%20Product%20Identity.md)
+	2. [[2 Open Content|Open Content]]
+	3. [Open Game License](1%20Legal/3%20Open%20Game%20License.md)
+	4. [13th Age Archmage Engine](1%20Legal/4%2013th%20Age%20Archmage%20Engine.md)
+	5. [Revision History](1%20Legal/5%2013th%20Age%20SRD%20Revision%20History.md)
+2. [Icons](/2%20Icons/2%20Icons.md)
+3. [Character Rules](3%20Character%20Rules/3%20Character%20Rules.md)
+	1. [Kin](3%20Character%20Rules/1%20Kin.md)
 	2. Class
-	3. Abilities
-	4. Combat Stats
-	5. One Unique Thing
-	6. Icon Relationships
+	3. [Abilities](3%20Character%20Rules/3%20Abilities.md)
+	4. [Combat Stats](3%20Character%20Rules/4%20Combat%20Stats.md)
+	5. [One Unique Thing](3%20Character%20Rules/5%20One%20Unique%20Thing.md)
+	6. [Icon Relationships](3%20Character%20Rules/6%20Icon%20Relationships.md)
 	7. Backgrounds & Skill Checks
 	8. Feats
 	9. Gear
@@ -74,7 +73,7 @@ title: 13th Age Archmage Engine - SRD - Table of Contents
 	15. Sorcerer Multiclass
 	16. Wizard Multiclass
 7. Combat Rules
-	1. Combat Stats
+	1. [Combat Stats](3%20Character%20Rules/4%20Combat%20Stats.md)
 	2. Combat Sequence
 	3. Combat Actions
 	4. Special Actions
