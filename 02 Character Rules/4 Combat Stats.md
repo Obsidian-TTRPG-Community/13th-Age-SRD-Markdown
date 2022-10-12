@@ -3,8 +3,7 @@ aliases: [Combat Stats]
 tags: 13thAge/Rules/Characters/Combat
 ---
 
-
-< -- [Abilities](3%20Character%20Rules/3%20Abilities.md) | [One Unique Thing](3%20Character%20Rules/5%20One%20Unique%20Thing.md) -- >
+< -- [Abilities](02%20Character%20Rules/3%20Abilities.md) | [One Unique Thing](02%20Character%20Rules/5%20One%20Unique%20Thing.md) -- >
 
 # Combat Stats
 For details on how combat works, see Combat Rules.
@@ -45,6 +44,6 @@ Most characters start the game with 8 recoveries. (See Recoveries.) Some classes
 Each class also has a different recovery die, usually a d6, d8, or d10, as specified in the class write-up. When you roll a recovery, you’ll roll a number of recovery dice equal to your level and add your Constitution modifier.
 
 ## Attacks and Powers
-You calculate attack and damage rolls based on the [ability scores](3%20Character%20Rules/3%20Abilities.md) favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. 
+You calculate attack and damage rolls based on the [ability scores](3%20Abilities.md) favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. 
 
 See Classes for more information.

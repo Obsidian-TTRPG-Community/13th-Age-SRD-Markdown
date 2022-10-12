@@ -1,5 +1,0 @@
----
-aliases: [Open Content]
----
-# Open Content
-Except for material designated as Product Identity (see above), the game mechanics of this Fire Opal Media game product are Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.

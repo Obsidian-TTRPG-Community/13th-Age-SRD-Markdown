@@ -1,7 +1,21 @@
 ---
-aliases: [Open Game License]
+aliases: [13th Age Legal Notice]
 ---
-# Open Game License
+# Legal
+
+The 13th Age Archmage Engine describes the rules of 13th Age, the 13th Age Bestiary, and 13 True Ways that you may incorporate, wholly or in part, into a derivative work.
+
+In short, we’ll describe the rules and mechanics that we use for 13th Age (Open Content), then you can adopt the ones you like and leave the ones you don’t. Just don’t use any intellectual property that is not specifically part of the 13th Age Archmage Engine (Product Identity).
+
+
+## Product Identity
+The following items are hereby identified as Product Identity, as defined in the Open Game License 1.0a, Section 1(e), and are not Open Content: All trademarks, registered trademarks, proper names (characters, icons, etc.), dialogue, plots, storylines, locations, characters, artworks, and trade dress. (Elements that have previously been designated as Open Game Content are not included in this declaration.)
+
+
+## Open Content
+Except for material designated as Product Identity (see above), the game mechanics of this Fire Opal Media game product are Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.
+
+## Open Game License
 OPEN GAME LICENSE Version 1.0a
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc. ("Wizards"). All Rights Reserved.
@@ -42,3 +56,6 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     **13 True Ways.** Copyright 2014, Fire Opal Media, Inc.; Authors: Rob Heinsoo, Jonathan Tweet, Robin D. Laws.  
     **Pathfinder RPG Core Rulebook.** Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Castles & Crusades, Copyright 2004, Troll Lord Games; Authors: Davis Chenault, Mac Golden.  
     **13th Age Archmage Engine.** Copyright 2013-2016, Fire Opal Media. Author: Chad Dylan Long, based on material by Jonathan Tweet, Rob Heinsoo, Ryven Cedyrlle, Kenneth Hite, Kevin Kulp, ASH LAW, Cal Moore, Steve Townshend, Rob Watkins, and Rob Wieland.
+
+## 13th Age Archmage Engine
+Copyright 2013-2015, Fire Opal Media. Author: Chad Dylan Long, based on material by Jonathan Tweet, Rob Heinsoo, Ryven Cedyrlle, Kenneth Hite, Kevin Kulp, ASH LAW, Robin D. Laws, Cal Moore, and Steve Townshend. Edited by Cal Moore and Simon Rogers. Cover art by Cougar George.

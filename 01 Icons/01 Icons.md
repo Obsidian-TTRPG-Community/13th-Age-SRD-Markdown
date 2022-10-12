@@ -6,4 +6,4 @@ The _13th_ _Age_ Archmage Engine supports the concept of _icons_. An icon is a p
 
 Icons have their own story, alignment, and personality. The general knowledge and history about them may vary in depth and accuracy; they may be well-known or mysterious. They have their own relationships with other icons, too, which may be friendly, tolerable, or acrimonious.
 
-Your character may have relationships with certain icons. This relationship, if it exists, can be positive, conflicted, or negative. See [Icon Relationships](3%20Character%20Rules/6%20Icon%20Relationships.md).
+Your character may have relationships with certain icons. This relationship, if it exists, can be positive, conflicted, or negative. See [Icon Relationships](../02%20Character%20Rules/6%20Icon%20Relationships.md).
