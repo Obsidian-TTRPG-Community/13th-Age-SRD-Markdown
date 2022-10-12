@@ -2,7 +2,7 @@
 aliases: [13th Age and Eberron]
 ---
 # 13th Age and Eberron
-> ## This is a Markdown conversion of [Keith Baker's blog post](https://keith-baker.com/eberron-and-13th-age/) on some ideas on how to run the 13th Age system in an Eberron world. I have haded headers for organizational purposes. 
+> This is a Markdown conversion of [Keith Baker's blog post](https://keith-baker.com/eberron-and-13th-age/) on some ideas on how to run the 13th Age system in an Eberron world. I have added headers for organizational purposes. 
 
 ## The Icons
 **If you were to run an Eberron game using 13th Age, what would you use for Icons?**
