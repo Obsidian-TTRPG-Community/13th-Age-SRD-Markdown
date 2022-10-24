@@ -1,6 +1,6 @@
 ---
 aliases: [Icon Relationships]
-tags: 13thAge/Rules/Icons
+tags: 13thAge/Icons
 ---
 # Icon Relationships
 Your character’s relationship with icons is an important way to draw him or her into your game world. An icon may have its own champions and heroes (including you) to advance its cause in the game world.
@@ -12,3 +12,6 @@ The number of points you invest in a relationship with an icon doesn’t necessa
 
 The Icons Relationships Master Tables summarizes the likely roleplaying and story-oriented consequences of positive, conflicted, and negative relationships with heroic, ambiguous, and villainous icons.
 
+## Relationship Table
+
+Note to self.. figure out how to do a table here...

@@ -2,6 +2,9 @@
 aliases: [Revision History]
 ---
 # Revision History
+
+Watch Link: [Pelgrane Press - The Archmage Engine – 13th Age SRD](https://pelgranepress.com/2013/10/24/the-archmage-engine-13th-age-srd/)
+
 ## 3.0
 ### Additions
 - 13 True Ways monsters

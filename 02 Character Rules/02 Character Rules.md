@@ -3,7 +3,7 @@ aliases: [Character Rules]
 tags: 13thAge/Rules/Characters
 ---
 [13th Age SRD Table of Contents](00%20Table%20of%20Contents/00%20Table%20of%20Contents.md)
-< -- [Icons](01%20Icons/01%20Icons.md) | [Kinships](03%20Kinships/03%20Kinships.md) -- >
+< -- [Icons](01%20Icons/01%20Icons.md) | [Kinships](../03%20Ancestries/03%20Ancestries.md) -- >
 
 # Character Rules
 These rules are for the character you create, your PC (playable character).

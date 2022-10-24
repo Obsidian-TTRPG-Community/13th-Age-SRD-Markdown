@@ -21,4 +21,5 @@ You get 28 points to buy your abilities using the table below.
 | 15      | __8__    |   10      |   __2__   |
 | 14      | __6__    |   9      |  __1__    |
 ^abilitypointbuy
+
 Ability points that are 8 or less cost zero (0).
