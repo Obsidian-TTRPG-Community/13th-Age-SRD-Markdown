@@ -1,9 +1,11 @@
 ---
 aliases: [Combat Stats]
-tags: 13thAge/Rules/Characters/Combat
+tags: 13thAge/Characters/Combat
 ---
 
-< -- [**Abilities**](02%20Character%20Rules/3%20Abilities.md) | [**One Unique Thing**](02%20Character%20Rules/5%20One%20Unique%20Thing.md) -- >
+Navigation Links
+#todo
+
 
 # Combat Stats
 For details on how combat works, see **Combat Rules**.

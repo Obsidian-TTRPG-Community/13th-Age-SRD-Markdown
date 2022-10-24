@@ -1,15 +1,15 @@
 ---
-aliases: [Ancestries]
+aliases: [Races]
 ---
 
-# Ancestries
+# Races
 
 The major races included in the 13th Age Archmage Engine include humans, dwarves, elves, gnomes, half-elves, half-orcs, and halflings. Your character need not be limited to these races, however. Minor races, including Dragonic/Dragonspawn, Holy One/Aasimar, Forgeborn/Dwarf-forged, and Tiefling/Demontouched, are also referenced below.
 
 
 Each race is associated with two **ability scores**, one of which can be chosen for your character’s racial bonus.
 
-## Kin Table
+## Races Table
 
 | Ancestry               | Str | Con | Dex | Int | Wis | Cha | Any |
 | ---------------------- | --- | --- | --- | --- | --- | --- | --- |

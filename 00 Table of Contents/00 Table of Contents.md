@@ -15,7 +15,7 @@ title: 13th Age SRD Table of Contents
 	5. [Revision History](../Pelgrane_Press_13th_Age_SRD_Revision_Log.md)
 2. [Icons](../01%20Icons/01%20Icons.md)
 3. [Character Rules](../02%20Character%20Rules/02%20Character%20Rules.md)
-	1. [Kin](../02%20Character%20Rules/1%20Kin.md)
+	1. [**Races**](../02%20Character%20Rules/1%20Race.md)
 	2. [Class](../02%20Character%20Rules/2%20Class.md)
 	3. [Abilities](../02%20Character%20Rules/3%20Abilities.md)
 	4. [Combat Stats](../02%20Character%20Rules/4%20Combat%20Stats.md)

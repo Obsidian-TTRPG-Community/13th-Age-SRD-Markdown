@@ -1,7 +1,11 @@
 ---
 aliases: [Class]
-tags: 13thAge/Rules/Characters/Class
+tags: 13thAge/Characters/Classes
 ---
+
+Navigation Links
+#todo 
+
 # Class
 Every character has a class (see Classes). Pick one of these too.
 

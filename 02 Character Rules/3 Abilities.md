@@ -1,7 +1,11 @@
 ---
 aliases: ["Abilities", "Ability Scores"]
-tags: 13thAge/Rules/Characters/AbilityScores
+tags: 13thAge/Characters/AbilityScores
 ---
+
+Navigation Links
+#todo 
+
 # Abilities
 Your character can be assigned ability scores in various ways. Here are two ways.
 
