@@ -1,16 +1,18 @@
 ---
-aliases: 
+aliases: [General Feats]
 tags: 13thAge/Characters/Feats/General
 ---
 
 Navigation Links
-#todo 
+#navtodo 
 
 # General Feats
 
 These are general feats available to any character. A character can’t take a specific feat more than once. A few general feats only have adventurer-tier versions; others also have champion- and epic-tier versions that can be added later in your career.
 
-> __13th Age SRD Markdown Note__: An all-in-one list is maintained here, and the Feats are also kept in individual files in the Feats folder for character sheets/linking purposes if needed. You may delete them if you do not need them. 
+> __13th Age SRD Markdown Note__: An all-in-one list is maintained here, and the Feats are also kept in individual files in the Box_of_Feats folder for character sheets and other linking purposes if needed. 
+> 
+> You may delete them if you do not need them. 
 
 ## Further Backgrounding
 

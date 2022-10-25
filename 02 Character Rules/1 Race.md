@@ -3,7 +3,7 @@ aliases: [Race]
 ---
 
 Navigation Links
-#todo 
+#navtodo 
 
 # Race
 Every character has a race (see **Races**). Pick one for your character. If you want to make a non-standard race for your character, the rules won’t hinder you. The system is designed to be flexible enough to allow for improvisation.

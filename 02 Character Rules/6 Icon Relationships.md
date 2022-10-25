@@ -4,7 +4,7 @@ tags: 13thAge/Icons
 ---
 
 Navigation Links
-#todo 
+#navtodo 
 
 # Icon Relationships
 
@@ -21,7 +21,7 @@ The Icons Relationships Master Tables summarizes the likely roleplaying and stor
 
 Note to self.. figure out how to do a table here…
 
-#todo
+#icontabletodo
 
 ## Rolling Icon Relationship Dice
 

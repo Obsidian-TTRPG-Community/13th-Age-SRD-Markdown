@@ -3,8 +3,7 @@ aliases: [Feats per Level]
 tags: 13thAge/Characters/Feats/Leveling
 ---
 
-Navigation Links
-#todo 
+#navtodo 
 
 # Feats per Level
 

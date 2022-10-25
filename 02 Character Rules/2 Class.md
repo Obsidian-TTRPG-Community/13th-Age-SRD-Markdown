@@ -4,7 +4,7 @@ tags: 13thAge/Characters/Classes
 ---
 
 Navigation Links
-#todo 
+#navtodo 
 
 # Class
 Every character has a class (see Classes). Pick one of these too.

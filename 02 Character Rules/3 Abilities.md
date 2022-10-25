@@ -4,7 +4,7 @@ tags: 13thAge/Characters/AbilityScores
 ---
 
 Navigation Links
-#todo 
+#navtodo 
 
 # Abilities
 Your character can be assigned ability scores in various ways. Here are two ways.
