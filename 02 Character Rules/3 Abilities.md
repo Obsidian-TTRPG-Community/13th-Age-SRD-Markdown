@@ -10,11 +10,13 @@ Navigation Links
 Your character can be assigned ability scores in various ways. Here are two ways.
 
 ## Roll ’em
+
 Roll 4d6 for each of the six ability scores (Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma). 
 
 Drop the low die in each roll. Put the scores into any order to best fit the character you want to play.
 
 ## Point Buy
+
 You get 28 points to buy your abilities using the table below.
 
 | Ability | __Cost__ | Ability | __Cost__ |
