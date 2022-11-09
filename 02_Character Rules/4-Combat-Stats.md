@@ -53,6 +53,6 @@ Each class also has a different recovery die, usually a d6, d8, or d10, as speci
 
 ## Attacks and Powers
 
-You calculate attack and damage rolls based on the [**ability scores**](3%20Abilities.md) favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. 
+You calculate attack and damage rolls based on the [**ability scores**](3-Abilities.md) favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. 
 
 See **Classes** for more information.

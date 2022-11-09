@@ -7,7 +7,7 @@ tags: 13thAge/Characters/Feats/Leveling
 
 # Feats per Level
 
-| Level | Player Character Max Feats           |
+| **Level** | **Player Character Max Feats**           |
 | ----- | ------------------------------------ |
 | 1     | 1 Adventurer                         |
 | 2     | 2 Adventurer                         |
