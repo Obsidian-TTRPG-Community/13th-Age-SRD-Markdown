@@ -3,6 +3,7 @@ aliases: [Quick to Fight]
 tags: 13thAge/Characters/Races/Human/Power
 ---
 # Quick to Fight
-**Requirements**:: [**Human**](../1-Human.md)
+
+__Requirements__:: [**Human**](../1-Human.md)
 
 At the start of each battle, roll initiative twice and choose the result you want.
