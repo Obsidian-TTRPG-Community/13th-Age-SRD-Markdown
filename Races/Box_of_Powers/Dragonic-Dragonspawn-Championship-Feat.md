@@ -1,0 +1,11 @@
+---
+aliases: ["Dragonic Championship Feat", "Dragonspawn Championship Feat"]
+tags:
+- 13thAge/Characters/Races/Dragonic/Power
+- 13thAge/Characters/Races/Dragonspawn/Power
+---
+# Dragonic/Dragonspawn Championship Feat
+
+__Requirements__:: __[Dragonic](../10-Dragonic-Dragonspawn.md)__ or __[Dragonspawn](../10-Dragonic-Dragonspawn.md)__
+
+Your breath weapon attack targets 1d3 (`dice: 1d3`) nearby enemies in a group instead.
