@@ -1,5 +1,5 @@
 ---
-aliases: [Race]
+alias: [Race]
 ---
 
 Navigation Links

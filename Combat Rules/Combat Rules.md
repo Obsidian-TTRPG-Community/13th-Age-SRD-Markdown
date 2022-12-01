@@ -1,4 +1,4 @@
 ---
-aliases: [Combat Rules]
+alias: ["Combat Rules"]
 ---
 # Combat Rules

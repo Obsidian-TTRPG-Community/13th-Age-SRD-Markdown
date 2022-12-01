@@ -1,10 +1,10 @@
 ---
-aliases: [Elven Grace]
+alias: ["Elven Grace"]
 tags: 13thAge/Characters/Races/Wood-Elf/Power
 ---
 # Elven Grace
 
-__Requirements__:: __[Wood Elf](../5-Wood-Elf.md)__
+__Requirements__:: __[Wood Elf](../Wood-Elf.md)__
 
 - At the start of each of your turns, roll a die to see if you get an extra standard action. 
 - If your roll is equal to or lower than the escalation die, you get an extra standard action that turn.

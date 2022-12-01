@@ -1,5 +1,5 @@
 ---
-aliases: [True Magic Items]
+alias: ["True Magic Items"]
 tags:
 - 13thAge/Items/Rules/True-Magic
 ---

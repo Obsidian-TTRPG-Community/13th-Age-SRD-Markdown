@@ -1,5 +1,5 @@
 ---
-aliases: ["Skill Escalation", "Adventure Skill Escalation"]
+alias: ["Skill Escalation", "Adventure Skill Escalation"]
 tags: 
 - 13thAge/Characters/Feats/Adventure
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: ["Rapid Reload", "Adventure Rapid Reload"]
+alias: ["Rapid Reload", "Adventure Rapid Reload"]
 tags: 
 - 13thAge/Characters/Feats/Adventure
 ---

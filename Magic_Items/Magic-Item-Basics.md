@@ -1,5 +1,5 @@
 ---
-aliases: [Magic Item Basics]
+alias: ["Magic Item Basics"]
 tags:
 ---
 # Magic Item Basics

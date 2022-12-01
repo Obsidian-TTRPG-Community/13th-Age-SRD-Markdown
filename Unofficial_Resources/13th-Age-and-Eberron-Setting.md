@@ -1,5 +1,5 @@
 ---
-aliases: [13th Age and Eberron]
+alias: ["13th Age and Eberron"]
 tags: 
 ---
 # 13th Age and Eberron Setting

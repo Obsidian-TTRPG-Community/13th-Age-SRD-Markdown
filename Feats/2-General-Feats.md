@@ -1,5 +1,5 @@
 ---
-aliases: [General Feats]
+alias: ["General Feats"]
 tags: 13thAge/Characters/Feats/General
 ---
 

@@ -1,12 +1,12 @@
 ---
-aliases: ["Class Basics"]
+alias: ["Class Basics"]
 tags: 13thAge/Characters/Classes
 ---
 # Class Basics
 
 ## Weapon Damage Progression
 
-The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per class level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level). 
+The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per class level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level).
 
 See Weapons for more on weapon damage rules.
 

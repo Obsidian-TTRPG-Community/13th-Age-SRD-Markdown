@@ -1,5 +1,5 @@
 ---
-aliases: [Leveling Up]
+alias: ["Leveling Up"]
 tags: 13thAge/Monsters/Rules/Leveling
 ---
 # Leveling up

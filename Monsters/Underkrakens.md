@@ -1,5 +1,5 @@
 ---
-aliases: [Underkrakens]
+alias: [Underkrakens]
 tags: 13thAge/Monsters/Underkrakens
 ---
 # Underkrakens

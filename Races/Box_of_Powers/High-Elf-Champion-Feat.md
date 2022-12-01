@@ -1,9 +1,9 @@
 ---
-aliases: [High Elf Champion feat]
+alias: ["High Elf Champion feat"]
 tags: 13thAge/Characters/Races/High-Elf/Power
 ---
 # High Elf Champion Feat
 
-__Requirements__:: __[High Elf](../4-High-Elf.md)__
+__Requirements__:: __[High Elf](../High-Elf.md)__
 
 Deal damage equal to twice your level to one enemy engaged with you before or after you teleport.

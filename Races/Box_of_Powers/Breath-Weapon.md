@@ -1,12 +1,12 @@
 ---
-aliases: [Breath Weapon]
+alias: ["Breath Weapon"]
 tags:
 - 13thAge/Characters/Races/Dragonic/Power
 - 13thAge/Characters/Races/Dragonspawn/Power
 ---
 # Breath Weapon
 
-__Requirements__:: __[Dragonic](../10-Dragonic-Dragonspawn.md)__ or __[Dragonspawn](../10-Dragonic-Dragonspawn.md)__
+__Requirements__:: __[Dragonic](../Dragonic-Dragonspawn.md)__ or __[Dragonspawn](../Dragonic-Dragonspawn.md)__
 
 Once per battle, make a close-quarters breath weapon attack as a quick action using your highest ability score against one nearby enemy’s Physical Defense. 
 

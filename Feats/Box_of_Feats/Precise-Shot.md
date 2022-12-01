@@ -1,5 +1,5 @@
 ---
-aliases: ["Precise Shot", "Adventure Precise Shot"]
+alias: ["Precise Shot", "Adventure Precise Shot"]
 tags: 
 - 13thAge/Characters/Feats/Adventure
 ---

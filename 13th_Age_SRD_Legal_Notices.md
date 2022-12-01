@@ -1,5 +1,5 @@
 ---
-aliases: [13th Age Legal Notice]
+alias: ["13th Age Legal Notice"]
 ---
 # Legal
 

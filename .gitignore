@@ -4,3 +4,9 @@
 # Ignore Obsidian Files
 .obsidian
 .trash
+
+# Ignore Certain Folders
+
+Other/
+
+

@@ -1,5 +1,5 @@
 ---
-aliases: [Feats]
+alias: [Feats]
 tags: 13thAge/Characters/Feats
 ---
 

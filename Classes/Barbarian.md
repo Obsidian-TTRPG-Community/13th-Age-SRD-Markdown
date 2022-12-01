@@ -1,5 +1,5 @@
 ---
-aliases: [Barbarian]
+alias: [Barbarian]
 tags: 13thAge/Characters/Classes/Barbarian
 ---
 # Barbarian

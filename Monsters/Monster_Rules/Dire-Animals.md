@@ -1,5 +1,5 @@
 ---
-aliases: [Dire Animals]
+alias: ["Dire Animals"]
 tags: 
 - 13thAge/Monsters/Rules/DireAnimal
 ---

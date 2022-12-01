@@ -1,5 +1,5 @@
 ---
-aliases: [Monster Rules]
+alias: ["Monster Rules"]
 tags: 13thAge/Monsters/Rules
 ---
 

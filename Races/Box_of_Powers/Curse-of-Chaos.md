@@ -1,12 +1,12 @@
 ---
-aliases: [Curse of Chaos]
+alias: ["Curse of Chaos"]
 tags:
 - 13thAge/Characters/Races/Tiefling/Power
 - 13thAge/Characters/Races/Demontouched/Power
 ---
 # Curse of Chaos
 
-**Requirements**:: **[Tiefling](../13-Tiefling-Demontouched.md)** or **[Demontouched](../13-Tiefling-Demontouched.md)**
+**Requirements**:: **[Tiefling](../Tiefling-Demontouched.md)** or **[Demontouched](../Tiefling-Demontouched.md)**
 
 Once per battle as a free action when a nearby enemy rolls a natural 1–5 on an attack or a save, turn their roll into a natural 1 and improvise a further curse that shows how their attempt backfires horribly.
 

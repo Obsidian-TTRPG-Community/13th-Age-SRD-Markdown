@@ -1,5 +1,5 @@
 ---
-aliases: [Mooks]
+alias: [Mooks]
 tags: 
 - 13thAge/Monsters/Rules/Mooks
 ---

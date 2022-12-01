@@ -1,5 +1,5 @@
 ---
-aliases: ["Strong Recovery", "Adventure Strong Recovery"]
+alias: ["Strong Recovery", "Adventure Strong Recovery"]
 tags: 
 - 13thAge/Characters/Feats/Adventure
 ---

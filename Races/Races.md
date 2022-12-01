@@ -1,5 +1,5 @@
 ---
-aliases: [Races]
+alias: [Races]
 ---
 
 # Races

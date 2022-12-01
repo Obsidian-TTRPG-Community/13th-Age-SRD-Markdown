@@ -1,5 +1,5 @@
 ---
-aliases: [Monster Key]
+alias: ["Monster Key"]
 tags: 13thAge/Monsters/Rules/Key
 ---
 # Monster Key

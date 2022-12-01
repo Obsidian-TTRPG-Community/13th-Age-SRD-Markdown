@@ -1,5 +1,5 @@
 ---
-aliases: [Artifacts]
+alias: [Artifacts]
 tags:
 - 13thAge/Items/Rules/Artifacts
 ---

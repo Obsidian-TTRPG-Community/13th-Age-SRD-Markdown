@@ -1,5 +1,5 @@
 ---
-aliases: [Icon Relationships]
+alias: [Icon Relationships]
 tags: 13thAge/Icons
 ---
 

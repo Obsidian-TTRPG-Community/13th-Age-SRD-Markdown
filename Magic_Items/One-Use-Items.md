@@ -1,5 +1,5 @@
 ---
-aliases: [One-Use Items]
+alias: ["One-Use Items"]
 tags: 
 - 13thAge/Items/Rules/Potions
 - 13thAge/Items/Rules/Oils

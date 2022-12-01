@@ -1,5 +1,5 @@
 ---
-aliases: ["Linguist", "Adventure Linguist", "Champion Linguist"]
+alias: ["Linguist", "Adventure Linguist", "Champion Linguist"]
 tags: 
 - 13thAge/Characters/Feats/Adventure
 - 13thAge/Characters/Feats/Champion
