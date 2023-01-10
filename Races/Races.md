@@ -1,5 +1,6 @@
 ---
 alias: [Races]
+tags: #13thAge/Characters/Races
 ---
 
 # Races
@@ -30,6 +31,7 @@ The character also receives a separate class bonus. These two bonuses must apply
 
 Each race also provides the character a special power that can be used once per battle. (It is regained after a quick rest.) This is called the _racial power_.
 
-> __13th Age SRD Markdown Note__: Each racial power is listed under each Race. Additionally, the powers are also kept in individual files in the Box_of_Powers folder for character sheets and other linking purposes if needed. 
-> 
-> You may delete them if you do not need them. 
+> [!hint] **13th Age SRD Markdown Hint**
+> Each racial power is listed under each Race. Additionally, the powers are also kept in individual files in the `Racial-Feats` folder for character sheets and other linking purposes if needed.
+>
+> You may delete them if you do not need them.

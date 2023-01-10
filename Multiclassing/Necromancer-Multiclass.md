@@ -1,7 +1,8 @@
 ---
 alias: ["Necromancer Multiclass"]
-tags: 13thAge/Characters/Classes/Multiclassing/Necromancer
+tags: 13thAge/Characters/Multiclass/Necromancer
 ---
 # Necromancer Multiclass
 
-You lag one level behind in the spells known columns of the Necromancer Level Progression table.
+You lag one level behind in the spells known columns of the Necromancer
+Level Progression table.

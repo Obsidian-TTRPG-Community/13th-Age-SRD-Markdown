@@ -1,10 +1,10 @@
 ---
-alias: [One Unique Thing]
+alias: ["One Unique Thing"]
 tags: 13thAge/Characters/OneThing
 ---
 
 Navigation Links
-#navtodo 
+#navtodo
 
 # One Unique Thing
 

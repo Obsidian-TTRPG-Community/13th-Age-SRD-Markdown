@@ -5,12 +5,15 @@ tags: 13thAge/Characters/Races/Human
 # Human
 
 ## Racial Bonus
+
 +2 to any ability score.
 
 ## Bonus Feat
+
 At 1st level, human PCs start with two feats instead of one.
 
 ## Racial Power
+
 ***Quick to Fight***
 At the start of each battle, roll initiative twice and choose the result you want.
 

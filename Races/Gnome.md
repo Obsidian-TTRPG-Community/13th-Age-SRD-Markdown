@@ -5,9 +5,11 @@ tags: 13thAge/Characters/Races/Gnome
 # Gnome
 
 ## Racial Bonus
+
 +2 Dex or +2 Int
 
 ### Small
+
 Gnomes have a +2 AC bonus against opportunity attacks.
 
 ## Racial Power

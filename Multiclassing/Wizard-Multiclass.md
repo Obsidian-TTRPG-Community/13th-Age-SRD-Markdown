@@ -1,6 +1,6 @@
 ---
 alias: ["Wizard Multiclass"]
-tags: 13thAge/Characters/Classes/Multiclassing/Wizard
+tags: 13thAge/Characters/Multiclass/Wizard
 ---
 # Wizard Multiclass
 

@@ -3,7 +3,7 @@ alias: ["Feats per Level"]
 tags: 13thAge/Characters/Feats/Leveling
 ---
 
-#navtodo 
+#navtodo
 
 # Feats per Level
 
@@ -20,13 +20,11 @@ tags: 13thAge/Characters/Feats/Leveling
 | 9     | 4 Adventurer, 3 Champion, and 2 Epic |
 | 10    | 4 Adventurer, 3 Champion, and 3 Epic                                     |
 ^playerfeatsperlevel
- 
+
 > Since humans start with an additional feat at 1st level, add one to the number of adventurer feats humans possess all the way up the chart.
 
+Most of the feats in the game are attached to specific class talents, attacks, and spells.
 
-Most of the feats in the game are attached to specific class talents, attacks, and spells. 
-
-If a feat is attached to a talent, power, or spell, you **must** have the talent, power, or spell in order to choose the feat. 
+If a feat is attached to a talent, power, or spell, you **must** have the talent, power, or spell in order to choose the feat.
 
 When there is more than one feat attached to a specific talent or power, you **have** to choose the **lower tier feats** before you pick up the **higher tier feats**.
-

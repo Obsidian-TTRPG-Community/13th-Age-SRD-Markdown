@@ -1,12 +1,12 @@
 ---
-alias: [Backgrounds and Skill Checks]
+alias: ["Backgrounds and Skill Checks"]
 tags: 
 - 13thAge/Characters/Backgrounds
 - 13thAge/Characters/SkillChecks
 ---
 
 Navigation Links
-#navtodo 
+#navtodo
 
 # Backgrounds and Skill Checks
 
@@ -30,7 +30,7 @@ To make a skill check, use this formula:
 
 > D20 + relevant ability modifier + level + relevant background points
 
-vs 
+vs
 
 > DC set by the environment
 
@@ -40,7 +40,7 @@ You can’t apply multiple backgrounds to the same check; the background with th
 
 Choose backgrounds that help you make sense of your characters past, jobs, and settings. Background and skill use is meant to be about fun in-character methods of attempting to advance the plot.
 
-A few possible backgrounds include: 
+A few possible backgrounds include:
 
 | **Background Ideas**           | **More Background Ideas**          | **And More Background Ideas** |
 | -------------------- | ------------------- | ---------- |
@@ -65,14 +65,12 @@ When a Player Character (PC) rolls a natural 20 with a skill check, the GM shoul
 
 When a PC rolls a 1 with a skill check, the skill check fumbles and fails, perhaps in a particularly bad way. But a failure isn’t always entirely terrible....
 
-### Fall Foward!
+### Fall Foward
 
 Outside of battle, when failure would tend to slow action down rather than move the action along, instead interpret it as a near-success or event that happens to carry unwanted consequences or side effects. The character probably still fails to achieve the desired goal, but that’s because something happens on the way to the goal rather than because nothing happens. In any case, the story and action still keep moving.
 
-
 ## Background and Skill Advancement
 
-All your skill checks increase by 1 when you level up. If you want even better skill checks, take the **[Further Backgrounding](../Feats/Box_of_Feats/Further-Backgrounding.md)** feat.
-
+All your skill checks increase by 1 when you level up. If you want even better skill checks, take the **[Further Backgrounding](../Feats/Standard-Feats/Further-Backgrounding.md)** feat.
 
 If you just want to move around the bonuses you already have to show how your character is changing, you can move one background point around among your current backgrounds each time you gain a level, or swap the point into an entirely new background, with the GM’s permission.

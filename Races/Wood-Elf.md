@@ -12,12 +12,12 @@ tags: 13thAge/Characters/Races/Wood-Elf
 
 *__Elven Grace__*
 
-- At the start of each of your turns, roll a die to see if you get an extra standard action. 
+- At the start of each of your turns, roll a die to see if you get an extra standard action.
 - If your roll is equal to or lower than the escalation die, you get an extra standard action that turn.
 
-At the start of battle, you roll a d6 (`dice: 1d6`). 
+At the start of battle, you roll a d6 (`dice: 1d6`).
 
-Each time you successfully gain an extra action, the size of the die you roll increases by one step on the following progression: 
+Each time you successfully gain an extra action, the size of the die you roll increases by one step on the following progression:
 
 | Die  | Dice Rolls |
 | ---- | ------------- |

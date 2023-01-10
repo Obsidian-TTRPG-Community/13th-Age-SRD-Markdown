@@ -10,8 +10,9 @@ Barbarians gain a +2 class bonus to Strength or Constitution, as long as it isn�
 
 ## Backgrounds
 
-Possible backgrounds include: 
-- Clan champion
+Possible backgrounds include:
+
+- Clan Champion
 - Caravan outrider
 - Fur trapper
 - Mountain tribeswoman
@@ -111,11 +112,11 @@ All barbarians have the Barbarian Rage class feature.
 
 Once per day, use a quick action to start raging. A rage lasts until the end of battle, or about 5 minutes.
 
-While raging, you roll 2d20 (`dice: 2d20`) to hit with your barbarian melee and thrown weapon attacks instead of 1d20. Use the higher roll for the attack. 
+While raging, you roll 2d20 (`dice: 2d20`) to hit with your barbarian melee and thrown weapon attacks instead of 1d20. Use the higher roll for the attack.
 
 If you roll a natural 11+ with both dice and your highest attack roll is a hit, the attack is a critical hit!
 
-*Recharge 16+*: After a battle in which you rage, roll a d20 and add your Constitution modifier. 
+*Recharge 16+*: After a battle in which you rage, roll a d20 and add your Constitution modifier.
 
 On a 16+, you can use Barbarian Rage again later in the day.
 
@@ -130,7 +131,7 @@ You can now start raging freely when the escalation die is 2+.
 
 ## Adventurer Talents
 
-Choose three of the following adventurer-tier class talents. 
+Choose three of the following adventurer-tier class talents.
 
 You also get an additional barbarian class talent at 5th level and again at 8th level.
 
@@ -248,9 +249,9 @@ At 8th level, you gain an additional barbarian class talent. Choose one of these
 ### Ancestral Warband
 
 One battle per day as a quick action, you can call the spirits of your ancestors to fight alongside you. Your ancestors can’t be hurt or affected by the creatures of this world.
-At the end of each of your turns, if you are conscious, roll a d6 (`dice: d6`). If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world. 
+At the end of each of your turns, if you are conscious, roll a d6 (`dice: d6`). If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world.
 
-Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or magic items as you see fit. 
+Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or magic items as you see fit.
 
 This attack doesn’t take any of your actions.
 

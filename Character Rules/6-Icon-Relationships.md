@@ -1,16 +1,17 @@
 ---
-alias: [Icon Relationships]
+alias: ["Icon Relationships"]
 tags: 13thAge/Icons
 ---
 
 Navigation Links
-#navtodo 
+#navtodo
 
 # Icon Relationships
 
 Your character’s relationship with icons is an important way to draw him or her into your game world. An icon may have its own champions and heroes (including you) to advance its cause in the game world.
 
 ## Relationship Points
+
 At 1st level, each character gets 3 relationship points. Each point represents one d6 to be used when trying to leverage your connection to the icon. (See Using Icon Relationships.)
 
 The number of points you invest in a relationship with an icon doesn’t necessarily correlate with the closeness of the connection or the strength of the relationship. It does correlate with the utility of the relationship. It’s not necessarily about how well the icon knows you or how strong the icon feels about you. Instead, the points reflect the chance that your relationship will be helpful to you.
@@ -29,8 +30,9 @@ To check your icon relationship (your relationship with a particular icon), roll
 
 If any die is a 6, you get some meaningful advantage from the relationship without having complications. If two or three dice come up 6, that’s even better.
 
-If any die is a 5, your connection to the icon is going to work out as well as a 6 would, but with some unexpected complication. 
-- If it’s a good icon, you might be drawn into some obligation. 
+If any die is a 5, your connection to the icon is going to work out as well as a 6 would, but with some unexpected complication.
+
+- If it’s a good icon, you might be drawn into some obligation.
 - If it’s a villainous icon, you might attract unwanted attention.
 
 Rolling 5s when you also rolled 6s should make life both interesting and advantageous!
