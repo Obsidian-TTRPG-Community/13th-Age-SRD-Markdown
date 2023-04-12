@@ -1,12 +1,12 @@
 ---
 alias: ["Toughness", "Adventure Toughness"]
-tags: 
+tags:
 - 13thAge/Characters/Feats/Adventure
 ---
 
 ## Toughness
 
-__Adventurer Tier__
+**Adventurer Tier**
 
 You get additional hit points equal to half your baseline class hit points (rounded down).
 

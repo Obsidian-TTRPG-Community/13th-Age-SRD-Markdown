@@ -5,7 +5,7 @@ tags: 13thAge/Characters/Feats/Leveling
 
 #navtodo
 
-# Feats per Level
+## Feats per Level
 
 | **Level** | **Player Character Max Feats**           |
 | ----- | ------------------------------------ |

@@ -1,11 +1,11 @@
 ---
 alias: ["Improved Initiative", "Adventure Improved Initiative"]
-tags: 
+tags:
 - 13thAge/Characters/Feats/Adventure
 ---
 
 ## Improved Initiative
 
-__Adventurer Tier__
+**Adventurer Tier**
 
 Gain a +4 bonus to Initiative checks.

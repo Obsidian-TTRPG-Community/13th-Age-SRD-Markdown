@@ -1,6 +1,6 @@
 ---
 alias: ["Further Backgrounding", "Adventure Further Backgrounding", "Champion Further Backgrounding", "Epic Further Backgrounding"]
-tags: 
+tags:
 - 13thAge/Characters/Feats/Adventure
 - 13thAge/Characters/Feats/Champion
 - 13thAge/Characters/Feats/Epic

@@ -6,7 +6,7 @@ tags: 13thAge/Characters/Feats
 Navigation Links
 #navtodo
 
-# Feats
+## Feats
 
 Characters choose a feat at 1st level, and at every subsequent level.
 
@@ -22,4 +22,4 @@ Champion feats are available starting at level 5.
 
 Epic feats are available starting at level 8.
 
-## Map of Content
+### Map of Content
