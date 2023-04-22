@@ -1,5 +1,5 @@
 ---
-alias: [Races]
+aliases: [Races]
 tags: #13thAge/Characters/Races
 ---
 

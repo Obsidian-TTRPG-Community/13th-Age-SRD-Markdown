@@ -1,5 +1,5 @@
 ---
-alias: ["Wider Focus"]
+aliases: ["Wider Focus"]
 tags: 13thAge/Characters/Multiclass/Occultist/Trait
 ---
 # Wider Focus

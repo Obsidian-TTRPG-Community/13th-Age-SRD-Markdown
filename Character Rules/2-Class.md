@@ -1,5 +1,5 @@
 ---
-alias: [Class]
+aliases: [Class]
 tags: 13thAge/Characters/Classes
 ---
 

@@ -1,5 +1,5 @@
 ---
-alias: ["High Elf Champion feat"]
+aliases: ["High Elf Champion feat"]
 tags: 13thAge/Characters/Races/High-Elf/Power
 ---
 # High Elf Champion Feat

@@ -1,5 +1,5 @@
 ---
-alias: [Highblood Teleport]
+aliases: [Highblood Teleport]
 tags: 13thAge/Characters/Races/High-Elf/Power
 ---
 # Highblood Teleport

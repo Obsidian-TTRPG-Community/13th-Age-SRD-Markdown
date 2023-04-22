@@ -1,5 +1,5 @@
 ---
-alias: ["Class Basics"]
+aliases: ["Class Basics"]
 tags: 13thAge/Characters/Classes
 ---
 ## Class Basics

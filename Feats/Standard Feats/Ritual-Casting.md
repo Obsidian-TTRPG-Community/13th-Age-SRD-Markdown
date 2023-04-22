@@ -1,5 +1,5 @@
 ---
-alias: ["Ritual Casting", "Adventure Ritual Casting"]
+aliases: ["Ritual Casting", "Adventure Ritual Casting"]
 tags:
 - 13thAge/Characters/Feats/Adventure
 ---

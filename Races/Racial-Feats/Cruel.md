@@ -1,5 +1,5 @@
 ---
-alias: [Cruel]
+aliases: [Cruel]
 tags: 13thAge/Characters/Races/Dark-Elf/Power
 ---
 # Cruel

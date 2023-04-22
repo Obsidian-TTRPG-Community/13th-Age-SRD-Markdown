@@ -1,5 +1,5 @@
 ---
-alias: [Revision History]
+aliases: [Revision History]
 ---
 # Revision History
 

@@ -1,5 +1,5 @@
 ---
-alias: ["Paladin Multiclass"]
+aliases: ["Paladin Multiclass"]
 tags: 13thAge/Characters/Multiclass/Paladin
 ---
 # Paladin Multiclass

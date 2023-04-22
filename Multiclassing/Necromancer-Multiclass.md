@@ -1,5 +1,5 @@
 ---
-alias: ["Necromancer Multiclass"]
+aliases: ["Necromancer Multiclass"]
 tags: 13thAge/Characters/Multiclass/Necromancer
 ---
 # Necromancer Multiclass

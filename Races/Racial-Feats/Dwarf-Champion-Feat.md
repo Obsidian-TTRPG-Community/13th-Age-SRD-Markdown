@@ -1,5 +1,5 @@
 ---
-alias: ["Dwarf Champion Feat"]
+aliases: ["Dwarf Champion Feat"]
 tags: 13thAge/Characters/Races/Dwarf/Power
 ---
 # Dwarf Champion Feat

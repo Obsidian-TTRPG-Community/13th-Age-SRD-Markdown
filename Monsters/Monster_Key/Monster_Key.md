@@ -1,5 +1,5 @@
 ---
-alias: ["Monster Key"]
+aliases: ["Monster Key"]
 tags: 13thAge/Monsters/Rules/Key
 ---
 # Monster Key
@@ -62,4 +62,3 @@ Many monster abilities trigger randomly based on the monster’s attack roll. No
 These are other attacks and special abilities like fear or movement abilities like flight. Not all monsters have them.
 
 Some monsters have nastier special abilities that increase a monster’s options and help keep monsters interesting throughout the campaign. Use them as options whenever you like.
-

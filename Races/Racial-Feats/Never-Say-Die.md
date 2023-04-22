@@ -1,5 +1,5 @@
 ---
-alias: [Never Say Die]
+aliases: [Never Say Die]
 tags:
 - 13thAge/Characters/Races/Forgeborn/Power
 - 13thAge/Characters/Races/Dwarf-forged/Power

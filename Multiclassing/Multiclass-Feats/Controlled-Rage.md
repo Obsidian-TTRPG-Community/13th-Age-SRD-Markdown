@@ -1,5 +1,5 @@
 ---
-alias: ["Controlled Rage"]
+aliases: ["Controlled Rage"]
 tags: 13thAge/Characters/Multiclass/Barbarian/Trait
 ---
 # Controlled Rage

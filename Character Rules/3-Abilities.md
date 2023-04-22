@@ -1,5 +1,5 @@
 ---
-alias: ["Abilities", "Ability Scores"]
+aliases: ["Abilities", "Ability Scores"]
 tags: 13thAge/Characters/AbilityScores
 ---
 

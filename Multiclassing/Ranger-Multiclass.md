@@ -1,5 +1,5 @@
 ---
-alias: ["Ranger Multiclass"]
+aliases: ["Ranger Multiclass"]
 tags: 13thAge/Characters/Multiclass/Ranger
 ---
 # Ranger Multiclass

@@ -1,5 +1,5 @@
 ---
-alias: [Icons]
+aliases: [Icons]
 tags: 13thAge/Icons
 ---
 Navigation Links

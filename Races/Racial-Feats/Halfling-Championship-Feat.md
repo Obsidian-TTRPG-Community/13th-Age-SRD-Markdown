@@ -1,5 +1,5 @@
 ---
-alias: ["Halfling Championship Feat"]
+aliases: ["Halfling Championship Feat"]
 tags: 13thAge/Characters/Races/Halfling/Power
 ---
 # Halfling Championship Feat

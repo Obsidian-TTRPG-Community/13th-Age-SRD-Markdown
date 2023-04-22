@@ -1,5 +1,5 @@
 ---
-alias: ["True Flexibility"]
+aliases: ["True Flexibility"]
 tags: 13thAge/Characters/Multiclass/Bard/Trait
 ---
 # True Flexibility

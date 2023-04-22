@@ -1,5 +1,5 @@
 ---
-alias: ["Feats per Level"]
+aliases: ["Feats per Level"]
 tags: 13thAge/Characters/Feats/Leveling
 ---
 

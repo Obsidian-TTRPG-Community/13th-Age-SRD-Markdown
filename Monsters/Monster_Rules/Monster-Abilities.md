@@ -1,5 +1,5 @@
 ---
-alias: ["Monster Abilities"]
+aliases: ["Monster Abilities"]
 tags: 
 - 13thAge/Monsters/Rules/Abilities
 ---

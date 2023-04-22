@@ -1,5 +1,5 @@
 ---
-alias: [13th Age SRD Table of Contents]
+aliases: [13th Age SRD Table of Contents]
 ---
 ![13thage_intro](13thage_intro.jpeg)
 # 13th Age System Reference Document

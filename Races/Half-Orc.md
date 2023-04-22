@@ -1,5 +1,5 @@
 ---
-alias: [Half-Orc]
+aliases: [Half-Orc]
 tags: 13thAge/Characters/Races/Half-Orc
 ---
 # Half-Orc

@@ -1,5 +1,5 @@
 ---
-alias: [Bard]
+aliases: [Bard]
 tags: 13thAge/Characters/Classes/Bard
 ---
 

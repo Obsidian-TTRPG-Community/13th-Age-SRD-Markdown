@@ -1,5 +1,5 @@
 ---
-alias: ["Backgrounds and Skill Checks"]
+aliases: ["Backgrounds and Skill Checks"]
 tags: 
 - 13thAge/Characters/Backgrounds
 - 13thAge/Characters/SkillChecks

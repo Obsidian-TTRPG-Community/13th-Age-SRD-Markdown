@@ -1,5 +1,5 @@
 ---
-alias: ["Wizard Multiclass"]
+aliases: ["Wizard Multiclass"]
 tags: 13thAge/Characters/Multiclass/Wizard
 ---
 # Wizard Multiclass

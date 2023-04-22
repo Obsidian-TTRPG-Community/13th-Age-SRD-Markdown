@@ -1,5 +1,5 @@
 ---
-alias: ["That's Your Best Shot?"]
+aliases: ["That's Your Best Shot?"]
 tags: 13thAge/Characters/Races/Dwarf/Power
 ---
 # That's Your Best Shot?

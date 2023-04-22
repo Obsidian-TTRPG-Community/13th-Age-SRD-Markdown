@@ -1,5 +1,5 @@
 ---
-alias: [Quick to Fight]
+aliases: [Quick to Fight]
 tags: 13thAge/Characters/Races/Human/Power
 ---
 # Quick to Fight

@@ -1,5 +1,5 @@
 ---
-alias: ["Sorcerer Multiclass"]
+aliases: ["Sorcerer Multiclass"]
 tags: 13thAge/Characters/Multiclass/Sorcerer
 ---
 # Sorcerer Multiclass

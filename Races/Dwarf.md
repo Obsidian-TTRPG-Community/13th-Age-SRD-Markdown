@@ -1,5 +1,5 @@
 ---
-alias: [Dwarf]
+aliases: [Dwarf]
 tags: 13thAge/Characters/Races/Dwarf
 ---
 # Dwarf

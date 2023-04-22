@@ -1,5 +1,5 @@
 ---
-alias: ["Half-Elf Champion feat"]
+aliases: ["Half-Elf Champion feat"]
 tags: 13thAge/Characters/Races/Half-Elf/Power
 ---
 # Half-Elf Champion Feat

@@ -1,5 +1,5 @@
 ---
-alias: ["Cleric Multiclass"]
+aliases: ["Cleric Multiclass"]
 tags: 13thAge/Characters/Multiclass/Cleric
 ---
 # Cleric Multiclass

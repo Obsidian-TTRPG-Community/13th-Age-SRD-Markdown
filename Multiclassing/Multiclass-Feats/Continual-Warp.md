@@ -1,5 +1,5 @@
 ---
-alias: ["Continual Warp"]
+aliases: ["Continual Warp"]
 tags: 13thAge/Characters/Multiclass/Chaos-Mage/Trait
 ---
 # Continual Warp

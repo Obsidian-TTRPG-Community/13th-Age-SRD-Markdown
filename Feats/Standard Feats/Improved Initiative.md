@@ -1,5 +1,5 @@
 ---
-alias: ["Improved Initiative", "Adventure Improved Initiative"]
+aliases: ["Improved Initiative", "Adventure Improved Initiative"]
 tags:
 - 13thAge/Characters/Feats/Adventure
 ---

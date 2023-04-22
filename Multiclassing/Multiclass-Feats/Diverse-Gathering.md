@@ -1,5 +1,5 @@
 ---
-alias: ["Diverse Gathering"]
+aliases: ["Diverse Gathering"]
 tags: 13thAge/Characters/Multiclass/Sorcerer/Trait
 ---
 # Diverse Gathering

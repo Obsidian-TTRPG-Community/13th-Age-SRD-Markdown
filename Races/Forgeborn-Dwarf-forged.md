@@ -1,5 +1,5 @@
 ---
-alias: ["Forgeborn", "Dwarf-forged"]
+aliases: ["Forgeborn", "Dwarf-forged"]
 tags:
 - 13thAge/Characters/Races/Forgeborn
 - 13thAge/Characters/Races/Dwarf-forged

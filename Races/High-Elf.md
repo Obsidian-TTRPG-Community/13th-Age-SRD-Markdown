@@ -1,5 +1,5 @@
 ---
-alias: ["High Elf"]
+aliases: ["High Elf"]
 tags: 13thAge/Characters/Races/High-Elf
 ---
 # High Elf

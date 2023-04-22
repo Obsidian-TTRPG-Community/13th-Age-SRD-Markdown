@@ -1,5 +1,5 @@
 ---
-alias: ["Combat Stats"]
+aliases: ["Combat Stats"]
 tags: 13thAge/Characters/Combat
 ---
 

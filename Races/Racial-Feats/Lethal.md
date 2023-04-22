@@ -1,5 +1,5 @@
 ---
-alias: [Lethal]
+aliases: [Lethal]
 tags: 13thAge/Characters/Races/Half-Orc/Power
 ---
 

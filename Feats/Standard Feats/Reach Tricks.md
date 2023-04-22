@@ -1,5 +1,5 @@
 ---
-alias: ["Reach Tricks", "Adventure Reach Tricks"]
+aliases: ["Reach Tricks", "Adventure Reach Tricks"]
 tags: 
 - 13thAge/Characters/Feats/Adventure
 ---

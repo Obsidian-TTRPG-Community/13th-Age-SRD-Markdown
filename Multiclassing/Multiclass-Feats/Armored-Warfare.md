@@ -1,5 +1,5 @@
 ---
-alias: ["Armored Warfare"]
+aliases: ["Armored Warfare"]
 tags: 13thAge/Characters/Multiclass/Fighter/Trait 
 ---
 # Armored Warfare

@@ -1,5 +1,5 @@
 ---
-alias: ["Holy One Championship Feat", "Aasimar Championship Feat"]
+aliases: ["Holy One Championship Feat", "Aasimar Championship Feat"]
 tags:
 - 13thAge/Characters/Races/Holy-One/Power
 - 13thAge/Characters/Races/Aasimar/Power

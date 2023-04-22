@@ -1,5 +1,5 @@
 ---
-alias: ["Fighter Multiclass"]
+aliases: ["Fighter Multiclass"]
 tags: 13thAge/Characters/Multiclass/Fighter
 ---
 # Fighter Multiclass

@@ -1,5 +1,5 @@
 ---
-alias: ["Breath Weapon"]
+aliases: ["Breath Weapon"]
 tags:
 - 13thAge/Characters/Races/Dragonic/Power
 - 13thAge/Characters/Races/Dragonspawn/Power

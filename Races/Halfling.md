@@ -1,5 +1,5 @@
 ---
-alias: [Halfling]
+aliases: [Halfling]
 tags: 13thAge/Characters/Races/Halfling
 ---
 # Halfling

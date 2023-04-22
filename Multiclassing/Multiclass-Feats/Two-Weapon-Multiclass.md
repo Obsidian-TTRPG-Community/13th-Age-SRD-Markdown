@@ -1,5 +1,5 @@
 ---
-alias: ["Two Weapon Multiclass"]
+aliases: ["Two Weapon Multiclass"]
 tags: 13thAge/Characters/Multiclass/Ranger/Trait
 ---
 # Two-weapon Multiclass

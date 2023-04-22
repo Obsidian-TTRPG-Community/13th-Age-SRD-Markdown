@@ -1,5 +1,5 @@
 ---
-alias: ["Dire Animals"]
+aliases: ["Dire Animals"]
 tags: 
 - 13thAge/Monsters/Rules/DireAnimal
 ---
@@ -18,7 +18,3 @@ Dire animals are bigger (large-sized) versions of normal animals. Dire animals u
 | 5        | Dire regeneration | When the escalation die is even, this animal heals damage equal to triple its level at the start of its turn.                                 |
 | 6        | Fury              | While staggered, the dire animal gains a +2 attack bonus and deals +4 damage, but at the end of each of its turns it takes 2d6 damage.        |
 ^direanimaltraits
-
-
-
-

@@ -1,5 +1,5 @@
 ---
-alias: ["Barbarian Multiclass"]
+aliases: ["Barbarian Multiclass"]
 tags: 13thAge/Characters/Multiclass/Barbarian
 ---
 # Barbarian Multiclass

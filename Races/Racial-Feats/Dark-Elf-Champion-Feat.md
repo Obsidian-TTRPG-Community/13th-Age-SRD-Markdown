@@ -1,5 +1,5 @@
 ---
-alias: ["Dark Elf Champion Feat"]
+aliases: ["Dark Elf Champion Feat"]
 tags: 13thAge/Characters/Races/Dark-Elf/Power
 ---
 # Dark Elf Champion Feat

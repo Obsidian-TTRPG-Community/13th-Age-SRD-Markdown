@@ -1,5 +1,5 @@
 ---
-alias: 
+aliases: 
 tags: 13thAge/Characters/Multiclass/Bard
 ---
 # Bard Multiclass

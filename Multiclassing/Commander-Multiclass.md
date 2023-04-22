@@ -1,5 +1,5 @@
 ---
-alias: ["Commander Multiclass"]
+aliases: ["Commander Multiclass"]
 tags: 13thAge/Characters/Multiclass/Commander
 ---
 # Commander Multiclass

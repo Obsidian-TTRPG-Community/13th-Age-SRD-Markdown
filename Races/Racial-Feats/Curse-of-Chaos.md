@@ -1,5 +1,5 @@
 ---
-alias: ["Curse of Chaos"]
+aliases: ["Curse of Chaos"]
 tags:
 - 13thAge/Characters/Races/Tiefling/Power
 - 13thAge/Characters/Races/Demontouched/Power

@@ -1,5 +1,5 @@
 ---
-alias: ["Occultist Multiclass"]
+aliases: ["Occultist Multiclass"]
 tags: 13thAge/Characters/Multiclass/Occultist
 ---
 # Occultist Multiclass

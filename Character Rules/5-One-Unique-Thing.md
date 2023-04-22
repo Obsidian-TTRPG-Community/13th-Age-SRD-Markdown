@@ -1,5 +1,5 @@
 ---
-alias: ["One Unique Thing"]
+aliases: ["One Unique Thing"]
 tags: 13thAge/Characters/OneThing
 ---
 

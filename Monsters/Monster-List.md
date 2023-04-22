@@ -1,5 +1,5 @@
 ---
-alias: ["Monster List"]
+aliases: ["Monster List"]
 tags: 13thAge/Monsters
 ---
 # Monster List

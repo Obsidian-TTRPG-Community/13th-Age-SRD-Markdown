@@ -1,5 +1,5 @@
 ---
-alias: ["Druid Multiclass"]
+aliases: ["Druid Multiclass"]
 tags: 13thAge/Characters/Multiclass/Druid
 ---
 # Druid Multiclass

@@ -1,5 +1,5 @@
 ---
-alias: ["Chaos Mage Multiclass"]
+aliases: ["Chaos Mage Multiclass"]
 tags: 13thAge/Characters/Multiclass/Chaos-Mage
 ---
 # Chaos Mage Multiclass

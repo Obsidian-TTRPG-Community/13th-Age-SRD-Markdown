@@ -1,5 +1,5 @@
 ---
-alias: ["Group Abilities"]
+aliases: ["Group Abilities"]
 tags:
 - 13thAge/Monsters/Rules/Groups
 ---

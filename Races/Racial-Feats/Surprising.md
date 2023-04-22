@@ -1,5 +1,5 @@
 ---
-alias: [Surprising]
+aliases: [Surprising]
 tags: 13thAge/Characters/Races/Half-Elf/Power
 ---
 # Surprising

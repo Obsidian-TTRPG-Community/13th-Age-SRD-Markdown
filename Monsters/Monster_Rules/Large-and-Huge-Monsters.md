@@ -1,5 +1,5 @@
 ---
-alias: ["Large and Huge Monsters"]
+aliases: ["Large and Huge Monsters"]
 tags: 
 - 13thAge/Monsters/Rules/Large
 - 13thAge/Monsters/Rules/Huge

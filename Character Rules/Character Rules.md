@@ -1,5 +1,5 @@
 ---
-alias: [Character Rules]
+aliases: [Character Rules]
 tags: 13thAge/Characters
 ---
 

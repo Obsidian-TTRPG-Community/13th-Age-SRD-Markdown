@@ -1,5 +1,5 @@
 ---
-alias: ["Armored in Life"]
+aliases: ["Armored in Life"]
 tags: 13thAge/Characters/Multiclass/Paladin/Trait 
 ---
 # Armored in Life

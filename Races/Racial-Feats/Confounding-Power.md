@@ -1,5 +1,5 @@
 ---
-alias: ["Confounding Power"]
+aliases: ["Confounding Power"]
 tags: 13thAge/Characters/Races/Gnome/Power
 ---
 # Confounding Power

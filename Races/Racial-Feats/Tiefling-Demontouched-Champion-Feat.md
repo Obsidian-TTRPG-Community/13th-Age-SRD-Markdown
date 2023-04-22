@@ -1,5 +1,5 @@
 ---
-alias: ["Tiefling Champion Feat", "Demontouched Champion Feat"]
+aliases: ["Tiefling Champion Feat", "Demontouched Champion Feat"]
 tags:
 - 13thAge/Characters/Races/Tiefling/Power
 - 13thAge/Characters/Races/Demontouched/Power

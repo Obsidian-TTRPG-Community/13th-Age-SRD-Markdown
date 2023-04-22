@@ -1,5 +1,5 @@
 ---
-alias: ["Multiclassing"]
+aliases: ["Multiclassing"]
 tags: 13thAge/Characters/Multiclass
 ---
 # Multiclassing

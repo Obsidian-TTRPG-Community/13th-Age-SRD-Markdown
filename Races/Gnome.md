@@ -1,5 +1,5 @@
 ---
-alias: [Gnome]
+aliases: [Gnome]
 tags: 13thAge/Characters/Races/Gnome
 ---
 # Gnome

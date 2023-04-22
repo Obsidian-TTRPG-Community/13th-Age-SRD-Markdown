@@ -1,5 +1,5 @@
 ---
-alias: ["Gnome Championship Feat"]
+aliases: ["Gnome Championship Feat"]
 tags: 13thAge/Characters/Races/Gnome/Power
 ---
 # Gnome Championship Feat

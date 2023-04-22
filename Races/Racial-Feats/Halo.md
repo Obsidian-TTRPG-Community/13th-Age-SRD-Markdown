@@ -1,5 +1,5 @@
 ---
-alias: [Halo]
+aliases: [Halo]
 tags:
 - 13thAge/Characters/Races/Holy-One/Power
 - 13thAge/Characters/Races/Aasimar/Power

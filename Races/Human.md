@@ -1,5 +1,5 @@
 ---
-alias: [Human]
+aliases: [Human]
 tags: 13thAge/Characters/Races/Human
 ---
 # Human

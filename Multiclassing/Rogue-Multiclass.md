@@ -1,5 +1,5 @@
 ---
-alias: ["Rogue Multiclass"]
+aliases: ["Rogue Multiclass"]
 tags: 13thAge/Characters/Multiclass/Rogue
 ---
 # Rogue Multiclass

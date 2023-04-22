@@ -1,5 +1,5 @@
 ---
-alias: ["Holy One", "Aasimar"]
+aliases: ["Holy One", "Aasimar"]
 tags:
 - 13thAge/Characters/Races/Holy-One
 - 13thAge/Characters/Races/Aasimar

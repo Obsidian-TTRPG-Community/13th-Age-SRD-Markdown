@@ -1,5 +1,5 @@
 ---
-alias: ["Many Fronts"]
+aliases: ["Many Fronts"]
 tags: 13thAge/Characters/Multiclass/Commander/Trait
 ---
 # Many Fronts

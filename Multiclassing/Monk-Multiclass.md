@@ -1,5 +1,5 @@
 ---
-alias: ["Monk Multiclass"]
+aliases: ["Monk Multiclass"]
 tags: 13thAge/Characters/Multiclass/Monk
 ---
 # Monk Multiclass

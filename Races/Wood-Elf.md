@@ -1,5 +1,5 @@
 ---
-alias: ["Wood Elf"]
+aliases: ["Wood Elf"]
 tags: 13thAge/Characters/Races/Wood-Elf
 ---
 # Wood Elf

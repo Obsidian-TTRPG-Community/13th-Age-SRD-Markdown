@@ -1,5 +1,5 @@
 ---
-alias: ["Wood Elf Championship Feat"]
+aliases: ["Wood Elf Championship Feat"]
 tags: 13thAge/Characters/Races/Wood-Elf/Power 
 ---
 # Wood Elf Championship Feat

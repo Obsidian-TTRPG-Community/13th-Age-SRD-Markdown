@@ -1,5 +1,5 @@
 ---
-alias: [Chakras]
+aliases: [Chakras]
 tags:
 - 13thAge/Items/Rules/Chakras
 ---

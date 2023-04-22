@@ -1,5 +1,5 @@
 ---
-alias: ["Tiefling", "Demontouched"]
+aliases: ["Tiefling", "Demontouched"]
 tags:
 - 13thAge/Characters/Races/Tiefling
 - 13thAge/Characters/Races/Demontouched

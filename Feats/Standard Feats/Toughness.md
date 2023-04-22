@@ -1,5 +1,5 @@
 ---
-alias: ["Toughness", "Adventure Toughness"]
+aliases: ["Toughness", "Adventure Toughness"]
 tags:
 - 13thAge/Characters/Feats/Adventure
 ---

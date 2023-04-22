@@ -1,5 +1,5 @@
 ---
-alias: ["Seize the Momentum"]
+aliases: ["Seize the Momentum"]
 tags: 13thAge/Characters/Multiclass/Rogue/Trait
 ---
 # Seize the Momentum

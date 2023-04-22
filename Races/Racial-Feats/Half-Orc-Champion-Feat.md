@@ -1,5 +1,5 @@
 ---
-alias: ["Half-Orc Champion Feat"]
+aliases: ["Half-Orc Champion Feat"]
 tags: 13thAge/Characters/Races/Half-Orc/Power
 ---
 
