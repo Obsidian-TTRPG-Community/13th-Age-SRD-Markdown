@@ -1,6 +1,6 @@
 ---
-aliases: [Chakras]
+aliases: [13th Age Chakras]
 tags:
-- 13thAge/Items/Rules/Chakras
+- 13A/Items/Rules/Chakras
 ---
 # Chakras

@@ -1,6 +1,6 @@
 ---
 aliases: [Surprising]
-tags: 13thAge/Characters/Races/Half-Elf/Power
+tags: 13A/Characters/Races/Half-Elf/Power
 ---
 # Surprising
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Human]
-tags: 13thAge/Characters/Races/Human
+tags: 13A/Characters/Races/Human
 ---
 # Human
 

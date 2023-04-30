@@ -1,6 +1,6 @@
 ---
 aliases: ["That's Your Best Shot?"]
-tags: 13thAge/Characters/Races/Dwarf/Power
+tags: 13A/Characters/Races/Dwarf/Power
 ---
 # That's Your Best Shot?
 

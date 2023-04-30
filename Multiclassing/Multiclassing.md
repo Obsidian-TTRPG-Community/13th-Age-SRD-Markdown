@@ -1,6 +1,11 @@
 ---
 aliases: ["Multiclassing"]
-tags: 13thAge/Characters/Multiclass
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass]
+updated:: 2023-04-30
 ---
 # Multiclassing
 
@@ -66,7 +71,7 @@ A multiclass character uses a special modifier for most of their attacks and oth
 
 You don’t necessarily use the key modifier for all attacks, only for attacks that would normally use one of the two ability scores in question. For example, a bard/cleric whose key modifier is Wis/Cha would use that modifier for all their spell attacks based on Wisdom or Charisma, but that character would still make cleric melee attacks with Strength, and bard melee attacks with Strength too.
 
-You __don’t__ use the key ability scores for skill checks. Skill checks live outside the class framework and use your normal ability scores, though if both scores are equal you will not notice the difference.
+You **don’t** use the key ability scores for skill checks. Skill checks live outside the class framework and use your normal ability scores, though if both scores are equal you will not notice the difference.
 
 The Key Modifier table lists the modifier relevant to each multiclass combination. For example, a rogue/wizard’s primary abilities are Dexterity and Intelligence, so that character’s key modifier is the lower of the character’s Dexterity and Intelligence modifiers. You’ll use this key modifier in place of any Dexterity modifier or Intelligence modifier you use for all attacks, powers, spells, and class features or effects from the rogue or wizard class.
 
@@ -83,6 +88,7 @@ Your hit points are the average of the base HP of your two classes, + CON modifi
 ### Recovery Dice
 
 Average the dice from both classes, then round *up* to the next higher die size (d6, d8, d10, or d12). For example: 
+
 `d6 + d8 = d8; d6 + d10 = d8` 
 `d6 + d12 = d10; d8 + d10 = d10`
 `d8 + d12 = d10; d10 + d12 = d12`
@@ -101,7 +107,7 @@ Use the better weapon attack abilities among your two classes.
 
 ### Weapon Damage Penalty
 
-Most multiclass characters must drop all of their weapon damage dice down one step. That means d12s become d10s; d10s become d8s; d8s become d6s; d6s become d4s; and d4s stay as d4s. This reduction does __NOT__ apply if your multiclass contains *only* classes from the following list of skillful warriors: barbarian, bard, commander, fighter, paladin, ranger, or rogue.
+Most multiclass characters must drop all of their weapon damage dice down one step. That means d12s become d10s; d10s become d8s; d8s become d6s; d6s become d4s; and d4s stay as d4s. This reduction does **NOT** apply if your multiclass contains *only* classes from the following list of skillful warriors: barbarian, bard, commander, fighter, paladin, ranger, or rogue.
 
 If you’re one of the many multiclass characters affected by the weapon damage penalty, it applies only to your own attacks, not to the attacks of animal companions, summoned creatures, and the like.
 
@@ -110,7 +116,7 @@ The reduction also applies when you’ve found a way to gain a larger weapon dam
 
 You can choose feats from either of your classes. You gain one feat per level like everyone else.
 
-> [!hint] __13th Age SRD Markdown Hint__
+> [!hint] **13th Age SRD Markdown Hint**
 > Each Multiclass Feat is listed under each Multiclass. Additionally, the powers are also kept in individual files in the `Multiclass-Feats` folder for character sheets and other linking purposes if needed. 
 > 
 > You may delete them if you do not need them. 
@@ -121,65 +127,73 @@ As a 1st level character, you’ve got all the gear you need from both your clas
 
 ## Key Ability Modifier
 
-The important things to remember in keeping track of the key ability for a multiclass character are a) the key modifier table itself is not affected by any ability score swaps pulled off within class talents, and b) the talents are class elements that are affected by the key ability modifiers.
+The important things to remember in keeping track of the key ability for a multiclass character are:
+- a) the key modifier table itself is not affected by any ability score swaps pulled off within class talents
+- b) the talents are class elements that are affected by the key ability modifiers
+
 
 |             | Barbarian | Bard           | Chaos mage     | Cleric    | Commander |
 |-------------|-----------|----------------|----------------|-----------|-----------|
-| Barbarian   | X         | __Str/Cha__        | Str/Cha        | Str/Wis   | __Str/Cha__   |
-| Bard        | __Str/Cha__   | X              | Str OR Dex/Cha | Wis/Cha   | __Str/Cha__   |
+| Barbarian   | X         | **Str/Cha**        | Str/Cha        | Str/Wis   | **Str/Cha**   |
+| Bard        | **Str/Cha**   | X              | Str OR Dex/Cha | Wis/Cha   | **Str/Cha**   |
 | Chaos mage  | Str/Cha   | Str OR Dex/Cha | X              | Wis/Cha   | Str/Cha   |
 | Cleric      | Str/Wis   | Wis/Cha        | Wis/Cha        | X         | Wis/Cha   |
-| Commander   | __Str/Cha__   | __Str/Cha__        | Str/Cha        | Wis/Cha   | X         |
+| Commander   | **Str/Cha**   | **Str/Cha**        | Str/Cha        | Wis/Cha   | X         |
 | Druid       | Str/Wis   | Wis/Cha        | Wis/Cha        | Str/Wis   | Wis/Cha   |
-| Fighter     | __Str/Con__   | __Str/Cha__        | Str/Cha        | Str/Wis   | __Str/Cha__   |
+| Fighter     | **Str/Con**   | **Str/Cha**        | Str/Cha        | Str/Wis   | **Str/Cha**   |
 | Monk        | Str/Dex   | Dex/Cha        | Dex/Cha        | Dex/Wis\` | Str/Dex   |
 | Necromancer | Str/Int   | Int/Cha        | Int/Cha        | Int/Cha   | Int/Cha   |
 | Occultist   | Str/Int   | Int/Cha        | Int/Cha        | Int/Wis   | Int/Cha   |
-| Paladin     | __Str/Cha__   | __Str/Cha__        | Str/Cha        | Str/Wis   | __Str/Cha__   |
-| Ranger      | __Str/Dex__   | __Str OR Dex/Cha__ | Str OR Dex/Cha | Str/Wis   | __Str/Cha__   |
-| Rogue       | __Str/Dex__   | __Dex/Cha__        | Dex/Cha        | Dex/Wis   | __Dex/Cha__   |
+| Paladin     | **Str/Cha**   | **Str/Cha**        | Str/Cha        | Str/Wis   | **Str/Cha**   |
+| Ranger      | **Str/Dex**   | **Str OR Dex/Cha** | Str OR Dex/Cha | Str/Wis   | **Str/Cha**   |
+| Rogue       | **Str/Dex**   | **Dex/Cha**        | Dex/Cha        | Dex/Wis   | **Dex/Cha**   |
 | Sorcerer    | Str/Cha   | Dex/Cha        | Con/Cha        | Wis/Cha   | Str/Cha   |
 | Wizard      | Str/Int   | Int/Cha        | Int/Cha        | Int//Wis  | Int/Cha   |
+^13A-Multiclassing-Table-I
+
 
 |             | Druid          | Fighter | Monk    | Necromancer    | Occultist      |
 |-------------|----------------|---------|---------|----------------|----------------|
-| Barbarian   | Str/Wis        | __Str/Con__ | Str/Dex | Str/Int        | Str/Int        |
-| Bard        | Wis/Cha        | __Str/Cha__ | Dex/Cha | Int/Cha        | Int/Cha        |
+| Barbarian   | Str/Wis        | **Str/Con** | Str/Dex | Str/Int        | Str/Int        |
+| Bard        | Wis/Cha        | **Str/Cha** | Dex/Cha | Int/Cha        | Int/Cha        |
 | Chaos mage  | Wis/Cha        | Str/Cha | Dex/Cha | Int/Cha        | Int/Cha        |
 | Cleric      | Str/Wis        | Str/Wis | Dex/Wis | Int/Wis        | Int/Wis        |
-| Commander   | Wis/Cha        | __Str/Cha__ | Str/Dex | Int/Cha        | Int/Cha        |
+| Commander   | Wis/Cha        | **Str/Cha** | Str/Dex | Int/Cha        | Int/Cha        |
 | Druid       | X              | Str/Wis | Dex/Wis | Int/Wis        | Int/Wis        |
 | Fighter     | Str/Wis        | X       | Str/Dex | Str/Int        | Str/Int        |
 | Monk        | Dex/Wis        | Str/Dex | X       | Dex/Int        | Dex/Int        |
 | Necromancer | Int/Wis        | Str/Int | Dex/Int | X              | Int/Cha        |
 | Occultist   | Int/Wis        | Str/Int | Dex/Int | Int/Cha        | X              |
-| Paladin     | Str/Wis        | __Str/Cha__ | Str/Dex | Str/Int        | Str/Int        |
-| Ranger      | Str OR Dex/Wis | __Str/Dex__ | Str/Dex | Str OR Dex/Int | Str OR Dex/Int |
-| Rogue       | Dex/Wis        | __Str/Dex__ | Str/Dex | Dex/Int        | Dex/Int        |
+| Paladin     | Str/Wis        | **Str/Cha** | Str/Dex | Str/Int        | Str/Int        |
+| Ranger      | Str OR Dex/Wis | **Str/Dex** | Str/Dex | Str OR Dex/Int | Str OR Dex/Int |
+| Rogue       | Dex/Wis        | **Str/Dex** | Str/Dex | Dex/Int        | Dex/Int        |
 | Sorcerer    | Wis/Cha        | Dex/Cha | Dex/Cha | Int/Cha        | Int/Cha        |
 | Wizard      | Int/Wis        | Dex/Int | Dex/Int | Int/Cha        | Int/Wis        |
+^13A-Multiclassing-Table-II
+
 
 |             | Paladin | Ranger         | Rogue   | Sorcerer       | Wizard  |
 |-------------|---------|----------------|---------|----------------|---------|
-| Barbarian   | __Str/Cha__ | __Str/Dex__        | __Str/Dex__ | Str/Cha        | Str/Int |
-| Bard        | __Str/Cha__ | __Str OR Dex/Cha__ | __Dex/Cha__ | Str OR Dex/Cha | Int/Cha |
+| Barbarian   | **Str/Cha** | **Str/Dex**        | **Str/Dex** | Str/Cha        | Str/Int |
+| Bard        | **Str/Cha** | **Str OR Dex/Cha** | **Dex/Cha** | Str OR Dex/Cha | Int/Cha |
 | Chaos mage  | Str/Cha | Str OR Dex/Cha | Dex/Cha | Con/Cha        | Int/Cha |
 | Cleric      | Str/Wis | Str/Wis        | Dex/Wis | Wis/Cha        | Int/Wis |
-| Commander   | __Str/Cha__ | __Str/Cha__        | __Dex/Cha__ | Str/Cha        | Int/Cha |
+| Commander   | **Str/Cha** | **Str/Cha**        | **Dex/Cha** | Str/Cha        | Int/Cha |
 | Druid       | Str/Wis | Str OR Dex/Wis | Dex/Wis | Wis/Cha        | Int/Wis |
-| Fighter     | __Str/Cha__ | __Str/Dex__        | __Str/Dex__ | Str/Cha        | Str/Int |
+| Fighter     | **Str/Cha** | **Str/Dex**        | **Str/Dex** | Str/Cha        | Str/Int |
 | Monk        | Str/Dex | Str/Dex        | Str/Dex | Dex/Cha        | Dex/Int |
 | Necromancer | Str/Int | Str OR Dex/Int | Dex/Int | Int/Cha        | Int/Cha |
 | Occultist   | Str/Int | Str OR Dex/Int | Dex/Int | Int/Cha        | Int/Wis |
-| Paladin     | X       | __Str/Dex__        | __Str/Dex__ | Str/Cha        | Str/Int |
-| Ranger      | __Str/Dex__ | X              | __Str/Dex__ | Dex/Cha        | Dex/Int |
-| Rogue       | __Str/Dex__ | __Str/Dex__        | X       | Dex/Cha        | Dex/Int |
+| Paladin     | X       | **Str/Dex**        | **Str/Dex** | Str/Cha        | Str/Int |
+| Ranger      | **Str/Dex** | X              | **Str/Dex** | Dex/Cha        | Dex/Int |
+| Rogue       | **Str/Dex** | **Str/Dex**        | X       | Dex/Cha        | Dex/Int |
 | Sorcerer    | Str/Cha | Dex/Cha        | Dex/Cha | X              | Int/Cha |
 | Wizard      | Str/Int | Dex/Int        | Dex/Int | Int/Cha        | X       |
+^13A-Multiclassing-Table-III
 
 *Note:* Multiclasses that include only the barbarian, bard, commander, fighter, paladin, ranger, and rogue classes don’t take the weapon damage die penalty suffered by other multiclass characters. The multiclass ability scores of these combinations appear in italics above.
 
->[!warning] __13th Age SRD Note__
-> The source PDF and the word document from Pelgrane Press did not italicize the text as indicted above, so I believe this only exists in the printed books or full paid PDF versions of the source materials.
+> [!warning] **13th Age SRD Note**
+> The source PDF and the word document from Pelgrane Press did not italicize the text as indicted above, so we believe this only exists in the printed books or full paid PDF versions of the source materials.
 >
-> I have gone ahead and bolded the combinations instead, but encourage you to double check my work and report any errors.
+> We have gone ahead and bolded the combinations instead, but encourage you to double check our work and report any errors.

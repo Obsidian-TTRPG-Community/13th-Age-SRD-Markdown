@@ -1,10 +1,14 @@
 ---
-aliases: [Feats]
-tags: 13thAge/Characters/Feats
+aliases: [13th Age Feats]
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats, navtodo]
+updated:: 2023-04-30
 ---
 
 Navigation Links
-#navtodo
 
 ## Feats
 
@@ -21,5 +25,3 @@ Adventurer feats are available to any character between level 1 and level 10.
 Champion feats are available starting at level 5.
 
 Epic feats are available starting at level 8.
-
-### Map of Content

@@ -1,9 +1,13 @@
 ---
-aliases: [Icons]
-tags: 13thAge/Icons
+aliases: [ 13th Age Icons]
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Icons, navtodo]
+updated:: 2023-04-30
 ---
 Navigation Links
-#navtodo
 
 ## Icons
 
@@ -13,4 +17,4 @@ Icons have their own story, alignment, and personality. The general knowledge an
 
 Your character may have relationships with certain icons. This relationship, if it exists, can be positive, conflicted, or negative.
 
-See **[Icon Relationships](../Character%20Rules/6-Icon-Relationships.md)**.
+See **[Icon Relationships](../Character-Rules/Icon-Relationships.md)**.

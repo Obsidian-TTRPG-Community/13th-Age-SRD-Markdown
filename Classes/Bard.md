@@ -1,6 +1,11 @@
 ---
-aliases: [Bard]
-tags: 13thAge/Characters/Classes/Bard
+aliases: [13th Age Bard]
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Classes/Bard]
+updated:: 2023-04-30
 ---
 
 # Bard
@@ -24,7 +29,7 @@ Possible backgrounds include:
 - Royal taster
 - Caravan guide
 - Smuggler
-- Battle skald.
+- Battle skald
 
 ## Gear
 

@@ -1,9 +1,13 @@
 ---
-aliases: ["Feats per Level"]
-tags: 13thAge/Characters/Feats/Leveling
+aliases: ["13th Age Feats per Level"]
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Leveling, navtodo]
+updated:: 2023-04-30
 ---
 
-#navtodo
 
 ## Feats per Level
 

@@ -1,6 +1,6 @@
 ---
 aliases: ["Dark Elf"]
-tags: 13thAge/Characters/Races/Dark-Elf
+tags: 13A/Characters/Races/Dark-Elf
 ---
 # Dark Elf
 

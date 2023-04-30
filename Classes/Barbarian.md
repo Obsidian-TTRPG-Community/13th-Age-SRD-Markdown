@@ -1,6 +1,11 @@
 ---
 aliases: [Barbarian]
-tags: 13thAge/Characters/Classes/Barbarian
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Classes/Barbarian]
+updated:: 2023-04-30
 ---
 # Barbarian
 

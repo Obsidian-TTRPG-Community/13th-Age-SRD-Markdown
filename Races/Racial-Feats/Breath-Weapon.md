@@ -1,8 +1,11 @@
 ---
 aliases: ["Breath Weapon"]
-tags:
-- 13thAge/Characters/Races/Dragonic/Power
-- 13thAge/Characters/Races/Dragonspawn/Power
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Races/Dragonic/Power, 13A/Characters/Races/Dragonspawn/Power]
+updated:: 2023-04-30
 ---
 # Breath Weapon
 

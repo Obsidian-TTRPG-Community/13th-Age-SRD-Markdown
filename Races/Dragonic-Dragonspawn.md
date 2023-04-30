@@ -1,8 +1,8 @@
 ---
 aliases: ["Dragonic", "Dragonspawn"]
 tags: 
-- 13thAge/Characters/Races/Dragonic
-- 13thAge/Characters/Races/Dragonspawn
+- 13A/Characters/Races/Dragonic
+- 13A/Characters/Races/Dragonspawn
 ---
 # Dragonic / Dragonspawn
 

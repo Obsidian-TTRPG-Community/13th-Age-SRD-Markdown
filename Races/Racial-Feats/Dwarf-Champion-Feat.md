@@ -1,6 +1,6 @@
 ---
 aliases: ["Dwarf Champion Feat"]
-tags: 13thAge/Characters/Races/Dwarf/Power
+tags: 13A/Characters/Races/Dwarf/Power
 ---
 # Dwarf Champion Feat
 

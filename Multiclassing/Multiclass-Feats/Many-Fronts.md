@@ -1,6 +1,11 @@
 ---
 aliases: ["Many Fronts"]
-tags: 13thAge/Characters/Multiclass/Commander/Trait
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Commander/Trait]
+updated:: 2023-04-30
 ---
 # Many Fronts
 

@@ -1,6 +1,11 @@
 ---
 aliases: ["Continual Warp"]
-tags: 13thAge/Characters/Multiclass/Chaos-Mage/Trait
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Chaos-Mage/Trait]
+updated:: 2023-04-30
 ---
 # Continual Warp
 

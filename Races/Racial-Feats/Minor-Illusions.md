@@ -1,6 +1,6 @@
 ---
 aliases: [Minor Illusions]
-tags: 13thAge/Characters/Races/Gnome/Power
+tags: 13A/Characters/Races/Gnome/Power
 ---
 # Minor Illusions
 

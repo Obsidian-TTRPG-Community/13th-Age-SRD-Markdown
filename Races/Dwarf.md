@@ -1,6 +1,6 @@
 ---
 aliases: [Dwarf]
-tags: 13thAge/Characters/Races/Dwarf
+tags: 13A/Characters/Races/Dwarf
 ---
 # Dwarf
 

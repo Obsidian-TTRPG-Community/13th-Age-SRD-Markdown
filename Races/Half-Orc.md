@@ -1,6 +1,6 @@
 ---
 aliases: [Half-Orc]
-tags: 13thAge/Characters/Races/Half-Orc
+tags: 13A/Characters/Races/Half-Orc
 ---
 # Half-Orc
 

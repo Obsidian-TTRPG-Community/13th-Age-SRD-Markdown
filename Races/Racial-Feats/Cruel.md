@@ -1,6 +1,6 @@
 ---
 aliases: [Cruel]
-tags: 13thAge/Characters/Races/Dark-Elf/Power
+tags: 13A/Characters/Races/Dark-Elf/Power
 ---
 # Cruel
 

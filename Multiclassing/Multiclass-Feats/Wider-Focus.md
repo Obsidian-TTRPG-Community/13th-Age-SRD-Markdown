@@ -1,6 +1,11 @@
 ---
 aliases: ["Wider Focus"]
-tags: 13thAge/Characters/Multiclass/Occultist/Trait
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Occultist/Trait]
+updated:: 2023-04-30
 ---
 # Wider Focus
 

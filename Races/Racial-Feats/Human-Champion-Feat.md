@@ -1,6 +1,6 @@
 ---
 aliases: [Human Champion Feat]
-tags: 13thAge/Characters/Races/Human/Power
+tags: 13A/Characters/Races/Human/Power
 ---
 # Human Champion Feat
 

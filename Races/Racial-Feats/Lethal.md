@@ -1,6 +1,6 @@
 ---
 aliases: [Lethal]
-tags: 13thAge/Characters/Races/Half-Orc/Power
+tags: 13A/Characters/Races/Half-Orc/Power
 ---
 
 # Lethal

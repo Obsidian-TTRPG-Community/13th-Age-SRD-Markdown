@@ -1,6 +1,6 @@
 ---
 aliases: [Gnome]
-tags: 13thAge/Characters/Races/Gnome
+tags: 13A/Characters/Races/Gnome
 ---
 # Gnome
 

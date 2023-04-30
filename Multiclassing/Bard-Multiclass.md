@@ -1,6 +1,11 @@
 ---
-aliases: 
-tags: 13thAge/Characters/Multiclass/Bard
+aliases: []
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Bard]
+updated:: 2023-04-30
 ---
 # Bard Multiclass
 

@@ -1,8 +1,8 @@
 ---
 aliases: ["Forgeborn Champion Feat", "Dwarf-forged Champion Feat"]
 tags:
-- 13thAge/Characters/Races/Forgeborn/Power
-- 13thAge/Characters/Races/Dwarf-forged/Power
+- 13A/Characters/Races/Forgeborn/Power
+- 13A/Characters/Races/Dwarf-forged/Power
 ---
 # Forgeborn/Dwarf-forged Champion Feat
 

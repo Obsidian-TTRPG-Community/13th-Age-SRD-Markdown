@@ -1,6 +1,11 @@
 ---
 aliases: ["Sorcerer Multiclass"]
-tags: 13thAge/Characters/Multiclass/Sorcerer
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Sorcerer]
+updated:: 2023-04-30
 ---
 # Sorcerer Multiclass
 

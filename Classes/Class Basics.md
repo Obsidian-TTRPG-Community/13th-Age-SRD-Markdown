@@ -1,6 +1,6 @@
 ---
 aliases: ["Class Basics"]
-tags: 13thAge/Characters/Classes
+tags: 13A/Characters/Classes
 ---
 ## Class Basics
 

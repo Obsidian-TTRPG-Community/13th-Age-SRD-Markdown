@@ -1,6 +1,11 @@
 ---
 aliases: ["Ranger Multiclass"]
-tags: 13thAge/Characters/Multiclass/Ranger
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Ranger]
+updated:: 2023-04-30
 ---
 # Ranger Multiclass
 

@@ -1,6 +1,11 @@
 ---
 aliases: ["Chaos Mage Multiclass"]
-tags: 13thAge/Characters/Multiclass/Chaos-Mage
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Chaos-Mage]
+updated:: 2023-04-30
 ---
 # Chaos Mage Multiclass
 

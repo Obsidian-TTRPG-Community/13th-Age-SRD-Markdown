@@ -1,6 +1,11 @@
 ---
 aliases: ["Paladin Multiclass"]
-tags: 13thAge/Characters/Multiclass/Paladin
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Paladin]
+updated:: 2023-04-30
 ---
 # Paladin Multiclass
 

@@ -1,6 +1,11 @@
 ---
 aliases: ["Controlled Rage"]
-tags: 13thAge/Characters/Multiclass/Barbarian/Trait
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Barbarian/Trait]
+updated:: 2023-04-30
 ---
 # Controlled Rage
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Halfling]
-tags: 13thAge/Characters/Races/Halfling
+tags: 13A/Characters/Races/Halfling
 ---
 # Halfling
 

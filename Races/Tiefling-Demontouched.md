@@ -1,8 +1,8 @@
 ---
 aliases: ["Tiefling", "Demontouched"]
 tags:
-- 13thAge/Characters/Races/Tiefling
-- 13thAge/Characters/Races/Demontouched
+- 13A/Characters/Races/Tiefling
+- 13A/Characters/Races/Demontouched
 ---
 # Tiefling/Demontouched
 

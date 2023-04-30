@@ -1,6 +1,6 @@
 ---
 aliases: ["High Elf"]
-tags: 13thAge/Characters/Races/High-Elf
+tags: 13A/Characters/Races/High-Elf
 ---
 # High Elf
 

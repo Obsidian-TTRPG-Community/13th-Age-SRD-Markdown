@@ -1,6 +1,6 @@
 ---
 aliases: [Highblood Teleport]
-tags: 13thAge/Characters/Races/High-Elf/Power
+tags: 13A/Characters/Races/High-Elf/Power
 ---
 # Highblood Teleport
 

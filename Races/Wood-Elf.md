@@ -1,6 +1,6 @@
 ---
 aliases: ["Wood Elf"]
-tags: 13thAge/Characters/Races/Wood-Elf
+tags: 13A/Characters/Races/Wood-Elf
 ---
 # Wood Elf
 

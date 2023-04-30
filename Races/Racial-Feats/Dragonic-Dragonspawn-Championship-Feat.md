@@ -1,8 +1,8 @@
 ---
 aliases: ["Dragonic Championship Feat", "Dragonspawn Championship Feat"]
 tags:
-- 13thAge/Characters/Races/Dragonic/Power
-- 13thAge/Characters/Races/Dragonspawn/Power
+- 13A/Characters/Races/Dragonic/Power
+- 13A/Characters/Races/Dragonspawn/Power
 ---
 # Dragonic/Dragonspawn Championship Feat
 

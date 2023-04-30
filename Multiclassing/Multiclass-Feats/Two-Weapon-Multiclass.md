@@ -1,6 +1,11 @@
 ---
 aliases: ["Two Weapon Multiclass"]
-tags: 13thAge/Characters/Multiclass/Ranger/Trait
+created:: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Multiclass/Ranger/Trait]
+updated:: 2023-04-30
 ---
 # Two-weapon Multiclass
 

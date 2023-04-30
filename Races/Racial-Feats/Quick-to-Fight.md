@@ -1,6 +1,6 @@
 ---
 aliases: [Quick to Fight]
-tags: 13thAge/Characters/Races/Human/Power
+tags: 13A/Characters/Races/Human/Power
 ---
 # Quick to Fight
 

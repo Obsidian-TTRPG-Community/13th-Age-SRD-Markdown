@@ -1,6 +1,6 @@
 ---
 aliases: [Half-Elf]
-tags: 13thAge/Characters/Races/Half-Elf
+tags: 13A/Characters/Races/Half-Elf
 ---
 # Half-Elf
 
