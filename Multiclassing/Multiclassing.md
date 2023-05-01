@@ -1,6 +1,6 @@
 ---
 aliases: ["Multiclassing"]
-created:: 2023-02-07
+created: 2023-02-07
 description: 
 image: 
 publish: 

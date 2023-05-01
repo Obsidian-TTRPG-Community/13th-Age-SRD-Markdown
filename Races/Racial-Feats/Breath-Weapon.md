@@ -1,11 +1,11 @@
 ---
 aliases: ["Breath Weapon"]
-created:: 2023-02-07
+created: 2023-02-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Races/Dragonic/Power, 13A/Characters/Races/Dragonspawn/Power]
-updated:: 2023-04-30
+updated: 2023-04-30
 ---
 # Breath Weapon
 

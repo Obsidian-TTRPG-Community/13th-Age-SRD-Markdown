@@ -1,11 +1,11 @@
 ---
 aliases: ["Commander Multiclass"]
-created:: 2023-02-07
+created: 2023-02-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Multiclass/Commander]
-updated:: 2023-04-30
+updated: 2023-04-30
 ---
 # Commander Multiclass
 
