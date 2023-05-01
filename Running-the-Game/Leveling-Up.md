@@ -4,7 +4,7 @@ created: 2023-02-07
 description: 
 image: 
 publish: 
-tags: 13A/Playing/Leveling
+tags: [13A/Playing/Leveling]
 updated: 2023-05-01
 ---
 
@@ -148,3 +148,4 @@ cumulative; what you roll is what you get.
 | 5–10  | One healing potion from PC’s tier.                            |
 | 11–15 | Two potions/oils/runes of PC’s choice from PC’s tier.         |
 | 16–20 | Three potions/oils/runes of PC’s choice from PC’s tier.       |
+^13A-Loot-Heal

@@ -73,6 +73,6 @@ Outside of battle, when failure would tend to slow action down rather than move 
 
 ### Background and Skill Advancement
 
-All your skill checks increase by 1 when you level up. If you want even better skill checks, take the **[Further-Backgrounding](Feats/General-Feats/Further-Backgrounding.md)** feat.
+All your skill checks increase by 1 when you level up. If you want even better skill checks, take the **[Further Backgrounding](Feats/General-Feats/Further-Backgrounding.md)** feat.
 
 If you just want to move around the bonuses you already have to show how your character is changing, you can move one background point around among your current backgrounds each time you gain a level, or swap the point into an entirely new background, with the GM’s permission.

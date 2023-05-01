@@ -130,7 +130,7 @@ Use the skill check DC on the table to give you a general guideline for
 PCs attempting to disarm a trap (once they notice that there is a trap).  
 Failure means the trap will trigger.
 
-#### Skill Check DCs, Trap/Obstacle Attacks & Impromptu Damage by Environment
+**Skill Check DCs, Trap/Obstacle Attacks & Impromptu Damage by Environment**
 
 | Tier       | Degree of Challenge | Skill Check DC | Trap or Obstacle Attack Roll vs. AC/PD/MD | Impromptu Damage (Single Target) | Impromptu Damage (Multiple Targets) |
 |------------|---------------------|----------------|-------------------------------------------|----------------------------------|-------------------------------------|
@@ -143,7 +143,7 @@ Failure means the trap will trigger.
 | Epic       | Normal              | 25             | +15                                       | 2d20 or 3d20                     | 3d12 or 4d10                        |
 | Epic       | Hard                | 30             | +20                                       | 3d20                             | 4d10                                |
 | Epic       | Ridiculously hard   | 35             | +25                                       | 3d20 or 4d20                     | 4d10 or 4d12                        |
-
+^13A-Skill-Environmental-DC
 ### Full Heal-ups
 
 A party should get a full heal-up after approximately: 
