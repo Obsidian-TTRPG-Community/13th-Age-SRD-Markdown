@@ -10,7 +10,7 @@ updated: 2023-05-01
 
 ## Monster Abilities
 
-Monsters may have special [abilities](../../Character-Rules/Abilities.md) for use in battle.
+[Monsters](../Monsters.md) may have special [abilities](../../Character-Rules/Abilities.md) for use in battle.
 
 ### Burrowing
 
@@ -22,14 +22,14 @@ A burrowing creature on the surface may attempt to burrow underground by using a
 | ----------------------------- | -------------- | --------------- |
 | Sand, dirt, forest soil       | Easy           | 6+              |
 | Hard-packed dirt, loose rocks | Normal Save    | 11+             |
-| Rock, caves, dungeon floors   | Hard Save      | 16+                |  
+| Rock, caves, dungeon floors   | Hard Save      | 16+                |    
 ^13A-Monster-Burrow
 
 After successfully burrowing, a creature may move underground, faster or slower depending on the hardness of the ground, out of sight of other creatures, hidden and safe from attacks.
 
 For breaking through to the surface, the sequence is as follows: a move action from deeper under the ground to come close to the surface, close enough that people see there’s something coming, followed by a quick action to break through, and then by a standard action attack.
 
-### Death Attacks and Last-gasp Saves
+### Death Attacks and Last Gasp Saves
 
 Some deadly monsters have a special attack called a death attack that can kill (petrify, paralyze, liquefy, immolate) in a single attack. Such attacks offer the player a last-gasp save.
 
@@ -73,7 +73,7 @@ A character engaged with such a monster must have a certain amount of hit points
 | 11    | 96                  |
 | 12    | 120                 |
 | 13    | 144                 |
-| 14    | 192                 |  
+| 14    | 192                 |    
 ^13A-Monster-Fear-Aura
 
 Should the character’s hp increase past the fear threshold or the character disengage from the monster, they lose the dazed effect and regain the escalation die benefits.

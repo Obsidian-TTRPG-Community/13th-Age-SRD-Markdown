@@ -1,5 +1,5 @@
 ---
-aliases: ["Leveling Up"]
+aliases: ["Leveling Up Monsters"]
 created: 2023-02-07
 description: 
 image: 

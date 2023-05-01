@@ -16,8 +16,20 @@ You can use the monsters included in the *13th* *Age* Archmage Engine, or you ca
 - [Monster-Key](./Monster-Key.md)
 - [Monster-List](./Monster-List.md)
 - **[Monster-Reference](./Monster-Reference/Monster-Reference.md)**
-	- **Animal-Critter**
-	- **Battle-Shade**
+	- **Aberration**
+	- **[Beast](./Monster-Reference/Beast/Beast.md)**
+		- [Giant-Ant](./Monster-Reference/Beast/Giant-Ant.md)
+	- **Construct**
+	- **Demon**
+	- **Devl**
+	- **Dragon**
+	- **Elemental**
+	- **Giant**
+	- **Humanoid**
+	- **Ooze**
+	- **Plant**
+	- **Spirit**
+	- **Undead**
 - **Monster-Rules**
 	- [Dire-Animals](./Monster-Rules/Dire-Animals.md)
 	- [Group-Abilities](./Monster-Rules/Group-Abilities.md)
