@@ -5,9 +5,10 @@ description:
 image: 
 publish: 
 tags: [13A/Monsters/Rules/Large, 13A/Monsters/Rules/Huge]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
-# Large and Huge Monsters
+
+## Large and Huge Monsters
 
 Large monsters generally have twice the hit points and deal roughly double the damage of a normal-sized monster. They also count as **two monsters** when you build a battle.
 

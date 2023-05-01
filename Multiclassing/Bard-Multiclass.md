@@ -5,12 +5,12 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Multiclass/Bard]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
 # Bard Multiclass
 
 You lag one level behind in the battle cries and spells/songs known
-columns of the Bard Level Progression table.
+columns of the [Bard](../Classes/Bard.md) Level Progression table.
 
 As a 1st level bard, you start with only one 1st level battle cry and one 1st level spell or song.
 
@@ -18,7 +18,7 @@ As usual, the Battle Skald or Spellsinger talents could still add a battle cry o
 
 Note that the Jack of Spells advantages would only apply to spells jacked by the talent, not to spells known through the multiclass.
 
-If you multiclass with another class that has flexible attacks, such as the fighter or a druid that takes that talent, consider the two feats that follow. Without the feats, you must always declare whether you are using a bard flexible attack or a flexible attack from your other class.
+If you multiclass with another [class](../Character-Rules/Class.md) that has flexible attacks, such as the fighter or a druid that takes that talent, consider the two [feats](../Character-Rules/Feats/Feats.md) that follow. Without the feats, you must always declare whether you are using a bard flexible attack or a flexible attack from your other class.
 
 ## True Flexibility
 

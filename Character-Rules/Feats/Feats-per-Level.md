@@ -7,10 +7,7 @@ publish:
 tags: [13A/Characters/Feats/Leveling, navtodo]
 updated: 2023-04-30
 ---
-
-
 ## Feats per Level
-
 | **Level** | **Player Character Max Feats**           |
 | ----- | ------------------------------------ |
 | 1     | 1 Adventurer                         |
@@ -23,7 +20,7 @@ updated: 2023-04-30
 | 8     | 4 Adventurer, 3 Champion, and 1 Epic |
 | 9     | 4 Adventurer, 3 Champion, and 2 Epic |
 | 10    | 4 Adventurer, 3 Champion, and 3 Epic                                     |
-^playerfeatsperlevel
+^13A-Player-Feats-Level
 
 > Since humans start with an additional feat at 1st level, add one to the number of adventurer feats humans possess all the way up the chart.
 

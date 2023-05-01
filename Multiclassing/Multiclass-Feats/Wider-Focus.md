@@ -5,10 +5,10 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Multiclass/Occultist/Trait]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
-# Wider Focus
+## Wider Focus
 
-## Adventurer Tier
+### Adventurer Tier
 
-Once per battle, you can use a power, spell, or other effect from a different class while maintaining your occultist focus.
+Once per battle, you can use a power, spell, or other effect from a different [class](../../Character-Rules/Class.md) while maintaining your occultist focus.

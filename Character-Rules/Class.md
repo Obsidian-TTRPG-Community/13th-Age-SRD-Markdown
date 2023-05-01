@@ -5,12 +5,12 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes, navtodo]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
 
 Navigation Links 
 
-# Class
+## Class
 
 Every character has a class (see **[Classes](../06_Classes/06_Classes.md)**). Pick one of these too.
 

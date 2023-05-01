@@ -15,7 +15,7 @@ You don’t get the paladin’s normal bonus talents at 5th and 8th level, inste
 
 ### Adventurer Tier
 
-Once per battle while wearing heavy armor, use an attack from a class that normally takes an attack penalty while wearing heavy armor without taking that penalty.
+Once per battle while wearing heavy armor, use an attack from a [class](../Character-Rules/Class.md) that normally takes an attack penalty while wearing heavy armor without taking that penalty.
 
 ### Champion Tier
 

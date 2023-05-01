@@ -142,7 +142,7 @@ You also get an additional barbarian class talent at 5th level and again at 8th 
 
 ### Barbaric Cleave
 
-Once per battle, as a free action, you can make a standard melee attack after having dropped any enemy to 0 hp with a standard melee attack. Mooks do not count for this, unless the mook you dropped was the last of its mook mob.
+Once per battle, as a free action, you can make a standard melee attack after having dropped any enemy to 0 hp with a standard melee attack. [Mooks](../Monsters/Monster-Rules/Mooks.md) do not count for this, unless the mook you dropped was the last of its mook mob.
 
 __Adventurer Feat__
 You gain a +2 attack bonus with Barbaric Cleave attacks. If the cleave attack hits, you can heal using a recovery.
@@ -256,7 +256,7 @@ At 8th level, you gain an additional barbarian class talent. Choose one of these
 One battle per day as a quick action, you can call the spirits of your ancestors to fight alongside you. Your ancestors can’t be hurt or affected by the creatures of this world.
 At the end of each of your turns, if you are conscious, roll a d6 (`dice: d6`). If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world.
 
-Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or magic items as you see fit.
+Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or [magic items](../Magic-Items/Magic-Items.md) as you see fit.
 
 This attack doesn’t take any of your actions.
 

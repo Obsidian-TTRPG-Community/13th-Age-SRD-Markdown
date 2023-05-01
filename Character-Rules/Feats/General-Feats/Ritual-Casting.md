@@ -1,7 +1,11 @@
 ---
 aliases: ["Ritual Casting", "Adventure Ritual Casting"]
-tags:
-- 13A/Characters/Feats/Adventure
+created: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Adventure]
+updated: 2023-05-01
 ---
 
 ## Ritual Casting

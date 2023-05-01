@@ -12,7 +12,7 @@ updated:: 2023-04-30
 
 ## Ability Scores
 
-Bards gain a +2 class bonus to Dexterity or Charisma, as long as it isn’t the same ability you increase with your +2 racial bonus.
+Bards gain a +2 [class](../Character-Rules/Class.md) bonus to Dexterity or Charisma, as long as it isn’t the same ability you increase with your +2 racial bonus.
 
 ## Backgrounds
 
@@ -33,7 +33,7 @@ Possible backgrounds include:
 
 ## Gear
 
-At 1st level, bards start with non-magical musical instruments, a melee and ranged weapon of their choice, some form of light armor, and any other minor elements of gear their backgrounds suggest.
+At 1st level, bards start with non-magical musical instruments, a melee and ranged weapon of their choice, some form of light armor, and any other minor elements of [gear](../Character-Rules/Gear/Gear.md) their backgrounds suggest.
 
 ### Gold Pieces
 
@@ -148,7 +148,7 @@ You can generate the effect of any 1st or 3rd level battle cry you know as a sta
 
 ### Spells
 
-Bards use arcane spells that function like those of other spell-casting classes. Some spells are daily, some recharge, and others are at-will.
+Bards use arcane spells that function like those of other spell-casting [classes](Classes.md). Some spells are daily, some recharge, and others are at-will.
 
 Unlike most character classes, bards use two different ability scores for their attacks. Their melee and ranged weapon attacks use Strength or Dexterity, while their spells use Charisma.
 

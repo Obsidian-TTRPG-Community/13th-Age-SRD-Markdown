@@ -1,11 +1,12 @@
 ---
 aliases: [Building Battles in 13th Age]
-created: +002023-02-07 2316
+created: 2316-02-07
 description: 
 image: 
 permalink: 
 publish: 
-updated: +002023-04-30 1229
+tags: [13A/Gamemastery/Battles]
+updated: 2023-05-01
 ---
 
 ## Building Battles
@@ -20,7 +21,7 @@ See the monster equivalents chart below.
 
 ### Monster Equivalents
 
-| Monster Level vs. Party Level (Adventurer) | Monster Level vs. Party Level (Champion) | Monster Level vs. Party Level (Epic) | Normal counts as… | Mook counts as… | Large counts as… | Huge counts as… |
+| **Monster Level vs. Party Level (Adventurer)** | **Monster Level vs. Party Level (Champion)** | Monster Level vs. Party Level (Epic) | Normal counts as… | Mook counts as… | Large counts as… | Huge counts as… |
 |--------------------------------------------|------------------------------------------|--------------------------------------|-------------------|-----------------|------------------|-----------------|
 | 2 levels lower                             | 1 level lower                            | SAME LEVEL                           | 0.5               | 0.1             | 1                | 1.5             |
 | 1 level lower                              | SAME LEVEL                               | 1 level higher                       | 0.7               | 0.15            | 1.5              | 2               |
@@ -28,7 +29,8 @@ See the monster equivalents chart below.
 | 1 level higher                             | 2 levels higher                          | 3 levels higher                      | 1.5               | .3              | 3                | 4               |
 | 2 levels higher                            | 3 levels higher                          | 4 levels higher                      | 2                 | .4              | 4                | 6               |
 | 3 levels higher                            | 4 levels higher                          | 5 levels higher                      | 3                 | .6              | 6                | 8               |
-| 4 levels higher                            | 5 levels higher                          | 6 levels higher                      | 4                 | .8              | 8                |                 |
+| 4 levels higher                            | 5 levels higher                          | 6 levels higher                      | 4                 | .8              | 8                |                 |    
+^13A-Monster-Equivalents
 
 ### Mooks
 

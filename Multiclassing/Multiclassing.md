@@ -9,14 +9,14 @@ updated:: 2023-04-30
 ---
 # Multiclassing
 
-A multiclass character belongs to two classes instead of one. Multiclassing provides versatility—two classes offer more options than one at the expense of raw power.
+A multiclass character belongs to two [classes](../Classes/Classes.md) instead of one. Multiclassing provides versatility—two classes offer more options than one at the expense of raw power.
 
-You can start at 1st level with a multiclass character or convert to being a multiclass character when you gain a level. Changing from a single-class character to a multiclass character during a campaign is often a consequence of some powerful story event.
+You can start at 1st level with a multiclass character or convert to being a multiclass character when you gain a level. Changing from a single-[class](../Character-Rules/Class.md) character to a multiclass character during a campaign is often a consequence of some powerful story event.
 
-The core multiclass rule is that you can’t apply a talent, feat, or class feature to a spell or attack from a different class. For example, a barbarian/rogue who is raging makes barbarian attacks, rolling 2d20s to hit, but can’t add rogue Sneak Attack damage on top of the barbarian melee attack. Likewise, a rogue that uses *shadow walk* has to make a rogue attack upon returning to play, not a barbarian rage attack. Another example: a sorcerer/wizard or sorcerer/cleric can’t gather power as a sorcerer and then get double damage casting a spell from their
+The core multiclass rule is that you can’t apply a talent, feat, or class feature to a spell or attack from a different class. For example, a [barbarian](../Classes/Barbarian.md)/rogue who is raging makes barbarian attacks, rolling 2d20s to hit, but can’t add rogue Sneak Attack damage on top of the barbarian melee attack. Likewise, a rogue that uses *shadow walk* has to make a rogue attack upon returning to play, not a barbarian rage attack. Another example: a sorcerer/wizard or sorcerer/cleric can’t gather power as a sorcerer and then get double damage casting a spell from their
 other class.
 
-Some multiclass feats might break these general rules.
+Some multiclass [feats](../Character-Rules/Feats/Feats.md) might break these general rules.
 
 These prohibitions usually don’t apply to effects you create that don’t require actions to maintain. A cleric/barbarian could use an invocation at the start of the battle, cast a spell, and then start raging. The effects of the invocation would continue since it doesn’t require new
 actions to sustain it.
@@ -37,9 +37,9 @@ Technically, the rules presented here are for *dual-classing*, i.e. combining on
 
 ### Level Progression
 
-You gain levels like any other character. For example, a 3rd level fighter/wizard is a 3rd level character, with 3rd level hit points and three feats (or four for a human). You add your level (3) to your attacks, to your defenses, and to your skill checks. You level up as fast as other characters and you never have to worry about gaining specific or separate class levels.
+You gain levels like any other character. For example, a 3rd level fighter/wizard is a 3rd level character, with 3rd level hit points and three feats (or four for a [human](../Races/Human.md)). You add your level (3) to your attacks, to your defenses, and to your skill checks. You level up as fast as other characters and you never have to worry about gaining specific or separate class levels.
 
-On the other hand, leveling up is not *exactly* like a single-class character. Multiclass characters have the class powers, attacks, maneuvers, bonus talents, and spells of a character that is one level lower than their actual level.
+On the other hand, [leveling up](../Running-the-Game/Leveling-Up.md) is not *exactly* like a single-class character. Multiclass characters have the class powers, attacks, maneuvers, bonus talents, and spells of a character that is one level lower than their actual level.
 
 For example, as a 3rd level fighter/wizard, you’ll use the fighter and wizard level progression tables for 2nd level. In this example, as a fighter, you’ll know 4 maneuvers and they’ll all still have to be from the 1st level pool. As a wizard, you’ll know six 1st level spells. At 4th level, you then gain the maneuvers of a single-class 3rd level fighter and the spells of a single-class 3rd level wizard.
 
@@ -123,7 +123,7 @@ You can choose feats from either of your classes. You gain one feat per level li
 
 ### Gear
 
-As a 1st level character, you’ve got all the gear you need from both your classes, as well as the normal starting gold pieces: 25 gp or `dice: 1d6 * 10`gp (10 x d6).
+As a 1st level character, you’ve got all the [gear](../Character-Rules/Gear/Gear.md) you need from both your classes, as well as the normal starting gold pieces: 25 gp or `dice: 1d6 * 10`gp (10 x d6).
 
 ## Key Ability Modifier
 

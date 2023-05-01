@@ -1,8 +1,11 @@
 ---
 aliases: ["Linguist", "Adventure Linguist", "Champion Linguist"]
-tags:
-- 13A/Characters/Feats/Adventure
-- 13A/Characters/Feats/Champion
+created: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Adventure, 13A/Characters/Feats/Champion]
+updated: 2023-05-01
 ---
 
 ## Linguist

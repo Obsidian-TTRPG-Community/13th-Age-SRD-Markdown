@@ -5,15 +5,15 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Multiclass/Chaos-Mage]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
 # Chaos Mage Multiclass
 
 You lag one level behind in the three central columns of the Chaos Mage Level Progression table: daily spells, once-per-battle spells, and spell level.
 
-Drop three new stones of the same color (but a different color from your attack/defense/iconic stones) into your chaos mage bag. These stones correspond to your other class. When you draw one of the stones, any warp effects or high weirdness you’ve got going on from a previous chaos mage turn end. On your next turn, you must use a standard action attack from your non-chaos mage class, just as if you had drawn a stone for one of your standard three types of chaos magic.
+Drop three new stones of the same color (but a different color from your attack/defense/iconic stones) into your chaos mage bag. These stones correspond to your other [class](../Character-Rules/Class.md). When you draw one of the stones, any warp effects or high weirdness you’ve got going on from a previous chaos mage turn end. On your next turn, you must use a standard action attack from your non-chaos mage class, just as if you had drawn a stone for one of your standard three types of chaos magic.
 
-If your chaos mage talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
+If your chaos mage talents allow you to draft random spells from other [classes](../Classes/Classes.md) (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
 
 ### Continual Warp
 

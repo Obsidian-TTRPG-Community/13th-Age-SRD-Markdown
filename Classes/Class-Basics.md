@@ -6,7 +6,7 @@ tags: 13A/Characters/Classes
 
 ### Weapon Damage Progression
 
-The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per class level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level).
+The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per [class](../Character-Rules/Class.md) level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level).
 
 See Weapons for more on weapon damage rules.
 
@@ -18,11 +18,11 @@ Higher-level spells have higher damage amounts than their lower-level counterpar
 
 ### Shifting Choices During an Adventure
 
-These are guidelines for allowing PCs to change their chosen spells, powers, talents, and feats during gameplay, subject to how forgiving you and your fellow players are.
+These are guidelines for allowing PCs to change their chosen spells, powers, talents, and [feats](../Character-Rules/Feats/Feats.md) during gameplay, subject to how forgiving you and your fellow players are.
 
 #### Talents
 
-Talents are a core element of your character. If you’re going to rearrange your talents, something extremely significant needs to have happened in your character’s story, some personal transformation or revelation. It is a sign of character transformation, usually coinciding with shifts in icon relationships.
+Talents are a core element of your character. If you’re going to rearrange your talents, something extremely significant needs to have happened in your character’s story, some personal transformation or revelation. It is a sign of character transformation, usually coinciding with shifts in [icon relationships](../Character-Rules/Icon-Relationships.md).
 
 #### Spells
 

@@ -5,63 +5,68 @@ description:
 image: 
 publish: 
 tags: [13A/Monsters/Rules/Key]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
-# Monster Key
 
-## Size/Strength and Level
+## Monster Key
 
-These are the key stats that determine how tough a battle will be using the creature. 
+| Size/Strength<br>Level<br>Role<br>Type 	| Initiative<br><br><br>Attack<br>Extra Effects<br><br><br>Specials 	| AC<br>PD<br>MD<br>HP 	| xx<br>xx<br>xx<br>xx 	|  
+|---	|---	|---	|---	|
+
+### Size and Strength and Level
+
+These are the key stats that determine how tough a battle will be using the creature.  
 Sizes are regular, large, and huge. 
 
 Regular-sized monster can have double-strength (2x) and triple-strength (3x). 
 
 Regular-sized and regular-strength monsters are labeled as normal.
 
-## Role
+### Role
 
 Monsters with different roles still use the same stats.
 
-### Archers
+#### Archers
 
 Archers are ranged attackers who use weapons rather than spells.
 
-### Blockers
+#### Blockers
 
-Blockers have abilities that help them protect their allies.
+Blockers have [abilities](../../Character-Rules/Abilities.md) that help them protect their allies.
 
-### Casters
+#### Casters
 
 Casters are magician-types who need space to cast their spells properly. They’re capable of anything.
 
-### Leaders
+#### Leaders
 
 Leaders have abilities that help other monster allies fight better.
 
-### Mooks
-Mooks are minor monsters that are good cannon fodder. (See Mooks.)
+#### Mooks
 
-### Spoilers
+[Mooks](../Monster-Rules/Mooks.md) are minor monsters that are good cannon fodder. (See Mooks.)
+
+#### Spoilers
 
 Spoilers mess the PCs up with attacks that inflict harmful effects instead of or in addition to hit point damage.
 
-### Troops
+#### Troops
 
 Troops are the default monster type that aim to hurt PCs via hit point damage.
 
-### Wreckers
+#### Wreckers
 
 Wreckers really bring the pain. Enemy groups containing only wreckers will be very dangerous to the PCs.
 
 ## Type
 
-Some spells and magic items care about monster type. A ranger with a favored enemy type definitely cares about it.
+Some spells and [magic items](../../Magic-Items/Magic-Items.md) care about monster type. A ranger with a favored enemy type definitely cares about it.
 
 Types include aberration, beast, construct, demon, dragon, giant, humanoid, ooze, and undead.
 
 ## Initiative, AC, PD, MD, HP
 
-See Combat Stats.
+See [Combat Stats](../../Character-Rules/Combat-Stats.md).
 
 ## Attack
 
@@ -77,7 +82,7 @@ Some attacks can only be used when the natural roll triggers it. These attacks h
 
 ## Extra Effect Trigger
 
-Many monster abilities trigger randomly based on the monster’s attack roll. Not all attacks have triggers. Most extra effect triggers are natural even or odd attack rolls or other specific die rolls, but a few are more unusual.
+Many [monster abilities](../Monster-Rules/Monster-Abilities.md) trigger randomly based on the monster’s attack roll. Not all attacks have triggers. Most extra effect triggers are natural even or odd attack rolls or other specific die rolls, but a few are more unusual.
 
 ## Specials
 
