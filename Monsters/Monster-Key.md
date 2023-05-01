@@ -28,7 +28,7 @@ Archers are ranged attackers who use weapons rather than spells.
 
 ### Blockers
 
-Blockers have abilities that help them protect their allies.
+Blockers have [abilities](../../Character-Rules/Abilities.md) that help them protect their allies.
 
 ### Casters
 
@@ -39,7 +39,7 @@ Casters are magician-types who need space to cast their spells properly. They’
 Leaders have abilities that help other monster allies fight better.
 
 ### Mooks
-Mooks are minor monsters that are good cannon fodder. (See Mooks.)
+[Mooks](../Monster-Rules/Mooks.md) are minor monsters that are good cannon fodder. (See Mooks.)
 
 ### Spoilers
 
@@ -55,13 +55,13 @@ Wreckers really bring the pain. Enemy groups containing only wreckers will be ve
 
 ## Type
 
-Some spells and magic items care about monster type. A ranger with a favored enemy type definitely cares about it.
+Some spells and [magic items](../../Magic-Items/Magic-Items.md) care about monster type. A ranger with a favored enemy type definitely cares about it.
 
 Types include aberration, beast, construct, demon, dragon, giant, humanoid, ooze, and undead.
 
 ## Initiative, AC, PD, MD, HP
 
-See Combat Stats.
+See [Combat Stats](../../Character-Rules/Combat-Stats.md).
 
 ## Attack
 
@@ -77,7 +77,7 @@ Some attacks can only be used when the natural roll triggers it. These attacks h
 
 ## Extra Effect Trigger
 
-Many monster abilities trigger randomly based on the monster’s attack roll. Not all attacks have triggers. Most extra effect triggers are natural even or odd attack rolls or other specific die rolls, but a few are more unusual.
+Many [monster abilities](../Monster-Rules/Monster-Abilities.md) trigger randomly based on the monster’s attack roll. Not all attacks have triggers. Most extra effect triggers are natural even or odd attack rolls or other specific die rolls, but a few are more unusual.
 
 ## Specials
 

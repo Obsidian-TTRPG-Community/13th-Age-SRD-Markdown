@@ -5,15 +5,15 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Multiclass/Fighter/Trait]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
-# Armored Warfare
+## Armored Warfare
 
-## Adventurer Tier
+### Adventurer Tier
 
-Once per battle while wearing heavy armor, use an attack from a class that normally takes an attack penalty while wearing heavy armor without
+Once per battle while wearing heavy armor, use an attack from a [class](../../Character-Rules/Class.md) that normally takes an attack penalty while wearing heavy armor without
 taking that penalty.
 
-## Champion Tier
+### Champion Tier
 
 You can now ignore heavy armor attack penalties while the escalation die is 3+.

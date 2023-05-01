@@ -1,12 +1,16 @@
 ---
 aliases: ["Rapid Reload", "Adventure Rapid Reload"]
-tags: 
-- 13A/Characters/Feats/Adventure
+created: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Adventure]
+updated: 2023-05-01
 ---
 
 ## Rapid Reload
 
-__Adventurer Tier__
+**Adventurer Tier**
 
 Reloading a heavy crossbow now takes only a quick action.
 

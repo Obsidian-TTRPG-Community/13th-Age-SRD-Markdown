@@ -5,9 +5,10 @@ description:
 image: 
 publish: 
 tags: []
-updated:: 2023-04-30
+updated: 2023-05-01
 ---
-# Magic Items
+
+## Magic Items
 
 There are two types of magic item. 
 - True magic items are permanent magic items used as loot during adventures and rewards for success. 

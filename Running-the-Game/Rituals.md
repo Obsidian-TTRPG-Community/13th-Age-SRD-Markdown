@@ -1,12 +1,12 @@
 ---
 aliases: [13th Age Rituals]
-created: +002023-02-07 2316
+created: 2316-02-07
 description: 
 image: 
 permalink: 
 publish: 
-tags: 13A/Gamemastery/Rituals
-updated: +002023-04-30 1239
+tags: [13A/Playing/Rituals]
+updated: 2023-05-01
 ---
 
 ## Rituals
@@ -29,13 +29,13 @@ No matter the outcome, the spell is expended until your next full heal-up.
 
 ### Determining Results
 
-Choose outcomes that are outgrowths of the spell’s normal effects. The
-effects don’t have to play within the usual constraints of the magic
-system, and they don’t have to be taken as a precedent for future
+Choose outcomes that are outgrowths of the spell’s normal effects. The  
+effects don’t have to play within the usual constraints of the magic  
+system, and they don’t have to be taken as a precedent for future  
 rituals.
 
 Failure should fail forward.
 
-The High Arcana talent of the wizard allows you to cast a ritual in a
-matter of rounds instead of minutes, but it still needs the required
+The High Arcana talent of the wizard allows you to cast a ritual in a  
+matter of rounds instead of minutes, but it still needs the required  
 components.

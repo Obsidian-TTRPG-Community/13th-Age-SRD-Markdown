@@ -1,12 +1,16 @@
 ---
 aliases: ["Strong Recovery", "Adventure Strong Recovery"]
-tags: 
-- 13A/Characters/Feats/Adventure
+created: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Adventure]
+updated: 2023-05-01
 ---
 
 ## Strong Recovery
 
-__Adventurer Tier__
+**Adventurer Tier**
 
 When you roll recovery dice, reroll one of the dice and use the higher result.
 

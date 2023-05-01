@@ -1,11 +1,12 @@
 ---
-aliases: [Running the Game in 13th Age]
-created: +002023-02-07 2316
+aliases: [Running the Game in 13th Age, Running the Game]
+created: 2316-02-07
 description: 
 image: 
 permalink: 
 publish: 
-updated: +002023-04-30 1237
+tags: 13A/Playing
+updated: 2023-05-01
 ---
 
 ## Running the Game
@@ -59,13 +60,13 @@ Using icon relationship rolls from one or more characters keeps the new developm
 
 Any place in the game world that a player might want to make a skill check is an environment, of which there are three tiers: adventurer, champion, and epic.
 
-Adventurer environments are for level **1-3** characters: city streets,
-wilderness areas, shallow dungeons, regular old ruins, and that sort of
+Adventurer environments are for level **1-3** characters: city streets,  
+wilderness areas, shallow dungeons, regular old ruins, and that sort of  
 thing.
 
 Champion environments are for level **4-6** characters: deeper dungeons, danker swamps, guarded gates of the big cities, and those sorts of places.
 
-Epic environments are for level **7**+ characters. 
+Epic environments are for level **7**+ characters.  
 They are typically related to icons, unique villains, deep underworld locations, the most forbidding peaks, the upper reaches of the world, and so on.
 
 The GM determines the environs where the adventure takes place.
@@ -81,7 +82,7 @@ The GM determines the environs where the adventure takes place.
 | 7     | Mostly champion, some epic       |
 | 8     | Half champion, half epic         |
 | 9     | Mostly epic, some champion       |
-| 10    | Always epic                      |
+| 10    | Always epic                      |  
 ^13thA-Environment-Chart-Level
 
 #### Environment DCs for Skill Checks
@@ -94,7 +95,7 @@ The environment the PCs are in determines the DC of skill checks and other chall
 |------------------------|-------|
 | Normal task            | DC 15 |
 | Hard task              | DC 20 |
-| Ridiculously hard task | DC 25 |
+| Ridiculously hard task | DC 25 |  
 ^13A-Adventurer-Skill-Check-DC
 
 ##### Champion-tier Skill Check DCs
@@ -103,7 +104,7 @@ The environment the PCs are in determines the DC of skill checks and other chall
 |------------------------|-------|
 | Normal task            | DC 20 |
 | Hard task              | DC 25 |
-| Ridiculously hard task | DC 30 |
+| Ridiculously hard task | DC 30 |  
 ^13A-Champion-Skill-Check-DC
 
 ##### Epic-tier Skill Check DCs
@@ -112,7 +113,7 @@ The environment the PCs are in determines the DC of skill checks and other chall
 |------------------------|-------|
 | Normal task            | DC 25 |
 | Hard task              | DC 30 |
-| Ridiculously hard task | DC 35 |
+| Ridiculously hard task | DC 35 |  
 ^13A-Epic-Skill-Check-DC
 
 #### Impromptu Damage
@@ -121,12 +122,12 @@ When you need to determine how much damage some effect deals, use the chart belo
 
 #### Traps & Obstacles
 
-As shown in the chart below, attack rolls for traps and other features
-of the environment follow the same mathematical model as DCs for skill
+As shown in the chart below, attack rolls for traps and other features  
+of the environment follow the same mathematical model as DCs for skill  
 checks.
 
-Use the skill check DC on the table to give you a general guideline for
-PCs attempting to disarm a trap (once they notice that there is a trap).
+Use the skill check DC on the table to give you a general guideline for  
+PCs attempting to disarm a trap (once they notice that there is a trap).  
 Failure means the trap will trigger.
 
 #### Skill Check DCs, Trap/Obstacle Attacks & Impromptu Damage by Environment

@@ -1,10 +1,13 @@
 ---
 aliases: ["Further Backgrounding", "Adventure Further Backgrounding", "Champion Further Backgrounding", "Epic Further Backgrounding"]
-tags:
-- 13A/Characters/Feats/Adventure
-- 13A/Characters/Feats/Champion
-- 13A/Characters/Feats/Epic
+created: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Adventure, 13A/Characters/Feats/Champion, 13A/Characters/Feats/Epic]
+updated: 2023-05-01
 ---
+
 ## Further Backgrounding
 
 **Adventurer Tier**

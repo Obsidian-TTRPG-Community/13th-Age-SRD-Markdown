@@ -5,6 +5,7 @@ description:
 image: 
 publish: 
 tags: []
-updated: 2023-04-30
+updated: 2023-05-01
 ---
-# Magic Item Basics
+
+## Magic Item Basics

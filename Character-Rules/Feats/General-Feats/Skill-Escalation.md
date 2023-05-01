@@ -1,12 +1,16 @@
 ---
 aliases: ["Skill Escalation", "Adventure Skill Escalation"]
-tags: 
-- 13A/Characters/Feats/Adventure
+created: 2023-02-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Feats/Adventure]
+updated: 2023-05-01
 ---
 
 ## Skill Escalation
 
-__Adventurer Tier__
+**Adventurer Tier**
 
 Twice per day, you can add the escalation die to one of your skill checks.
 

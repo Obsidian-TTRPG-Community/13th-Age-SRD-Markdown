@@ -9,12 +9,12 @@ updated: 2023-04-30
 ---
 # Monk Multiclass
 
-A multiclass monk does get a +2 class bonus to three abilities, but does not get to use Focus abilities as the other class.
+A multiclass monk does get a +2 [class](../Character-Rules/Class.md) bonus to three [abilities](../Character-Rules/Abilities.md), but does not get to use Focus abilities as the other class.
 
 You lag one level behind in the three columns of the Monk Level Progression table: class talents, forms, and ki.
 
 The multiclass monk’s JAB, PUNCH, and KICK attacks damage dice decrease
-one size just like the WEAPON attacks of all classes. 
+one size just like the WEAPON attacks of all [classes](../Classes/Classes.md). 
 
 Yes, this means your:
 **JAB** dice are d4s

@@ -1,19 +1,19 @@
 ---
 aliases: ["13th Age and Eberron"]
-created: +002023-02-07 2316
+created: 2316-02-07
 description: 
 image: 
 permalink: 
 publish: 
-tags: 13A/Settings/Eberron
-updated: +002023-04-30 1228
+tags: [13A/Settings/Eberron]
+updated: 2023-05-01
 ---
 
-> [!summary] 13th Age and Eberron
-> This is a Markdown conversion of **[Keith Baker's blog post](https://keith-baker.com/eberron-and-13th-age/)** on some ideas on how to run the 13th Age system in an Eberron world to keep as a reference.
+> [!summary] 13th Age and Eberron  
+> This is a Markdown conversion of **[Keith Baker's blog post](https://keith-baker.com/eberron-and-13th-age/)** on some ideas on how to run the 13th Age system in an Eberron world to keep as a reference.  
 > We have added headers for organizational purposes. 
 
-### The Icons
+## The Icons
 
 **If you were to run an Eberron game using 13th Age, what would you use for Icons?**
 
@@ -57,7 +57,7 @@ There may seem to be some significant gaps here. What about the Chamber? The Lor
 
 In general I encourage you to decide which groups will be the most influential in your campaign. Yes, the Lords of Dust and the Chamber are both powerful forces capable of exerting global influence. But do you want them to do so in this campaign? An Icon chosen by a player character will potentially play a role in every session – are you prepared to use the potential Icon in that way? Just as a player’s choice of Icons defines their personal story, your choice of Icons defines the story of the campaign. If the Daelkyr are available as an Icon choice, people should expect them to have an impact; if you’re not interested in that, don’t put them on your list.
 
-### Choosing Specific Patrons
+## Choosing Specific Patrons
 
 **I’m not sure I 100% agree with choosing a specific patron, personally… while an Icon may be killed, the advice given was that that should probably be a very major event, maybe even a campaign conclusion. This would still apply to a house or organization falling. It doesn’t really apply if your patron is a lowly priest.**
 
@@ -65,7 +65,7 @@ Perhaps I wasn’t clear. When I suggest choosing a patron, it’s not to have t
 
 **So again**: the ENTITY is taking the role of the Icon, and you need to define your history and relationship with that entity. The idea of adding an individual – whether a patron, rival, friend, or enemy – is simply a further way to develop the history of your character. In particular, if you look to the Hands of the Twelve idea, the point is that three characters could all be from House Cannith and make that their most important relationship – but they may all have secondary relationships with different individuals in the house.
 
-### Intrigue Games
+## Intrigue Games
 
 **I noticed you didn’t address one (I think common) campaign type, though: The international intrigue game.**
 

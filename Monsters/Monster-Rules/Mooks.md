@@ -5,9 +5,10 @@ description:
 image: 
 publish: 
 tags: [13A/Monsters/Rules/Mooks]
-updated: 2023-04-30
+updated: 2023-05-01
 ---
-# Mooks
+
+## Mooks
 
 Mooks are weaker monsters that can be cut down in large numbers in a single turn. Damage is not tracked against single mooks, but against the entire mob of mooks you’re facing. 
 
