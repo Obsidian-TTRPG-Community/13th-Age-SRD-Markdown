@@ -22,7 +22,7 @@ These rules are for the character you create, your PC (playable character).
 - [Combat-Stats](./Combat-Stats.md)
 - **[Feats](./Feats/Feats.md)**
 	- [Feats-per-Level](./Feats/Feats-per-Level.md)
-	- **General Feats**
+	- **General-Feats**
 		- [Further-Backgrounding](./Feats/General-Feats/Further-Backgrounding.md)
 		- [Improved-Initiative](./Feats/General-Feats/Improved-Initiative.md)
 		- [Linguist](./Feats/General-Feats/Linguist.md)
