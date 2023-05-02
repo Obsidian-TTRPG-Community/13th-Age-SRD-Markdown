@@ -4,7 +4,6 @@ You did not ask for it, but here it is! The **[13th Age](https://pelgranepress.c
 
 > Note: This Vault is Still in Progress.
 
-
 ## Obsidian Plugins
 
 This vault is designed to work with the following plugins:
@@ -15,7 +14,6 @@ This vault is designed to work with the following plugins:
 > This plugin enables your folders to not only hold files, but to become notes themselves. 
 > The vault is customized to integrate the correct files if you use these plugin. 
 > It is fully functional even without them.
-
 
 > **[Dice Roller](https://github.com/valentine195/obsidian-dice-roller)**
 > This plugin turns dice syntax inside Obsidian into rolled results. 
