@@ -9,8 +9,7 @@ You did not ask for it, but here it is! The **[13th Age](https://pelgranepress.c
 This vault is designed to work with the following plugins:
 
 > **[Alx-Folder-Note](https://github.com/aidenlx/alx-folder-note)** and its framework, **[Folder-Note-Core](https://github.com/aidenlx/folder-note-core).** 
-> Alternatively, install [Obsidian Folder Notes](https://github.com/LostPaul/obsidian-folder-notes) with BRAT until it hits the Community Plugins page.
-
+> Alternatively, install **[Obsidian Folder Notes](https://github.com/LostPaul/obsidian-folder-notes)** with BRAT until it hits the Community Plugins page.
 > This plugin enables your folders to not only hold files, but to become notes themselves. 
 > The vault is customized to integrate the correct files if you use these plugin. 
 > It is fully functional even without them.
