@@ -3,6 +3,7 @@
 
 # Ignore Obsidian Files
 .obsidian
+.obsidian/themes
 .trash
 
 # Ignore Certain Folders
@@ -13,5 +14,3 @@ Other/
 .vscode
 .eslint
 .prettierrc
-
-
