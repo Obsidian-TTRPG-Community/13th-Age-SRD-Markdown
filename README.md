@@ -11,7 +11,8 @@ This vault is designed to work with the following plugins:
 
 > **[Alx-Folder-Note](https://github.com/aidenlx/alx-folder-note)** and its framework, **[Folder-Note-Core](https://github.com/aidenlx/folder-note-core).** 
 > Alternatively, install [Obsidian Folder Notes](https://github.com/LostPaul/obsidian-folder-notes) which is now available on the community plugins list.
- These plugins enable your folders to not only hold files, but to become notes themselves. The vault is customized to integrate the correct files if you use these plugins. 
+ These plugins enable your folders to not only hold files, but to become notes themselves.
+> The vault is customized to integrate the correct files if you use these plugins. 
  It is fully functional even without them.
 
 
