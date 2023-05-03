@@ -15,7 +15,7 @@ updated: +002023-04-30 1238
 
 ## Map of Contents
 
-1. [13th Age SRD Map of Contents](Map-of-Contents.md)
+1. [13th Age SRD Map of Contents](../..//13thAgeShare/Map-of-Contents.md)
 2. [13th Age Legal Notice](LICENSE.md)
 	1. [Product Identity](LICENSE.md#Product%20Identity)
 	2. [Open Content](LICENSE.md#Open%20Content)

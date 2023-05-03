@@ -32,7 +32,7 @@ Archers are ranged attackers who use weapons rather than spells.
 
 #### Blockers
 
-Blockers have [abilities](../../Character-Rules/Abilities.md) that help them protect their allies.
+Blockers have [abilities](../Character-Rules/Abilities.md) that help them protect their allies.
 
 #### Casters
 
@@ -60,13 +60,13 @@ Wreckers really bring the pain. Enemy groups containing only wreckers will be ve
 
 ## Type
 
-Some spells and [magic items](../../Magic-Items/Magic-Items.md) care about monster type. A ranger with a favored enemy type definitely cares about it.
+Some spells and [magic items](../Magic-Items/Magic-Items.md) care about monster type. A ranger with a favored enemy type definitely cares about it.
 
 Types include aberration, beast, construct, demon, dragon, giant, humanoid, ooze, and undead.
 
 ## Initiative, AC, PD, MD, HP
 
-See [Combat Stats](../../Character-Rules/Combat-Stats.md).
+See [Combat Stats](../Character-Rules/Combat-Stats.md).
 
 ## Attack
 

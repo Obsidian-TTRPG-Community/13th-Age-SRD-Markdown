@@ -16,10 +16,10 @@ As a guide to what costs what, use the [Equipment Price Guide](Equipment-Price-G
 
 ### Map of Content
 %% Begin Waypoint %%
-- [Armor Categories](./Armor-Categories.md)
-- [Economy](./Economy.md)
-- [Equipment Price Guide](./Equipment-Price-Guide.md)
-- [Melee Weapon Categories](./Melee-Weapon-Categories.md)
-- [Ranged Weapon Categories](./Ranged-Weapon-Categories.md)
+- [Armor Categories](Armor-Categories.md)
+- [Economy](Economy.md)
+- [Equipment Price Guide](Equipment-Price-Guide.md)
+- [Melee Weapon Categories](Melee-Weapon-Categories.md)
+- [Ranged Weapon Categories](Ranged-Weapon-Categories.md)
 
 %% End Waypoint %%
