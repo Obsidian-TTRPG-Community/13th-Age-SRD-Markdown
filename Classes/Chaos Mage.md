@@ -10,11 +10,11 @@ updated:: 2023-05-03
 
 # Chaos Mage
 
-### Ability Scores
+## Ability Scores
 
 Chaos Mages gain a +2 class bonus to Intelligence or Charisma, as long as it isn’t the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Backgrounds
 
 Possible backgrounds include: 
 - Blossoming witch
@@ -27,15 +27,15 @@ Possible backgrounds include:
 - Wandering musician
 - Hero from another world
 
-### Gear
+## Gear
 
 At 1st level, chaos mages start with adventuring clothes, a simple dagger (or a uniquely weird but similarly powerful weapon befitting to their background), and any other minor (and unusual) elements of gear their backgrounds suggest.
 
-#### Gold Pieces
+### Gold Pieces
 
 Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 
-### Armor
+## Armor
 
 | __Armor Type__ | __Base AC__ | __Atk Penalty__ |
 | ---------- | ------- | ----------- |
@@ -44,7 +44,7 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 | Heavy      | 11      | -2          |
 | Shield     | +1      | -2          |
 
-### Melee Weapons
+## Melee Weapons
 
 |                  | __One-Handed__                   | __Two-Handed__            |
 | ---------------- | -------------------------------- | ------------------------- |
@@ -52,7 +52,7 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d6 (-2 atk) axe, shortsword     | 1d8 (-4 atk) spear        |
 | Heavy or Martial | 1d8 (-5 atk) scimitar, warhammer | 1d10 (-6 atk) greatsword |
 
-### Ranged Weapons
+## Ranged Weapons
 
 |                  | __Thrown__           | __Crossbow__                | __Bow__               |
 | ---------------- | -------------------- | --------------------------- | --------------------- |
@@ -60,7 +60,7 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | Heavy or Martial | -                    | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow           |
 
-## Level Progression
+# Level Progression
 
 | Chaos Mage Level   | Total Hit Points           | Total Feats                    | Daily Spells (M) | Once-per-Battle Spells (M) | Spell Level (M) | Level-up Ability Bonuses | Damage Bonus From Ability Score |
 |--------------------|----------------------------|--------------------------------|------------------|----------------------------|-----------------|--------------------------|---------------------------------|
@@ -80,7 +80,7 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 (M): Indicates columns in which multiclass characters lag one level behind.
 Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
-## Stats
+# Stats
 
 | Ability Bonus                        | +2 Intelligence or Charisma (different from racial bonus)    |
 |--------------------------------------|--------------------------------------------------------------|
@@ -96,9 +96,9 @@ Note: Although not listed on the table, this class gets three talents. It does n
 | Icon Relationships                   | 3                                                            |
 | Talents                              | 1 per Level                                                  |
 
-## Basic Attacks
+# Basic Attacks
 
-### Melee Attack
+## Melee Attack
 
 At-Will
 **Target:** One enemy
@@ -106,7 +106,7 @@ At-Will
 **Hit:** WEAPON + Strength damage
 **Miss:** —
 
-### Ranged Attack
+## Ranged Attack
 
 At-Will
 **Target:** One enemy
@@ -114,7 +114,7 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 **Miss:** —
 
-## Class Features
+# Class Features
 
 Chaos mages use arcane implements, such as wands and staffs, to improve their attacks. Unlike wizards and clerics, chaos mages don’t choose the spells they know. Instead, a chaos mage of a given level can access all the spells in a category that are their level or lower.
 
@@ -122,7 +122,7 @@ The category of spell you’ll cast on your turn is randomly decided, but you ge
 
 Chaos mages are not allowed to cast rituals.
 
-### Chaos Magic
+## Chaos Magic
 Chaos magic has three main categories of spells: attack, defense, and iconic.
 
 Since the category of magic spells you’ll cast is randomly chosen, you’ll need 6 “stones” (gems, beads, poker chips, or whatever you like) of three different colors—two stones for each color. You’ll also need a bag (or cup) to put them in and draw them from. Put two of each color into the bag, then assign one color to attack, one color to defense, and the last color to iconic.
@@ -215,17 +215,17 @@ __High Weirdness Table__
 | 99    | Roll twice more on this table. If you wish you can ignore one of the rolled results but must stick with the other. If you roll the same result twice, you get that weirdness just once.                                                                                                                                                                                                                                         |
 | 100   | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |
 
-## Class Talents
+# Class Talents
 
 Choose three of the following class talents.
 
-### Warp Talents
+## Warp Talents
 
 There are three separate Warp talents that you may choose from. They provide random powers or features that surface unpredictably during battles (and perhaps during non-combat moments of high tension).
 
 If a warp talent gives you access to a spell from another class, associate it with chaos magic’s attack category or defense category. You can then cast it if that spell type comes up for you.
 
-#### Attacking Warp
+### Attacking Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be an attack spell. This talent works best for chaos mages with a high Dexterity.
 
@@ -249,7 +249,7 @@ While you are flying due to any effect, you gain a bonus to disengage checks equ
 __Epic Feat__
 When one of your spells or powers lets you teleport to a nearby location, you can instead teleport to a faraway location you can see.
 
-#### Defensive Warp
+### Defensive Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be a defense spell. This talent works best for chaos mages with a high Wisdom.
 
@@ -273,7 +273,7 @@ While you are at maximum hit points, you gain a +1 bonus to all defenses.
 __Epic Feat__
 When an attacker rerolls an attack against you, it takes an attack penalty equal to your Wisdom modifier.
 
-#### Iconic Warp
+### Iconic Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be an iconic spell. This talent works best for chaos mages with a high Intelligence.
 
@@ -297,7 +297,7 @@ When you roll a natural 18–20 on a save, a nearby ally of your choice can roll
 __Epic Feat__
 When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative).
 
-### Separate Existence
+## Separate Existence
 
 You are ever-so-slightly detached from normal physical reality. Play the story side of that as you like; the game mechanics side is that you can cast ranged spells while engaged with enemies without taking opportunity attacks.
 
@@ -307,7 +307,7 @@ While you have an _air_ or _void_ warp effect active, you take no damage from mi
 __Champion Feat__
 When you teleport, you can heal using a recovery.
 
-### Stench of Necromancy
+## Stench of Necromancy
 
 You gain a random spell from the necromancer class. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the day, you know this necromancer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -322,7 +322,7 @@ While you have an _earth_ or _metal_ warp effect active, when an enemy in the ba
 __Epic Feat__
 If you don’t like the first random necromancer spell you select for the day, you can determine another random necromancer spell. You’re stuck with the second one.
 
-### Touch of Wizardry
+## Touch of Wizardry
 
 You gain a random spell from the wizard class. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the day, you know this wizard spell and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -337,7 +337,7 @@ You gain a single daily use of the wizard’s _utility spell_, cast at your leve
 __Epic Feat__
 If you don’t like the first random wizard spell you select for the day, you can determine another random wizard spell. You’re stuck with the second one.
 
-### Trace of the Divine
+## Trace of the Divine
 
 You gain a random spell from the cleric class. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the day, you know this cleric spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -352,7 +352,7 @@ While you have an _air_ or _water_ warp effect active, when you heal using a rec
 __Epic Feat__
 In addition to the random invocation you gain at the start of the day, you also get the talent/domain powers that go with it.
 
-### Whiff of Sorcery
+## Whiff of Sorcery
 
 You gain a random spell from the sorcerer class. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
@@ -365,9 +365,9 @@ While you have an _air_ or _fire_ warp effect active, add fire damage equal to y
 __Epic Feat__
 If you don’t like the first random sorcerer spell you select for the day, you can determine another random sorcerer spell. You’re stuck with the second one.
 
-## Attack Spells (1st Level+)
+# Attack Spells (1st Level+)
 
-#### Force Tentacle
+## Force Tentacle
 
 Ranged spell
 
@@ -401,7 +401,7 @@ __Epic Feat__
 
 One battle per day, you can deal half damage on a natural even miss with this spell.
 
-#### Chaos Ray
+## Chaos Ray
 
 Ranged spell
 
@@ -425,7 +425,7 @@ Once per battle
 
 9th level spell 8d10 damage: 5d12 damage on a miss.
 
-#### Blarrrrgh!
+## Blarrrrgh!
 
 Ranged spell
 
@@ -454,9 +454,9 @@ Daily
 
 9th level spell: 2d8 x 10 damage.
 
-### Defense Spells (1st Level+)
+# Defense Spells (1st Level+)
 
-#### Chaos Blessing
+## Chaos Blessing
 
 Close-quarters spell
 
@@ -492,7 +492,7 @@ __Epic Feat__
 
 The damage dice for the _aura/tentacles_ effect increase by one size (for example, d8s to d10s).
 
-#### Warped Healing
+## Warped Healing
 
 Close-quarters spell
 
@@ -510,15 +510,15 @@ Once per battle
 
 9th level spell: 70 temporary hit points.
 
-### Iconic Spells & Feats
+# Iconic Spells & Feats
 
 In setting up your game universe, you should have a set of icons. Distribute them more or less evenly into the spell groups below according to the theme that matches best (Blood of Warriors, Light of the High Ones, Twisted Path). When the chaos mage rolls a particular icon, they can choose any spell associate that that icon’s group of spells.
 
 Multiple icons should belong to each group. Each group should have at-will spells and at least one per-battle and daily spell.
 
-#### Blood of Warriors
+## Blood of Warriors
 
-##### Castigation (1st level+)
+### Castigation (1st level+)
 
 Close-quarters spell
 
@@ -554,7 +554,7 @@ __Epic Feat__
 
 The spell now deals half damage on a miss.
 
-##### Terribly Spiky Armor (3rd level+)
+### Terribly Spiky Armor (3rd level+)
 
 Ranged spell
 
@@ -568,7 +568,7 @@ Daily
 
 9th level spell: 7d10 damage.
 
-##### Yours! (1st level+)
+### Yours! (1st level+)
 
 Ranged spell
 
@@ -594,7 +594,7 @@ __Epic Feat__
 
 When the target heals using a recovery, it adds hit points equal to 1d10 x the escalation die to that healing.
 
-##### Ours! (1st level+)
+### Ours! (1st level+)
 
 Ranged spell
 
@@ -604,7 +604,7 @@ Daily
 
 **Effect:** The target can heal using a free recovery, adding hit points equal to 1d6 x the escalation die to that healing. Unless you or the target is a dwarf, randomly choose one of the target’s true magic items. You actively gain that item’s quirk until the end of the day.
 
-##### Fiery Claw (1st level+)
+### Fiery Claw (1st level+)
 
 Ranged spell
 
@@ -640,7 +640,7 @@ __Epic Feat__
 
 This spell now deals half damage on a miss.
 
-##### Final Wrath (5th level+)
+### Final Wrath (5th level+)
 
 Ranged spell
 
@@ -668,7 +668,7 @@ __Epic Feat__
 
 This spell now targets 2d3 enemies in a group.
 
-##### War Drums (1st level+)
+### War Drums (1st level+)
 
 Ranged spell
 
@@ -696,7 +696,7 @@ __Epic Feat__
 
 When this spell’s effect deals the extra damage, you can roll a hard save (16+). If you succeed, the _war drums_ keep beating and the effect extends to the next natural odd hit this battle! (And so on if you keep succeeding.)
 
-##### Savage Endings (3rd level+)
+### Savage Endings (3rd level+)
 
 Ranged spell
 
@@ -724,9 +724,9 @@ __Epic Feat__
 
 When you drop one or more non-mook creatures to 0 hp with this spell, you can heal using a free recovery.
 
-#### Light of the High Ones
+## Light of the High Ones
 
-##### Silver Arrows (1st level+)
+### Silver Arrows (1st level+)
 
 Ranged spell
 
@@ -756,7 +756,7 @@ __Epic Feat__
 
 This spell now targets a number of nearby or faraway enemies equal to the escalation die.
 
-##### Cascading Power (5th level+)
+### Cascading Power (5th level+)
 
 Ranged spell
 
@@ -772,7 +772,7 @@ After the damage, roll the escalation die and use the new result.
 
 9th level spell: Damage equal to 2d12 x the escalation die.
 
-##### Shards of Magic (1st level+)
+### Shards of Magic (1st level+)
 
 Ranged spell
 
@@ -808,7 +808,7 @@ __Epic Feat__
 
 A natural even miss now allows you to teleport to a faraway location you can see as a free action.
 
-##### Coronation (3rd level+)
+### Coronation (3rd level+)
 
 Close-quarters spell
 
@@ -828,7 +828,7 @@ __Epic Feat__
 
 When you make a natural even roll with a _coronation_ attack, you can have the target become confused (save ends) instead of taking damage.
 
-##### Bolt and Thunder (1st level+)
+### Bolt and Thunder (1st level+)
 
 Ranged spell
 
@@ -860,7 +860,7 @@ __Epic Feat__
 
 This spell now deals half damage on a miss.
 
-##### The Final Surge (3rd level+)
+### The Final Surge (3rd level+)
 
 Ranged spell
 
@@ -874,9 +874,9 @@ Daily
 
 9th level spell: 2d10 x the number of recoveries.
 
-#### Twisted Path
+## Twisted Path
 
-##### Tortured Scream (1st level+)
+### Tortured Scream (1st level+)
 
 Ranged spell
 
@@ -912,7 +912,7 @@ __Epic Feat__
 
 The first time each battle you miss with this spell, if the escalation die is 3+, you can reroll the attack by having you or your ally lose the same amount of hit points again.
 
-##### Trace of Corruption (1st level+)
+### Trace of Corruption (1st level+)
 
 Ranged spell
 
@@ -922,7 +922,7 @@ Daily
 
 **Effect:** The target rolls a save against each save ends effect affecting it. Then the target can heal using a recovery from a nearby ally (target’s choice, even if that ally isn’t willing).
 
-##### Evil Touch (1st level+)
+### Evil Touch (1st level+)
 
 Close-quarters spell
 
@@ -958,7 +958,7 @@ __Epic Feat__
 
 This spell can now target a nearby enemy.
 
-##### Unsummoning (7th level+)
+### Unsummoning (7th level+)
 
 Ranged spell
 
@@ -984,7 +984,7 @@ __Epic Feat__
 
 You don’t expend the spell when you miss with it.
 
-##### Holy Spark (1st level+)
+### Holy Spark (1st level+)
 
 Ranged spell
 
@@ -1018,7 +1018,7 @@ __Epic Feat__
 
 You can now target a faraway enemy with this spell. In addition, the spell’s damage dice increase by one size from d8s to d10s.
 
-##### Temple Bells (1st level+)
+### Temple Bells (1st level+)
 
 Ranged spell
 
@@ -1048,7 +1048,7 @@ __Epic Feat__
 
 Add 50 hp to the hit point threshold for targets that can be affected.
 
-##### Shadow Dance (1st level+)
+### Shadow Dance (1st level+)
 
 Ranged spell
 
@@ -1078,7 +1078,7 @@ __Epic Feat__
 
 The spell can now target up to three nearby creatures.
 
-##### Step into Shadow (3rd level+)
+### Step into Shadow (3rd level+)
 
 Close-quarters spell
 
@@ -1098,7 +1098,7 @@ __Epic Feat__
 
 If you roll 6+, you gain both effects.
 
-##### Twisted beam (1st level+)
+### Twisted beam (1st level+)
 
 Ranged spell
 
@@ -1134,7 +1134,7 @@ __Epic Feat__
 
 The first save against the ongoing damage from a natural even miss is a hard save (16+). The second and subsequent saves are normal.
 
-##### Ancient Scales (3rd level+)
+### Ancient Scales (3rd level+)
 
 Ranged spell
 
