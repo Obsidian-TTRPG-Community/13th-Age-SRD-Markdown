@@ -395,15 +395,15 @@ __Hit:__ 1d4 + Charisma thunder damage.
 
 9th level spell: 10d4 damage.
 
-Adventurer Feat
+__Adventurer Feat__
 
 Your *battle chant* damage dice are now d6s instead of d4s.
 
-Champion Feat
+__Champion Feat__
 
 Once per day, you can expend one of your recoveries to reroll a *battle chant* attack roll.
 
-Epic Feat
+__Epic Feat__
 
 One battle per day, your *battle chant* damage dice become d10s.
 
@@ -429,15 +429,15 @@ __Natural Even Miss:__ The target is dazed until the end of your next turn.
 
 9th level spell: Target with 266 hp or fewer.
 
-Adventurer Feat
+__Adventurer Feat__
 
 Recharge check is now 6+.
 
-Champion Feat
+__Champion Feat__
 
 The target of the spell doesn’t have to be nearby, just in line of sight.
 
-Epic Feat
+__Epic Feat__
 
 On a hit, the confusion effect is now save ends.
 
@@ -487,15 +487,15 @@ __Miss:__ Half damage, and deal thunder damage equal to your level to each of yo
 
 9th level spell: 3d6 x 10 damage.
 
-Adventurer Feat
+__Adventurer Feat__
 
 On a natural even hit, the dazed effect is now save ends.
 
-Champion Feat
+__Champion Feat__
 
 The spell is now recharge 16+ after battle instead of daily.
 
-Epic Feat
+__Epic Feat__
 
 You can now target 1d4 + 1 enemies in a group with the spell.
 
@@ -509,15 +509,15 @@ __Triggering Roll:__ Natural odd roll
 
 __Effect:__ Give a nearby ally temporary hit points equal to your Charisma modifier.
 
-Adventurer Feat
+__Adventurer Feat__
 
 If the ally is staggered, double the temporary hit points.
 
-Champion Feat
+__Champion Feat__
 
 Add your level to the temporary hit points given (add before any doubling).
 
-Epic Feat
+__Epic Feat__
 
 You can choose yourself instead of an ally as the target of the battle cry.
 
@@ -529,15 +529,15 @@ __Triggering Roll:__ Natural even miss
 
 __Effect:__ This battle, your next ally to attack the target you missed gains a +2 attack bonus with that attack.
 
-Adventurer Feat
+__Adventurer Feat__
 
 That ally’s attack also deals +1d6 damage.
 
-Champion Feat
+__Champion Feat__
 
 The damage bonus increases to +3d6.
 
-Epic Feat
+__Epic Feat__
 
 The damage bonus increases to +3d12.
 
@@ -593,11 +593,11 @@ __Final Verse:__ Make the attack again, but this time it deals half damage on a 
 
 9th level song: 10d12 damage.
 
-Champion Feat
+__Champion Feat__
 
 The number of targets increases to 2d4.
 
-Epic Feat
+__Epic Feat__
 
 Two of the targets can now be far away instead of nearby.
 
@@ -623,15 +623,15 @@ __Miss:__ Damage equal to your level.
 
 9th level spell: 2d8 x 10 damage.
 
-Adventurer Feat
+__Adventurer Feat__
 
 On a hit, the effect that damages the target when it misses is now save ends.
 
-Champion Feat
+__Champion Feat__
 
 Recharge check is now 6+.
 
-Epic Feat
+__Epic Feat__
 
 A natural even miss does not expend the spell.
 
@@ -651,15 +651,15 @@ __Effect:__ Each target can heal using a recovery.
 
 9th level spell: Add +25 hp to the recovery.
 
-Adventurer Feat
+__Adventurer Feat__
 
 The spell is now recharge 16+ after battle instead of daily.
 
-Champion Feat
+__Champion Feat__
 
 Add a third random target.
 
-Epic Feat
+__Epic Feat__
 
 The recoveries the targets use are now free.
 
@@ -681,11 +681,11 @@ __Triggering Roll:__ Natural 16+ if the escalation die is 5+; otherwise natural 
 
 __Effect:__ A nearby ally can heal using a recovery, and three nearby allies gain a +3d6 damage bonus to their next damage roll this battle.
 
-Champion Feat
+__Champion Feat__
 
 The battle cry can now trigger when the escalation die is 3+ instead of 5+.
 
-Epic Feat
+__Epic Feat__
 
 The damage bonus is now +3d12.
 
