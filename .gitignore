@@ -14,4 +14,4 @@ Other/
 .vscode
 .eslint
 .prettierrc
-.idea
+/.idea/
