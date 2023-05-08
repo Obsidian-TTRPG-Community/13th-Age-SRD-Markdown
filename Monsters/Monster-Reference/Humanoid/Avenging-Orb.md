@@ -1,6 +1,6 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
 ac: 17
-cr: 2
+aliases: 
 created: 2023-05-07
 description: 
 hp: 
@@ -9,7 +9,7 @@ level:
 modifier: 
 publish: 
 tags: []
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Avenging Orb
@@ -62,4 +62,3 @@ they’ll survive the attack and be able to choose more targets for the
 </tr>
 </tbody>
 </table>
-

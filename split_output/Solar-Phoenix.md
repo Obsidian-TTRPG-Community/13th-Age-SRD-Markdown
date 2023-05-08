@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Solar Phoenix
@@ -97,4 +101,3 @@ All pixies have the *glamour* ability.
 *Glamour*: Outside of combat, pixies can create complex illusions at  
 will. For the PC, it’s usually a normal or hard skill check to sort out  
 what’s real.
-

@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Frogspawn Old-One
@@ -90,4 +94,3 @@ ongoing poison damage
 
 **C: Piercing shriek 5 + level vs. PD (1d3 nearby enemies)—**4 + level  
 psychic damage
-

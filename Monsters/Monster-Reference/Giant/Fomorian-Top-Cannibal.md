@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Fomorian Top-Cannibal
@@ -164,4 +168,3 @@ that creature is drained of all color and can no longer perceive color.
 While under this effect, the creature takes a –4 penalty to social skill  
 checks and a –1 penalty to saves. Restoring color to the creature  
 requires a quest involving walking a sacred labyrinth.
-

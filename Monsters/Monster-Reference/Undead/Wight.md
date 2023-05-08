@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 21
+aliases: ["Wight"]
 created: 2023-05-07
 description: 
+hp: 48
 image: 
+level: 4 
+modifier: 7
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Mook]
+updated: 2023-05-08
 ---
 
 ## Wight

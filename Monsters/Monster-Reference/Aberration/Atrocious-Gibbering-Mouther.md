@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 22
+aliases: [Atrocious Gibbering Mouther]
 created: 2023-05-07
 description: 
+hp: 180
 image: 
+level: 6
+modifier: 8
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Aberration]
+updated: 2023-05-08
 ---
 
 ## Atrocious Gibbering Mouther
@@ -69,11 +73,3 @@ half its full hit points.</p></td>
 </tr>
 </tbody>
 </table>
-
-## Gnoll
-
-<u>Nastier Special for all gnolls:</u>
-
-*Blood fury:* +1d10 melee damage if the gnoll or its target is  
-staggered.
-

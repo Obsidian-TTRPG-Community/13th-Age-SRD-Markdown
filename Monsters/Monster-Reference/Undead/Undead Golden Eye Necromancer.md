@@ -1,11 +1,15 @@
 ---
-aliases: []
+ac: 24
+aliases: ["Undead Golden Eye Necromancer"]
 created: 2023-05-03
 description: 
+hp: 452
 image: 
+level: 8
+modifier: 18
 publish: 
-tags: []
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Caster]
+updated: 2023-05-08
 ---
 
 ## Golden Eye Necromancer

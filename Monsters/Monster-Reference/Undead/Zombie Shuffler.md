@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 14
+aliases: ["Zombie Shuffler"]
 created: 2023-05-07
 description: 
+hp: 10
 image: 
+level: 1 
+modifier: 0
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Mook]
+updated: 2023-05-08
 ---
 
 ## Zombie Shuffler
@@ -47,4 +51,3 @@ triple damage instead of the normal double damage for a crit.</p></td>
 </tr>
 </tbody>
 </table>
-

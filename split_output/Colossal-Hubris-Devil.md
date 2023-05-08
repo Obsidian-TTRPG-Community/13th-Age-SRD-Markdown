@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %><%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Colossal Hubris Devil
@@ -132,4 +136,3 @@ good their escape).
 *cunning escape* at epic tier, and though their plans are ruined by  
 their defeat they’ll return one last time to exact their vengeance upon  
 the party.
-

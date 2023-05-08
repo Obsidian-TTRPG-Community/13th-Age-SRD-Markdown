@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Most Hungry Ghost
@@ -67,4 +71,3 @@ bites a character, that PC immediately loses a recovery. If they run out
 of recoveries before their next full heal-up, that character must start  
 making last gasp saves at the start of each battle. If the character  
 fails their fourth last gasp save this way, they turn into a ghoul.
-

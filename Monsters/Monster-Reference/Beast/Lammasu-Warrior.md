@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Lammasu Warrior
@@ -59,4 +63,3 @@ with a melee attack, that enemy takes 2d10 damage.</p></td>
 </tr>
 </tbody>
 </table>
-

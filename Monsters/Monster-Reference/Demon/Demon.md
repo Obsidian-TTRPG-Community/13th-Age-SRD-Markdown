@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: [Demon]
 created: 2023-05-03
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: [13A/Bestiary/Demon]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Demon
@@ -24,4 +28,3 @@ When a demon has an ability, roll 1d6 or 1d8 (GM’s choice) on the table below 
 | 6 	| Teleport 	| `dice: 1d3` times per battle, as a move action, the demon can teleport anywhere it can see nearby. 	|  
 | 7 	| Demonic speed 	| The demon can take an extra action each turn while the escalation die is 4+. 	|  
 | 8 	| Gate 	| Once per battle as a standard action, if the demon is staggered, it can summon a single demon ally at least two levels below its own level. The allied demon rolls initiative and does not appear on the battlefield until its turn starts. 	|
-

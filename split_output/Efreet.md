@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Efreet
@@ -135,4 +139,3 @@ unnoticed unless the ghost is somewhere abnormal!
 **Exceptions:** This is more of a special effect of ghost stories than  
 part of a creature’s combat abilities, and you can safely ignore it  
 unless you find telling moments when it adds to the game.
-

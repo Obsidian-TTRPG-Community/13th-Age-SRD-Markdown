@@ -1,4 +1,4 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
 ac: 24
 aliases: [Living Golden Eye Necromancer]
 created: 2023-05-03
@@ -9,7 +9,7 @@ level: 8
 modifier: 18
 publish: 
 tags: [13A/Bestiary/Humanoid, 13A/Monsters/Type/Caster]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Golden Eye Necromancer

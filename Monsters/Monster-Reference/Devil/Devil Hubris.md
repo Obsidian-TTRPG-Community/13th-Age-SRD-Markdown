@@ -1,3 +1,16 @@
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: 
+created: 2023-05-08
+description: 
+hp: 
+image: 
+level: 
+modifier: 
+publish: 
+updated: 2023-05-08
+---
+
 ## Devil, Hubris
 
 <u>Nastier Specials for all hubris devils</u>
@@ -67,4 +80,3 @@ might be restored. Some examples:
 
 - The devils immediately barter the soul shard to an enemy icon, leading  
   to an entirely new set of quests and complications.
-

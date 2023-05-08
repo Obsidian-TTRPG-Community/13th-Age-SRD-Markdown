@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Tribal Minotaur Berserker
@@ -141,4 +145,3 @@ a round, or even an effect that was supposed to last until the end of
 the battle. Use your sense of what is magical and what isn’t: a bard’s  
 song is clearly magical, but a rogue’s Shadow Walk talent probably  
 isn’t, despite the wizard’s arguments that it *should* be.
-

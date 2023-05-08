@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Hungry Mouth Ghost"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Hungry Mouth Ghost
@@ -58,4 +62,3 @@ enemies with fewer than 30 hit points.</p></td>
 </tr>
 </tbody>
 </table>
-

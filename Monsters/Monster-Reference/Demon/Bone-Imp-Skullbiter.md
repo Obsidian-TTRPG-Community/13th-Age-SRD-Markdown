@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Bone Imp Skullbiter
@@ -118,4 +122,3 @@ thorn-pierced hands grab at them.
 do so for the duration of this battle. PCs who cannot normally resist  
 fear take a –2 penalty to their saves whenever they are affected by  
 fear.
-

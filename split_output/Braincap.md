@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: [Braincap]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Braincap
@@ -59,4 +63,3 @@ attacks.</p></td>
 </tr>
 </tbody>
 </table>
-

@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Shadow Mongoose Subverter of Fate"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Shadow Mongoose Subverter of Fate
@@ -85,4 +89,3 @@ it deals double damage with its next attack, hit or miss.</p></td>
 </tr>
 </tbody>
 </table>
-

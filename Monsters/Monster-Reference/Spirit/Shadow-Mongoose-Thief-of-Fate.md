@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Shadow Mongoose Thief of Fate"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Shadow Mongoose Thief of Fate
@@ -84,12 +88,3 @@ it deals double damage with its next attack, hit or miss.</p></td>
 </tr>
 </tbody>
 </table>
-
-## Skeleton
-
-<u>For all skeletons</u>
-
-*Resist weapons 16+:* When a weapon attack targets this creature, the  
-attacker must roll a natural 16+ on the attack roll or it only deals  
-half damage.
-
