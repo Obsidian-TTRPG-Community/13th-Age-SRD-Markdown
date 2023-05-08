@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Ghoul Fleshripper"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Ghoul Fleshripper
@@ -48,4 +52,3 @@ consumed will rise as a ghoul the next night.</p></td>
 </tr>
 </tbody>
 </table>
-

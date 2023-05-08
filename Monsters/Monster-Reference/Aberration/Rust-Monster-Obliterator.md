@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Aberration]
+updated: 2023-05-08
 ---
 
 ## Rust Monster Obliterator
@@ -77,4 +81,3 @@ staggered, it must roll a hard save (16+) instead.</p></td>
 </tr>
 </tbody>
 </table>
-

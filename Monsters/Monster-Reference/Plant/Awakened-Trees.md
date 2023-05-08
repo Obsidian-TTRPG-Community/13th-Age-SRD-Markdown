@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: ["Awakened Trees"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 13A/Bestiary/Plant, 13A/Monsters/Type/Mook
-updated: 2023-05-07
+tags: [13A/Bestiary/Plant, 13A/Monsters/Type/Mook]
+updated: 2023-05-08
 ---
 
 ## Awakened Trees
@@ -46,4 +50,3 @@ damages it normally.</p></td>
 </tr>
 </tbody>
 </table>
-

@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Treant Titan
@@ -95,4 +99,3 @@ humanoid can ignore all *trog stench* for the rest of the battle.
 | Half-orcs, dragonics                                      | -2           |
 | Dwarves                                                   | -1           |
 | Forgeborn                                                 | 0            |
-

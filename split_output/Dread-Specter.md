@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Dread Specter
@@ -149,4 +153,3 @@ confused only once per battle from this effect.
 **10. Steal the momentum.** The star-mask hive mind temporarily steals  
 the escalation die; this round, so the monsters get the benefit of the  
 die and the adventurers don’t.
-

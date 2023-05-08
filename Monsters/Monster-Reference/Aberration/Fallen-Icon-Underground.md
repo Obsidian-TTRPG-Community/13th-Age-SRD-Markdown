@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Aberration]
+updated: 2023-05-08
 ---
 
 ## Fallen Icon – Underground
@@ -137,4 +141,3 @@ warriors, thieves, and hunters. They have a higher Physical Defense
 
 *Path of Song:* Magically-inclined, these fauns are usually bards,  
 magicians, priests, or druids. They have a higher Mental Defense (MD).
-

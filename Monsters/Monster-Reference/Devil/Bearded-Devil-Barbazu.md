@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 23
+aliases: ["Bearded Devil Barbazu"]
 created: 2023-05-07
 description: 
+hp: 200
 image: 
+level: 6
+modifier: 8
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Blocker]
+updated: 2023-05-08
 ---
 
 ## Bearded Devil (Barbazu)
@@ -68,4 +72,3 @@ beard</em> attack now takes 10 ongoing poison damage and is weakened
 </tr>
 </tbody>
 </table>
-

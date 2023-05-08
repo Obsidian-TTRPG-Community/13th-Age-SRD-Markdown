@@ -1,4 +1,4 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
 ac: 18
 aliases: [Archer Stirge]
 created: 2023-05-07
@@ -9,7 +9,7 @@ level: 1
 modifier: 6
 publish: 
 tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Archer]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Archer Stirge
@@ -52,4 +52,3 @@ normal stirge, but on louder wings.</p></td>
 </tr>
 </tbody>
 </table>
-

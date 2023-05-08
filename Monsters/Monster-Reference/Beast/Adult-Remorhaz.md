@@ -1,4 +1,4 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
 ac: 24
 aliases: ["Adult Remorhaz"]
 created: 2023-05-07
@@ -9,7 +9,7 @@ level: 8
 modifier: 
 publish: 
 tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Wrecker]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Adult Remorhaz
@@ -75,4 +75,3 @@ heat.</p></td>
 </tr>
 </tbody>
 </table>
-

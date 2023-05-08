@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 24
+aliases: ["Barbed Devil Hamatula"]
 created: 2023-05-07
 description: 
+hp: 175
 image: 
+level: 10
+modifier: 16 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Caster]
+updated: 2023-05-08
 ---
 
 ## Barbed Devil (Hamatula)
@@ -69,4 +73,3 @@ half damage.</p></td>
 </tr>
 </tbody>
 </table>
-

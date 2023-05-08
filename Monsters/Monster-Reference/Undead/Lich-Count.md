@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Lich Count"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Lich Count
@@ -75,4 +79,3 @@ escalation die to its attacks.</p></td>
 </tr>
 </tbody>
 </table>
-

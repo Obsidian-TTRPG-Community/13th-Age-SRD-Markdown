@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Fallen Icon – Nature
@@ -125,4 +129,3 @@ militant ranger squad; 5: opportunistic orc band; 6: treant avenger.
 Remember that starting a battle with these mooks in play makes the  
 Fallen Icon tougher thanks to the defense bonus that’s part of *those  
 that walk the forest*.
-

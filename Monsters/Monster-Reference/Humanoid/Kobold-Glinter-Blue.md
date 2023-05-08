@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Kobold Glinter (Blue)
@@ -89,4 +93,3 @@ water, so diving into a lake or river is a poor defense against them.
 It is assumed (although no one is entirely sure) that they are capable  
 of communicating with others of their species at greater distances, as  
 when one is in trouble, others are sure to appear—eventually.
-

@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Pit Fiend
@@ -87,4 +91,3 @@ deal with them. In the case of Fang Devil, it’s a localized threat
 within one river at a time at 7<sup>th</sup> level. When it becomes a  
 multiplying group of 10<sup>th</sup> level creatures, it could spread  
 out wherever the campaign requires it.
-

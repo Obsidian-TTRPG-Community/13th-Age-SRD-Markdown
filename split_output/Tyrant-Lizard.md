@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Tyrant Lizard
@@ -67,4 +71,3 @@ place. Their branches can likewise worm their way into spaces in walls,
 doors, and gates, and with steady pressure they can pull down most  
 human-made structures. This slow-motion destruction takes minutes for  
 the simplest efforts and hours for major demolition.
-

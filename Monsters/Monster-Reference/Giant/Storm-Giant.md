@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Storm Giant
@@ -88,4 +92,3 @@ attacks.
 *Ooze:* The gibbering mouther is immune to effects. When an attack  
 applies a condition to a gibbering mouther (dazed, hampered, weakened,  
 ongoing damage, etc.), that condition doesn’t affect it.
-

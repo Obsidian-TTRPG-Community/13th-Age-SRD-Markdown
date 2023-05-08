@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %><%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Elder Couatl
@@ -89,4 +93,3 @@ below to determine what it is.
 | 6        | Teleport          | 1d3 times per battle, as a move action, the demon can teleport anywhere it can see nearby.                                                                                                                                                  |
 | 7        | Demonic speed     | The demon can take an extra action each turn while the escalation die is 4+.                                                                                                                                                                |
 | 8        | Gate              | Once per battle as a standard action, if the demon is staggered, it can summon a single demon ally at least two levels below its own level. The allied demon rolls initiative and does not appear on the battlefield until its turn starts. |
-

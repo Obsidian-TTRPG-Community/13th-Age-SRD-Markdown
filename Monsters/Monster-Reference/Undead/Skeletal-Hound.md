@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Skeletal Hound"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Skeletal Hound
@@ -50,4 +54,3 @@ Roll a normal save; on 11+, it succeeds.</p></td>
 </tr>
 </tbody>
 </table>
-

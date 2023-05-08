@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 17
+aliases: ["Zombie of the Silver Rose"]
 created: 2023-05-07
 description: 
+hp: 20
 image: 
+level: 4 
+modifier: 7
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Mook]
+updated: 2023-05-08
 ---
 
 ## Zombie of the Silver Rose
@@ -60,4 +64,3 @@ the number of Silver Rose zombies in the battle.</p></td>
 </tr>
 </tbody>
 </table>
-

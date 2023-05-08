@@ -1,4 +1,4 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
 ac: 14
 aliases: [Giant Ant]
 created: 2023-05-01
@@ -9,7 +9,7 @@ level: 0
 modifier: 0
 publish: 
 tags: [13A/Bestiary/Beast]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Giant Ant
@@ -97,4 +97,3 @@ nastier_traits:
 description: ""
 ```
 ````
-

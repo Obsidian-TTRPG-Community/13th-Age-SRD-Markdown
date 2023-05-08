@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 14
+aliases: ["Zombie Beast"]
 created: 2023-05-07
 description: 
+hp: 110
 image: 
+level: 2
+modifier: 1
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Troop]
+updated: 2023-05-08
 ---
 
 ## Zombie Beast
@@ -56,4 +60,3 @@ damage</p></td>
 </tr>
 </tbody>
 </table>
-
