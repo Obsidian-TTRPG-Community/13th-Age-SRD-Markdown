@@ -1,32 +1,32 @@
 ---
-aliases: Rogue
+aliases: [Rogue]
 created: 2023-05-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Classes/Rogue]
-updated: 2023-05-13
+updated: 2023-05-07
 ---
 
-## Rogue
+# Rogue
 
-### Ability Scores
+## Ability Scores
 
 Rogues gain a +2 class bonus to Dexterity or Charisma, as long as it isn’t the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Backgrounds
 
 Possible backgrounds include: street thug, cat burglar, diplomat, professional gambler, courtier, jewel thief, acrobat, con artist, bartender, spy master, pirate, dandy, rat catcher.
 
-### Gear
+## Gear
 
 At 1st level, rogues start with the clothes on their back and the dice in their pockets. They also start with various bladed weapons and some armor. Plus various oddments suggested by their backgrounds.
 
-#### Gold Pieces
+### Gold Pieces
 
 Rogues may start with either 25 gp or 1d6 x 10 gp.
 
-#### Armor
+### Armor
 
 | Armor Type | Base AC | Atk Penalty |
 |------------|---------|-------------|
@@ -35,7 +35,7 @@ Rogues may start with either 25 gp or 1d6 x 10 gp.
 | Heavy      | 13      | –2          |
 | Shield     | 1       | -2          |
 
-#### Melee Weapons
+### Melee Weapons
 
 |                  | One-Handed                       | Two-Handed               |
 |------------------|----------------------------------|--------------------------|
@@ -43,7 +43,7 @@ Rogues may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d8 shortsword, wicked knife     | 1d8 spear                |
 | Heavy or Martial | 1d8 (-2 atk) longsword, scimitar | 1d10 (-2 atk) greatsword |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 |                  | Thrown           | Crossbow                    | Bow                  |
 |------------------|------------------|-----------------------------|----------------------|
@@ -51,7 +51,7 @@ Rogues may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d6 javelin, axe | 1d6 light crossbow          | 1d6 shortbow         |
 | Heavy or Martial | —                | 1d8 (–1 atk) heavy crossbow | 1d8 (-2 atk) longbow |
 
-### Level Progression
+## Level Progression
 
 | Rogue Level        | Total Hit Points           | Total Feats                    | Powers Known (M) | Power Pool Available (M) | Level-up Ability Bonuses | Damage Bonus From Ability Score |
 |--------------------|----------------------------|--------------------------------|------------------|--------------------------|--------------------------|---------------------------------|
@@ -71,7 +71,7 @@ Note: Although not listed on the table, this class gets three talents. It does n
 
 (M): Indicates columns in which multiclass characters lag one level behind.
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -89,29 +89,27 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Talents                   | 3                                                            |
 | Feats                     | 1 per Level                                                  |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
-
-At-Will  
-**Target:** One enemy  
-**Attack:** Dexterity + Level vs. AC  
-**Hit:** WEAPON + Dexterity damage  
+### Melee attack
+At-Will
+**Target:** One enemy
+**Attack:** Dexterity + Level vs. AC
+**Hit:** WEAPON + Dexterity damage
 **Miss:** Damage equal to your level
 
-#### Ranged Attack
-
-At-Will  
-**Target:** One enemy  
-**Attack:** Dexterity + Level vs. AC  
-**Hit:** WEAPON + Dexterity damage  
+### Ranged attack
+At-Will
+**Target:** One enemy
+**Attack:** Dexterity + Level vs. AC
+**Hit:** WEAPON + Dexterity damage
 **Miss:** Damage equal to your level
 
-### Class Features
+## Class Features
 
 All rogues fight better when they gain momentum, are good at stabbing enemies in the back, and have a knack for avoiding the traps that their clueless allies would stumble into.
 
-#### Momentum
+### Momentum
 
 Many of the rogue’s powers function only when the rogue has momentum.
 
@@ -123,7 +121,7 @@ The default is that you can use momentum powers without losing momentum, but a f
 
 Momentum powers that do not require you to spend your momentum are generally classified as interrupt actions. You can only use one interrupt action a round, which keeps your momentum powers from dominating the battle.
 
-#### Sneak Attack
+### Sneak Attack
 
 Once per round when you make a rogue melee weapon attack against an enemy engaged with one or more of your allies, you can deal extra damage if your attack hits.
 
@@ -136,57 +134,57 @@ Once per round when you make a rogue melee weapon attack against an enemy engage
 | 8           | +5d6         |
 | 10          | +7d6         |
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your Sneak Attack feature also works the first round of combat against enemies with a lower initiative than you.
 
-##### Champion Feat
+#### Champion Feat
 
 Your Sneak Attack feature also works against enemies who are confused, dazed, stunned, vulnerable to your attack, or weakened.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per battle when you miss with an attack that would have allowed you to deal Sneak Attack damage, replace the normal miss damage with your full Sneak Attack damage.
 
-#### Trap Sense
+### Trap Sense
 
 Even rogues whose backgrounds don’t have anything to do with noticing, avoiding, or disarming traps have a unique knack for dealing with traps.
 
 If a rogue’s skill check involving a trap is a natural even failure, the rogue can reroll the skill check once. If a trap’s attack roll against a rogue is a natural odd roll, the rogue can force the trap to reroll the attack once.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The trap attack reroll can also apply to a nearby ally of the rogue as the rogue shouts a warning or acts to prevent the trap from hitting.
 
-##### Champion Feat
+#### Champion Feat
 
 You gain a +3 bonus to skill check rerolls you make against traps.
 
-##### Epic Feat
+#### Epic Feat
 
 You only take half damage from trap attacks.
 
-### Class Talents
+## Class Talents
 
 Choose three of the following class talents.
 
-#### Cunning
+### Cunning
 
-You can use your Intelligence in place of your Charisma for any rogue attacks, talents, or powers that use Charisma (e.g. *shadow walk* and *slick feint*). You also gain two extra points of backgrounds to spend on knowledge-related backgrounds and gain a +2 bonus to skill checks involving traps.
+You can use your Intelligence in place of your Charisma for any rogue attacks, talents, or powers that use Charisma (e.g. _shadow walk_ and _slick feint_). You also gain two extra points of backgrounds to spend on knowledge-related backgrounds and gain a +2 bonus to skill checks involving traps.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain a +1 bonus to Mental Defense.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle, reroll a save against an effect from an attack that originally hit your Mental Defense.
 
-##### Epic Feat
+#### Epic Feat
 
 Your once-per-battle save reroll is now once per save.
 
-#### Improved Sneak Attack
+### Improved Sneak Attack
 
 Your Sneak Attack damage is better than other rogues. Use the following Sneak Attack bonus damage progression instead.
 
@@ -199,37 +197,37 @@ Your Sneak Attack damage is better than other rogues. Use the following Sneak At
 | 8           | +5d8         |
 | 10          | +7d8         |
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Once per day as a free action, you can add your Sneak Attack damage to any hit against one target that would not otherwise have qualified for the damage.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per day, roll d20s for your Sneak Attack damage instead of d8s.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day, ignore the limitation that you can use Sneak Attack damage only once per round.
 
-#### Murderous
+### Murderous
 
 Against staggered enemies, your crit range with rogue attacks expands by 2.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain a +2 attack bonus against staggered enemies.
 
-##### Champion Feat
+#### Champion Feat
 
 Your crit range against staggered enemies expands by 2 (now +4).
 
-##### Epic Feat
+#### Epic Feat
 
 Whenever a staggered enemy misses you with a melee attack, it’s vulnerable to your attacks for the rest of the battle.
 
-#### Shadow Walk
+### Shadow Walk
 
-You gain the *shadow walk* at-will power:
+You gain the _shadow walk_ at-will power:
 
 As a move action before you have used your standard action this turn, if you are not engaged, you can make the following “attack” against all nearby enemies, targeting the enemy among them with the highest Mental Defense.
 
@@ -237,77 +235,77 @@ As a move action before you have used your standard action this turn, if you are
 
 **Hit:** Remove yourself from play. At the start of your next turn, return anywhere nearby that you could have moved to normally during your turn, and deal double damage with your first rogue attack that turn.
 
-**Miss:** No effect. You can’t attempt to *shadow walk* again until your next turn, but you still have your standard action this turn.
+**Miss:** No effect. You can’t attempt to _shadow walk_ again until your next turn, but you still have your standard action this turn.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
-On a miss, you can still use your move action normally (but still can’t *shadow walk* this turn).
+On a miss, you can still use your move action normally (but still can’t _shadow walk_ this turn).
 
-##### Champion Feat
+#### Champion Feat
 
-Twice per day, you can reroll the rogue attack that follows your successful use of *shadow walk*.
+Twice per day, you can reroll the rogue attack that follows your successful use of _shadow walk_.
 
-##### Epic Feat
+#### Epic Feat
 
-Twice per day, you can reappear from your *shadow walk* in a nearby location you wouldn’t have been able to reach unimpeded physically, for instance, on the other side of a portcullis or door, or high up a wall.
+Twice per day, you can reappear from your _shadow walk_ in a nearby location you wouldn’t have been able to reach unimpeded physically, for instance, on the other side of a portcullis or door, or high up a wall.
 
-#### Smooth Talk
+### Smooth Talk
 
 Once per day, convince your GM with an amazing line of patter while you are using social skills to speak or interact with NPCs associated with a particular icon. If the GM is convinced by your patter, roll a normal save (11+). If you succeed, for the rest of the day you can function as if you have a 2-point positive relationship with the icon who seems to be in play. Thanks to your amazing gift of gab, for a short time, it’s more or less true. (Note that these points replace any points you normally have with the icon rather than adding to them.)
 
 Failure on the Smooth Talk save generally arouses suspicions.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Add your Charisma modifier to your Smooth Talk save rolls.
 
-##### Champion Feat
+#### Champion Feat
 
 Success with your Smooth Talk talent gives you a 3-point positive relationship instead.
 
-##### Epic Feat
+#### Epic Feat
 
 Even if you fail your Smooth Talk save, you get a 2-point conflicted relationship with the icon because the people you’re speaking with can’t be sure.
 
-#### Swashbuckle
+### Swashbuckle
 
 Once per battle as a quick action, you can spend your momentum to pull off a daring stunt the likes of which others could scarcely conceive. You may make an attack as part of the stunt, but you’ll need to roll normally for the attack. This is an improvisational talent.
 
 As a swashbuckler, you do not need a difficult skill check to pull the stunt off.
 
-#### Thievery
+### Thievery
 
 You have the Thief background at its full possible bonus of +5, without having to spend your normal background points on it.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
-Regardless of your level, you gain the bonus power *thief’s strike* in addition to your normal number of powers.
+Regardless of your level, you gain the bonus power _thief’s strike_ in addition to your normal number of powers.
 
-##### Champion Feat
+#### Champion Feat
 
-Once per day, you can deal full damage with *thief’s strike* instead of half damage.
+Once per day, you can deal full damage with _thief’s strike_ instead of half damage.
 
-##### Epic Feat
+#### Epic Feat
 
-Twice per level, you can steal something with a successful *thief’s strike* that you would not be able to steal ordinarily, but that would require a bit of magic, e.g. a dream, a spell, someone’s hope, a memory. The theft probably isn’t going to be permanent, but it should last at least a day or two. You can’t steal the same thing twice.
+Twice per level, you can steal something with a successful _thief’s strike_ that you would not be able to steal ordinarily, but that would require a bit of magic, e.g. a dream, a spell, someone’s hope, a memory. The theft probably isn’t going to be permanent, but it should last at least a day or two. You can’t steal the same thing twice.
 
-#### Tumble
+### Tumble
 
 You gain a +5 bonus to disengage checks. In addition, while you are moving, if an enemy moves to intercept you, you can make one disengage roll per intercepting enemy as a free action to avoid that enemy, but you must stop the first time you fail any of those disengage checks.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You ignore the penalty for disengaging from more than one enemy at a time.
 
-##### Champion Feat
+#### Champion Feat
 
 One battle per day as a free action, you can declare that you’re a tumbling fool and automatically succeed on your first disengage check each turn.
 
-##### Epic Feat
+#### Epic Feat
 
 Whenever you take critical hit damage, roll a hard save (16+). If you succeed, you somehow tumbled out of the way of whatever was about to hit you, and instead only take damage equal to the attacker’s level.
 
-### 1st Level Powers
+## 1st Level Powers
 
 Evasive Strike
 
@@ -323,19 +321,19 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-#### Adventurer Feat
+### Adventurer Feat
 
-If you drop the target with your *evasive strike* attack, you can pop free from all enemies instead.
+If you drop the target with your _evasive strike_ attack, you can pop free from all enemies instead.
 
-#### Champion Feat
+### Champion Feat
 
-If you hit with *evasive strike* and the natural attack roll was even, you gain a +2 bonus to AC and PD against the next attack that targets you this battle (no joy if it’s an attack vs. MD).
+If you hit with _evasive strike_ and the natural attack roll was even, you gain a +2 bonus to AC and PD against the next attack that targets you this battle (no joy if it’s an attack vs. MD).
 
-#### Epic Feat
+### Epic Feat
 
 Ok. Thanks to your slippery mind, the champion feat benefit also provides a +2 bonus to MD.
 
-### Deadly Thrust
+## Deadly Thrust
 
 Melee attack
 
@@ -349,19 +347,19 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-#### Adventurer Feat
+### Adventurer Feat
 
 Add your Strength modifier to the miss damage.
 
-#### Champion Feat
+### Champion Feat
 
-You can now target mooks with *deadly thrust*.
+You can now target mooks with _deadly thrust_.
 
-#### Epic Feat
+### Epic Feat
 
 If you don’t add your Sneak Attack damage to the attack, you also deal damage equal to five times your Strength modifier to your deadly thrust target when you hit.
 
-### Flying Blade
+## Flying Blade
 
 Ranged attack
 
@@ -377,19 +375,19 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-#### Adventurer Feat
+### Adventurer Feat
 
-If you score a critical hit with *flying blade*, the target is also dazed (–4 attack) until the end of your next turn.
+If you score a critical hit with _flying blade_, the target is also dazed (–4 attack) until the end of your next turn.
 
-#### Champion Feat
+### Champion Feat
 
-As long as one of your allies is engaged with the target, your *flying blade* attack rolls no longer need to be even to add your Sneak Attack damage.
+As long as one of your allies is engaged with the target, your _flying blade_ attack rolls no longer need to be even to add your Sneak Attack damage.
 
-#### Epic Feat
+### Epic Feat
 
-You can use *flying blade* with any ranged weapon.
+You can use _flying blade_ with any ranged weapon.
 
-### Roll With It
+## Roll With It
 
 Momentum power
 
@@ -401,19 +399,19 @@ Trigger: A melee attack that targets AC hits you.
 
 **Effect:** You take half damage from that attack.
 
-#### Adventurer Feat
+### Adventurer Feat
 
 The power also triggers on an attack against PD.
 
-#### Champion Feat
+### Champion Feat
 
 The power also triggers on a ranged attack.
 
-#### Epic Feat
+### Epic Feat
 
 Once per day, you can use roll with it to take damage equal to the attacker’s level instead of half damage.
 
-### Sure Cut
+## Sure Cut
 
 Melee attack
 
@@ -429,11 +427,11 @@ At-Will
 
 **Miss:** Deal your Sneak Attack damage + damage equal to your level.
 
-#### Champion Feat
+### Champion Feat
 
-Missing with *sure cut* no longer counts as a use of Sneak Attack for the round.
+Missing with _sure cut_ no longer counts as a use of Sneak Attack for the round.
 
-### Tumbling Strike
+## Tumbling Strike
 
 Melee attack
 
@@ -447,9 +445,9 @@ Always: You gain a +5 bonus to all disengage checks you attempt this turn. You c
 
 **Miss:** Damage equal to your level.
 
-### 3rd Level Powers
+## 3rd Level Powers
 
-#### Bleeding Strike
+### Bleeding Strike
 
 Melee attack
 
@@ -463,19 +461,19 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The ongoing damage against large or huge targets increases to 1d6 times your level.
 
-##### Champion Feat
+#### Champion Feat
 
 A natural even miss also deals ongoing damage equal to your level.
 
-##### Epic Feat
+#### Epic Feat
 
-You can now use *bleeding strike* against enemies taking ongoing damage.
+You can now use _bleeding strike_ against enemies taking ongoing damage.
 
-#### Deflection
+### Deflection
 
 Momentum power
 
@@ -487,19 +485,19 @@ Trigger: A melee attack misses you.
 
 **Effect:** The attack hits a different enemy you are engaged with instead, but deals only half damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The power also triggers on a ranged attack against AC.
 
-##### Champion Feat
+#### Champion Feat
 
 The deflected attack now deals full damage instead of half damage.
 
-##### Epic Feat
+#### Epic Feat
 
-Using *deflection* no longer spends your momentum.
+Using _deflection_ no longer spends your momentum.
 
-#### Slick Feint
+### Slick Feint
 
 Melee attack
 
@@ -521,7 +519,7 @@ Miss (First Target): Your attack action is over; the feint was a screw-up.
 
 Miss (Second Target): Damage equal to your level.
 
-#### Thief’s Strike
+### Thief’s Strike
 
 Note: This is a bonus 3rd-level power for rogues with the Thievery talent. Other rogues can choose it if they like.
 
@@ -537,9 +535,9 @@ At-Will
 
 **Miss:** —
 
-### 5th Level Powers
+## 5th Level Powers
 
-#### Harmless Misdirection
+### Harmless Misdirection
 
 Momentum power
 
@@ -551,7 +549,7 @@ Trigger: You miss with a melee attack while an ally is engaged with the target.
 
 **Effect:** You can pop free from the target, and the target can’t attack you during its next turn as long as your ally remains engaged with it.
 
-#### Spiky Bastard
+### Spiky Bastard
 
 Daily
 
@@ -559,15 +557,15 @@ Quick action
 
 **Effect:** You go all-out to hurt anyone who tries to get a piece of you. For the rest of the battle, while you're conscious, using at least one bladed weapon, and are not staggered or stunned, you deal 10 damage to each enemy that makes a melee attack against you and rolls a natural odd attack roll. The damage hits the enemy before their attack damages you.
 
-##### Champion Feat
+#### Champion Feat
 
-*Spiky bastard* damage now applies when you are staggered, though obviously not while you are unconscious.
+_Spiky bastard_ damage now applies when you are staggered, though obviously not while you are unconscious.
 
-##### Epic Feat
+#### Epic Feat
 
 If the escalation die is 3+, the damage increases to 15 instead of 10.
 
-#### Swift Dodge
+### Swift Dodge
 
 Momentum power
 
@@ -579,17 +577,17 @@ Trigger: You are hit by an attack against AC.
 
 **Effect:** The attacker must reroll the attack.
 
-##### Champion Feat
+#### Champion Feat
 
 The power also triggers on an attack against PD.
 
-##### Epic Feat
+#### Epic Feat
 
 The attack reroll takes a –2 penalty.
 
-### 7th Level Powers
+## 7th Level Powers
 
-#### Assassin’s Gambit
+### Assassin’s Gambit
 
 Melee attack
 
@@ -603,11 +601,11 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-##### Epic Feat
+#### Epic Feat
 
 Once a turn, you can get the extra standard action when this attack drops a mook target.
 
-#### Swift Riposte
+### Swift Riposte
 
 Momentum power
 
@@ -621,17 +619,17 @@ Trigger: An enemy targets you with a melee attack.
 
 **Special:** You can’t gain momentum from hitting with swift riposte.
 
-##### Champion Feat
+#### Champion Feat
 
-If your *swift riposte* attack is a critical hit, the enemy’s attack misses.
+If your _swift riposte_ attack is a critical hit, the enemy’s attack misses.
 
-##### Epic Feat
+#### Epic Feat
 
-You gain a +2 attack bonus with *swift riposte* attacks.
+You gain a +2 attack bonus with _swift riposte_ attacks.
 
-### 9th Level Powers
+## 9th Level Powers
 
-#### Death’s Twin
+### Death’s Twin
 
 Momentum power
 
@@ -641,11 +639,11 @@ Standard action on your turn; you must spend your momentum
 
 **Effect:** You can make two basic attacks at any point during your turn, each against a different target. You only regain momentum if your second attack hits.
 
-##### Epic Feat
+#### Epic Feat
 
-If your attack against your first *death’s twin* target is a natural 18+, you can make your second basic attack against that same target.
+If your attack against your first _death’s twin_ target is a natural 18+, you can make your second basic attack against that same target.
 
-#### True Targeting
+### True Targeting
 
 Momentum power
 
@@ -657,6 +655,6 @@ Trigger: An invisible or otherwise hidden enemy attacks you, or you try to attac
 
 **Effect:** The attacker’s invisibility isn’t going to work on you. It might work against your allies, but you see through it and can tell where the creature is well enough to target it normally or be aware of its imminent attack.
 
-##### Epic Feat
+#### Epic Feat
 
 If the enemy’s attack misses, you regain momentum.
