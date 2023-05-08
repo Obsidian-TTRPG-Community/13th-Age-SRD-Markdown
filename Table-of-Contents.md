@@ -1,5 +1,5 @@
 ---
-aliases: [13th Age SRD Map of Contents]
+aliases: [13th Age SRD Table of Contents]
 created: +002023-02-07 2316
 description: 
 image: 
@@ -9,11 +9,11 @@ tags: 13A
 updated: +002023-04-30 1238
 ---
 
-![13thage_intro](Map-of-Contents-image-1.jpeg)
+![13thage_intro](Table-of-Contents-image-1.jpeg)
 
 ## 13th Age System Reference Document
 
-## Map of Contents
+### Table of Contents
 
 1. [13th Age SRD Map of Contents](../..//13thAgeShare/Map-of-Contents.md)
 2. [13th Age Legal Notice](LICENSE.md)
