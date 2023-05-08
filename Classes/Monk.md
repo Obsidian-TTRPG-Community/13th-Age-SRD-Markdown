@@ -1,30 +1,30 @@
 ---
-aliases: Monk
+aliases: [Monk]
 created: 2023-05-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Classes/Monk]
-updated: 2023-05-13
+updated: 2023-05-07
 ---
 
-## Ability Scores
+### Ability Scores
 
 Monks gain a +2 class bonus to two of: Strength, Dexterity, or Wisdom, as long one of them isn’t the same ability you increase with your +2 racial bonus.
 
-## Backgrounds
+### Backgrounds
 
 Possible backgrounds include: holy acolyte, mountain sanctuary guardsman, traveling circus acrobat, river guide, spider-cult assassin, tunnel vermin exterminator, bodyguard, farmer, hallucinogenic mushroom farmer, wild mountain ginseng harvester, traveling tournament organizer, civil rights organizer.
 
-## Gear
+### Gear
 
 At 1st level, a monk may start with one or two weapons, a change of clothes, and perhaps a ranged weapon—or none of those.
 
-### Gold Pieces
+#### Gold Pieces
 
 Monks may start with either 25 gp or 1d6 x 10 gp.
 
-### Armor
+#### Armor
 
 | Armor Type | Base AC | Atk Penalty |
 |------------|---------|-------------|
@@ -33,11 +33,11 @@ Monks may start with either 25 gp or 1d6 x 10 gp.
 | Heavy      | 12      | -4          |
 | Shield     | 1       | -2          |
 
-### Melee Weapons
+#### Melee Weapons
 
 A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if he has traditional weapons from his training, he can use those. When a monk fights with weapons not from his tradition, he uses the fighter’s weapon chart with a -2 atk penalty.
 
-### Ranged Weapons
+#### Ranged Weapons
 
 |                  | Thrown           | Crossbow                    | Bow                   |
 | ---------------- | ---------------- | --------------------------- | --------------------- |
@@ -45,7 +45,7 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 | Light or Simple  | 1d6 javelin      | 1d6 (-3 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | Heavy or Martial | —                | 1d8 (-4 atk) heavy crossbow | 1d8 (-3 atk) longbow  |
 
-## Level Progression
+### Level Progression
 
 | Monk               | Total Hit Points           | Total Feats                    | Class Talents (M)              | Forms (M)                      | Ki (M)      | Level-up Ability Bonuses | Damage Bonus From Ability Score |
 |--------------------|----------------------------|--------------------------------|--------------------------------|--------------------------------|-------------|--------------------------|---------------------------------|
@@ -63,7 +63,7 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 
 (M): Indicates columns in which multiclass characters lag one level behind.
 
-## Stats
+### Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -85,29 +85,27 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
   
 
-## Basic Attacks
+### Basic Attacks
 
-### Melee Attack
-
-At-Will  
-**Target:** One enemy  
-**Attack:** Dexterity + Level vs. AC  
-**Hit:** PUNCH + Strength damage  
+#### Melee Attack
+At-Will
+**Target:** One enemy
+**Attack:** Dexterity + Level vs. AC
+**Hit:** PUNCH + Strength damage
 **Miss:** Damage equal to your level
 
-### Ranged Attack
-
-At-Will  
-**Target:** One enemy  
-**Attack:** Dexterity + Level vs. AC  
-**Hit:** WEAPON + Dexterity damage  
+#### Ranged Attack
+At-Will
+**Target:** One enemy
+**Attack:** Dexterity + Level vs. AC
+**Hit:** WEAPON + Dexterity damage
 **Miss:** —
 
-## Class Features
+### Class Features
 
 All monks have attacks dealing JAB, PUNCH, and KICK damage, use forms as the basis of their actions during each round, use ki points, and are considered to fight with two-weapons even when they’re just fighting with their fists and feet. They also can take advantage of magical bracers.
 
-### JAB, PUNCH, and KICK Attacks
+#### JAB, PUNCH, and KICK Attacks
 
 Under normal circumstances, melee weapons that are traditional in a monk’s style function like special effects for monks. Most monk attacks are rated as JAB, PUNCH, or KICK attacks, in the same sense that most fighter attacks are WEAPON attacks.
 
@@ -124,7 +122,7 @@ When fighting barehanded, with bracers, or with traditional monk weapons, monks 
 
 All monk attacks that use Dexterity as the attack stat use Strength as the ability score that determines damage.
 
-### Forms
+#### Forms
 
 When you learn a monk form, you learn all three elements of that form: an **opening attack**, **flow attack**, and **finishing attack**. Each element generally requires a standard action to use.
 
@@ -132,43 +130,43 @@ Your first standard action attack in a battle must be an opening. Your second at
 
 As long as you use the proper element of the form (opening, flow, or finishing attack), you can use an opening, flow, or finishing attack from ANY of the forms you know.
 
-When you use an element of a form, you gain an AC bonus until the start of your next turn. After using an opening attack you gain a +1 bonus to AC. After using a flow attack, you gain a +2 bonus to AC. After using a finishing attack, you gain a +3 bonus to AC. If *elven grace* or some other power lets you use multiple elements of your forms in a turn, the AC bonuses don’t stack but you do get to use the highest bonus.
+When you use an element of a form, you gain an AC bonus until the start of your next turn. After using an opening attack you gain a +1 bonus to AC. After using a flow attack, you gain a +2 bonus to AC. After using a finishing attack, you gain a +3 bonus to AC. If _elven grace_ or some other power lets you use multiple elements of your forms in a turn, the AC bonuses don’t stack but you do get to use the highest bonus.
 
-### Ki
+#### Ki
 
-You gain a number of *ki* points each day equal to 1 + your Wisdom modifier. You can spend ki to modify the natural result of one of your attack rolls. Ki is a daily resource. When you take a full heal-up, you regain all your ki points. You don’t regain ki during a quick rest.
+You gain a number of _ki_ points each day equal to 1 + your Wisdom modifier. You can spend ki to modify the natural result of one of your attack rolls. Ki is a daily resource. When you take a full heal-up, you regain all your ki points. You don’t regain ki during a quick rest.
 
-After rolling an attack, you can spend 1 point of ki as a free action to change your attack’s *natural* result by 1, unless that result is a natural 1. The change can be +1 or -1. Spending ki is a free action, but you can only spend 1 point of ki each turn.
+After rolling an attack, you can spend 1 point of ki as a free action to change your attack’s _natural_ result by 1, unless that result is a natural 1. The change can be +1 or -1. Spending ki is a free action, but you can only spend 1 point of ki each turn.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You gain 1 additional point of ki each day.
 
-#### Champion Feat
+##### Champion Feat
 
 You can spend as much ki as you like during a turn. You must spend each point of ki on a different attack roll or a different ki power.
 
-#### Epic Feat
+##### Epic Feat
 
 Work with your GM to invent a new ki power related to your one unique thing or some other aspect of your character’s story. If the ki power is too good and overshadows your other ki powers, the GM should rule that you can only use it once a day.
 
-### Two-Weapon Fighting
+#### Two-Weapon Fighting
 
 Since monks are trained to strike with all their limbs, they can always be considered to be fighting with two weapons in melee, even when they’re barehanded. The principal advantage of “two-weapon fighting” is that you get to reroll your attack when you roll a natural 2 with a melee attack, sticking with the reroll.
 
-### Bracers as Magic Items
+#### Bracers as Magic Items
 
 Monks get magic-weapon style powers from magical bracers. In practice, a monk fighting barehanded looks to bracers for magical advantage. A monk who fights with the monastery’s traditional weapons might use bracers or a magical weapon, but a monk wearing magical bracers can’t use a magical melee weapon at the same time.
 
-## Adventure Tier Talents
+### Adventure Tier Talents
 
 Choose three of the following adventurer-tier class talents. You get an additional monk class talent at 6th level and 9th level.
 
 You are free to take as many of the Seven Deadly Secrets talents as you wish (up to the class limit) but you can only use one of them per battle. You can choose which one just before using it.
 
-### Flurry (Seven Deadly Secrets)
+#### Flurry (Seven Deadly Secrets)
 
-*If you use* Flurry *in a battle, you can’t use any other* Deadly Secrets *talents that battle.*
+_If you use_ Flurry _in a battle, you can’t use any other_ Deadly Secrets _talents that battle._
 
 You gain the following attack:
 
@@ -186,25 +184,25 @@ Quick action
 
 **Miss:** —
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can now use Flurry when the escalation die is 2+.
 
-#### Champion Feat
+##### Champion Feat
 
 Your Flurry attack now deals damage equal to your level on a miss.
 
-#### Epic Feat
+##### Epic Feat
 
 When the escalation die is 4+, your Flurry attack deals PUNCH + Strength damage instead of JAB + Strength.
 
-#### Ki Power
+##### Ki Power
 
-*(A Thousand Palms)*: You must be engaged with 2 or more enemies to use this power. After making a Flurry attack, you can spend 1 point of ki to make another Flurry attack against a target you have not already attacked with Flurry this turn.
+_(A Thousand Palms)_: You must be engaged with 2 or more enemies to use this power. After making a Flurry attack, you can spend 1 point of ki to make another Flurry attack against a target you have not already attacked with Flurry this turn.
 
-### Greeting Fist (Seven Deadly Secrets)
+#### Greeting Fist (Seven Deadly Secrets)
 
-*If you use* Greeting Fist *in a battle, you can’t use any other* Seven Deadly Secrets *talent that battle.*
+_If you use_ Greeting Fist _in a battle, you can’t use any other_ Seven Deadly Secrets _talent that battle._
 
 The first time you make a melee attack against each enemy during a battle (including the first mook of a mob), the target takes 1d8 extra damage on a hit.
 
@@ -218,219 +216,219 @@ The first time you make a melee attack against each enemy during a battle (inclu
 
 10th level monk: 6d12 extra damage.
 
-#### *Adventurer Feat*
+##### _Adventurer Feat_
 
 Once per battle when you miss with your first melee attack against an enemy, you can use Greeting Fist against that enemy later that battle.
 
-#### *Champion Feat*
+##### _Champion Feat_
 
 When you successfully disengage from an enemy, that enemy takes damage equal to your level. Popping free doesn’t count; the damage only applies when you use the disengage action. (This damage doesn’t count as an attack, so if you hadn’t attacked that enemy yet, you could still use Greeting Fist on it later.)
 
-#### *Epic Feat*
+##### _Epic Feat_
 
 Once per battle, reroll an attack that qualified for Greeting Fist damage.
 
-#### Ki Power
+##### Ki Power
 
-*(Opening the Death Gate)*: When you deal Greeting Fist damage, you can spend 1 point of ki to double that damage (as usual, a crit would then triple that damage).
+_(Opening the Death Gate)_: When you deal Greeting Fist damage, you can spend 1 point of ki to double that damage (as usual, a crit would then triple that damage).
 
-### Temple Weapon Master (Seven Deadly Secrets)
+#### Temple Weapon Master (Seven Deadly Secrets)
 
-*If you use* Temple Weapon Master *in a battle, you can’t use any other* Seven Deadly Secrets *talents that battle.*
+_If you use_ Temple Weapon Master _in a battle, you can’t use any other_ Seven Deadly Secrets _talents that battle._
 
 Once per battle while you’re fighting with a weapon or weapons associated with your monastic tradition, you can turn a natural even miss into a hit.
 
-#### Ki Power
+##### Ki Power
 
-(*Supreme Warrior Discipline)*: When you use your Temple Weapon Master power, you can spend 1 point of ki to gain a bonus to AC equal to the *current* escalation die until an attack against AC misses you or until the end of the battle. (The AC bonus increases or decreases as the escalation die increases or decreases.)
+(_Supreme Warrior Discipline)_: When you use your Temple Weapon Master power, you can spend 1 point of ki to gain a bonus to AC equal to the _current_ escalation die until an attack against AC misses you or until the end of the battle. (The AC bonus increases or decreases as the escalation die increases or decreases.)
 
-##### *Adventurer Feat*
+###### _Adventurer Feat_
 
 The AC bonus from the ki power also applies to your PD. An attack against your PD that misses also ends the bonus.
 
-##### *Champion Feat*
+###### _Champion Feat_
 
 When you roll a natural 2 with a monk attack while fighting with your monastic weapons, in addition to the reroll you get from Two-Weapon Fighting, you gain a bonus to the rerolled attack equal to your Strength modifier or your Wisdom modifier.
 
-##### *Epic Feat*
+###### _Epic Feat_
 
 One battle per day, the damage dice of your finishing attacks increase by one size (max d12). (For example, d10s become d12s.)
 
-### Diamond Focus
+#### Diamond Focus
 
 You gain a +2 bonus to saves while you’re not staggered.
 
 In addition, you can go one round without using a monk attack form and still maintain your place in the attack form progression. For example, if you made an opening attack last round but don’t attack this round (or with your next standard action) for any reason, even being stunned or unconscious, you can still use a flow attack with your next standard action.
 
-#### Ki Power
+##### Ki Power
 
-*(Diamond Soul)*: When you are dazed, weakened, or stunned, you can spend 1 point of ki to make an immediate normal save (11+). If you succeed, the effect ends. If you fail, the condition affects you normally. (This power also works on effects that aren’t save ends. It also breaks the stunned rule by letting you use a free action to spend ki.)
+_(Diamond Soul)_: When you are dazed, weakened, or stunned, you can spend 1 point of ki to make an immediate normal save (11+). If you succeed, the effect ends. If you fail, the condition affects you normally. (This power also works on effects that aren’t save ends. It also breaks the stunned rule by letting you use a free action to spend ki.)
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 You can also use the ki power to save when you’re confused or hampered.
 
-##### Champion Feat
+###### Champion Feat
 
 The ki power save is now an easy save (6+).
 
-##### Epic Feat
+###### Epic Feat
 
 You can also use the ki power to save against a last gasp effect (but it doesn’t count against your total if you fail).
 
-### Heaven’s Arrow
+#### Heaven’s Arrow
 
 Unlike other monks, you have no attack penalty with ranged weapons, including thrown weapons, longbows, shortbows, and crossbows. Your basic ranged attacks also deal miss damage equal to your level.
 
 Once per battle when you would make a melee attack as an element of one of your monk forms, you can use a ranged attack against a nearby enemy instead. This attack deals damage according to the JAB/PUNCH/KICK hierarchy that’s part of the form rather than WEAPON damage like basic attacks.
 
-#### Ki Power
+##### Ki Power
 
-(*Wind from Heaven*): You can spend 1 point of ki to regain your Heaven’s Arrow power when it’s expended.
+(_Wind from Heaven_): You can spend 1 point of ki to regain your Heaven’s Arrow power when it’s expended.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 You can now target enemies that are faraway when you use the Heaven’s Arrow power. The ranged weapon you’re using might have an attack penalty against faraway enemies, but your attack otherwise functions as normal.
 
-##### Champion Feat
+###### Champion Feat
 
 You can now use the Heaven’s Arrow power twice per battle.
 
-##### Epic Feat
+###### Epic Feat
 
 You no longer take opportunity attacks when you make ranged attacks while engaged.
 
-### Leaf on Wind
+#### Leaf on Wind
 
 Once per battle when you use a move action, you can take another move action as a free action.
 
 In addition, if you fall with a wall, tree, or other physical object next to you, you can fall up to 30 feet per level without taking damage. (You slap the surface, catch handholds, and use other maneuvers to slow your descent.)
 
-#### Ki Power
+##### Ki Power
 
-*(Wind’s Comrade)*: You can spend 1 point of ki during your turn to gain *flight* until the end of your turn.
+_(Wind’s Comrade)_: You can spend 1 point of ki during your turn to gain _flight_ until the end of your turn.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 You gain a +3 bonus to disengage checks.
 
-##### Champion Feat
+###### Champion Feat
 
 When an enemy makes an attack against you that targets more than one creature, you only take half damage from that attack, hit or miss.
 
-##### Epic Feat
+###### Epic Feat
 
-Roll a normal save at the end of any turn in which you use the ki power. If you succeed, your *flight* lasts until the end of your next turn. (It’s not advisable to count on this working by staying in midair, though you could of course fly next to a wall, counting on your ability to slow your fall as outlined above!)
+Roll a normal save at the end of any turn in which you use the ki power. If you succeed, your _flight_ lasts until the end of your next turn. (It’s not advisable to count on this working by staying in midair, though you could of course fly next to a wall, counting on your ability to slow your fall as outlined above!)
 
-### Overworld Lineage, Aka Phoenix-touched
+#### Overworld Lineage, aka Phoenix-touched
 
 If you wish, any time an element of the monk class refers to Wisdom, you can replace that element with a reference to Charisma.
 
 In addition, while you’re staggered, when you roll a natural even attack roll, you heal damage equal to your Strength modifier or your Wisdom modifier (double that modifier at 5th level; triple it at 8th level).
 
-#### Ki Power
+##### Ki Power
 
-(*Imperial Phoenix Flare*): Once per day when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
+(_Imperial Phoenix Flare_): Once per day when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 You can now use this ki power twice per day.
 
-##### Champion Feat
+###### Champion Feat
 
 Once per day after rolling a death save, you can gain +4 bonus to the roll.
 
-##### Epic Feat
+###### Epic Feat
 
 The first time you die after taking this feat, you are resurrected at a place of power like your home monastery or other sanctum between one and four days later, assuming another resurrection doesn’t find you first. (This counts against your normal resurrection limit, as normal.)
 
-### Spinning Willow Style
+#### Spinning Willow Style
 
 When a ranged attack or close-quarters attack that targets AC hits you, you can roll a normal save. If you succeed, you take only half damage from the attack.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can now use Spinning Willow Style to save against ranged attacks and close-quarter attacks that target PD.
 
-#### Champion Feat
+##### Champion Feat
 
 If you roll a natural 18+ on the save, you instead take no damage from the attack and can choose one nearby enemy. It takes one-quarter of the damage as you deflect the attack.
 
-#### Epic Feat
+##### Epic Feat
 
 Spinning Willow Style saves are now easy saves (6+).
 
-#### Ki Power
+##### Ki Power
 
-(*The Willow Bends)*: You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
+(_The Willow Bends)_: You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
 
-## Champion Tier Talents
+### Champion Tier Talents
 
 At 6th level, you gain an additional monk class talent. You can choose to take another adventurer-tier talent, or select from the talents that follow.
 
-### Disciple of the Hidden Flame
+#### Disciple of the Hidden Flame
 
 When you gain this talent, choose a class: cleric, sorcerer, or wizard. Each time you take a full heal-up, choose a non-feature spell of your level or lower from that class. You can’t choose the same spell twice in a row; you must choose a different option each time you take a full heal-up.
 
 If the spell is at-will, you can cast it in place of a flow attack. If the spell is limited use, you can cast it in place of a finishing attacks. Use your Wisdom as the ability score that determines attack and damage with the spell.
 
-#### Ki Power
+##### Ki Power
 
-(*Gather the Flame)*: You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At 8th level, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
+(_Gather the Flame)_: You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At 8th level, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
 
-### Improbable Stunt
+#### Improbable Stunt
 
 Once per battle as a quick action, you can pull off an outrageous improvisational stunt that no one else could manage, with the possible exception of a swashbuckling rogue! The stunt is not itself an attack but it might lead to one.
 
 The outrageous action of your stunt isn’t something you have to roll for, even if it would ordinarily require a skill check to pull off, though you’ll still have to roll for an attack that follows up your stunt.
 
-#### Ki Power
+##### Ki Power
 
-(*Ludicrous Improbability Maneuver)*: You can spend 1 ki point to use Improbable Stunt again this battle.
+(_Ludicrous Improbability Maneuver)_: You can spend 1 ki point to use Improbable Stunt again this battle.
 
-### Path of the Perfect Warrior
+#### Path of the Perfect Warrior
 
 One battle per day, you can increase your JAB damage dice to d8s, your PUNCH damage dice to d10s, and your KICK damage dice to d12s.
 
-#### Ki Power
+##### Ki Power
 
-(*Perfect Breath)*: Once per day when you are healing using a recovery, you can spend 1 point of ki to heal using a second recovery as well. The second recovery is a free.
+(_Perfect Breath)_: Once per day when you are healing using a recovery, you can spend 1 point of ki to heal using a second recovery as well. The second recovery is a free.
 
-## Epic Tier Talents
+### Epic Tier Talents
 
 At 9th level, you gain an additional monk class talent. As usual, you can choose a talent from a lower tier, or an epic tier. Epic-tier talents have feats but no associated ki powers.
 
-### Abundant Step
+#### Abundant Step
 
 Once per battle when the escalation die is 1+, you can teleport to a nearby location you can see as a move action.
 
-#### Epic Feat
+##### Epic Feat
 
 You can now teleport to a faraway location you can see.
 
-### Champion of Three Worlds
+#### Champion of Three Worlds
 
 When you make a finishing attack, roll an additional d20 (usually two) for the attack roll. Use the result of your choice.
 
-#### Epic Feat
+##### Epic Feat
 
 Once per battle when you make a flow attack, you can roll an additional d20 for the attack roll.
 
-### Procession of the Sun and Moon
+#### Procession of the Sun and Moon
 
 Once per level, while meditating during a quick rest, you can decide that it’s time for the start of a new day. You and each of your willing allies can make a hard save (16+). Each character who succeeds regains all spells, powers, hit points, ki, and recoveries as if they had taken a full heal-up and started a new day.
 
 The only character element that does not reset as if it was a new day are your icon relationship rolls and any icon relationships.
 
-#### Epic Feat
+##### Epic Feat
 
 You and each of your allies gain a bonus to the save equal to your Strength modifier or your Wisdom modifier.
 
-## Adventure Tier Forms
+### Adventure Tier Forms
 
-### Claws of the Panther
+#### Claws of the Panther
 
-#### Opening Attack (Panther Spins Free)
+##### Opening Attack (Panther Spins Free)
 
 Melee attack
 
@@ -442,7 +440,7 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Flow Attack (Cat Cuts between Hounds)
+##### Flow Attack (Cat Cuts between Hounds)
 
 Melee attack
 
@@ -458,7 +456,7 @@ Melee attack
 
 **Natural Odd Miss:** Damage equal to your level.
 
-#### Finishing Attack (Twinned Panther Claw)
+##### Finishing Attack (Twinned Panther Claw)
 
 Melee attack
 
@@ -472,13 +470,13 @@ Melee attack
 
 **Natural Odd Miss:** Damage equal to your level.
 
-#### Adventurer Feat Ki Power
+##### Adventurer Feat Ki Power
 
-*(Predator’s Return)***:** You can spend 1 point of ki when your finishing attack misses all targets to use a flow attack instead of an opening attack with your next standard action—in effect, you get to skip the opening attack of your next form’s progression.
+_(Predator’s Return)_**:** You can spend 1 point of ki when your finishing attack misses all targets to use a flow attack instead of an opening attack with your next standard action—in effect, you get to skip the opening attack of your next form’s progression.
 
-### Dance of the Mantis
+#### Dance of the Mantis
 
-#### Opening Attack (Springing Mantis Strike)
+##### Opening Attack (Springing Mantis Strike)
 
 Melee attack
 
@@ -490,7 +488,7 @@ Melee attack
 
 **Hit:** JAB + Strength damage.
 
-#### Flow Attack (The Pincer Whirls Shut)
+##### Flow Attack (The Pincer Whirls Shut)
 
 Melee attack
 
@@ -504,7 +502,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (Precise Mantis Kick)
+##### Finishing Attack (Precise Mantis Kick)
 
 Melee attack
 
@@ -518,13 +516,13 @@ Melee attack
 
 **Natural Odd Miss:** Damage equal to your level.
 
-#### Adventurer Feat Ki Power
+##### Adventurer Feat Ki Power
 
-*(The Dance Continues)***:** You can spend 1 point of ki during your turn to roll a disengage check as free action.
+_(The Dance Continues)_**:** You can spend 1 point of ki during your turn to roll a disengage check as free action.
 
-### Dutiful Guardian
+#### Dutiful Guardian
 
-#### Opening Attack (One Must Be Free)
+##### Opening Attack (One Must Be Free)
 
 Melee attack
 
@@ -536,7 +534,7 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Flow Attack (Wind Horse Shakes Mane)
+##### Flow Attack (Wind Horse Shakes Mane)
 
 Melee attack
 
@@ -548,7 +546,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (Temple Lion Stands True)
+##### Finishing Attack (Temple Lion Stands True)
 
 Melee attack
 
@@ -564,13 +562,13 @@ Melee attack
 
 **Natural Odd Miss:** Damage equal to your level.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 When you intercept an enemy that is moving to attack one of your allies, you gain a +3 bonus to all defenses until the end of that turn (so against that enemy’s attacks).
 
-### Original Venom
+#### Original Venom
 
-#### Opening Attack (First Deadly Venom)
+##### Opening Attack (First Deadly Venom)
 
 Melee attack
 
@@ -582,7 +580,7 @@ Melee attack
 
 **Miss:** You take damage equal to your level.
 
-#### Flow Attack (Second Certain Toxin)
+##### Flow Attack (Second Certain Toxin)
 
 Melee attack
 
@@ -596,7 +594,7 @@ Melee attack
 
 **Miss:** You take damage equal to your level.
 
-#### Finishing Attack (Third Poisonous Lesson)
+##### Finishing Attack (Third Poisonous Lesson)
 
 Melee attack
 
@@ -620,13 +618,13 @@ Melee attack
 
 **Miss:** You take damage equal to your level.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
-You gain *resist poison 14+.*
+You gain _resist poison 14+._
 
-### Three Cunning Tricksters
+#### Three Cunning Tricksters
 
-#### Opening Attack (Fox Senses Weakness)
+##### Opening Attack (Fox Senses Weakness)
 
 Melee attack
 
@@ -640,7 +638,7 @@ Melee attack
 
 **Natural Odd Miss:** —
 
-#### Flow Attack (Monkey Taps the Shoulder)
+##### Flow Attack (Monkey Taps the Shoulder)
 
 Melee attack
 
@@ -654,7 +652,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (Crane Summons Carp)
+##### Finishing Attack (Crane Summons Carp)
 
 Melee attack
 
@@ -668,13 +666,13 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Adventurer Feat Ki Power
+##### Adventurer Feat Ki Power
 
-*(The Gift Returns)***:** When you roll a natural 18+ on a save, you can spend 1 point of ki to transfer the effect/ongoing damage you saved against to an enemy engaged with you (in addition to ending the effect on you). Of course, death saves and last gasp saves are excluded.
+_(The Gift Returns)_**:** When you roll a natural 18+ on a save, you can spend 1 point of ki to transfer the effect/ongoing damage you saved against to an enemy engaged with you (in addition to ending the effect on you). Of course, death saves and last gasp saves are excluded.
 
-### Way of the Metallic Dragon
+#### Way of the Metallic Dragon
 
-#### Opening Attack (Bronze Thwarts an Army)
+##### Opening Attack (Bronze Thwarts an Army)
 
 Melee attack
 
@@ -688,7 +686,7 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Flow Attack (Silver Warrior Advances)
+##### Flow Attack (Silver Warrior Advances)
 
 Melee attack
 
@@ -702,7 +700,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (General Slays the Hordes)
+##### Finishing Attack (General Slays the Hordes)
 
 Melee attack
 
@@ -720,15 +718,15 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Adventurer Feat Ki Power
+##### Adventurer Feat Ki Power
 
-*(Become the Dragon)***:** When you drop a non-mook enemy to 0 hp with a finishing attack, you can spend 1 point of ki to gain a second standard action during your *next* turn. You’re gathering power, preparing to unleash havoc, or doing something similar. If for some reason you decide not to take the extra standard action during your next turn, you get the point of ki back, but can’t spend any more ki this battle.
+_(Become the Dragon)_**:** When you drop a non-mook enemy to 0 hp with a finishing attack, you can spend 1 point of ki to gain a second standard action during your _next_ turn. You’re gathering power, preparing to unleash havoc, or doing something similar. If for some reason you decide not to take the extra standard action during your next turn, you get the point of ki back, but can’t spend any more ki this battle.
 
-## Champion Tier Forms
+### Champion Tier Forms
 
-### Heaven’s Thunder
+#### Heaven’s Thunder
 
-#### Opening Attack (Moon in Storming Sky)
+##### Opening Attack (Moon in Storming Sky)
 
 Melee attack
 
@@ -738,7 +736,7 @@ Melee attack
 
 **Hit:** JAB + Strength damage, and each time an enemy attacks you before the start of your next turn, it takes thunder damage equal to twice your level after the attack.
 
-#### Flow Attack (Thunder Restores the Balance)
+##### Flow Attack (Thunder Restores the Balance)
 
 Melee attack
 
@@ -752,7 +750,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (This Too Was Foreseen)
+##### Finishing Attack (This Too Was Foreseen)
 
 Melee attack
 
@@ -768,17 +766,17 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Champion Feat
+##### Champion Feat
 
-You can now target a nearby enemy with *this too was foreseen*.
+You can now target a nearby enemy with _this too was foreseen_.
 
-#### Epic Feat
+##### Epic Feat
 
 You now heal 5d10 hp each time you use a finishing attack while staggered.
 
-### Iron Crusader Form
+#### Iron Crusader Form
 
-#### Opening Attack (No Retreat)
+##### Opening Attack (No Retreat)
 
 Melee attack
 
@@ -792,7 +790,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Flow Attack (No Mercy)
+##### Flow Attack (No Mercy)
 
 Melee attack
 
@@ -800,13 +798,13 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC
 
-*Special:* You gain a +4 bonus with this attack when you target a staggered enemy.
+_Special:_ You gain a +4 bonus with this attack when you target a staggered enemy.
 
 **Hit:** PUNCH + Strength damage.
 
 **Miss:** Damage equal to your level.
 
-#### Finishing Attack (No Weakness)
+##### Finishing Attack (No Weakness)
 
 Melee attack
 
@@ -814,28 +812,28 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC
 
-*Special:* You gain a +4 bonus with this attack when you target an enemy taking ongoing damage.
+_Special:_ You gain a +4 bonus with this attack when you target an enemy taking ongoing damage.
 
 **Hit:** KICK + Strength damage.
 
-**Natural Even Hit:** As a hit, plus you gain *resist damage 16+* until the start of your next turn.
+**Natural Even Hit:** As a hit, plus you gain _resist damage 16+_ until the start of your next turn.
 
 **Miss:** Damage equal to your level.
 
-#### Champion Feat
+##### Champion Feat
 
-You can also use the *no retreat* opening attack if you have been staggered this battle.
+You can also use the _no retreat_ opening attack if you have been staggered this battle.
 
-#### Epic Feat
+##### Epic Feat
 
 One battle per day, your crit range expands by 2 (cumulative) each time you drop a non-mook enemy to 0 hp.
 
   
   
 
-### Rising Phoenix
+#### Rising Phoenix
 
-#### Opening Attack (Rising Phoenix Fist)
+##### Opening Attack (Rising Phoenix Fist)
 
 Melee attack
 
@@ -849,7 +847,7 @@ Melee attack
 
 **Natural Odd Miss:** —
 
-#### Flow Attack (Becomes the Pillar of Flame)
+##### Flow Attack (Becomes the Pillar of Flame)
 
 Melee
 
@@ -857,11 +855,11 @@ Melee
 
 **Attack:** Dexterity + Level vs. PD
 
-**Hit:** PUNCH + Strength fire damage, and you can roll a disengage check as a free action. If you disengage from all enemies, you gain *flight* until the end of your next turn.
+**Hit:** PUNCH + Strength fire damage, and you can roll a disengage check as a free action. If you disengage from all enemies, you gain _flight_ until the end of your next turn.
 
 **Miss:** Damage equal to your level.
 
-#### Finishing Attack (Life Burning Fire Fist)
+##### Finishing Attack (Life Burning Fire Fist)
 
 Melee attack
 
@@ -879,17 +877,17 @@ Melee attack
 
 **Natural Odd Miss:** —
 
-#### Champion Feat
+##### Champion Feat
 
 Once per day as a free action, double the healing you get when you heal using a recovery (from any effect).
 
-#### Epic Feat
+##### Epic Feat
 
 One battle per day as a free action, choose yourself or a nearby ally. That creature gains a bonus to death saves equal to your Wisdom modifier until the end of the battle.
 
-### Three Evil Dragons
+#### Three Evil Dragons
 
-#### Opening Attack (The Burning Shadow)
+##### Opening Attack (The Burning Shadow)
 
 Melee attack
 
@@ -901,7 +899,7 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Flow Attack (Blue Lightning Fist)
+##### Flow Attack (Blue Lightning Fist)
 
 Melee attack
 
@@ -911,11 +909,11 @@ Melee attack
 
 **Natural Even Hit:** PUNCH + Strength damage, and one random nearby enemy takes lightning damage equal to double your level.
 
-**Natural Odd Hit:** PUNCH + Strength damage, and you gain *flight* until the end of your next turn.
+**Natural Odd Hit:** PUNCH + Strength damage, and you gain _flight_ until the end of your next turn.
 
 **Miss:** Half damage, and one random nearby enemy takes lightning damage equal to your level.
 
-#### Finishing Attack (Red Fury)
+##### Finishing Attack (Red Fury)
 
 Melee attack
 
@@ -927,17 +925,17 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Champion Feat
+##### Champion Feat
 
 Once per battle when an enemy hits you with an attack that targets AC or PD while you are flying, you can force that enemy to reroll the attack as a free action.
 
-#### Epic Feat
+##### Epic Feat
 
 Once per day when you miss all targets with a finishing attack, you can make another finishing attack with your next standard action—in effect, you get to redo the last form of that progression.
 
-### Tiger in Storm
+#### Tiger in Storm
 
-#### Opening Attack (Stalking Tiger)
+##### Opening Attack (Stalking Tiger)
 
 Melee attack
 
@@ -951,7 +949,7 @@ Melee attack
 
 **Miss:** Both you and the target take damage equal to your level.
 
-#### Flow Attack (Tiger Follows Blood)
+##### Flow Attack (Tiger Follows Blood)
 
 Melee attack
 
@@ -961,11 +959,11 @@ Melee attack
 
 **Hit:** PUNCH + Strength damage, and you can pop free from the target.
 
-**Natural Even Hit:** As a hit, plus if you are engaged with an enemy other than the target at the *end* of your turn, one enemy engaged with you takes 10 damage (as your attack sets up a final clawing strike).
+**Natural Even Hit:** As a hit, plus if you are engaged with an enemy other than the target at the _end_ of your turn, one enemy engaged with you takes 10 damage (as your attack sets up a final clawing strike).
 
 **Miss:** Half damage.
 
-#### Finishing Attack (Striped Lightning Roars)
+##### Finishing Attack (Striped Lightning Roars)
 
 Melee attack
 
@@ -979,19 +977,19 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Champion Feat Ki Power
+##### Champion Feat Ki Power
 
-*(Storm’s Eye)***:** When an enemy misses you with an attack that deals cold, lightning, or thunder damage, you can spend 1 point of ki to heal using a recovery.
+_(Storm’s Eye)_**:** When an enemy misses you with an attack that deals cold, lightning, or thunder damage, you can spend 1 point of ki to heal using a recovery.
 
-#### Epic Feat
+##### Epic Feat
 
-You gain *resist energy damage 16+* to cold, thunder, and lightning.
+You gain _resist energy damage 16+_ to cold, thunder, and lightning.
 
-## Epic Tier Forms
+### Epic Tier Forms
 
-### Death’s Quivering Shadow
+#### Death’s Quivering Shadow
 
-#### Opening Attack (Invoke the Name)
+##### Opening Attack (Invoke the Name)
 
 Melee attack
 
@@ -1005,7 +1003,7 @@ Melee attack
 
 **Miss:** You take 5 ongoing negative energy damage.
 
-#### Flow Attack (Stunning Fist)
+##### Flow Attack (Stunning Fist)
 
 Melee attack
 
@@ -1019,7 +1017,7 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Finishing Attack (Ghostwalk of the Fallen King)
+##### Finishing Attack (Ghostwalk of the Fallen King)
 
 Melee attack
 
@@ -1029,17 +1027,17 @@ Melee attack
 
 **Hit:** KICK + Strength damage, and 15 ongoing negative energy damage.
 
-**Natural Even Hit:** As a hit, plus until the end of your next turn, you gain *flight* and *resist damage 16+* to all damage as you become incorporeal. (You can move through solid objects but can’t end your turn in them.)
+**Natural Even Hit:** As a hit, plus until the end of your next turn, you gain _flight_ and _resist damage 16+_ to all damage as you become incorporeal. (You can move through solid objects but can’t end your turn in them.)
 
 **Miss:** Damage equal to your level.
 
-#### Epic Feat Ki Power
+##### Epic Feat Ki Power
 
-*(Quivering Palm)__**:*** Once per day when you hit a target with a finishing attack, you can spend 1 point of ki to create a link with the target. Until the next full heal-up, regardless of how faraway the target is, you can spend 1 point of ki and two consecutive quick actions to deal PUNCH + Wisdom damage to the target. You can keep spending quick actions and ki to deal this damage once per round until you run out of ki for the day.
+_(Quivering Palm)__**:**_ Once per day when you hit a target with a finishing attack, you can spend 1 point of ki to create a link with the target. Until the next full heal-up, regardless of how faraway the target is, you can spend 1 point of ki and two consecutive quick actions to deal PUNCH + Wisdom damage to the target. You can keep spending quick actions and ki to deal this damage once per round until you run out of ki for the day.
 
-### Feathered Serpent
+#### Feathered Serpent
 
-#### Opening Attack (Coils Dispense Blessings)
+##### Opening Attack (Coils Dispense Blessings)
 
 Melee attack
 
@@ -1051,11 +1049,11 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Flow Attack (Feathers on Talons on Scales)
+##### Flow Attack (Feathers on Talons on Scales)
 
 Melee attack
 
-**Always:** When you use this flow attack, choose one effect: pop free from one enemy anytime during your turn as a free action; or you gain *flight* until the end of your next turn.
+**Always:** When you use this flow attack, choose one effect: pop free from one enemy anytime during your turn as a free action; or you gain _flight_ until the end of your next turn.
 
 **Target:** One enemy
 
@@ -1065,7 +1063,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (Poisoned Heaven Kick)
+##### Finishing Attack (Poisoned Heaven Kick)
 
 Melee attack
 
@@ -1079,13 +1077,13 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Epic Feat
+##### Epic Feat
 
 Once per battle as a quick action, you can roll a difficult save (16+) against a save ends effect affecting you that was caused by an enemy’s attack. If you succeed, transfer the effect to an enemy engaged with you.
 
-### Flagrant Blossoms
+#### Flagrant Blossoms
 
-#### Opening Attack (The Petals Open)
+##### Opening Attack (The Petals Open)
 
 Melee attack
 
@@ -1095,7 +1093,7 @@ Melee attack
 
 **Hit:** JAB + Strength damage, and if this attack drops a non-mook to 0 hp, you can use a finishing attack with your next standard action.
 
-#### Flow Attack (Fist Shows the Path to Wisdom)
+##### Flow Attack (Fist Shows the Path to Wisdom)
 
 Melee attack
 
@@ -1109,7 +1107,7 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Finishing Attack (Lotus Dreams the World)
+##### Finishing Attack (Lotus Dreams the World)
 
 Melee attack
 
@@ -1123,13 +1121,13 @@ Melee attack
 
 **Miss:** Half damage.
 
-#### Epic Feat
+##### Epic Feat
 
-Once per day when you use the *lotus dreams the world* finishing attack, a nearby ally can heal using a free recovery and can roll a save against each save ends effect affecting it.
+Once per day when you use the _lotus dreams the world_ finishing attack, a nearby ally can heal using a free recovery and can roll a save against each save ends effect affecting it.
 
-### Spiral Path
+#### Spiral Path
 
-#### Opening Attack (The Cycle Opens)
+##### Opening Attack (The Cycle Opens)
 
 Melee attack
 
@@ -1141,7 +1139,7 @@ Melee attack
 
 **Natural Even Hit:** As a hit, plus a different nearby enemy takes force damage equal to half that damage.
 
-#### Flow Attack (Spiral Ascension Widens)
+##### Flow Attack (Spiral Ascension Widens)
 
 Melee attack
 
@@ -1155,7 +1153,7 @@ Melee attack
 
 **Miss:** Damage equal to your level.
 
-#### Finishing Attack (Star Joins as Ally)
+##### Finishing Attack (Star Joins as Ally)
 
 Melee attack
 
@@ -1165,10 +1163,10 @@ Melee attack
 
 **Hit:** KICK + Strength damage, and as a free action you can teleport next to a different nearby enemy you can see (engaging it) and make a PUNCH attack against it.
 
-*Miss (PUNCH):* The target takes damage equal to your level.
+_Miss (PUNCH):_ The target takes damage equal to your level.
 
 **Miss:** Half damage, and you can’t use attacks from the Spiral Path form until your next battle.
 
-#### Epic Feat
+##### Epic Feat
 
 One battle per day, choose a monk talent you don’t ordinarily possess. This battle, you have that talent.
