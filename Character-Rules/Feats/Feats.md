@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Feats, navtodo]
-updated:: 2023-04-30
+updated: 2023-04-30
 ---
 
 ## Feats

@@ -61,7 +61,7 @@ using the table below.
   --------------------------------------------------------------------------
   d6   Dire Feature   Description
   ---- -------------- ------------------------------------------------------
-  1    Armor plates   Add +2 to the dire animal's AC, and add +1 to its PD.
+  1    Armor plates Add +2 to the dire animal's AC, and add +1 to its PD.
 
   2    Spiky bits     Whenever an enemy hits the dire animal with a melee
                       attack, deal damage equal to twice the animal's level

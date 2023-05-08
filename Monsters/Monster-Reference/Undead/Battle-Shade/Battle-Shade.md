@@ -4,8 +4,8 @@ created: 2023-05-03
 description: 
 image: 
 publish: 
-tags: 13A/Monsters/Undead/Battle-Shade
-updated: 2023-05-03
+tags: [13A/Monsters/Undead/Battle-Shade]
+updated: 2023-05-07
 ---
 
 ## Battle Shade
@@ -32,7 +32,7 @@ Until all battle shades have been reduced to 0 hit points, select one of the fol
 
 Player characters expecting to deal with battle shades can take precautions.
 
--   Ritual casting certain spells like the cleric's _turn undead_ or an appropriate Terrain Caster spell from the druid could return the battle area to normal for the duration of the battle.
+-   Ritual casting certain spells like the cleric's *turn undead* or an appropriate Terrain Caster spell from the druid could return the battle area to normal for the duration of the battle.
 
 -   Players may think to try this during combat instead of beforehand. If they do so, they should make a normal (11+) saving throw at the beginning of each round. If they succeed, the battlefield effect is suppressed. If they fail, it activates like normal that turn.
 

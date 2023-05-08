@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Barbarian]
-updated:: 2023-04-30
+updated: 2023-04-30
 ---
 
 # Barbarian

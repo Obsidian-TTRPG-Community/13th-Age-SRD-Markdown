@@ -1,14 +1,24 @@
-### Warbanner
+---
+aliases: 
+created: 2023-05-07
+description: 
+image: 
+publish: 
+tags: 
+updated: 2023-05-07
+---
 
-Warbanners have a number of abilities in common. The feral warbanner has
-the full version of these abilities. You may customize the feral
+## Warbanner
+
+Warbanners have a number of abilities in common. The feral warbanner has  
+the full version of these abilities. You may customize the feral  
 warbanner by giving it icon-associated abilities.
 
-A warbanner generally commands large groups of mooks that are simple to
-play. Creatures in a warbanner’s band are allies fully under its
+A warbanner generally commands large groups of mooks that are simple to  
+play. Creatures in a warbanner’s band are allies fully under its  
 control. It could also have allies not in its band.
 
-#### Feral Warbanner
+### Feral Warbanner
 
 <table>
 <colgroup>
@@ -83,7 +93,7 @@ bonus to their hit points equal to the warbanner’s level (2).</p></td>
 </tbody>
 </table>
 
-#### Human Rabble
+### Human Rabble
 
 <table>
 <colgroup>
@@ -119,7 +129,7 @@ bonus to their hit points equal to the warbanner’s level (2).</p></td>
 </tbody>
 </table>
 
-#### Brute’s Warbanner
+### Brute’s Warbanner
 
 <table>
 <colgroup>

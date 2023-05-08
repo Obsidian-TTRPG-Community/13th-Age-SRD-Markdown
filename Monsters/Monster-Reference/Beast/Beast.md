@@ -4,8 +4,8 @@ created: 2023-05-01
 description: 
 image: 
 publish: 
-tags: [13A/Monsters/Beast]
-updated: 2023-05-01
+tags: [13A/Bestiary/Beast]
+updated: 2023-05-07
 ---
 
 ## Beast or Animal Critter

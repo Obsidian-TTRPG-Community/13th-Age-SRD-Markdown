@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Cleric]
-updated:: 2023-05-04
+updated: 2023-05-04
 ---
 
 # Cleric
@@ -28,12 +28,12 @@ Clerics may start with either 25 gp or 1d6 x 10 gp.
 
 ### Armor
 
-| Armor Type | Base AC | Atk Penalty |
-|------------|---------|-------------|
-| None       | 10      | —           |
-| Light      | 12      | —           |
-| Heavy      | 14      | —           |
-| Shield     | 1       | —           |
+| Armor Type |     | Base AC | Atk Penalty |
+|------------|:----|---------|-------------|
+| None       |     | 10      | —           |
+| Light      |     | 12      | —           |
+| Heavy      |     | 14      | —           |
+| Shield     |     | 1       | —           |
   
 
 ### Melee Weapons
