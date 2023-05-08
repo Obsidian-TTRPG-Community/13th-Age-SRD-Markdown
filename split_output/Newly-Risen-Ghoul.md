@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Newly-Risen Ghoul
@@ -48,4 +52,3 @@ claws</em> attack deals +2 damage against vulnerable targets.</p></td>
 </tr>
 </tbody>
 </table>
-

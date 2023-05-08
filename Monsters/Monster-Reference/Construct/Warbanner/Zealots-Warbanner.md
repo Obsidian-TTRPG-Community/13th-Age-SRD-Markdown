@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: [Zealot's Warbanner]
 created: 2023-05-03
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: []
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 
@@ -72,4 +76,3 @@ bonus to their hit points equal to the warbanner’s level (3).</p></td>
 </tr>
 </tbody>
 </table>
-

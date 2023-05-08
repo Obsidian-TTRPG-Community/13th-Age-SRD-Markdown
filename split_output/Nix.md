@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Nix
@@ -81,4 +85,3 @@ save at the end of each 24 hours until the nymph succeeds.
 *Note on types:* The following nymphs with the humanoid type probably  
 remember themselves. Nymphs that have probably forgotten their original  
 selves have the elemental type.
-

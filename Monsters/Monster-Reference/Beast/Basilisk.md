@@ -1,10 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Wrecker]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Basilisk
@@ -89,4 +94,3 @@ end of the basilisk’s turn takes 10 poison damage.</p></td>
 </tr>
 </tbody>
 </table>
-

@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 16
+aliases: ["Wraith"]
 created: 2023-05-07
 description: 
+hp: 66
 image: 
+level: 5
+modifier: 10
 publish: 
-tags: 
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Spoiler]
+updated: 2023-05-08
 ---
 
 ## Wraith

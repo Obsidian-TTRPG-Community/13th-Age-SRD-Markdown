@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Loyal Gatherer
@@ -48,4 +52,3 @@ Targets with more of these items are preferred prey.</p></td>
 </tr>
 </tbody>
 </table>
-

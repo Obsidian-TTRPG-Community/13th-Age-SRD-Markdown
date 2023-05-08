@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Epic Water Elemental
@@ -214,4 +218,3 @@ abilities from the following list.
 
 - *Splashback:* This creature gains a +2 bonus to attack rolls against  
   creatures that attacked it during the last round.
-

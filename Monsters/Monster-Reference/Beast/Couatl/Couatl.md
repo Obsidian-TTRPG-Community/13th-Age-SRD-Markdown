@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: [Couatl, Couatl in the 13th Age]
 created: 2023-05-03
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: [13A/Bestiary/Couatl]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Couatl Overview

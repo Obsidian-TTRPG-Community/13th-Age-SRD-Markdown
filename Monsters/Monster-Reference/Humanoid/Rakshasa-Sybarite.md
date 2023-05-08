@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Rakshasa Sybarite
@@ -82,4 +86,3 @@ until the enemy with the lowest MD saves.</p></td>
 </tr>
 </tbody>
 </table>
-

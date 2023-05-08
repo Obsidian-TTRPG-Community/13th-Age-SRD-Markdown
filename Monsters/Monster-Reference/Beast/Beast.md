@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: [Beast, Animal, Crtter]
 created: 2023-05-01
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: [13A/Bestiary/Beast]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Beast or Animal Critter

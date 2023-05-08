@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: [Battle Shade]
 created: 2023-05-03
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: [13A/Monsters/Undead/Battle-Shade]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Battle Shade

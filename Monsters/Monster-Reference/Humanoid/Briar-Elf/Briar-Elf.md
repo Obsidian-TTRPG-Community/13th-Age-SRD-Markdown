@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: [Briar Elf]
 created: 2023-05-03
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: []
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Briar Elf
@@ -45,5 +49,3 @@ In the unlikely event that PCs have managed to find or lure briar elves outside 
 **3. Spectral hands**—PCs take a –1 penalty to attack rolls, as ghostly thorn-pierced hands grab at them.
 
 **4. Fearful destiny**—PCs who could normally resist fear effects cannot do so for the duration of this battle. PCs who cannot normally resist fear take a –2 penalty to their saves whenever they are affected by fear.
-
-

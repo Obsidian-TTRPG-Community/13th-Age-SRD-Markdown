@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Faun Ranger
@@ -67,4 +71,3 @@ energy drain*. When a PC is associated with an icon that is also
 associated with the flower of unlife (e.g. undead or nature icons), and  
 they roll a natural 1–5 with an attack against the flower, the attacker  
 takes 2d6 damage and the flower heals that many hit points.
-

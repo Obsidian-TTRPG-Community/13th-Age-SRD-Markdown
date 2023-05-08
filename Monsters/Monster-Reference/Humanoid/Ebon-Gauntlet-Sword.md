@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Ebon Gauntlet Sword
@@ -48,4 +52,3 @@ on the battlefield and which *pops* away with an echo of crashing iron.
 </tr>
 </tbody>
 </table>
-

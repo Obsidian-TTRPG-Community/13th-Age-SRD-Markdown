@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Sahuagin Mutant
@@ -148,4 +152,3 @@ Slow lava flow (DC 20 to avoid).
 fire damage and possible loss of limb
 
 *Miss:* Half damage, and permanent scarring.
-

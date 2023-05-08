@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Rakshasa, Devourer of Wizards
@@ -58,4 +62,3 @@ through the shapechange requires a DC 20 skill check.</p></td>
 </tr>
 </tbody>
 </table>
-

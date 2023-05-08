@@ -1,11 +1,15 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
 aliases: ["Aerial Spore"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
 tags: []
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Aerial Spore
@@ -60,4 +64,3 @@ from strong winds or similar magical effects.</p></td>
 </tr>
 </tbody>
 </table>
-

@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Epic Flux Elemental
@@ -158,4 +162,3 @@ unclean-one abilities (though never unearthly beauty).
 > *evil eye* attacks can be made by any fomorian this battle.
 
 4.  *Thick skin:* +1 AC and +2 PD.
-

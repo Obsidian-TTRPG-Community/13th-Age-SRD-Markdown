@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Hallowed Gargoyle
@@ -76,8 +80,6 @@ attacks targeting AC.</p></td>
 </tbody>
 </table>
 
-
-
 ## Hallowed Gargoyle
 
 <u>Nastier Specials for all Hallowed Gargoyles</u>
@@ -96,4 +98,3 @@ inattentive PCs. When there’s a chance of such an ambush, give the PCs a
 normal skill check (DC 20 at champion-tier, DC 25 at epic tier) to  
 notice the gargoyles waking and avoid being surprised (13<sup>th</sup>  
 Age core rulebook, page 164).
-

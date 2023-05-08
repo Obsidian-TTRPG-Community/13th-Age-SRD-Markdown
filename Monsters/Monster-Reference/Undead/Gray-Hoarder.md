@@ -1,11 +1,15 @@
 ---
-aliases: 
+ac: 
+aliases: ["Gray Hoarder"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Gray Hoarder
@@ -59,4 +63,3 @@ against attacks and effects that specifically target undead.</p></td>
 </tr>
 </tbody>
 </table>
-

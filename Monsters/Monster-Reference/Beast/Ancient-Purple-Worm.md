@@ -1,4 +1,4 @@
----
+<%* let alias = tp.file.title.split('-').join(' '); %>---
 ac: 27
 aliases: ["Ancient Purple Worm"]
 created: 2023-05-07
@@ -9,7 +9,7 @@ level: 12
 modifier: 
 publish: 
 tags: [13A/Monsters/Type/Wrecker, 13A/Bestiary/Beast]
-updated: 2023-05-07
+updated: 2023-05-08
 ---
 
 ## Ancient Purple Worm
@@ -118,4 +118,3 @@ to choose whether the escalation die will decrease by 1 (minimum 0) or
 whether this rakshasa gets to use the escalation die until the end of  
 the battle. If the PC group is split, the decision goes to the character  
 with the highest initiative.
-

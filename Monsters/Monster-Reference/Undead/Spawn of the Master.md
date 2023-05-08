@@ -1,11 +1,15 @@
 ---
-aliases: []
+ac: 25
+aliases: ["Spawn of the Master"]
 created: 2023-05-03
 description: 
+hp: 54
 image: 
+level: 10
+modifier: 16
 publish: 
-tags: []
-updated: 2023-05-07
+tags: [13A/Bestiary/Undead, 13A/Monsters/Type/Mook]
+updated: 2023-05-08
 ---
 
 ## Spawn of the Master

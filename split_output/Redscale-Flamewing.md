@@ -1,11 +1,15 @@
----
-aliases: 
+<%* let alias = tp.file.title.split('-').join(' '); %>---
+ac: 
+aliases: ["<% alias %>"]
 created: 2023-05-07
 description: 
+hp: 
 image: 
+level: 
+modifier: 
 publish: 
-tags: 
-updated: 2023-05-07
+tags: []
+updated: 2023-05-08
 ---
 
 ## Redscale Flamewing
@@ -108,4 +112,3 @@ transformed beast.
 Note that this form of solid stone is different from the living stone  
 form sometimes adopted by the lammasu warrior, wizard, and priest during  
 battle.
-
