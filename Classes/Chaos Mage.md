@@ -1,11 +1,11 @@
 ---
-aliases: Chaos Mage
+aliases: [Chaos Mage]
 created: 2023-05-03
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Classes/Chaos-Mage]
-updated: 2023-05-13
+updated: 2023-05-07
 ---
 
 ## Chaos Mage
@@ -214,7 +214,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | 96–97 | Something related to your one unique thing goes very right for you. This is on you and the GM to work out together. The GM has the final say, though.                                                                                                                                                                                                                                                                           |
 | 98 | If you and your allies flee RIGHT NOW, you don’t take a campaign loss for your discretion. This may take some explaining. It’s all about the chaos magic.                                                                                                                                                                                                                                                                       |
 | 99    | Roll twice more on this table. If you wish you can ignore one of the rolled results but must stick with the other. If you roll the same result twice, you get that weirdness just once.                                                                                                                                                                                                                                         |
-| 100   | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |  
+| 100   | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |
 ^13A-ChaosMage-HighWeirdness
 
 ## Class Talents
