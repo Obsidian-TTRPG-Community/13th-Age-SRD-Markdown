@@ -55,5 +55,3 @@ battle.</p></td>
 </tr>
 </tbody>
 </table>
-
-## Hellcat (Bezekira)

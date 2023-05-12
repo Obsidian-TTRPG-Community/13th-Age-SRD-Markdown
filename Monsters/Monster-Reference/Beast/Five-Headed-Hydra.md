@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Five Headed Hydra"]
 created: 2023-05-07
 description: 
 hp: 

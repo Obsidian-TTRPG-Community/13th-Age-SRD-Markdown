@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Kohwa Enforcer"]
 created: 2023-05-07
 description: 
 hp: 
@@ -67,5 +67,3 @@ engaged</p></td>
 </tr>
 </tbody>
 </table>
-
-## Koruku

@@ -1,4 +1,4 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 14
 aliases: [Giant Ant]
 created: 2023-05-01

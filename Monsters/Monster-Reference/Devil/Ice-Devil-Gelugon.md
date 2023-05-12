@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 26
+aliases: ["Ice Devil Gelugon"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 270
 image: 
-level: 
-modifier: 
+level: 11
+modifier: 15
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Leader]
 updated: 2023-05-08
 ---
 

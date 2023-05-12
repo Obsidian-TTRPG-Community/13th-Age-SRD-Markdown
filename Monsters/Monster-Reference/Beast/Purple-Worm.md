@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Purple Worm"]
 created: 2023-05-07
 description: 
 hp: 
@@ -93,5 +93,3 @@ poison.</p></td>
 </tr>
 </tbody>
 </table>
-
-## Purple Worm
