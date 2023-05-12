@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Horned Azinth Adult"]
 created: 2023-05-07
 description: 
 hp: 
@@ -63,5 +63,3 @@ gaining a +4 bonus to all defenses.</p></td>
 </tr>
 </tbody>
 </table>
-
-## Human

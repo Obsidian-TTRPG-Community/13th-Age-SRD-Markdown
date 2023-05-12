@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 25
+aliases: ["River Devil"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 230
 image: 
-level: 
-modifier: 
+level: 10
+modifier: 18
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Wrecker]
 updated: 2023-05-08
 ---
 

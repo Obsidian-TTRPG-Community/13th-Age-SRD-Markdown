@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Fallen Icon Nature"]
 created: 2023-05-07
 description: 
 hp: 
@@ -13,6 +13,28 @@ updated: 2023-05-08
 ---
 
 ## Fallen Icon – Nature
+
+First PC campaign victory: Remove the Fallen Icon’s *natural supremacy*  
+ability.
+
+Second PC campaign victory: *Angry sky* only triggers when the  
+escalation die is even.
+
+Third PC campaign victory: Remove the *seeds on the wind* ability.
+
+Fourth PC campaign victory: Remove the 60 damage dealt by the  
+*ambulatory landscape* ability.
+
+<u>Mook Squads</u>
+
+When *those that walk the forest* is triggered, roll 1d4+2 for the  
+number of mooks in the mob. Then roll a d6 to determine which mooks join  
+the battle; 1–2: fanatical druid circle; 3: frenzied wolf pack; 4:  
+militant ranger squad; 5: opportunistic orc band; 6: treant avenger.
+
+Remember that starting a battle with these mooks in play makes the  
+Fallen Icon tougher thanks to the defense bonus that’s part of *those  
+that walk the forest*.
 
 <table>
 <colgroup>
@@ -107,25 +129,3 @@ consumes it and regains 100 HP.</p></td>
 </tr>
 </tbody>
 </table>
-
-First PC campaign victory: Remove the Fallen Icon’s *natural supremacy*  
-ability.
-
-Second PC campaign victory: *Angry sky* only triggers when the  
-escalation die is even.
-
-Third PC campaign victory: Remove the *seeds on the wind* ability.
-
-Fourth PC campaign victory: Remove the 60 damage dealt by the  
-*ambulatory landscape* ability.
-
-<u>Mook Squads</u>
-
-When *those that walk the forest* is triggered, roll 1d4+2 for the  
-number of mooks in the mob. Then roll a d6 to determine which mooks join  
-the battle; 1–2: fanatical druid circle; 3: frenzied wolf pack; 4:  
-militant ranger squad; 5: opportunistic orc band; 6: treant avenger.
-
-Remember that starting a battle with these mooks in play makes the  
-Fallen Icon tougher thanks to the defense bonus that’s part of *those  
-that walk the forest*.

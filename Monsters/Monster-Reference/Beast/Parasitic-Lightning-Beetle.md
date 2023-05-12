@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Parasitic Lightning Beetle"]
 created: 2023-05-07
 description: 
 hp: 

@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 23
+aliases: ["Hooded Devil"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 90
 image: 
-level: 
-modifier: 
+level: 7
+modifier: 14
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Troop]
 updated: 2023-05-08
 ---
 
