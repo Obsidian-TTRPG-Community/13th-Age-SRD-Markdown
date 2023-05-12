@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 28
+aliases: ["The Final Devil"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 1300
 image: 
-level: 
-modifier: 
+level: 13
+modifier: 20
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Leader]
 updated: 2023-05-08
 ---
 

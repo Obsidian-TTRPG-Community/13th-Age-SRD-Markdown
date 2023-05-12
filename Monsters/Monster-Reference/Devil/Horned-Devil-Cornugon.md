@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 28
+aliases: ["Horned Devil Cornugon"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 700
 image: 
-level: 
-modifier: 
+level: 12
+modifier: 15
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Troop]
 updated: 2023-05-08
 ---
 

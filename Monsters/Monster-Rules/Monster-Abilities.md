@@ -19,10 +19,10 @@ Burrowing is a special rule for monsters that allows somewhat restricted movemen
 A burrowing creature on the surface may attempt to burrow underground by using a standard action. Burrowing is successful if a saving throw beats the required save for the type of ground.
 
 | **Type of Ground**            | **Difficulty** | **Save Needed** |
-| ----------------------------- | -------------- | --------------- |
+|-------------------------------|----------------|-----------------|
 | Sand, dirt, forest soil       | Easy           | 6+              |
 | Hard-packed dirt, loose rocks | Normal Save    | 11+             |
-| Rock, caves, dungeon floors   | Hard Save      | 16+                |    
+| Rock, caves, dungeon floors   | Hard Save      | 16+             |    
 ^13A-Monster-Burrow
 
 After successfully burrowing, a creature may move underground, faster or slower depending on the hardness of the ground, out of sight of other creatures, hidden and safe from attacks.

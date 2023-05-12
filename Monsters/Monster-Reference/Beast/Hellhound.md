@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: 
+aliases: ["Hellhound"]
 created: 2023-05-08
 description: 
 hp: 

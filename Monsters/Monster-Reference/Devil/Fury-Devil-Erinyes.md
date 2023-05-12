@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 23
+aliases: ["Fury Devil Erinyes", "Erinyes"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 120
 image: 
-level: 
-modifier: 
+level: 8
+modifier: 13
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Wrecker]
 updated: 2023-05-08
 ---
 

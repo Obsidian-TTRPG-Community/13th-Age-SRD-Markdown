@@ -10,8 +10,8 @@ updated: 2023-05-01
 
 ## Monster Key
 
-| Size/Strength<br>Level<br>Role<br>Type 	| Initiative<br><br><br>Attack<br>Extra Effects<br><br><br>Specials 	| AC<br>PD<br>MD<br>HP 	| xx<br>xx<br>xx<br>xx 	|  
-|---	|---	|---	|---	|
+| Size/Strength<br>Level<br>Role<br>Type 	 | Initiative<br><br><br>Attack<br>Extra Effects<br><br><br>Specials 	 | AC<br>PD<br>MD<br>HP 	 | xx<br>xx<br>xx<br>xx 	 |  
+|------------------------------------------|---------------------------------------------------------------------|------------------------|------------------------|
 
 ### Size and Strength and Level
 

@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 26
+aliases: ["Bone Devil Osyluth"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 320
 image: 
-level: 
-modifier: 
+level: 9
+modifier: 12
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Troop]
 updated: 2023-05-08
 ---
 

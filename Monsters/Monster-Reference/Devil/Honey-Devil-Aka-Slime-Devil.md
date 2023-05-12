@@ -1,14 +1,14 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
-ac: 
-aliases: ["<% alias %>"]
+---
+ac: 18
+aliases: ["Honey Devil Aka Slime Devil"]
 created: 2023-05-07
 description: 
-hp: 
+hp: 35
 image: 
-level: 
-modifier: 
+level: 4
+modifier: 6
 publish: 
-tags: []
+tags: [13A/Bestiary/Devil, 13A/Monsters/Type/Troop]
 updated: 2023-05-08
 ---
 

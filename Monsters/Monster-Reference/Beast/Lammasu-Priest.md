@@ -1,6 +1,6 @@
-<%* let alias = tp.file.title.split('-').join(' '); %>---
+---
 ac: 
-aliases: ["<% alias %>"]
+aliases: ["Lammasu Priest"]
 created: 2023-05-07
 description: 
 hp: 
@@ -77,5 +77,3 @@ its magic allows it to remain in the air if it wishes.</p></td>
 </tr>
 </tbody>
 </table>
-
-## Lich
