@@ -14,3 +14,4 @@ If the monster has a fear ability, it’s the number of hit points where
 creatures are dazed (–4 attack) while engaged with the monster and can’t  
 use the escalation die. It’s based on level, so that higher-level  
 monsters are more fearsome.
+
