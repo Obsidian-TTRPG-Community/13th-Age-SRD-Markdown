@@ -43,4 +43,4 @@ If you want to add a full level to a monster…
 	- Add +1 to attack 
 	- +1 to all  defenses 
 	- Multiply its damage output by 1.25
-	- Multiply its hit  points by 1.25.
+	- Multiply its hit points by 1.25.

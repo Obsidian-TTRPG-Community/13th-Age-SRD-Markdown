@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Strike Damage]
 created: 2023-05-12
 description: 
 image: 
