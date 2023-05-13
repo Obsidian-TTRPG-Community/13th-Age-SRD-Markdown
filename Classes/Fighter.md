@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Fighter]
-updated:: 2023-05-07
+updated: 2023-05-07
 ---
 
 # Ability Scores

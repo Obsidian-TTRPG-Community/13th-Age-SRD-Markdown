@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Ranger]
-updated:: 2023-05-07
+updated: 2023-05-07
 ---
 
 # Ranger

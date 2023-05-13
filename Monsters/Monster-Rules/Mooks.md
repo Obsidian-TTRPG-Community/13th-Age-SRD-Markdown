@@ -1,5 +1,5 @@
 ---
-aliases: [13th Age Mooks]
+aliases: [13th Age Mooks, Mooks]
 created: 2023-02-07
 description: 
 image: 

@@ -14,8 +14,8 @@ Dire animals are bigger (large-sized) versions of normal animals. Dire animals u
 
 ### Dire Feature Table
 
-| dice: d6 | **Dire Feature**      | **Description**                                                                                                                                   |
-| -------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| dice: d6 | **Dire Feature**  | **Description**                                                                                                                               |
+|----------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | Armor plates      | Add +2 to the dire animal’s AC, and add +1 to its PD.                                                                                         |
 | 2        | Spiky bits        | Whenever an enemy hits the dire animal with a melee attack, deal damage equal to twice the animal’s level to that attacker.                   |
 | 3        | Carnage           | The dire animal’s attacks that miss deal damage equal to its level. When staggered, its missed attacks deal damage equal to double its level. |

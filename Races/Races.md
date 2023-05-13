@@ -45,7 +45,7 @@ Each race also provides the character a special power that can be used once per 
 - [Forgeborn-Dwarf-forged](Forgeborn-Dwarf-forged.md)
 - [Gnome](Gnome.md)
 - [Half-Elf](Half-Elf.md)
-- [Half-Orc](Half-Orc.md)
+- [Half-Orc](../Monsters/Monster-Reference/Half-Orc.md)
 - [Halfling](Halfling.md)
 - [High-Elf](High-Elf.md)
 - [Holy One-Aasimar](Holy%20One-Aasimar.md)

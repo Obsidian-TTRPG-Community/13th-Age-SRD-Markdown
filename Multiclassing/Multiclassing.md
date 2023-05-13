@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Multiclass]
-updated:: 2023-04-30
+updated: 2023-04-30
 ---
 # Multiclassing
 

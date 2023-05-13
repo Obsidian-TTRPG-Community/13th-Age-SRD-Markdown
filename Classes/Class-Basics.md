@@ -43,22 +43,22 @@ You can gain a higher-level power or spell from an incremental advance. If you o
 ### Starting Stats for 1st Level Characters
 
 |             | Base HP | Usual Base AC[^1] | Base Physical Defense | Base Mental Defense | Background Points | Recovery Dice |
-| ----------- | ------- | -------------- | --------------------- | ------------------- | ----------------- | ------------- |
-| Barbarian   | 7       | 12             | 11                    | 10                  | 8                 | d10/lvl       |
-| Bard        | 7       | 12             | 10                    | 11                  | 8                 | d8/lvl        |
-| Chaos Mage  | 6       | 10             | 10                    | 11                  | 8                 | d6/lvl        |
-| Cleric      | 7       | 14             | 11                    | 11                  | 8                 | d8/lvl        |
-| Commander   | 7       | 12             | 10                    | 12                  | 8                 | d8/lvl        |
-| Druid [^2]      | 6     | 10           | 11                    | 11                  | 8                 | d6/lvl      |
-| Fighter     | 8       | 15             | 10                    | 10                  | 8                 | d10/lvl       |
-| Monk        | 7       | 10             | 11                    | 11                  | 8                 | d8/lvl        |
-| Necromancer | 6       | 10             | 10                    | 11                  | 8                 | d6/lvl        |
-| Occultist   | 6       | 11             | 10                    | 11                  | 8                 | d6/lvl        |
-| Paladin     | 8       | 16             | 10                    | 12                  | 8                 | d10/lvl       |
-| Ranger      | 7       | 14             | 11                    | 10                  | 8                 | d8/lvl        |
-| Rogue       | 6       | 12             | 12                    | 10                  | 8                 | d8/lvl        |
-| Sorcerer    | 6       | 10             | 11                    | 10                  | 8                 | d6/lvl        |
-| Wizard      | 6       | 10             | 10                    | 12                  | 8                 | d6/lvl              |
+|-------------|---------|-------------------|-----------------------|---------------------|-------------------|---------------|
+| Barbarian   | 7       | 12                | 11                    | 10                  | 8                 | d10/lvl       |
+| Bard        | 7       | 12                | 10                    | 11                  | 8                 | d8/lvl        |
+| Chaos Mage  | 6       | 10                | 10                    | 11                  | 8                 | d6/lvl        |
+| Cleric      | 7       | 14                | 11                    | 11                  | 8                 | d8/lvl        |
+| Commander   | 7       | 12                | 10                    | 12                  | 8                 | d8/lvl        |
+| Druid [^2]  | 6       | 10                | 11                    | 11                  | 8                 | d6/lvl        |
+| Fighter     | 8       | 15                | 10                    | 10                  | 8                 | d10/lvl       |
+| Monk        | 7       | 10                | 11                    | 11                  | 8                 | d8/lvl        |
+| Necromancer | 6       | 10                | 10                    | 11                  | 8                 | d6/lvl        |
+| Occultist   | 6       | 11                | 10                    | 11                  | 8                 | d6/lvl        |
+| Paladin     | 8       | 16                | 10                    | 12                  | 8                 | d10/lvl       |
+| Ranger      | 7       | 14                | 11                    | 10                  | 8                 | d8/lvl        |
+| Rogue       | 6       | 12                | 12                    | 10                  | 8                 | d8/lvl        |
+| Sorcerer    | 6       | 10                | 11                    | 10                  | 8                 | d6/lvl        |
+| Wizard      | 6       | 10                | 10                    | 12                  | 8                 | d6/lvl        |
 
 [^1]: The base AC numbers assume that the PC is in the armor that suits  
 write-ups for details. PCs who know how to fight using a shield get +1 AC when they have a shield in one hand.
