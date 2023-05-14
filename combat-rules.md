@@ -14,8 +14,6 @@ updated: 2023-05-13
 Combat is played with various sided dice. You make attack rolls against  
 defense numbers and deal damage against hit points.
 
-
-
 ### Combat Sequence
 
 At the start of combat, each player rolls initiative for his or her  
@@ -597,4 +595,3 @@ Once engaged in battle, attacks against invisible enemies have a 50%
 chance to miss completely, before the attack roll. Attacks that miss in  
 this fashion don’t deal any damage or have effects on the invisible  
 creature, though other effects on a miss might occur.
-

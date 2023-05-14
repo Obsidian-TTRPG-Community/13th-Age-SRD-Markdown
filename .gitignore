@@ -15,3 +15,5 @@ Other/
 .eslint
 .prettierrc
 /.idea/
+/scripts/
+/templates/
