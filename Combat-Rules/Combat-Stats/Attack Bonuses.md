@@ -1,4 +1,14 @@
-#### Attack Bonuses
+---
+aliases: [Attack Bonuses]
+created: 2023-05-13
+description: 
+image: 
+publish: 
+tags: [13A/Combat/Rules/Stats]
+updated: 2023-05-13
+---
+
+## Attack Bonuses
 
 For each attack, roll a d20 + an ability bonus + your level (+ magic  
 item attack bonus, if any). Depending on the attack, you might also get  

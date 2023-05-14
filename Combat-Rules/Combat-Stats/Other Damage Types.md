@@ -1,10 +1,10 @@
 ---
-aliases: 
+aliases: [Other Damage Types]
 created: 2023-05-13
 description: 
 image: 
 publish: 
-tags: 
+tags: [13A/Combat/Rules/Stats]
 updated: 2023-05-13
 ---
 

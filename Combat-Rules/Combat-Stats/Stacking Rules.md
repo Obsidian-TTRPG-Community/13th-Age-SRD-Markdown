@@ -1,4 +1,14 @@
-#### Stacking Rules
+---
+aliases: [Stacking Rules]
+created: 2023-05-13
+description: 
+image: 
+publish: 
+tags: [13A/Combat/Rules/Stats]
+updated: 2023-05-13
+---
+
+## Stacking Rules
 
 Bonuses and effects to a single stat stack with each other, with these  
 exceptions:
