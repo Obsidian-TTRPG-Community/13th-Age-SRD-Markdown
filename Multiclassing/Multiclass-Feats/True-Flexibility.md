@@ -1,12 +1,13 @@
 ---
-aliases: ["True Flexibility"]
+aliases: [True Flexibility]
 created: 2023-02-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Multiclass/Bard/Trait]
-updated: 2023-05-01
+updated: 2023-05-14
 ---
+
 ## True Flexibility
 
 ### Adventurer Tier
@@ -16,3 +17,5 @@ Once per battle, as long as both [classes](../../Classes/Classes.md) use flexibl
 ### Champion Tier
 
 You can now use the adventurer-tier feat twice per battle.
+
+
