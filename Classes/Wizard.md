@@ -1,32 +1,32 @@
 ---
-aliases: [Wizard]
+aliases: Wizard
 created: 2023-05-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Classes/Wizard]
-updated: 2023-05-07
+updated: 2023-05-13
 ---
 
-# Wizard
+## Wizard
 
-## Ability Scores
+### Ability Scores
 
 Wizards gain a +2 class bonus to Intelligence or Wisdom, as long as it isn’t the same ability you increase with your +2 racial bonus.
 
-## Backgrounds
+### Backgrounds
 
 Possible backgrounds include: magical prodigy, spell thief, hedge wizard, transformed familiar, ship’s wizard, royal poisoner.
 
-## Gear
+### Gear
 
 At 1st level, a wizard usually has a dagger, a robe or two, a wand, ritual components in pouches, and other minor accouterments suggested by their backgrounds.
 
-### Gold Pieces
+#### Gold Pieces
 
 Wizards may start with either 25 gp or 1d6 x 10 gp.
 
-### Armor
+#### Armor
 
 | Armor Type | Base AC | Atk Penalty |
 |------------|---------|-------------|
@@ -35,7 +35,7 @@ Wizards may start with either 25 gp or 1d6 x 10 gp.
 | Heavy      | 11      | –2          |
 | Shield     | 1       | -2          |
 
-### Melee Weapons
+#### Melee Weapons
 
 | 0                | One-Handed              | Two-Handed                |
 |------------------|-------------------------|---------------------------|
@@ -43,7 +43,7 @@ Wizards may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d6 (-2 atk) shortsword | 1d8 (-2 atk) spear*       |
 | Heavy or Martial | 1d8 (-5 atk) longsword  | 1d10 (-5 atk) greatsword* |
 
-### Ranged Weapons
+#### Ranged Weapons
 
 | 0                | Thrown           | Crossbow                     | Bow                    |
 |------------------|------------------|------------------------------|------------------------|
@@ -51,9 +51,9 @@ Wizards may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d6 (-2) javelin | 1d6 (–1 atk) light crossbow* | 1d6 (-2 atk) shortbow* |
 | Heavy or Martial | —                | 1d8 (–4 atk) heavy crossbow* | 1d8 (-5 atk) longbow*  |
 
-* A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
+- A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
-## Level Progression
+### Level Progression
 
 | Wizard Level       | Total Hit Points           | Total Feats                    | 1st level spell (M) | 3rd level spell (M) | 5th level spell (M) | 7th level spell (M) | 9th level spell (M) | Level-up Ability Bonuses |
 |--------------------|----------------------------|--------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|--------------------------|
@@ -73,7 +73,7 @@ Note: Although not listed on the table, this class gets three talents. It does n
 
 (M): Indicates columns in which multiclass characters lag one level behind.
 
-## Stats
+### Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -91,27 +91,29 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Talents                   | 3                                                            |
 | Feats                     | 1 per Level                                                  |
 
-## Basic Attacks
+### Basic Attacks
 
-### Melee attack
-At-Will
-**Target:** One enemy
-**Attack:** Strength + Level vs. AC
-**Hit:** WEAPON + Strength damage
+#### Melee Attack
+
+At-Will  
+**Target:** One enemy  
+**Attack:** Strength + Level vs. AC  
+**Hit:** WEAPON + Strength damage  
 **Miss:** —
 
-### Ranged attack
-At-Will
-**Target:** One enemy
-**Attack:** Dexterity + Level vs. AC
-**Hit:** WEAPON + Dexterity damage
+#### Ranged Attack
+
+At-Will  
+**Target:** One enemy  
+**Attack:** Dexterity + Level vs. AC  
+**Hit:** WEAPON + Dexterity damage  
 **Miss:** —
 
-## Class Features
+### Class Features
 
 Wizards have four class features: Cantrips, Cyclic Spells, Overworld Advantage, and Ritual Magic.
 
-### Cantrips
+#### Cantrips
 
 Every wizard can cast a handful of cantrips each day. You don’t have to memorize or choose them beforehand, you just cast them on the fly.
 
@@ -125,43 +127,43 @@ At the epic tier, levels 8–10, cantrips last between 2–12 hours.
 
 For a list of available cantrips, see Cantrips.
 
-### Cyclic Spells
+#### Cyclic Spells
 
 Spells that have a cyclic usage can always be cast at least once per battle, and are only expended in that battle if they are cast when the escalation die is 0 or odd. In other words, if you cast a cyclic spell like color spray or rebuke when the escalation die is even, the spell is not expended and can still be cast later in the battle.
 
-### Overworld Advantage
+#### Overworld Advantage
 
 Wizardly magic taps into the power of the overworld. While a wizard is in the overworld, their daily spells become recharge 16+ after battle.
 
-### Ritual Magic
+#### Ritual Magic
 
 Wizards can cast their spells as rituals.
 
-#### Champion Feat
+##### Champion Feat
 
 You can cast full rituals by using all your actions each round to focus on the ritual for 1d3 + 1 rounds. As with standard rituals, your fast rituals are not meant to replace combat spells; they’re a means of acquiring and improvising wondrous magical effects rather than a means of inflicting damage and conditions.
 
-## Class Talents
+### Class Talents
 
 Choose three of the following class talents.
 
-### Abjuration
+#### Abjuration
 
 Whenever you cast a daily wizard spell, you gain a +4 AC bonus until the end of your next turn.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The bonus also applies to your Physical Defense.
 
-#### Champion Feat
+##### Champion Feat
 
 You gain 2d12 temporary hit points each time you cast a daily spell.
 
-#### Epic Feat
+##### Epic Feat
 
 The bonus also applies to Mental Defense.
 
-### Cantrip Mastery
+#### Cantrip Mastery
 
 Cantrips are at-will spells for you.
 
@@ -171,29 +173,29 @@ To do something particularly cunning or surprising with one of your cantrips whe
 
 Additionally, you can expend a 3rd level spell slot or higher to choose one cantrip per spell slot you have given up and create a once-per-day related effect with it that is much greater, if you and your GM can agree on a cool effect that suits the cantrip.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can use cantrip-style versions of any wizard spell you have memorized. When you expend a spell, however, you can’t make cantrip-style use of it any more. The key is that none of these uses should be combat relevant or deal damage.
 
 The Cantrip Mastery talent is more about enhance the roleplaying and less about combat usefulness.
 
-### Evocation
+#### Evocation
 
 Once per battle, when you cast a spell that targets Physical Defense, before rolling for the number of targets or making the spell’s attack roll, you can expend your quick action to evoke the spell. Hit or miss, you'll max out the spell’s damage dice (except on a natural one, which deals no damage to the target and likely damages the caster in some manner).
 
-#### Champion Feat
+##### Champion Feat
 
 Whenever you evoke a spell, you can reroll one of the attack rolls if that natural roll was less than or equal to the escalation die. You must take the new result.
 
-### High Arcana
+#### High Arcana
 
 Your study of the highest orders of magic gives you options that lesser wizards cannot match: Memorization and a bonus spell: counter-magic
 
-#### Memorization
+##### Memorization
 
 When you pick your spells, you can choose any daily wizard spell twice (instead of once). This doesn’t apply to spells that start as recharge spells. For example, at 7th level when you have five 7th level spells and four 5th level spells, you could choose fireball twice as a 7th level spell, or once as a 7th level spell and once as a 5th level spell. (Your 3rd level spell slot can’t be used for fireball because fireball starts as a 5th level spell.)
 
-#### Counter-magic
+##### Counter-magic
 
 Close-quarters spell
 
@@ -209,15 +211,15 @@ Trigger: A nearby creature you can see casts a spell.
 
 **Hit:** The target’s spell is canceled, and the caster loses the action they were using for the spell. If the spell had a limited use, that use is expended if your natural attack roll is even.
 
-#### Champion Feat
+##### Champion Feat
 
-You can now cast _counter-magic_ twice per battle.
+You can now cast *counter-magic* twice per battle.
 
-#### Epic Feat
+##### Epic Feat
 
-You can now cast _counter-magic_ in reaction to a creature using any magical ability, not just casting a spell.
+You can now cast *counter-magic* in reaction to a creature using any magical ability, not just casting a spell.
 
-### Polysyllabic Verbalizations
+#### Polysyllabic Verbalizations
 
 Rename each of your daily and recharge spells. Think up the most over-the-top and extravagant names you can muster. Since these alternate spells are so lengthy, they take an additional quick action to cast. While the regular effects of the spells are the same as the more common versions, they have a small bonus effect appropriate to the situation.
 
@@ -225,7 +227,7 @@ The bonus effect is determined by the GM, or by a collaboration between the GM a
 
 The bonus effect should suit the name of the spell or the way it’s delivered, and shouldn’t precisely match up with what the spell normally accomplishes.
 
-### Wizard’s Familiar
+#### Wizard’s Familiar
 
 Your familiar is a tiny or small animal or creature that aids your magic and provides companionship. It also provides opportunities for improvisation between you and the GM.
 
@@ -235,101 +237,101 @@ If your familiar dies, it can come back to you the next time you get a full heal
 
 Familiars are useless in combat, except as indicated by their abilities. Ordinarily they aren’t damaged by enemy attacks and spells unless the story calls for it.
 
-#### Familiar Abilities
+##### Familiar Abilities
 
 Choose two of the following abilities for your familiar.
 
-##### Agile
+###### Agile
 
 You gain a +2 bonus to Dexterity skill checks.
 
-##### Alert, Maybe Even Insightful
+###### Alert, Maybe Even Insightful
 
 You gain a +2 bonus to Wisdom skill checks.
 
-##### Counter-bite
+###### Counter-bite
 
 Each battle, if your familiar is close to you, it bites the first enemy that hits you with a melee attack after that attack, dealing 1d4 damage per level (no attack roll) to that enemy.
 
-##### Flight
+###### Flight
 
 Your familiar flies as well as a hawk. It doesn’t fly that often and usually sticks with you, but it can do so when its other abilities allow.
 
-##### Mimic
+###### Mimic
 
 One battle per day, you gain the use of the racial power (without feats) of one nearby ally.
 
-##### Poisonous
+###### Poisonous
 
 Once per battle, when you hit an enemy engaged with you, you can add 5 ongoing poison damage per tier to the damage roll.
 
-##### Scout
+###### Scout
 
 Once per day, your familiar can separate itself from you and make a reconnaissance run of an area or location. Roll an easy skill check for the environment to get your familiar to scout unseen.
 
-##### Tough
+###### Tough
 
 You gain a +1 save bonus. Tough counts as two familiar abilities.
 
-##### Talkative
+###### Talkative
 
 Your familiar can talk like a person (but the GM speaks for the familiar more than you do).
 
-#### Feat Tiers
+##### Feat Tiers
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Your familiar gains another ability.
 
-##### Champion Feat
+###### Champion Feat
 
 Once per level, if your familiar is close to you, it can cast one of your spells as a free action on your initiative count, even if you have already expended the spell. The spell functions as if you had cast it.
 
-##### Epic Feat
+###### Epic Feat
 
 Your familiar gains another ability.
 
-## Cantrips
+### Cantrips
 
-### Alarm (standard duration)
+#### Alarm (standard duration)
 
 The cantrip creates a minor watch-sprite that can be instructed to scream if someone comes through an area or touches an object. Watch-sprites are notoriously stupid and sleepy, but with the right talking-to they might stay focused for the duration of the spell. At higher levels, the spell might summon little fanged spirits buzzing back and forth serving as both visual and actual deterrents.
 
-### Arcane Mark (standard duration)
+#### Arcane Mark (standard duration)
 
 The cantrip creates a magical sigil on an object or person. These sigils are usually plain to see, though a deliberately invisible mark can be made. It takes a difficult perception or magic check to notice.
 
-### Ghost Sound
+#### Ghost Sound
 
 This spell creates false noises emanating from somewhere nearby. The effect is like an exceptionally good version of throwing your voice, if your voice could create a wide variety of sounds. Attempted distractions with the cantrip are DC 15 challenges in adventurer environments, higher as you move into champion and epic environments. If someone is using ghost sound against the PCs, a Wisdom-based skill check can identify the sound as a magical fake.
 
-### Knock
+#### Knock
 
 This cantrip summons a magical servitor three to four times as big as your closed fist that swarms around the door and attempts to punch or push it open (depending on whether you want to be quiet or announce your presence). Success is determined with an Intelligence check against the environment’s DC using an appropriate magical background. This cantrip does nothing to avoid any traps that might exist.
 
-### Light (standard duration)
+#### Light (standard duration)
 
 This cantrip creates a fairly wide and consistent field of light, up to 30 feet in diameter, though it isn’t bright enough to dazzle.
 
-### Mage Hand
+#### Mage Hand
 
 This cantrip creates a small telekinetic effect that lasts a round at most. At best it’s about half as strong as the wizard’s own strongest hand. At worst it’s half as strong as the wizard when they’re weak from a bad fever.
 
-### Mending
+#### Mending
 
 This cantrip summons a variety of tiny (hand-sized and smaller) magical sprites who swarm over a chosen broken object attempting to mend it (over the course of 1–6 rounds). Small-scale repairs like torn wineskins, muddy clothing, a broken handgrip on a sword, and similar repairs that anyone could fix with two to four hours of devoted work gets handled in seconds. More elaborate repairs to complicated objects might require an Intelligence check, or at the GM’s discretion could only be possible if the wizard has taken the Cantrip Mastery talent.
 
-### Prestidigitation
+#### Prestidigitation
 
 This cantrip produces magic tricks and small illusions. One casting usually gives you a minute of fun. The magic has nowhere near as much real world force as mage hand.
 
-### Spark
+#### Spark
 
 This is a minor fire creation spell, enough to light a pipe, or a campfire, or even a page or two of an unprotected spellbook. It doesn’t work against living beings or against things that couldn’t easily be set on fire with a few seconds of steady application of a candle. The target of the spark has to be nearby and in sight.
 
-## Utility Spell
+### Utility Spell
 
-When you choose spells during a full heal-up, instead of taking a standard spell, you can choose to give up a spell slot to memorize the _utility spell_ at the same level. When you take the _utility spell_, you gain access to a range of useful non-combat spells of the level you memorized it or below. You cast each _utility spell_ at the level of the spell slot you gave up for it. You can give up multiple spell slots to take _utility spell_ multiple times.
+When you choose spells during a full heal-up, instead of taking a standard spell, you can choose to give up a spell slot to memorize the *utility spell* at the same level. When you take the *utility spell*, you gain access to a range of useful non-combat spells of the level you memorized it or below. You cast each *utility spell* at the level of the spell slot you gave up for it. You can give up multiple spell slots to take *utility spell* multiple times.
 
 Choose from among the following utility spells:
 
@@ -344,17 +346,17 @@ Choose from among the following utility spells:
 | 5th level   | water breathing |
 | 7th level   | scrying         |
 
-### Feat Tiers
+#### Feat Tiers
 
-#### Adventurer Feat
+##### Adventurer Feat
 
-Each _utility spell_ you take lets you cast two spells from the available options instead of one.
+Each *utility spell* you take lets you cast two spells from the available options instead of one.
 
-#### Champion Feat
+##### Champion Feat
 
-As above, but you can cast three _utility spells_ instead of one.
+As above, but you can cast three *utility spells* instead of one.
 
-### 1st Level Utility: Disguise Self
+#### 1st Level Utility: Disguise Self
 
 Close-quarters spell
 
@@ -370,7 +372,7 @@ Daily
 
 9th level spell: You can now target an ally with the spell; you can also now use it on up to two creatures at once.
 
-### 1st Level Utility: Feather Fall
+#### 1st Level Utility: Feather Fall
 
 Close-quarters spell
 
@@ -388,7 +390,7 @@ Free action to cast
 
 9th level spell: You gain some control over where a target falls, like a quickly gliding feather.
 
-### 1st Level Utility: Hold Portal
+#### 1st Level Utility: Hold Portal
 
 Ranged spell
 
@@ -404,7 +406,7 @@ Daily
 
 9th level spell: Champion-tier creatures can’t enter. Epic-tier creatures can’t get through for an hour.
 
-### 3rd Level Utility: Levitate
+#### 3rd Level Utility: Levitate
 
 Ranged spell
 
@@ -418,7 +420,7 @@ Daily
 
 9th level spell: The spell can now affect five targets.
 
-### 3rd Level Utility: Message
+#### 3rd Level Utility: Message
 
 Close-quarters spell
 
@@ -438,7 +440,7 @@ The maximum distance you can send a message depends on the spell’s level.
 
 9th level spell: From any city to any other city, or across a sea.
 
-### 3rd Level Utility: Speak with Item
+#### 3rd Level Utility: Speak with Item
 
 Close-quarters spell
 
@@ -454,7 +456,7 @@ Quick action to cast
 
 9th level spell: If the item recharge roll fails, you keep this spell, but the item won’t talk to you until after your next full heal-up.
 
-### 5th Level Utility: Water Breathing
+#### 5th Level Utility: Water Breathing
 
 Close-quarters spell
 
@@ -468,7 +470,7 @@ Quick action to cast
 
 9th level spell: The spell affects you and 1d6 + 2 nearby allies for 4d6 hours.
 
-### 7th Level Utility: Scrying
+#### 7th Level Utility: Scrying
 
 Ranged spell
 
@@ -478,9 +480,9 @@ Daily
 
 Scrying as a single standard action won’t yield much. Concentrating on the spell for a while with props like a scrying pool or a crystal ball will work better.
 
-## 1st Level Spells
+### 1st Level Spells
 
-### Acid Arrow
+#### Acid Arrow
 
 Ranged spell
 
@@ -502,7 +504,7 @@ Daily
 
 9th level spell: 5d4 x 10 damage, and 40 ongoing damage; 40 ongoing on a miss.
 
-### Blur
+#### Blur
 
 Ranged spell
 
@@ -520,7 +522,7 @@ Daily
 
 9th level spell: Miss 30% of the time, and you can now target two creatures with the spell.
 
-### Charm Person
+#### Charm Person
 
 Ranged spell
 
@@ -544,7 +546,7 @@ Daily
 
 9th level spell: Target with 266 hp or fewer.
 
-### Color Spray
+#### Color Spray
 
 Close-quarters spell
 
@@ -564,19 +566,19 @@ Cyclic (cast once per battle OR at-will when the escalation die is even)
 
 9th level spell: 10d12 damage, 60 hp or fewer.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 Increase the hit point threshold of the weakened effect by 5 hp.
 
-#### Champion Feat
+##### Champion Feat
 
 On a miss, the spell deals damage equal to your level.
 
-#### Epic Feat
+##### Epic Feat
 
 The spell now targets 1d4 + 1 nearby enemies in a group.
 
-### Magic Missile
+#### Magic Missile
 
 Ranged spell
 
@@ -596,19 +598,19 @@ At-Will
 
 9th level spell: 10d6 damage.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can choose two targets; roll half the damage dice for one missile and half the damage dice for the other, then assign one set of damage dice to each of the two targets.
 
-#### Champion Feat
+##### Champion Feat
 
 Roll a d20 when you use the spell; if you roll a natural 20, the magic missile crits and deals double damage. (Rolling a 1 is not a fumble; this roll checks only to see if you can crit.)
 
-#### Epic Feat
+##### Epic Feat
 
 The 7th and 9th level versions of the spell now use d8s as damage dice.
 
-### Ray of Frost
+#### Ray of Frost
 
 Ranged spell
 
@@ -630,19 +632,19 @@ At-Will
 
 9th level spell: 10d12 damage.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
-When your _ray of frost_ attack roll is a natural even hit, if the target is staggered after taking the damage, it is also dazed until the end of your next turn.
+When your *ray of frost* attack roll is a natural even hit, if the target is staggered after taking the damage, it is also dazed until the end of your next turn.
 
-#### Champion Feat
+##### Champion Feat
 
 The target of the spell can also be faraway.
 
-#### Epic Feat
+##### Epic Feat
 
 When you cast the spell you can change the damage type to lightning or negative energy.
 
-### Shield
+#### Shield
 
 Close-quarters spell
 
@@ -660,19 +662,19 @@ Free action to cast, when an attack hits your AC.
 
 9th level spell: The bonus to AC/PD on the rerolled attack increases to +6.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can now choose either of the attack rolls, in case the second one crits or is otherwise bad for you.
 
-#### Champion Feat
+##### Champion Feat
 
 Recharge roll after battle is now 6+.
 
-#### Epic Feat
+##### Epic Feat
 
 Hit or miss, you take only half damage from any attack you use shield against.
 
-### Shocking Grasp
+#### Shocking Grasp
 
 Close-quarters spell
 
@@ -694,21 +696,21 @@ At-Will
 
 9th level spell: 4d6 damage.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The spell now requires only a quick action to cast (once per round).
 
-#### Champion Feat
+##### Champion Feat
 
 Once per battle, when you hit the target of the spell, you can also daze it until the end of your next turn.
 
-#### Epic Feat
+##### Epic Feat
 
 The damage dice of the spell increase to d8s.
 
-## 3rd Level Spells
+### 3rd Level Spells
 
-### Confusion
+#### Confusion
 
 Ranged spell
 
@@ -728,19 +730,19 @@ Daily
 
 9th level spell: Target with 500 hp or fewer, or two targets each with 250 hp or fewer.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 On a miss against all targets with this spell, you can choose to daze those targets (save ends). If you do, you do not regain the spell.
 
-#### Champion Feat
+##### Champion Feat
 
 Each failed save against the spell deals 6d10 psychic damage to the target.
 
-#### Epic Feat
+##### Epic Feat
 
 The save against confused is now a difficult save (16+).
 
-### Crescendo
+#### Crescendo
 
 Close-quarters spell
 
@@ -762,7 +764,7 @@ At-Will
 
 9th level spell: 10d12 damage.
 
-### Force Salvo
+#### Force Salvo
 
 Ranged spell
 
@@ -782,19 +784,19 @@ Targets: One or more nearby or faraway enemies (see below)
 
 9th level spell: 3d6 x 10 damage.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can now target a specific creature with more than one bolt. Once you hit that target, you must target a different creature, and so on. (Roll your attack after each bolt before picking a target for the next bolt.)
 
-#### Champion Feat
+##### Champion Feat
 
 On a miss, a bolt now deals miss damage equal to your level.
 
-#### Epic Feat
+##### Epic Feat
 
 Increase the number of bolts by 1.
 
-### Hold Monster
+#### Hold Monster
 
 Ranged spell
 
@@ -814,19 +816,19 @@ Daily
 
 9th level spell: Target with 250 hp or fewer.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 If the spell misses all targets, you regain the spell during your next quick rest.
 
-#### Champion Feat
+##### Champion Feat
 
 The spell can target up to 2 nearby enemies whose total hit points don’t exceed the limit.
 
-#### Epic Feat
+##### Epic Feat
 
 Increase the limit by +50 hp.
 
-### Lightning Bolt
+#### Lightning Bolt
 
 Close-quarters spell
 
@@ -846,15 +848,15 @@ Targets: 1d3 + 1 nearby enemies in a group or in a (rough) line
 
 9th level spell: 3d8 x 10 damage.
 
-#### Champion Feat
+##### Champion Feat
 
 A natural even hit also deals 10 ongoing lightning damage.
 
-#### Epic Feat
+##### Epic Feat
 
 A natural even hit now deals 20 ongoing lightning damage (hard save ends, 16+).
 
-### Rebuke
+#### Rebuke
 
 Ranged spell
 
@@ -872,19 +874,19 @@ Cyclic (once per battle OR at-will when the escalation die is even)
 
 9th level spell: Target with 400 hp or fewer.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 When you roll a natural even hit with the spell, you also deal psychic damage equal to double your level to the target.
 
-#### Champion Feat
+##### Champion Feat
 
 When you hit the target with the spell, you also daze it until the end of your next turn.
 
-#### Epic Feat
+##### Epic Feat
 
 When you roll a natural even miss against the target, you daze it until the end of your next turn.
 
-### Sleep
+#### Sleep
 
 Ranged spell
 
@@ -904,7 +906,7 @@ Daily
 
 9th level spell: Targets 9d20 + 200 max hp.
 
-### Teleport Shield
+#### Teleport Shield
 
 Close-quarters spell
 
@@ -922,17 +924,17 @@ Always: For the rest of the battle, once per round when an enemy moves to engage
 
 9th level spell: 10d10 damage.
 
-#### Champion Feat
+##### Champion Feat
 
-When your _teleport shield_ attack misses, the spell’s attack is not expended that round.
+When your *teleport shield* attack misses, the spell’s attack is not expended that round.
 
-#### Epic Feat
+##### Epic Feat
 
 You can now teleport the enemy somewhere faraway that you can see; other restrictions still apply.
 
-## 5th Level Spells
+### 5th Level Spells
 
-### Denial
+#### Denial
 
 Ranged spell
 
@@ -950,15 +952,15 @@ Daily
 
 9th level spell: 3d6 x 10 damage.
 
-#### Champion Feat
+##### Champion Feat
 
 When you roll a natural even miss with the spell, the target is also hampered until the end of your next turn.
 
-#### Epic Feat
+##### Epic Feat
 
 Increase the number of targets to 1d4 + 1.
 
-### Dimension Door
+#### Dimension Door
 
 Close-quarters spell
 
@@ -974,7 +976,7 @@ Daily
 
 9th level spell: You can take one ally who is next to you along with you as you teleport.
 
-### Fireball
+#### Fireball
 
 Ranged spell
 
@@ -996,15 +998,15 @@ Reckless miss: Your allies engaged with the target take one-fourth damage.
 
 9th level spell: 20d10 damage.
 
-#### Champion Feat
+##### Champion Feat
 
 Casting the spell recklessly increases the number of additional targets to 1d4 instead of 1d3.
 
-#### Epic Feat
+##### Epic Feat
 
 Increase the number of targets to 1d3 + 1 instead of 1d3.
 
-### Invisibility
+#### Invisibility
 
 Ranged spell
 
@@ -1020,9 +1022,9 @@ High Arcana: The duration out of combat is 1 hour instead.
 
 9th level spell: Creatures made invisible by the spell have a 25% chance of remaining invisible the first time (and first time only) they attack or get flashy.
 
-## 7th Level Spells
+### 7th Level Spells
 
-### Blink
+#### Blink
 
 Close-quarters spell
 
@@ -1036,7 +1038,7 @@ Whenever the target uses a move action, there is a 50% chance that it can telepo
 
 9th level spell: 75% chance.
 
-### Flight
+#### Flight
 
 Ranged spell
 
@@ -1048,7 +1050,7 @@ Daily
 
 9th level spell: When you cast the spell, you can choose one: the effect lasts for an hour OR you can target 1d4 + 1 creatures for the normal duration.
 
-### Haste
+#### Haste
 
 Ranged spell
 
@@ -1065,7 +1067,7 @@ In addition, at the start of each of the target’s turns this battle, if the es
   
   
 
-### Invisibility Purge
+#### Invisibility Purge
 
 Ranged spell
 
@@ -1081,7 +1083,7 @@ Targets: Any nearby enemies who are invisible, whether you know they are there o
 
 9th level spell: The spell also affects faraway targets that you could normally see.
 
-### Overcome Resistance
+#### Overcome Resistance
 
 Ranged spell
 
@@ -1093,7 +1095,7 @@ Recharge 16+ after battle
 
 9th level spell: You can now target 1d4 nearby allies with the spell.
 
-### Transfer Enchantment
+#### Transfer Enchantment
 
 Ranged spell
 
@@ -1111,9 +1113,9 @@ Daily
 
 9th level spell: 2d10 x 10 damage; if the spell misses, you regain it during your next quick rest.
 
-## 9th Level Spells
+### 9th Level Spells
 
-### Disintegrate
+#### Disintegrate
 
 Ranged spell
 
@@ -1129,11 +1131,11 @@ In addition, if the target drops to 0 hp from this attack, or drops to 0 hp befo
 
 **Miss:** Half damage.
 
-#### Epic Feat
+##### Epic Feat
 
 You can now target a faraway creature with the spell.
 
-### Meteor Swarm
+#### Meteor Swarm
 
 Ranged spell
 
@@ -1153,11 +1155,11 @@ Any allies engaged with the enemies you are targeting take one-fourth damage fro
 
 **Miss:** Half damage.
 
-#### Epic Feat
+##### Epic Feat
 
 Each meteor now deals 5d4 x 10 damage.
 
-### Teleport
+#### Teleport
 
 Ranged spell
 
@@ -1169,6 +1171,6 @@ When you teleport, roll a d20. If you roll a 1, you miss your desired location a
 
 Any effects of spells or items cast before teleporting are dispelled and no longer function on arrival.
 
-#### Epic Feat
+##### Epic Feat
 
 Your allies don’t need to be next to you before you cast the spell, just nearby. Alternately, if they are all next to you when you cast the spell, you can teleport to a location known to one of your allies.
