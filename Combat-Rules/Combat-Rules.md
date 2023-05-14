@@ -15,26 +15,19 @@ defense numbers and deal damage against hit points.
 
 ## Map of Contents
 
-%% Begin Waypoint %%
-- **Attacks**
-- **Combat-Actions**
-- **Combat-Modifiers**
-- **Combat-Sequence**
-- **[Combat-Stats](./Combat-Stats/Combat-Stats.md)**
-- **Damage-and-Healing**
-- **Death-and-Dying**
-- **Rest-and-Recharge**
-- **Special-Actions**
-- **[Special-Attacks-and-Effects](./Special-Attacks-and-Effects/Special-Attacks-and-Effects.md)**
-	- **[Conditions](./Special-Attacks-and-Effects/Conditions/Conditions.md)**
-		- [Confused](./Special-Attacks-and-Effects/Conditions/Confused.md)
-		- [Dazed](./Special-Attacks-and-Effects/Conditions/Dazed.md)
-		- [Fear](./Special-Attacks-and-Effects/Conditions/Fear.md)
-		- [Hampered](./Special-Attacks-and-Effects/Conditions/Hampered.md)
-		- [Helpless](./Special-Attacks-and-Effects/Conditions/Helpless.md)
-		- [Stuck](./Special-Attacks-and-Effects/Conditions/Stuck.md)
-		- [Stunned](./Special-Attacks-and-Effects/Conditions/Stunned.md)
-		- [Vulnerable](./Special-Attacks-and-Effects/Conditions/Vulnerable.md)
-		- [Weakened](./Special-Attacks-and-Effects/Conditions/Weakened.md)
+- **[Attacks](./Attacks/Attacks.md)**
+- **[Combat Actions](./Combat-Actions/Combat-Actions.md)**
+- **[Combat Modifiers](./Combat-Modifiers/Combat-Modifiers.md)**
+	- [Invisibility](./Combat-Modifiers/Invisibility.md)
+	- [Shooting into Melee](./Combat-Modifiers/Shooting-into-Melee.md)
+- **[Combat Sequence](./Combat-Sequence/Combat-Sequence.md)**
+- **[Combat Stats](./Combat-Stats/Combat-Stats.md)**
+- **[Damage and Healing](./Damage-and-Healing/Damage-and-Healing.md)**
+- **[Death and Dying](./Death-and-Dying/Death-and-Dying.md)**
+	- [Optional Lasting Wound Rule](./Death-and-Dying/Optional-Lasting-Wound-Rule.md)
+	- [Optional Meaningful Death Rule](./Death-and-Dying/Optional-Meaningful-Death-Rule.md)
+- **[Rest and Recharge](./Rest-and-Recharge/Rest-and-Recharge.md)**
+- **[Special Actions](./Special-Actions/Special-Actions.md)**
+- **[Special Attacks and Effects](./Special-Attacks-and-Effects/Special-Attacks-and-Effects.md)**
 
-%% End Waypoint %%
+
