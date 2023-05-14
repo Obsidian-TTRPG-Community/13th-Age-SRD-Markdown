@@ -1,4 +1,14 @@
-#### Damage
+---
+aliases: [Damage]
+created: 2023-05-13
+description: 
+image: 
+publish: 
+tags: [13A/Combat/Rules/Stats]
+updated: 2023-05-13
+---
+
+## Damage
 
 Each attack indicates a specified amount of damage it does; subtract  
 that amount from the target’s hit points. If the attack targets multiple  
