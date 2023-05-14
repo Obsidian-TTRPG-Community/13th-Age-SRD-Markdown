@@ -1,7 +1,13 @@
 ---
-aliases: ["Class Basics"]
-tags: 13A/Characters/Classes
+aliases: Class Basics
+created: 2023-05-07
+description: 
+image: 
+publish: 
+tags: [13A/Characters/Classes]
+updated: 2023-05-13
 ---
+
 ## Class Basics
 
 ### Weapon Damage Progression

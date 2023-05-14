@@ -19,7 +19,7 @@ These rules are for the character you create, your PC (playable character).
 - [Abilities](Abilities.md)
 - [Backgrounds-and-Skill-Checks](Backgrounds-and-Skill-Checks.md)
 - [Class](Class.md)
-- [Combat-Stats](Combat-Stats.md)
+- [Combat-Stats](../Combat-Rules/Combat-Stats/Combat-Stats.md)
 - **[Feats](Feats/Feats.md)**
 	- [Feats-per-Level](Feats/Feats-per-Level.md)
 	- **General-Feats**

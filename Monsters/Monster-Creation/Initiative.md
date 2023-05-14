@@ -14,7 +14,7 @@ Establish a monster’s initiative bonus by adding its level to a modifier
 between –1 and +9.
 
 | Modifier | Speed                         | Example                |
-| -------- | ----------------------------- | ---------------------- |
+|----------|-------------------------------|------------------------|
 | –1       | Super-slow and utterly clumsy | oozes, zombies         |
 | +0       | Slow and clumsy               | animated statues       |
 | +1       | Awkward or small              | city guards, dire rats |

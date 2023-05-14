@@ -12,7 +12,7 @@ Navigation Links
 
 ## Combat Stats
 
-For details on how combat works, see **Combat Rules**.
+For details on how combat works, see **[Combat Rules](../Combat-Rules/Combat-Rules.md)**.
 
 Although Armor Class (AC), Physical Defense (PD), and Mental Defense (MD) are based on a single ability score, the score each defense uses depends on the character. In each case, you look at three ability modifiers and use the middle value (not the highest or the lowest). If two or more modifiers are tied, you use one of those tied scores as the middle score.
 

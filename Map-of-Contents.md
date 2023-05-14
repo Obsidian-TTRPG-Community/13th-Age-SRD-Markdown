@@ -81,7 +81,7 @@ updated: +002023-04-30 1238
 	15. [Rogue Multiclass](Multiclassing/Rogue-Multiclass.md)
 	16. [Sorcerer Multiclass](Multiclassing/Sorcerer-Multiclass.md)
 	17. [Wizard Multiclass](Multiclassing/Wizard-Multiclass.md)
-8. [Combat Rules](Combat%20Rules/Combat%20Rules.md)
+8. [Combat-Rules](Combat%20Rules/Combat-Rules.md)
 	1. Combat Stats
 	2. Combat Sequence
 	3. Combat Actions
