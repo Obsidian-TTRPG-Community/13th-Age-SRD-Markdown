@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Cleric]
-updated: 2023-05-04
+updated: 2023-05-13
 ---
 
 ## Cleric

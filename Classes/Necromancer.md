@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Necromancer]
-updated: 2023-05-07
+updated: 2023-05-13
 ---
 
 ## Ability Scores
