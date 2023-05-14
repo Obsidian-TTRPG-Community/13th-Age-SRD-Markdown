@@ -1,11 +1,11 @@
 ---
-aliases: [Paladin]
+aliases: Paladin
 created: 2023-05-07
 description: 
 image: 
 publish: 
 tags: [13A/Characters/Classes/Paladin]
-updated: 2023-05-07
+updated: 2023-05-13
 ---
 
 ## Paladin
@@ -45,7 +45,6 @@ Paladins may start with either 25 gp or 1d6 x 10 gp.
 | Light or Simple  | 1d6 scimitar, shortsword | 1d8 spear                |
 | Heavy or Martial | 1d8 longsword, battleaxe | 1d10 greatsword, halberd |
 
-
 #### Ranged Weapons
 
 | 0                | Thrown           | Crossbow           | Bow          |
@@ -53,7 +52,6 @@ Paladins may start with either 25 gp or 1d6 x 10 gp.
 | Small            | 1d4 dagger       | 1d4 hand crossbow  | —            |
 | Light or Simple  | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | Heavy or Martial | —                | 1d8 heavy crossbow | 1d8 longbow  |
-
 
 ### Level Progression
 
@@ -90,21 +88,22 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Talents                              | 3 (see level progression chart)                              |
 | Feats                                | 1 per Level                                                  |
 
-
 ### Basic Attacks
 
 #### Melee Attack
-At-Will
-**Target:** One enemy
-**Attack:** Strength + Level vs. AC
-**Hit:** WEAPON + Strength damage
+
+At-Will  
+**Target:** One enemy  
+**Attack:** Strength + Level vs. AC  
+**Hit:** WEAPON + Strength damage  
 **Miss:** Damage equal to your level
 
 #### Ranged Attack
-At-Will
-**Target:** One enemy
-**Attack:** Dexterity + Level vs. AC
-**Hit:** WEAPON + Dexterity damage
+
+At-Will  
+**Target:** One enemy  
+**Attack:** Dexterity + Level vs. AC  
+**Hit:** WEAPON + Dexterity damage  
 **Miss:** —
 
 ### Class Features
@@ -163,7 +162,7 @@ You can use your Charisma as the attack ability for cleric spells you can cast.
 
 ##### Champion Feat
 
-You can now cast the cleric class feature _heal_ spell twice per day.
+You can now cast the cleric class feature *heal* spell twice per day.
 
 ##### Epic Feat
 
