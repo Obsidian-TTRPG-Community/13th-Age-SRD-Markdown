@@ -13,7 +13,6 @@ updated: 2023-05-13
 Combat is played with various sided dice. You make attack rolls against  
 defense numbers and deal damage against hit points.
 
-
 ## Map of Contents
 
 %% Begin Waypoint %%

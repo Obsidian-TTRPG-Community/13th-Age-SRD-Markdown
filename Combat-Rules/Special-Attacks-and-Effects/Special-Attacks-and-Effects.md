@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: []
 created: 2023-05-13
 description: 
 image: 
@@ -9,8 +9,6 @@ updated: 2023-05-13
 ---
 
 ## Special Attacks and Effects
-
-
 
 ### Coup De Grace
 
