@@ -10,6 +10,7 @@ updated: 2023-05-01
 
 ## Armor Categories
 
+
 Armor is classified as either light or heavy.
 
 **Light armor includes**: Heavily padded vest, leather armor, studded leather, cured hide.
