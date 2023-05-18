@@ -114,4 +114,4 @@ updated: +002023-04-30 1238
 	3. [Chakras](Magic-Items/Chakras.md)
 	4. [Magic Item Basics](Magic-Items/Magic-Item-Basics.md)
 	5. [Artifacts](Magic-Items/Artifacts.md)
-	6. [Magic Item Descriptions](Magic-Items/Magic-Item-Descriptions.md)
+	6. [Magic Item Descriptions](Magic-Items/Magic-Item-Descriptions/Magic-Item-Descriptions.md)
