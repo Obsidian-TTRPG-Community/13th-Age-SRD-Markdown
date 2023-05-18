@@ -12,5 +12,10 @@ updated: 2023-05-07
 
 %% Begin Waypoint %%
 - **[Animal-Critter](./Animal-Critter/Animal-Critter.md)**
+- [Ankheg](./Ankheg.md)
+- **[Azer](./Azer/Azer.md)**
+	- [Azer Soldier](./Azer/Azer%20Soldier.md)
+	- [Fire Bat](./Azer/Fire%20Bat.md)
+	- [Magma Brute](./Azer/Magma%20Brute.md)
 
 %% End Waypoint %%
