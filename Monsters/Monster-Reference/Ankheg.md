@@ -1,4 +1,17 @@
-### Ankheg
+---
+ac: 19
+aliases: Ankheg
+created: 2023-05-18
+description: 
+image: 
+level: 2
+modifier: 8
+publish: 
+tags: [13A/Monsters/Type/Troop, 13A/Bestiary/Beast]
+updated: 2023-05-18
+---
+
+## Ankheg
 
 <table>
 <colgroup>
