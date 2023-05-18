@@ -41,6 +41,8 @@ updated: 2023-05-07
 	- [Whispering Prophet](./Aberration/Whispering%20Prophet.md)
 	- [Xombie-Egg-Swarm](./Aberration/Xombie-Egg-Swarm.md)
 	- [Xombie-Spiders](./Aberration/Xombie-Spiders.md)
+- **[Animal-Critter](./Animal-Critter/Animal-Critter.md)**
+- [Ankheg](./Ankheg.md)
 - **[Beast](./Beast/Beast.md)**
 	- [Adult-Remorhaz](./Beast/Adult-Remorhaz.md)
 	- [Ancient-Purple-Worm](./Beast/Ancient-Purple-Worm.md)
