@@ -194,7 +194,7 @@ Your Sneak Attack damage is better than other rogues. Use the following Sneak At
 |-------------|--------------|
 | 1           | +1d6         |
 | 2           | +1d8         |
-| 4           | +2d8         |
+| 4           | +`dice: 2d8`         |
 | 6           | +3d8         |
 | 8           | +5d8         |
 | 10          | +7d8         |

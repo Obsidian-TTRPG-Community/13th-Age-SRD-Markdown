@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Characters/Classes/Cleric]
-updated: 2023-05-04
+updated: 2023-05-13
 ---
 
 ## Cleric
@@ -619,7 +619,7 @@ Quick action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
-**Cast for power:** One nearby ally deals +2d8 damage with melee attacks this battle.
+**Cast for power:** One nearby ally deals +`dice: 2d8` damage with melee attacks this battle.
 
 **Cast for broad Effect:** Choose up to three nearby creatures (including you); each target deals +1d8 damage with melee attacks this battle.
 

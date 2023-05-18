@@ -1,6 +1,821 @@
+---
+aliases: []
+created: 2023-05-07
+description: 
+image: 
+publish: 
+tags: []
+updated: 2023-05-07
+---
+
 ## Monster Reference
 
 
+<<<<<<<< HEAD:Monster-Reference.md
+========
+For dire animal abilities, see Dire Animals.
+
+All bats have the following abilities:
+
+- *Echolocation:* Bats rely on sound waves to sense their surroundings.  
+  A bat can “see” in total darkness, and can detect creatures using  
+  invisibility or visual illusions to hide.
+
+- *Flight:* Small bats fly quickly and turn easily. Bigger bats fly more  
+  awkwardly.
+
+- *Wall-crawler:* A bat can climb on ceilings and walls as easily as it  
+  moves on the ground.
+
+#### Dire Rat
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Normal</strong></p>
+<p><strong>1<sup>st</sup> level</strong></p>
+<p><strong>Mook</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +2</p>
+<p><strong>Infected bite +5 vs. AC</strong>—4 ongoing damage</p>
+<p><u>Nastier Specials</u></p>
+<p><em>Squealing pack attack:</em> This creature gains a +1 attack bonus
+per other dire rat engaged with the target it’s attacking.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>15</strong></p>
+<p><strong>15</strong></p>
+<p><strong>10</strong></p>
+<p><strong>6</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Giant Scorpion
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Normal</strong></p>
+<p><strong>1<sup>st</sup> level</strong></p>
+<p><strong>Wrecker</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +6</p>
+<p><strong>Pincer +6 vs. PD—</strong>1 damage, and the scorpion gains a
++2 attack bonus against the same target this turn with its
+<em>stinger</em> attack.</p>
+<p><em>Limited use:</em> 2/round, each requiring a quick action.
+(Hitting the same target twice with <em>pincer</em> gives the
+<em>stinger</em> attack a +4 bonus.)</p>
+<p><strong>Stinger +6 vs. AC—</strong>3 damage, and 3 ongoing poison
+damage</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>16</strong></p>
+<p><strong>15</strong></p>
+<p><strong>10</strong></p>
+<p><strong>22</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Swarm of Bats
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Normal</p>
+<p>1<sup>st</sup> level</p>
+<p>Spoiler</p>
+<p>Beast</p></td>
+<td><p>Initiative: +5</p>
+<p>Vulnerability: thunder</p>
+<p><strong>C: Swarming bites +7 vs. PD (1d3 nearby enemies)</strong>—2
+damage, and after the attack, the swarm of bats engages one of the
+targets</p>
+<p><em>Natural even hit:</em> The target is hampered until the end of
+its next turn. It can end the effect by attacking the swarm, or if the
+swarm drops to 0 hp.</p>
+<p><em>No opportunities:</em> The swarm of bats can’t make opportunity
+attacks, and enemies can’t make opportunity attacks against it.</p>
+<p><em>Swarming resistance:</em> Each turn, the swarm of bats gains
+<em>resist damage 18+</em> to all damage from attacks by enemies that
+the swarm did NOT attack that turn.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>16</p>
+<p>16</p>
+<p>11</p>
+<p>30</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Wolf
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Normal</strong></p>
+<p><strong>1<sup>st</sup> level</strong></p>
+<p><strong>Troop</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +4</p>
+<p><strong>Bite +5 vs. AC</strong>—5 damage</p>
+<p><em>Pack attack:</em> This creature gains a +2 bonus to attack and
+damage for each other ally engaged with the target (max +4
+bonus).</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>17</strong></p>
+<p><strong>15</strong></p>
+<p><strong>11</strong></p>
+<p><strong>28</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Bat Cavalry
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Large</p>
+<p>2<sup>nd</sup> level</p>
+<p>Wrecker</p>
+<p>Beast &amp; Humanoid</p></td>
+<td><p>Initiative: +6</p>
+<p>Vulnerability: thunder</p>
+<p><strong>Fangs, wings, and sword +8 vs. AC</strong>—Damage and effect
+depends on the natural roll</p>
+<p><em>Natural even hit:</em> The target takes 10 damage from a sword
+strike, and the bat cavalry pops free from the target and can move as a
+free action.</p>
+<p><em>Natural even miss against a target taking ongoing damage:</em>
+The target takes 6 damage from clawing wings.</p>
+<p><em>Natural odd hit:</em> The target takes 8 damage, and 5 ongoing
+damage from bat fangs.</p>
+<p><em>Natural 2–5:</em> In addition to any other effect, the bat
+cavalry pops free from the target, and as a free action, it can move to
+another nearby enemy and make a <em>fangs, wings, and sword</em> attack
+against it.</p>
+<p><strong>R: Thrown javelin +5 vs. AC</strong>—8 damage</p>
+<p><em>Resist ranged damage 16+:</em> When a ranged attack targets this
+creature while it’s flying, the attacker must roll a natural 16+ on the
+attack roll or it only deals half damage.</p>
+<p><em>Skittish:</em> A bat cavalry engaged with a conscious enemy after
+attacking it will attempt to disengage and fly into the air if it has a
+move action remaining that turn.</p>
+<p><u>Nastier Specials</u></p>
+<p><em>Blood drinker:</em> When the bat cavalry drops an enemy to 0 hp
+or below, it continues to attack that enemy (until it dies) instead of
+attacking other enemies.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>19</p>
+<p>17</p>
+<p>14</p>
+<p>70</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Bear
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Normal</strong></p>
+<p><strong>2<sup>nd</sup> level</strong></p>
+<p><strong>Troop</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +4</p>
+<p><strong>Bite +7 vs. AC</strong>—6 damage</p>
+<p><em>Natural even hit:</em> The target takes +1d6 damage from a claw
+swipe.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>17</strong></p>
+<p><strong>16</strong></p>
+<p><strong>12</strong></p>
+<p><strong>45</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Dire Bat
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Normal</p>
+<p>2<sup>nd</sup> level</p>
+<p>Troop</p>
+<p>Beast</p></td>
+<td><p>Initiative: +8</p>
+<p>Vulnerability: thunder</p>
+<p><strong>Fangs and wings +6 vs. AC</strong>—5 damage, and 5 ongoing
+damage</p>
+<p><em>Natural 2–5:</em> The dire bat pops free from the target and can
+move as a free action.</p>
+<p><em>Resist ranged damage 16+:</em> When a ranged attack targets this
+creature while it’s flying, the attacker must roll a natural 16+ on the
+attack roll or it only deals half damage.</p>
+<p><em>Skittish:</em> A dire bat engaged with a conscious enemy after
+attacking it will attempt to disengage and fly into the air if it has a
+move action remaining that turn.</p>
+<p><u>Nastier Specials</u></p>
+<p><em>Blood drinker:</em> When the dire bat drops an enemy to 0 hp or
+below, it continues to attack that enemy (until it dies) instead of
+attacking other enemies.</p>
+<p><em>Dire feature:</em> This bat is a dire animal and has a dire
+feature.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>18</p>
+<p>17</p>
+<p>14</p>
+<p>32</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Giant Web Spider
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Large</strong></p>
+<p><strong>2<sup>nd</sup> level</strong></p>
+<p><strong>Blocker</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +4</p>
+<p><strong>Bite +7 vs. AC—</strong>5 damage, and 5 ongoing poison
+damage</p>
+<p><em>Natural even hit:</em> The target also takes 2d6 ongoing poison
+damage if it’s dazed or stuck.</p>
+<p><strong>C: Web +7 vs. PD (up to 2 nearby enemies in a
+group</strong>)<strong>—</strong>3 damage, and the target is dazed until
+the end of the spider’s next turn</p>
+<p><em>Natural 18+:</em> The target is also stuck until the end of the
+spider’s next turn.</p>
+<p><em>Wall-crawler:</em> A giant web spider can climb on ceilings and
+walls as easily as it moves on the ground.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>17</strong></p>
+<p><strong>16</strong></p>
+<p><strong>12</strong></p>
+<p><strong>68</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Hunting Spider
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Normal</strong></p>
+<p><strong>2<sup>nd</sup> level</strong></p>
+<p><strong>Wrecker</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +6</p>
+<p><strong>Bite +6 vs. AC—</strong>8 damage</p>
+<p><em>Natural 16+:</em> The target also takes 1d8 ongoing poison
+damage.</p>
+<p><em>Scuttle:</em> A hunting spider can turn its own failed disengage
+check into a success by taking 1d4 damage.</p>
+<p><em>Wall-crawler:</em> A hunting spider can climb on ceilings and
+walls as easily as it moves on the ground.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>17</strong></p>
+<p><strong>14</strong></p>
+<p><strong>11</strong></p>
+<p><strong>34</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Dire Wolf
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Large</strong></p>
+<p><strong>3<sup>rd</sup> level</strong></p>
+<p><strong>Troop</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +6</p>
+<p><strong>Vicious bite +8 vs. AC</strong>—18 damage</p>
+<p><em>Pack attack:</em> This creature gains a +2 bonus to attack and
+damage for each other ally engaged with the target (max +4 bonus).</p>
+<p><em>Chilling howl:</em> Whenever a dire wolf’s attack drops an enemy
+to 0 hp or below, all dire wolves in the battle can howl as a free
+action. When the wolves howl, each enemy in the battle takes a penalty
+to its attacks and all defenses equal to the number of living dire
+wolves in the battle (max –5) until the end of the attacking wolf’s next
+turn. New howls extend the duration of the current howl rather than
+downgrading the howl’s effect if dire wolves have been slain in the
+meantime.</p>
+<p><em>One dire feature:</em> Roll randomly unless you know this beast’s
+story already.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>18</strong></p>
+<p><strong>17</strong></p>
+<p><strong>13</strong></p>
+<p><strong>80</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Goblin Bat Mage
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Normal</p>
+<p>3<sup>rd</sup> level</p>
+<p>Spoiler</p>
+<p>Beast &amp; Humanoid</p></td>
+<td><p>Initiative: +7</p>
+<p>Vulnerability: thunder</p>
+<p><strong>Bloody fangs +7 vs. AC</strong>—6 damage, and 6 ongoing
+damage</p>
+<p><em>Natural 2–5:</em> The goblin bat mage pops free from the target
+and can move as a free action.</p>
+<p><strong>R: Blood bolt spell +7 vs. PD</strong>—8 negative energy
+damage</p>
+<p><em>Natural even hit:</em> If target is staggered after taking the
+damage, it’s also hampered until the end of its next turn.</p>
+<p><em>Natural odd hit:</em> One random nearby ally of the target takes
+2d6 negative energy damage.</p>
+<p><em>Resist ranged damage 16+:</em> When a ranged attack targets this
+creature while it’s flying, the attacker must roll a natural 16+ on the
+attack roll or it only deals half damage.</p>
+<p><em>Skittish:</em> A goblin bat mage engaged with a conscious enemy
+after attacking it will attempt to disengage and fly into the air if it
+has a move action remaining that turn.</p>
+<p><em>Unwieldy flyer:</em> When the goblin bat mage is staggered, it
+must roll an immediate save. On a failure, it loses its ability to fly
+until the end of its next turn. If flying near the ground, it lands
+immediately. If flying faraway from the ground, it lands badly and takes
+15 damage.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>19</p>
+<p>16</p>
+<p>16</p>
+<p>44</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Dire Bear
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 71%" />
+<col style="width: 5%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Large</strong></p>
+<p><strong>4<sup>th</sup> level</strong></p>
+<p><strong>Troop</strong></p>
+<p><strong>Beast</strong></p></td>
+<td><p>Initiative: +7</p>
+<p><strong>Bite +8 vs. AC</strong>—24 damage</p>
+<p><em>Natural even hit:</em> The target takes +2d6 damage from a claw
+swipe.</p>
+<p><em>Savage:</em> The dire bear gains a +2 attack bonus against
+staggered enemies.</p>
+<p><em>One dire feature:</em> Roll randomly unless you know this beast’s
+story already.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p><strong>19</strong></p>
+<p><strong>19</strong></p>
+<p><strong>14</strong></p>
+<p><strong>130</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Dire Boar
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 71%" />
+<col style="width: 5%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Large</p>
+<p>5<sup>th</sup> level</p>
+<p>Troop</p>
+<p>Beast</p></td>
+<td><p>Initiative: +6</p>
+<p><strong>Battle-hardened tusks +13 vs. AC</strong>—22 damage</p>
+<p><em>Natural 16+:</em> The dire boar can make a <em>bash</em> attack
+against a different target as a free action.</p>
+<p><em>[Special trigger]</em> <strong>Bash +10 vs. PD</strong>—The
+target is weakened (<em>–4 to attacks and defenses</em>) until the end
+of the boar’s next turn</p>
+<p><em>Bestial durability:</em> When an enemy’s attack has an effect on
+the dire boar other than damage, the boar can roll an immediate hard
+save (16+); on a success, it negates that effect.</p>
+<p><em>Last stand:</em> The boar doesn’t die until it reaches –60 hp.
+While at 0 hp or below but more than –60 hp, it must roll a normal save
+at the end of each of its turns; on a failure it dies. (Fighting dire
+boars always presents a choice for the PCs: pile on damage to drop it to
+–60 hp, or trust the save roll to go their way.)</p>
+<p><em>One random dire feature:</em> Use the dire features table.</p>
+<p><u>Nastier Specials</u></p>
+<p><em>Furious streak:</em> When the dire boar can make a <em>bash</em>
+attack, if it isn’t engaged with a different enemy, as a free action it
+can pop free of the enemy engaged with it and move to a nearby enemy to
+make that <em>bash</em> attack.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>18</p>
+<p>16</p>
+<p>12</p>
+<p>180</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Thunder Bat
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Normal</p>
+<p>5<sup>th</sup> level</p>
+<p>Archer</p>
+<p>Beast</p></td>
+<td><p>Initiative: +13</p>
+<p><strong>Fangs +10 vs. AC</strong>—15 damage</p>
+<p><em>Natural even hit against a dazed enemy:</em> The target takes 20
+ongoing thunder damage.</p>
+<p><strong>C: Thunder screech +10 vs. PD (1d3 nearby creatures in a
+group)</strong>—12 thunder damage</p>
+<p><em>Natural even hit:</em> The target is dazed (save ends).</p>
+<p><em>Resist ranged damage 16+:</em> When a ranged attack targets this
+creature while it’s flying, the attacker must roll a natural 16+ on the
+attack roll or it only deals half damage.</p>
+<p><em>Resist thunder 18+:</em> When a thunder attack targets this
+creature, the attacker must roll a natural 16+ on the attack roll or it
+only deals half damage.</p>
+<p><em>Unwieldy flyer:</em> When the thunder bat is staggered, it must
+roll an immediate save. On a failure, it loses its ability to fly until
+the end of its next turn. If flying near the ground, it lands
+immediately. If flying faraway from the ground, it lands badly and takes
+25 damage.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>22</p>
+<p>18</p>
+<p>15</p>
+<p>70</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Dire Tiger
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 71%" />
+<col style="width: 5%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Large</p>
+<p>6<sup>th</sup> level</p>
+<p>Troop</p>
+<p>Beast</p></td>
+<td><p>Initiative: +9</p>
+<p><strong>Crushing jaws and shredding claws +11 vs. AC (2
+attacks)</strong>—17 damage</p>
+<p><em>[Special trigger]</em> <strong>Pounce +13 vs. AC</strong>—38
+damage, and the target is hampered while it’s engaged with the tiger</p>
+<p><em>Pouncing opportunity:</em> When an enemy moves to engage the dire
+tiger while it’s unengaged, it can meet that enemy halfway and make a
+<em>pounce</em> attack as an interrupt action before the target’s
+attack.</p>
+<p><em>Springing attack:</em> If the dire tiger is unengaged and moves
+to engage an enemy (with a springing leap), it can make a
+<em>pounce</em> attack as a standard action.</p>
+<p><em>One random dire feature:</em> Use the dire features
+table.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>20</p>
+<p>19</p>
+<p>15</p>
+<p>160</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Giant Praying Mantis
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 71%" />
+<col style="width: 5%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Large</p>
+<p>8<sup>th</sup> level</p>
+<p>Blocker</p>
+<p>Beast</p></td>
+<td><p>Initiative: +14</p>
+<p><strong>Jagged claws +13 vs. AC (2 attacks)</strong>—30 damage, and
+if the target’s initiative bonus is +10 or less, the target is grabbed
+until it disengages or until the mantis makes a <em>jagged claws</em>
+attack against a different target</p>
+<p><em>Close fighting:</em> When an enemy fails a disengage check
+against the dire mantis, the mantis can make an opportunity attack
+against it.</p>
+<p><em>Big but brittle:</em> While the dire mantis might rate as a huge
+monster in terms of size, its stats are based on those for a large
+monster.</p>
+<p><em>One random dire feature:</em> Use the dire features table.</p>
+<p><u>Nastier Specials</u></p>
+<p><em>Clacking mandibles:</em> When the dire mantis starts its turn
+grabbing an enemy, it can make a <em>chomp</em> attack against that
+enemy as a free action.</p>
+<p><strong>Chomp +15 vs. AC</strong>—40 damage</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>25</p>
+<p>21</p>
+<p>17</p>
+<p>320</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Wraith Bat
+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 72%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Normal</p>
+<p>9<sup>th</sup> level</p>
+<p>Mook</p>
+<p>Undead</p></td>
+<td><p>Initiative: +14</p>
+<p><strong>Ghostly fangs +14 vs. PD</strong>—25 negative energy damage,
+and the target takes +1d8 negative energy damage for each relationship
+point it has with the bat’s associated icon.</p>
+<p><strong>C: Spiraling assault +14 vs. PD (1d3 nearby
+enemies)</strong>—22 negative energy damage, and after the attack the
+wraith bat teleports to and engages with one target it hit.</p>
+<p><em>Limited use:</em> Regardless of the number of wraith bats in the
+battle, only one wraith bat can use this attack each round.</p>
+<p><em>Ghostly:</em> This creature has resist damage 16+ to all damage
+except force damage, which damages it normally. A wraith bat can move
+through solid objects but it can’t end its movement inside
+them.</p></td>
+<td><p><strong>AC</strong></p>
+<p><strong>PD</strong></p>
+<p><strong>MD</strong></p>
+<p><strong>HP</strong></p></td>
+<td><p>24</p>
+<p>23</p>
+<p>20</p>
+<p>36</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+>>>>>>>> 268f6c4 (chore(Monsters): Splitting out Monsters):split_output/Monster-Reference.md
 
 ### Ankheg
 
@@ -279,54 +1094,54 @@ Treat the battlefield effects that follow as a big nastier special.
 
 <u>Against The Pcs</u>
 
-Until all battle shades have been reduced to 0 hit points, select one of
+Until all battle shades have been reduced to 0 hit points, select one of  
 the following effects at the start of each round.
 
-- Half-formed hands of mud and dirt reach out of the ground, grasping at
-  the legs and feet. Make the following attack against 1d3 non-flying
+- Half-formed hands of mud and dirt reach out of the ground, grasping at  
+  the legs and feet. Make the following attack against 1d3 non-flying  
   creatures.
 
   - **+7 vs PD**—The target is stuck until the start of their next turn.
 
-- A literal fog of war (smoke, fog, blowing dust, etc.) covers the area.
+- A literal fog of war (smoke, fog, blowing dust, etc.) covers the area.  
   Ranged attacks from non-battle shade creatures have a –4 penalty.
 
-- Broken and shattered weapons erupt out of the ground. Choose up to
-  three characters in a group. Those players must roll a normal (11+)
+- Broken and shattered weapons erupt out of the ground. Choose up to  
+  three characters in a group. Those players must roll a normal (11+)  
   saving throw or take 2d10 damage.
 
-- Wild necromantic energy bursts like a geyser from the earth with a
-  scream of pain and fear from dozens of spectral throats. Target 1d3
+- Wild necromantic energy bursts like a geyser from the earth with a  
+  scream of pain and fear from dozens of spectral throats. Target 1d3  
   characters with the following attack.
 
   - **+6 vs MD**—4 damage and the target is dazed until the end of their
     > next turn.
 
-- Blood begets blood. As the characters are beaten and injured, the
-  accumulated pain and blood revitalizes the battlefield and the battle
-  shades. The first time a character becomes staggered or any time one
-  drops to 0 hit points, add a broken shade mook to the fight. Add it to
+- Blood begets blood. As the characters are beaten and injured, the  
+  accumulated pain and blood revitalizes the battlefield and the battle  
+  shades. The first time a character becomes staggered or any time one  
+  drops to 0 hit points, add a broken shade mook to the fight. Add it to  
   an existing mob if possible.
 
 <u>Counteractions</u>
 
-Player characters expecting to deal with battle shades can take
+Player characters expecting to deal with battle shades can take  
 precautions.
 
-- Ritual casting certain spells like the cleric's *turn undead* or an
-  appropriate Terrain Caster spell from the druid could return the
+- Ritual casting certain spells like the cleric's *turn undead* or an  
+  appropriate Terrain Caster spell from the druid could return the  
   battle area to normal for the duration of the battle.
 
   - Players may think to try this during combat instead of beforehand.
-    > If they do so, they should make a normal (11+) saving throw at the
-    > beginning of each round. If they succeed, the battlefield effect
+    > If they do so, they should make a normal (11+) saving throw at the  
+    > beginning of each round. If they succeed, the battlefield effect  
     > is suppressed. If they fail, it activates like normal that turn.
 
-- The obvious icon relationship advantages that could help are the
-  Religious and Undead Icons, but players may be able to justify others.
-  A six, along with a bit of a description should nullify the
-  battlefield effects. A five would nullify the effect but create some
-  other complication; for example, summoning the attention of the Undead
+- The obvious icon relationship advantages that could help are the  
+  Religious and Undead Icons, but players may be able to justify others.  
+  A six, along with a bit of a description should nullify the  
+  battlefield effects. A five would nullify the effect but create some  
+  other complication; for example, summoning the attention of the Undead  
   Icon’s servants!
 
 #### Bloody Shade
@@ -1084,65 +1899,65 @@ on the attack roll or it only deals half damage.</p></td>
 
 <u>Environmental Effects</u>
 
-Before the battle, roll a d4 to determine which environmental effect
-will show up during the fight. Then roll a d3 for the minimum escalation
-die value that triggers the effect at the start of the round and stays
+Before the battle, roll a d4 to determine which environmental effect  
+will show up during the fight. Then roll a d3 for the minimum escalation  
+die value that triggers the effect at the start of the round and stays  
 in effect the rest of the battle.
 
-In the unlikely event that PCs have managed to find or lure briar elves
-outside the briar elf’s forested places of power, these effects probably
+In the unlikely event that PCs have managed to find or lure briar elves  
+outside the briar elf’s forested places of power, these effects probably  
 wouldn’t apply.
 
 <u>Humanoid Briar Elves</u>
 
-**1. Snares**—Enemies who take more than two actions on their turn while
-on the ground must save (11+) or be whipped into mid-air by a snare trap
-and hung upside-down (stuck & –2 attack penalty), it is a standard
-action to free oneself or an ally. (GM: Choose how many snares you want
+**1. Snares**—Enemies who take more than two actions on their turn while  
+on the ground must save (11+) or be whipped into mid-air by a snare trap  
+and hung upside-down (stuck & –2 attack penalty), it is a standard  
+action to free oneself or an ally. (GM: Choose how many snares you want  
 set before the fight, probably the number of PCs plus or minus 1.)
 
-**2. Pit traps**—The briar elves have created spike-lined pits disguised
-with forest-floor litter. If you roll a natural 1–5 on d20 roll you must
-save (11+) or become stuck (move action to end) and take your level × d6
+**2. Pit traps**—The briar elves have created spike-lined pits disguised  
+with forest-floor litter. If you roll a natural 1–5 on d20 roll you must  
+save (11+) or become stuck (move action to end) and take your level × d6  
 damage.
 
-**3. Blowdarts**—More briar elves are lurking on the edge of the fight,
-just out of sight. If a PC rolls lower than the escalation die value on
+**3. Blowdarts**—More briar elves are lurking on the edge of the fight,  
+just out of sight. If a PC rolls lower than the escalation die value on  
 any natural d20 roll they take poison damage equal to their level.
 
-**4. Gruesome display**—The whirl of battle has revealed some fresh
-corpses desecrated by the briar elves and impaled in the trees. Story
+**4. Gruesome display**—The whirl of battle has revealed some fresh  
+corpses desecrated by the briar elves and impaled in the trees. Story  
 consequences are best here: it can be someone the PCs cared about.
 
 <u>Plant Briar Elves</u>
 
-**1. Grasping grasses**—Disengage checks by non-plant creatures and
+**1. Grasping grasses**—Disengage checks by non-plant creatures and  
 non-briar elves take a –5 penalty.
 
-**2. Cutting leaves**—Adventurers must save (11+) when they move or take
+**2. Cutting leaves**—Adventurers must save (11+) when they move or take  
 damage equal to twice their level.
 
-**3. Crushing vines**—Any adventurer who doesn’t move on their turn
+**3. Crushing vines**—Any adventurer who doesn’t move on their turn  
 takes their level in damage.
 
-**4. Thorny plants**—Each time an adventurer becomes staggered they also
+**4. Thorny plants**—Each time an adventurer becomes staggered they also  
 take damage equal to their level times the escalation die value.
 
 <u>Undead Briar Elves</u>
 
-**1. Whispers of the past**—PCs have a –2 penalty to MD and PD, as
+**1. Whispers of the past**—PCs have a –2 penalty to MD and PD, as  
 overlapping ghostly whispers cause pain and anxiety.
 
-**2. Ghostly terrain**—On rounds when the escalation die is odd the PCs
-are stuck, unable to move due to ghost trees that suddenly block their
+**2. Ghostly terrain**—On rounds when the escalation die is odd the PCs  
+are stuck, unable to move due to ghost trees that suddenly block their  
 paths.
 
-**3. Spectral hands**—PCs take a –1 penalty to attack rolls, as ghostly
+**3. Spectral hands**—PCs take a –1 penalty to attack rolls, as ghostly  
 thorn-pierced hands grab at them.
 
-**4. Fearful destiny**—PCs who could normally resist fear effects cannot
-do so for the duration of this battle. PCs who cannot normally resist
-fear take a –2 penalty to their saves whenever they are affected by
+**4. Fearful destiny**—PCs who could normally resist fear effects cannot  
+do so for the duration of this battle. PCs who cannot normally resist  
+fear take a –2 penalty to their saves whenever they are affected by  
 fear.
 
 #### Briar Elf Slayer
@@ -2889,12 +3704,12 @@ cancels its lethal payout attack.</p></td>
 
 ### Couatl
 
-In addition to their standard abilities, all elder couatls and some
-8<sup>th</sup> level couatls have another ability or attack—sometimes
-even two—that flows from the power of the icon or icons they are
-presently associated with. Memory keeper couatls who are associated with
-icons that no longer exist should be given whichever ability or attack
-that seems right. Alternatively, make up a new ability/attack that suits
+In addition to their standard abilities, all elder couatls and some  
+8<sup>th</sup> level couatls have another ability or attack—sometimes  
+even two—that flows from the power of the icon or icons they are  
+presently associated with. Memory keeper couatls who are associated with  
+icons that no longer exist should be given whichever ability or attack  
+that seems right. Alternatively, make up a new ability/attack that suits  
 the former icon you’ve created.
 
 Here are some Icon-centered abilities:
@@ -3166,13 +3981,13 @@ certain death, along with its allies.</p></td>
 
 ### Demon
 
-Demons may or may not have a special demonic ability. Roll 1d10 for each
-non-mook normal-sized demon. If you roll less than or equal to the
-demon’s level, it has a random ability. Large or huge (or double- or
-triple-strength) demons automatically get one at least one random
+Demons may or may not have a special demonic ability. Roll 1d10 for each  
+non-mook normal-sized demon. If you roll less than or equal to the  
+demon’s level, it has a random ability. Large or huge (or double- or  
+triple-strength) demons automatically get one at least one random  
 ability.
 
-When a demon has an ability, roll 1d6 or 1d8 (GM’s choice) on the table
+When a demon has an ability, roll 1d6 or 1d8 (GM’s choice) on the table  
 below to determine what it is.
 
 | d6 or d8 | Demonic Ability   | Description                                                                                                                                                                                                                                 |
@@ -4589,7 +5404,7 @@ relationships.</p></td>
 
 ### Derro
 
-Confusion effects only affect derro if they secretly want to murder one
+Confusion effects only affect derro if they secretly want to murder one  
 of their own companions.
 
 #### Derro Berserker
@@ -4892,7 +5707,7 @@ whisper</em> targets 1d3 nearby enemies in a group instead.</p></td>
 
 ### Devil
 
-Although devils vary between campaigns, they need to retain certain key
+Although devils vary between campaigns, they need to retain certain key  
 elements. Devils:
 
 - Come from somewhere unearthly.
@@ -4909,17 +5724,17 @@ elements. Devils:
 
 - Have horns.
 
-Devils have a unique ability called *devil’s dues*. Player characters
-that attack a devil don’t automatically get to use the escalation die.
-If you want to add the escalation die to your attack, you have to decide
-before rolling the attack to give the devil its due. Each type of devil
-(except for those with the *weakling* ability) will specify what it gets
-when you give it its due. Note that an attack that targets more than one
+Devils have a unique ability called *devil’s dues*. Player characters  
+that attack a devil don’t automatically get to use the escalation die.  
+If you want to add the escalation die to your attack, you have to decide  
+before rolling the attack to give the devil its due. Each type of devil  
+(except for those with the *weakling* ability) will specify what it gets  
+when you give it its due. Note that an attack that targets more than one  
 devil would require multiple devil’s due decisions and trade-offs.
 
-Devils have other special abilities that can be picked randomly or
-purposely. Choose 0 to 2 abilities per devil. Some abilities may be
-conditional. For example, a devil may only get a special ability while a
+Devils have other special abilities that can be picked randomly or  
+purposely. Choose 0 to 2 abilities per devil. Some abilities may be  
+conditional. For example, a devil may only get a special ability while a  
 boss devil is commanding them.
 
 | d10 | Devil Ability              | Description                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -5115,7 +5930,7 @@ two saves (one for ongoing and one for weakened).</p></td>
 </tbody>
 </table>
 
-#### Honey Devil, aka Slime Devil
+#### Honey Devil, Aka Slime Devil
 
 <table>
 <colgroup>
@@ -5375,21 +6190,21 @@ ability is a verb.</p></td>
 
 <u>Hellbent</u>
 
-Fury devils become hellbent against a creature for story reasons outside
-the scope of a single battle. PCs could give devils ample reason to hate
-them. Or a succession of 5s as relationship dice with icon interactions
-that involve the devils might suffice to make the fury devil hellbent.
-More often than not, it won’t be one of the PCs who is the target, but
-getting in the way of hellbent furies is a problem. They will try to
-bypass defenders, however, to concentrate on killing their target or
+Fury devils become hellbent against a creature for story reasons outside  
+the scope of a single battle. PCs could give devils ample reason to hate  
+them. Or a succession of 5s as relationship dice with icon interactions  
+that involve the devils might suffice to make the fury devil hellbent.  
+More often than not, it won’t be one of the PCs who is the target, but  
+getting in the way of hellbent furies is a problem. They will try to  
+bypass defenders, however, to concentrate on killing their target or  
 targets.
 
-Typically, a single fury devil leaves the Pit to exact retribution. If
-heroes manage to beat that erinyes back, then three new fury devils rise
-up to try to finish the mission that the first one failed at, and
-whoever killed the first erinyes is on their hit list, too. If those
-devils fail, five erinyes come next, with another hero added to their
-list. If stout-hearted heroes defeat all five fury devils, they’re safe.
+Typically, a single fury devil leaves the Pit to exact retribution. If  
+heroes manage to beat that erinyes back, then three new fury devils rise  
+up to try to finish the mission that the first one failed at, and  
+whoever killed the first erinyes is on their hit list, too. If those  
+devils fail, five erinyes come next, with another hero added to their  
+list. If stout-hearted heroes defeat all five fury devils, they’re safe.  
 Maybe.
 
 <table>
@@ -5732,14 +6547,14 @@ at the start of its turn, that creature takes 20 fire damage.</p></td>
 
 ### Devil, Fang
 
-Fang Devil is a singular river creature. The first time the heroes
-encounter the devil, it should be a 7<sup>th</sup> level monster. If the
-PCs slay the devil near water, you may foreshadow that the devil will be
-back as a multiplicity of 10<sup>th</sup> level river devils. In
-13<sup>th</sup> Age, threats don’t necessarily die the first time you
-deal with them. In the case of Fang Devil, it’s a localized threat
-within one river at a time at 7<sup>th</sup> level. When it becomes a
-multiplying group of 10<sup>th</sup> level creatures, it could spread
+Fang Devil is a singular river creature. The first time the heroes  
+encounter the devil, it should be a 7<sup>th</sup> level monster. If the  
+PCs slay the devil near water, you may foreshadow that the devil will be  
+back as a multiplicity of 10<sup>th</sup> level river devils. In  
+13<sup>th</sup> Age, threats don’t necessarily die the first time you  
+deal with them. In the case of Fang Devil, it’s a localized threat  
+within one river at a time at 7<sup>th</sup> level. When it becomes a  
+multiplying group of 10<sup>th</sup> level creatures, it could spread  
 out wherever the campaign requires it.
 
 #### Fang Devil
@@ -5970,70 +6785,70 @@ river devil minion mobs have dropped to 0 hp.</p></td>
 
 <u>Nastier Specials for all hubris devils</u>
 
-*Friend or enemy?:* A hubris devil using NPCs to attack the heroes makes
-it tough for them to know if there are friends or allies among the
-attackers, forcing the characters to be more careful with their attacks.
-Any natural 1–5 attack roll against the devil is an automatic miss with
+*Friend or enemy?:* A hubris devil using NPCs to attack the heroes makes  
+it tough for them to know if there are friends or allies among the  
+attackers, forcing the characters to be more careful with their attacks.  
+Any natural 1–5 attack roll against the devil is an automatic miss with  
 no miss damage.
 
-*Surprise!:* When the hubris devil attacks, it gains a surprise round
-unless the PCs were extremely perceptive (by making a ridiculously hard
+*Surprise!:* When the hubris devil attacks, it gains a surprise round  
+unless the PCs were extremely perceptive (by making a ridiculously hard  
 skill check for tier).
 
-*Final-gasp soul snatch & escape:* When the devil drops to 0 hp, it
-appears dead until the start of its next turn, at which point it will
-attempt to steal a piece of the soul of the closest character before it
-escapes into a supernatural bolt hole. That character must roll a save.
-If they fail, they lose a chunk of their soul—see below for possible
-effects. Anyone who uses a coup de grace on the devil before its next
-turn will slay it before it can claim a chunk of a soul and escape (but
+*Final-gasp soul snatch & escape:* When the devil drops to 0 hp, it  
+appears dead until the start of its next turn, at which point it will  
+attempt to steal a piece of the soul of the closest character before it  
+escapes into a supernatural bolt hole. That character must roll a save.  
+If they fail, they lose a chunk of their soul—see below for possible  
+effects. Anyone who uses a coup de grace on the devil before its next  
+turn will slay it before it can claim a chunk of a soul and escape (but  
 the PCs might not be aware of this).
 
-**Effects:** What does it mean to have a chunk of your soul stolen.
-You’re free to come up with complications that suit your campaign’s
-metaphysics or take the suggestions that follow as a starting point. Use
+**Effects:** What does it mean to have a chunk of your soul stolen.  
+You’re free to come up with complications that suit your campaign’s  
+metaphysics or take the suggestions that follow as a starting point. Use  
 one or more, as you choose.
 
-- Magic items no longer work for the affected character, even ones
-  already attuned to them, and in a similar vein, no new items can be
+- Magic items no longer work for the affected character, even ones  
+  already attuned to them, and in a similar vein, no new items can be  
   attuned by that PC.
 
-- The PC loses access to their highest level of spells or powers. For
-  example, a cleric who normally casts 7<sup>th</sup> level spells could
+- The PC loses access to their highest level of spells or powers. For  
+  example, a cleric who normally casts 7<sup>th</sup> level spells could  
   only cast them at 5<sup>th</sup> level.
 
 - The PC takes a –2 penalty to saves.
 
-- The PC must roll 2d20 for attack rolls and take the lowest result for
+- The PC must roll 2d20 for attack rolls and take the lowest result for  
   the first two rounds of each battle.
 
-- The PC’s appearance changes in some disturbing, hollow way and they
+- The PC’s appearance changes in some disturbing, hollow way and they  
   take a –4 penalty to skill checks.
 
-- PC loses one to three recoveries; not temporarily, their ability to
+- PC loses one to three recoveries; not temporarily, their ability to  
   heal decreases.
 
-- One icon relationship changes to become a sign of complications with
+- One icon relationship changes to become a sign of complications with  
   devils, not advantages.
 
 - Devils gets some huge combat advantage against the PC.
 
-**Restoration:** Similarly, you can choose how the missing piece of soul
+**Restoration:** Similarly, you can choose how the missing piece of soul  
 might be restored. Some examples:
 
-- No big deal: the PC rolls a normal save each time they gain a level.
+- No big deal: the PC rolls a normal save each time they gain a level.  
   If the save succeeds, they get their soul back.
 
-- The party must find and kill the escaped hubris devil. Luckily, the
-  PC’s ‘link’ to the devil means that each day the PC can roll a normal
-  save; on an 11+, they have a good idea of which direction the devil is
+- The party must find and kill the escaped hubris devil. Luckily, the  
+  PC’s ‘link’ to the devil means that each day the PC can roll a normal  
+  save; on an 11+, they have a good idea of which direction the devil is  
   in. And hubris devils don’t move all that much.
 
-- Instead, the party must travel to the center of the devils’ power and
-  steal back their friend’s soul shard. Or whatever it is that you think
+- Instead, the party must travel to the center of the devils’ power and  
+  steal back their friend’s soul shard. Or whatever it is that you think  
   their particular soul piece is gonna look like.
 
-- The devils immediately barter the soul shard to an enemy icon, leading
+- The devils immediately barter the soul shard to an enemy icon, leading  
   to an entirely new set of quests and complications.
 
 #### Wandering Hubris Devil
@@ -6198,6 +7013,7 @@ half damage.</p></td>
 </tbody>
 </table>
 
+<<<<<<<< HEAD:Monster-Reference.md
 ### Dragon
 
 All dragons have two standard abilities: *escalator* and *flight*. The
@@ -8866,73 +9682,75 @@ half damage.</p></td>
 </tbody>
 </table>
 
+========
+>>>>>>>> 268f6c4 (chore(Monsters): Splitting out Monsters):split_output/Monster-Reference.md
 ### Dragon, The Purple
 
 <u>Standard Abilities</u>
 
-Rather than repeat these for each entry the following abilities are
+Rather than repeat these for each entry the following abilities are  
 standard for the Purple Dragon.
 
 *Escalator:* The Purple Dragon adds the escalation die to their attacks.
 
-*Shape-shifter supreme:* The Purple Dragon can choose to be in its human
-form or its dragon form. Switching forms is a move action. Though their
-dragon form is huge, their human form is regular size, and other forms
-are whatever size is appropriate to that form. By epic tier the Purple
-Dragon can conceivably take any form, but regardless of tier their
-vanity limits her to forms that feature purple and magenta (purple
-clothes and magenta hair, purple scales and magenta wing membranes,
+*Shape-shifter supreme:* The Purple Dragon can choose to be in its human  
+form or its dragon form. Switching forms is a move action. Though their  
+dragon form is huge, their human form is regular size, and other forms  
+are whatever size is appropriate to that form. By epic tier the Purple  
+Dragon can conceivably take any form, but regardless of tier their  
+vanity limits her to forms that feature purple and magenta (purple  
+clothes and magenta hair, purple scales and magenta wing membranes,  
 etc.).
 
-*\[Adventurer and champion tier non-ally only\] Cunning escapes:* When
-the Purple Dragon drops to 0 hp or fewer (or would otherwise die) they
-are not slain, but instead escapes leaving an illusion in their place.
-When they escape it is a campaign win for the party, as though they had
-been killed, and their plans crumble. The Purple Dragon cannot return
-until the next tier (if defeated at adventurer tier they cannot return
-until champion tier, if defeated at champion tier they return at epic
+*\[Adventurer and champion tier non-ally only\] Cunning escapes:* When  
+the Purple Dragon drops to 0 hp or fewer (or would otherwise die) they  
+are not slain, but instead escapes leaving an illusion in their place.  
+When they escape it is a campaign win for the party, as though they had  
+been killed, and their plans crumble. The Purple Dragon cannot return  
+until the next tier (if defeated at adventurer tier they cannot return  
+until champion tier, if defeated at champion tier they return at epic  
 tier).
 
-*\[Once per battle, in human form only\] “No, they’re the real Purple
-Dragon, shoot them!”:* As a quick action at the end of one of their
-turns, the Purple Dragon uses their powers of illusion and mind-control
-to make one of their attackers (usually the closest one to them) look
-and sound like them; the next attack against the Purple Dragon has a 50%
-chance of being targeted against the wrong target. Once the next attack
+*\[Once per battle, in human form only\] “No, they’re the real Purple  
+Dragon, shoot them!”:* As a quick action at the end of one of their  
+turns, the Purple Dragon uses their powers of illusion and mind-control  
+to make one of their attackers (usually the closest one to them) look  
+and sound like them; the next attack against the Purple Dragon has a 50%  
+chance of being targeted against the wrong target. Once the next attack  
 is made, the illusion vanishes.
 
-*Flight:* In their dragon form the Purple Dragon can fly. The Purple
-Dragon can also fly using magic, but prefers to not do so unless they
+*Flight:* In their dragon form the Purple Dragon can fly. The Purple  
+Dragon can also fly using magic, but prefers to not do so unless they  
 need to fight a flying enemy.
 
-*Illusionary soiree:* Each round roll a d6 (or a d4 if the fight is at a
-party or a luxurious lair), if it is equal to or less than the
+*Illusionary soiree:* Each round roll a d6 (or a d4 if the fight is at a  
+party or a luxurious lair), if it is equal to or less than the  
 escalation die it has the following effect.
 
-**1: Sparkling lights**—Ranged attacks against the Purple Dragon or
+**1: Sparkling lights**—Ranged attacks against the Purple Dragon or  
 their allies have a -2 penalty.
 
-**2-3: Kaleidoscopic kinescope**—Any attacks against the Purple Dragon
-this round that are natural 1s are rerolled against the nearest ally of
-the attacker (or against the attacker themselves if there is no other
+**2-3: Kaleidoscopic kinescope**—Any attacks against the Purple Dragon  
+this round that are natural 1s are rerolled against the nearest ally of  
+the attacker (or against the attacker themselves if there is no other  
 possible target).
 
-**4+: Illusionary terrain**—Any of the Purple Dragon’s enemies that move
-this round must roll a save, on a failure they end up in a place they
+**4+: Illusionary terrain**—Any of the Purple Dragon’s enemies that move  
+this round must roll a save, on a failure they end up in a place they  
 did not intend.
 
 <u>Nastier Specials</u>
 
-*“You’ve got the wrong person”:* The Purple Dragon’s *“No, they’re the
-real Purple Dragon, shoot them!”* ability lingers long after the battle,
-maybe for days. This is probably deliberate magic on their part, because
-when they skip town the party member that looks and sounds like them
-will take the fall (or at least create enough confusion for them to make
+*“You’ve got the wrong person”:* The Purple Dragon’s *“No, they’re the  
+real Purple Dragon, shoot them!”* ability lingers long after the battle,  
+maybe for days. This is probably deliberate magic on their part, because  
+when they skip town the party member that looks and sounds like them  
+will take the fall (or at least create enough confusion for them to make  
 good their escape).
 
-*\[Epic tier only\] Not dead yet:* The Purple Dragon gets one last
-*cunning escape* at epic tier, and though their plans are ruined by
-their defeat they’ll return one last time to exact their vengeance upon
+*\[Epic tier only\] Not dead yet:* The Purple Dragon gets one last  
+*cunning escape* at epic tier, and though their plans are ruined by  
+their defeat they’ll return one last time to exact their vengeance upon  
 the party.
 
 #### The Purple Dragon (Adventurer)
@@ -9219,66 +10037,66 @@ die is even.</p></td>
 
 ### Drow
 
-Drow may optionally include one of these abilities as nastier specials:
+Drow may optionally include one of these abilities as nastier specials:  
 *Drow Cruelty* or *Poisons and Potions*.
 
 <u>Drow Cruelty</u>
 
-Choose one of the following abilities for all non-mook drow in a battle
+Choose one of the following abilities for all non-mook drow in a battle  
 to have:
 
-*Poisoner:* When the drow scores a critical hit, it can forego damage to
-force the target to start making last gasp saves. On the fourth failure,
-the target falls unconscious (and can’t be woken normally) for 2d4
+*Poisoner:* When the drow scores a critical hit, it can forego damage to  
+force the target to start making last gasp saves. On the fourth failure,  
+the target falls unconscious (and can’t be woken normally) for 2d4  
 minutes.
 
-*Take advantage of weakness:* Whenever an enemy nearby a drow rolls a
+*Take advantage of weakness:* Whenever an enemy nearby a drow rolls a  
 save, it takes its level in damage.
 
-*Umbral caul:* As long as at least one drow uses a standard action each
-round to maintain the supernatural darkness, each non-drow creature in
-the battle becomes dazed (save ends) whenever it rolls a natural 1–5
+*Umbral caul:* As long as at least one drow uses a standard action each  
+round to maintain the supernatural darkness, each non-drow creature in  
+the battle becomes dazed (save ends) whenever it rolls a natural 1–5  
 with an attack roll.
 
-*Venomous:* The first time each battle a drow hits with a weapon attack,
+*Venomous:* The first time each battle a drow hits with a weapon attack,  
 the target also takes 5 ongoing poison damage.
 
 <u>Poisons and Potions</u>
 
-Drinking a potion, applying a poison, or using a substance requires only
-a quick action for a drow with one of these options. Characters who
-acquire any of these drow items must use a standard action to
+Drinking a potion, applying a poison, or using a substance requires only  
+a quick action for a drow with one of these options. Characters who  
+acquire any of these drow items must use a standard action to  
 drink/apply them.
 
-*Draft of Eschaton* (potion): When drunk it immediately purges the body
-of all poisons and toxins and ends any ongoing conditions. All the
-drinker’s saves (including last gasp saves and death saves)
-automatically succeed for the rest of the battle or for five minutes.
-Immediately after the battle, the drinker must make a DC 30 Constitution
-check or be completely debilitated and unable to travel far or to fight
+*Draft of Eschaton* (potion): When drunk it immediately purges the body  
+of all poisons and toxins and ends any ongoing conditions. All the  
+drinker’s saves (including last gasp saves and death saves)  
+automatically succeed for the rest of the battle or for five minutes.  
+Immediately after the battle, the drinker must make a DC 30 Constitution  
+check or be completely debilitated and unable to travel far or to fight  
 for a day.
 
-*Dragon Apples:* Small ceramic spheres that explode. Make a basic ranged
-attack against a nearby enemy (or level + 5 for drow); on a hit, the
+*Dragon Apples:* Small ceramic spheres that explode. Make a basic ranged  
+attack against a nearby enemy (or level + 5 for drow); on a hit, the  
 target takes 10 ongoing fire damage.
 
-*Midnight Tincture:* When this glass vial is broken, the nearby area is
-shrouded in clinging darkness. The darkness lasts 3 rounds. Each
-creature in the darkness except drow takes a –4 attack penalty. The
+*Midnight Tincture:* When this glass vial is broken, the nearby area is  
+shrouded in clinging darkness. The darkness lasts 3 rounds. Each  
+creature in the darkness except drow takes a –4 attack penalty. The  
 tincture can be attached to an arrow or bolt.
 
-*Potion of Spider Climbing:* For one battle or five minutes the drinker
+*Potion of Spider Climbing:* For one battle or five minutes the drinker  
 can climb on ceilings and walls as easily as it moves on the ground.
 
-*Spider Venom:* A creature hit by a melee weapon coated in the venom
+*Spider Venom:* A creature hit by a melee weapon coated in the venom  
 takes 5 ongoing poison damage when the attack roll is a natural 16+.
 
-*Web Dust:* Made from desiccated spiders, this dust can hold a door shut
-or stick an object to a wall for five minutes. Champion-tier creatures
-can make a DC 20 skill check to rip through something held by *web dust*
-before it fully dissolves, and epic-tier creatures can rip through such
-objects in a round. Further applications increase the effectiveness:
-three applications lasts for fifteen minutes, requires 3 successful
+*Web Dust:* Made from desiccated spiders, this dust can hold a door shut  
+or stick an object to a wall for five minutes. Champion-tier creatures  
+can make a DC 20 skill check to rip through something held by *web dust*  
+before it fully dissolves, and epic-tier creatures can rip through such  
+objects in a round. Further applications increase the effectiveness:  
+three applications lasts for fifteen minutes, requires 3 successful  
 checks, and takes 3 rounds for epic-tier characters to get through.
 
 #### Drow Spider-Mage
@@ -9984,42 +10802,42 @@ affected.)</p></td>
 
 ### Eidolon
 
-As a free action each round, an eidolon can use one of the three
-following abilities, which to them are as natural as breathing is to
-mortals. (GMs, due to these special abilities, eidolons are especially
-deadly when they have allies.) When including eidolons in battles, you
-don’t need to (and probably shouldn’t!) use these abilities all the
+As a free action each round, an eidolon can use one of the three  
+following abilities, which to them are as natural as breathing is to  
+mortals. (GMs, due to these special abilities, eidolons are especially  
+deadly when they have allies.) When including eidolons in battles, you  
+don’t need to (and probably shouldn’t!) use these abilities all the  
 time; they’re better as a nasty surprise.
 
-*Split reality:* The eidolon splits the party into different realities.
-Each player rolls a d4 for their character. That PC can only perceive
-and interact with the eidolon and with other characters who rolled the
-same number. That means PCs in different realities can’t communicate or
-affect each other in any way. For the rest of the battle, each player
-rolls a d4 at the start of the round to see which reality their
-character is now in. At the start of each round, the eidolon can choose
+*Split reality:* The eidolon splits the party into different realities.  
+Each player rolls a d4 for their character. That PC can only perceive  
+and interact with the eidolon and with other characters who rolled the  
+same number. That means PCs in different realities can’t communicate or  
+affect each other in any way. For the rest of the battle, each player  
+rolls a d4 at the start of the round to see which reality their  
+character is now in. At the start of each round, the eidolon can choose  
 which version(s) of reality its allies are in.
 
-*Warp time:* At the start of each round two combatants swap places in
-the initiative order as determined by the eidolon. Alternately, the
-eidolon warps the momentum of the battle and the escalation die value is
+*Warp time:* At the start of each round two combatants swap places in  
+the initiative order as determined by the eidolon. Alternately, the  
+eidolon warps the momentum of the battle and the escalation die value is  
 determined at the start of the round with a d6 roll.
 
-*Reshuffle space:* The eidolon swaps the position of two creatures in
-the battle at the start of the round. Alternately, if you are using
-minis and some sort of map tiles you can rearrange the tiles with the
+*Reshuffle space:* The eidolon swaps the position of two creatures in  
+the battle at the start of the round. Alternately, if you are using  
+minis and some sort of map tiles you can rearrange the tiles with the  
 minis still on them.
 
-Finally, all eidolons have the following ability, which plays well with
+Finally, all eidolons have the following ability, which plays well with  
 the “recurring enemy” story.
 
-*Undying:* When an eidolon drops to 0 hp it becomes discorporate. The
-eidolon isn’t dead, just gone. It has lost its link to or focus upon the
-time and place where the adventurers are. If adventurers drive off an
-eidolon repeatedly it will probably just stay away. Eidolons can be
-vindictive and hold grudges, but they have many possible worlds to
-interact with and if a mortal proves too troublesome the eidolon will
-move on. In general eidolons need defeating on three separate occasions
+*Undying:* When an eidolon drops to 0 hp it becomes discorporate. The  
+eidolon isn’t dead, just gone. It has lost its link to or focus upon the  
+time and place where the adventurers are. If adventurers drive off an  
+eidolon repeatedly it will probably just stay away. Eidolons can be  
+vindictive and hold grudges, but they have many possible worlds to  
+interact with and if a mortal proves too troublesome the eidolon will  
+move on. In general eidolons need defeating on three separate occasions  
 to convince them to stay away forever.
 
 #### Eidolon in Humanoid Form
@@ -10271,74 +11089,74 @@ miss.</p></td>
 
 #### Iconic Eidolon
 
-While guardian-form eidolons seem attracted to the service of the
-Religious Icon, eidolons can end up allied with any icon that serves the
+While guardian-form eidolons seem attracted to the service of the  
+Religious Icon, eidolons can end up allied with any icon that serves the  
 same interests as they do.
 
-Eidolons who act in the interests of an icon have unusual weaknesses and
-strengths related to that icon, eidolons usually call icon-related
-oddities ‘iconic tests’. How much of these icon-related ‘tests’ are due
-to the eidolons being mythically linked to an icon and how much is a
+Eidolons who act in the interests of an icon have unusual weaknesses and  
+strengths related to that icon, eidolons usually call icon-related  
+oddities ‘iconic tests’. How much of these icon-related ‘tests’ are due  
+to the eidolons being mythically linked to an icon and how much is a  
 role that the eidolon is playing is left to you as the GM to decide.
 
-Eidolons usually go out of their way to reveal any weaknesses they have
+Eidolons usually go out of their way to reveal any weaknesses they have  
 as part of their ‘test’ of mortals.
 
-**Magic Icon**—Wizard spells do double damage against the eidolon (crits
-do triple). Wizard spells used creatively against the eidolon have
+**Magic Icon**—Wizard spells do double damage against the eidolon (crits  
+do triple). Wizard spells used creatively against the eidolon have  
 additional effects depending on the whim of the GM.
 
-**Zealous Icon**—The eidolons’ attacks do double damage against those
-who have positive relationships with the Demonic Icon and sorcerers with
+**Zealous Icon**—The eidolons’ attacks do double damage against those  
+who have positive relationships with the Demonic Icon and sorcerers with  
 the infernal heritage talent.
 
-**Demonic Icon**—If you are willing to owe a mystically-enforced favor
-to the Demonic Icon, you can make this eidolon weakened (–4 attack and
+**Demonic Icon**—If you are willing to owe a mystically-enforced favor  
+to the Demonic Icon, you can make this eidolon weakened (–4 attack and  
 defenses) until the end of your turn.
 
-**Underground Icon**—The eidolon does double damage against those using
+**Underground Icon**—The eidolon does double damage against those using  
 magical items, unless they have recently tithed to the Underground Icon.
 
-**Graceful Icon**—The eidolon takes double damage from attacks made by
-bards, and attacks made using bows (but not from crossbows, which do
+**Graceful Icon**—The eidolon takes double damage from attacks made by  
+bards, and attacks made using bows (but not from crossbows, which do  
 their normal damage).
 
-**Leader Icon**—Adventurers who fight side-by-side with each other (or
+**Leader Icon**—Adventurers who fight side-by-side with each other (or  
 back-to-back) gain +2 to all their defenses while doing so.
 
-**Protector Icon**—Attacks by dragonics, breath weapons, and attacks
-from sorcerers with the metallic protector heritage talent deal double
+**Protector Icon**—Attacks by dragonics, breath weapons, and attacks  
+from sorcerers with the metallic protector heritage talent deal double  
 damage to this eidolon.
 
-**Nature Icon**—The eidolon takes double damage from animal companions,
-and from druids in beast form. Plants near this eidolon grow more
+**Nature Icon**—The eidolon takes double damage from animal companions,  
+and from druids in beast form. Plants near this eidolon grow more  
 verdantly, flowers blooming in its presence.
 
-**Undead Icon**—Spend a recovery to weaken (–4 attack and defense) the
-eidolon until the end of your turn. Well, we say ‘spend’ but what you
-are actually doing is sacrificing a sliver of your life-energy to the
+**Undead Icon**—Spend a recovery to weaken (–4 attack and defense) the  
+eidolon until the end of your turn. Well, we say ‘spend’ but what you  
+are actually doing is sacrificing a sliver of your life-energy to the  
 Undead Icon.
 
-**Brute Icon**—If the attacker subtracts a die from their damage dice
-before rolling them, it takes double damage. The extra die of damage
-must be used to harm something or somebody relating to cities or
-civilization (instead of rolling 3d8 damage you’d roll 2d8x2 damage, and
-deal 1d8 damage to a window, book, mayor, etc.). The GM and player
-should work together to determine what a ‘die of damage’ means to
+**Brute Icon**—If the attacker subtracts a die from their damage dice  
+before rolling them, it takes double damage. The extra die of damage  
+must be used to harm something or somebody relating to cities or  
+civilization (instead of rolling 3d8 damage you’d roll 2d8x2 damage, and  
+deal 1d8 damage to a window, book, mayor, etc.). The GM and player  
+should work together to determine what a ‘die of damage’ means to  
 whatever is getting smashed or slashed as part of the attack.
 
-**Religious Icon**—If since the start of the Eidolon’s last turn, any
-adventurer has received healing from somebody who has a positive or
-conflicted relationship with the Religious Icon, then the Eidolon is
+**Religious Icon**—If since the start of the Eidolon’s last turn, any  
+adventurer has received healing from somebody who has a positive or  
+conflicted relationship with the Religious Icon, then the Eidolon is  
 dazed (–4 attack) until the end of its next turn.
 
-**Trickster Icon**—Sneak attack damage dice for attacks against this
-eidolon are two die types higher (1d4 becomes 1d8, 2d6 becomes 2d10,
+**Trickster Icon**—Sneak attack damage dice for attacks against this  
+eidolon are two die types higher (1d4 becomes 1d8, 2d6 becomes 2d10,  
 etc.). Rogues can shadow walk without needing to make a roll first.
 
-**Draconic Icon**—This eidolon takes double damage from poison,
-lightning, or fire attacks, as well as from attacks from sorcerers with
-the chromatic destroyer heritage talent deal double damage to this
+**Draconic Icon**—This eidolon takes double damage from poison,  
+lightning, or fire attacks, as well as from attacks from sorcerers with  
+the chromatic destroyer heritage talent deal double damage to this  
 eidolon.
 
 ### Elder Beast
@@ -11328,27 +12146,27 @@ only deals half damage.</p></td>
 
 <u>Making Elemental Beasts</u>
 
-Any creature with the \[BEAST\] type can become an elemental beast, just
+Any creature with the \[BEAST\] type can become an elemental beast, just  
 follow these guidelines.
 
-The base creature loses whatever resistances and vulnerabilities it had
-and gains those listed for its elemental affinity. It also gains between
-one and three elemental abilities for that affinity from the options
+The base creature loses whatever resistances and vulnerabilities it had  
+and gains those listed for its elemental affinity. It also gains between  
+one and three elemental abilities for that affinity from the options  
 below.
 
-With just one ability, as well as a new vulnerability and resistance,
-creatures that become elemental beasts aren’t powerful or changed enough
-to warrant adjusting their level for purposes of creating encounters.
-However, you may want to up-level beasts with two or three abilities
-depending on those abilities and your desired level of difficulty,
+With just one ability, as well as a new vulnerability and resistance,  
+creatures that become elemental beasts aren’t powerful or changed enough  
+to warrant adjusting their level for purposes of creating encounters.  
+However, you may want to up-level beasts with two or three abilities  
+depending on those abilities and your desired level of difficulty,  
 especially if you’re creating a battle with several elemental beasts.
 
-For balance, simplicity, pacing, and playability, don’t use more than
+For balance, simplicity, pacing, and playability, don’t use more than  
 three abilities for an elemental beast.
 
 <u>Powers of Air</u>
 
-All elemental beasts with an affinity for air gain the following three
+All elemental beasts with an affinity for air gain the following three  
 abilities:
 
 - *Flight:* This creature can fly.
@@ -11359,32 +12177,32 @@ abilities:
 
 All air elemental beasts have *vulnerability: force*.
 
-In addition, choose at least one and no more than three additional
+In addition, choose at least one and no more than three additional  
 abilities from the following list.
 
-- *Swirling winds:* When a ranged attack targets this creature, the
+- *Swirling winds:* When a ranged attack targets this creature, the  
   attacker must roll 2d20 and take the lowest result.
 
 - *D*ust devil: Make the following attack as a standard action.
 
-  - **C: Swirling dust devil +5 + level vs. PD (1d3 nearby enemies in a
+  - **C: Swirling dust devil +5 + level vs. PD (1d3 nearby enemies in a  
     group)**—The target is dazed (save ends)
 
-- *Gust front:* When this creature rolls a natural even hit with an
+- *Gust front:* When this creature rolls a natural even hit with an  
   attack, it can pop free from the target of that attack.
 
-- *Static field:* Each enemy engaged with this creature at the start of
+- *Static field:* Each enemy engaged with this creature at the start of  
   its turn takes lightning damage equal to this creature’s level × 3.
 
-- *Lightning rod:* Any attack against this creature’s nearby ally that
+- *Lightning rod:* Any attack against this creature’s nearby ally that  
   deals lightning damage instead targets this creature.
 
 <u>Powers of Earth</u>
 
-All elemental beasts with an affinity for earth gain the following three
+All elemental beasts with an affinity for earth gain the following three  
 abilities.
 
-- *Roots of earth:* When an effect would move this creature, roll a
+- *Roots of earth:* When an effect would move this creature, roll a  
   save. On a success, the creature doesn’t move.
 
 - *Resist force 16+*
@@ -11393,32 +12211,32 @@ abilities.
 
 All earth elemental beasts have *vulnerability: thunder*.
 
-In addition, choose at least one and no more than three additional
+In addition, choose at least one and no more than three additional  
 abilities from the following list.
 
 - *Indomitable:* This creature gains a +2 bonus to MD.
 
-- *Skin of stone:* This creature takes normal damage from critical hits.
-  In addition, once per battle as a free action, it can take only half
+- *Skin of stone:* This creature takes normal damage from critical hits.  
+  In addition, once per battle as a free action, it can take only half  
   damage from an attack that hits.
 
-- *Earthsea:* The creature gains the *burrower* trait if it does not
+- *Earthsea:* The creature gains the *burrower* trait if it does not  
   already have it.
 
-- *Rockslide:* When this creature moves before making an attack, it
+- *Rockslide:* When this creature moves before making an attack, it  
   deals additional damage equal to twice its level on a hit.
 
-- *Mending earth:* Once per battle as a standard action, this creature
-  can heal 15 hp or 20% of its maximum health, whichever is higher. It
+- *Mending earth:* Once per battle as a standard action, this creature  
+  can heal 15 hp or 20% of its maximum health, whichever is higher. It  
   can only use this ability while it is in contact with the ground.
 
 <u>Powers of Fire</u>
 
-All elemental beasts with an affinity for fire gain the following
+All elemental beasts with an affinity for fire gain the following  
 abilities.
 
-- *Blazing brighter:* When this creature is targeted by fire or
-  lightning attacks, it gains a cumulative +1 bonus to attack rolls
+- *Blazing brighter:* When this creature is targeted by fire or  
+  lightning attacks, it gains a cumulative +1 bonus to attack rolls  
   until the end of the battle (max: +4)
 
 - *Resist fire 16+*
@@ -11427,30 +12245,30 @@ abilities.
 
 All fire elemental beasts have *vulnerability: cold*.
 
-In addition, choose at least one and no more than three additional
+In addition, choose at least one and no more than three additional  
 abilities from the following list.
 
-- *Ashen earth:* Each enemy engaged with this creature at the start of
+- *Ashen earth:* Each enemy engaged with this creature at the start of  
   its turn takes ongoing fire damage equal to this creature’s level × 2.
 
-- *Magma skin:* When an enemy hits this creature with a melee attack, it
+- *Magma skin:* When an enemy hits this creature with a melee attack, it  
   takes damage equal to this creature’s level × 3.
 
-- *Burning breath:* This creature can make the following attack as a
+- *Burning breath:* This creature can make the following attack as a  
   standard action.
 
-  - **C: Burning breath +5 + level vs. PD (1d3 nearby enemies in a
+  - **C: Burning breath +5 + level vs. PD (1d3 nearby enemies in a  
     group)**—d6 × level fire damage
 
-- *Obsidian shards:* When this creature is hit with cold damage, it
+- *Obsidian shards:* When this creature is hit with cold damage, it  
   gains temporary hit points equal to its level × 4.
 
-- *Heat exhaustion:* When an enemy engaged with this creature heals
+- *Heat exhaustion:* When an enemy engaged with this creature heals  
   using a recovery, it gains only half the normal healing.
 
 <u>Powers of Water</u>
 
-All elemental beasts with an affinity for water gain the following
+All elemental beasts with an affinity for water gain the following  
 abilities.
 
 - *Fluid motion:* This creature rerolls all natural 2 attack rolls.
@@ -11461,23 +12279,23 @@ abilities.
 
 All water elemental beasts have *vulnerability: fire*.
 
-In addition, choose at least one and no more than three additional
+In addition, choose at least one and no more than three additional  
 abilities from the following list.
 
-- *Torrent:* When an enemy intercepts this creature, it takes cold
+- *Torrent:* When an enemy intercepts this creature, it takes cold  
   damage equal to this creature’s level × 3.
 
-- *Flow like water:* This creature can disengage freely without needing
+- *Flow like water:* This creature can disengage freely without needing  
   to roll a disengage check.
 
-- *Blood streams freely:* While this creature is staggered, its crit
+- *Blood streams freely:* While this creature is staggered, its crit  
   range expands by 2.
 
-- *Fish in the sea:* While fighting underwater or in a watery
-  environment (heavy rain, knee-deep swamp), this creature gains a +1
+- *Fish in the sea:* While fighting underwater or in a watery  
+  environment (heavy rain, knee-deep swamp), this creature gains a +1  
   bonus to all defenses and to saving throws.
 
-- *Splashback:* This creature gains a +2 bonus to attack rolls against
+- *Splashback:* This creature gains a +2 bonus to attack rolls against  
   creatures that attacked it during the last round.
 
 #### Badger
@@ -12218,26 +13036,26 @@ consumes it and regains 100 HP.</p></td>
 </tbody>
 </table>
 
-First PC campaign victory: Remove the Fallen Icon’s *natural supremacy*
+First PC campaign victory: Remove the Fallen Icon’s *natural supremacy*  
 ability.
 
-Second PC campaign victory: *Angry sky* only triggers when the
+Second PC campaign victory: *Angry sky* only triggers when the  
 escalation die is even.
 
 Third PC campaign victory: Remove the *seeds on the wind* ability.
 
-Fourth PC campaign victory: Remove the 60 damage dealt by the
+Fourth PC campaign victory: Remove the 60 damage dealt by the  
 *ambulatory landscape* ability.
 
 <u>Mook Squads</u>
 
-When *those that walk the forest* is triggered, roll 1d4+2 for the
-number of mooks in the mob. Then roll a d6 to determine which mooks join
-the battle; 1–2: fanatical druid circle; 3: frenzied wolf pack; 4:
+When *those that walk the forest* is triggered, roll 1d4+2 for the  
+number of mooks in the mob. Then roll a d6 to determine which mooks join  
+the battle; 1–2: fanatical druid circle; 3: frenzied wolf pack; 4:  
 militant ranger squad; 5: opportunistic orc band; 6: treant avenger.
 
-Remember that starting a battle with these mooks in play makes the
-Fallen Icon tougher thanks to the defense bonus that’s part of *those
+Remember that starting a battle with these mooks in play makes the  
+Fallen Icon tougher thanks to the defense bonus that’s part of *those  
 that walk the forest*.
 
 #### Frenzied Wolf Pack
@@ -12992,8 +13810,8 @@ escalation die to its attacks.</p></td>
 </tbody>
 </table>
 
-First PC campaign victory: The Fallen Icon’s Maw’s *tongue strike*
-attack is now limited to a second attack with no chance of a third
+First PC campaign victory: The Fallen Icon’s Maw’s *tongue strike*  
+attack is now limited to a second attack with no chance of a third  
 attack, even if the second attack is a natural even roll.
 
 Second PC campaign victory: Remove the *snapping jaws* attack.
@@ -13516,10 +14334,10 @@ to put on the mask.)</p></td>
 </tbody>
 </table>
 
-First PC campaign victory: Remove the Fallen Icon’s *eternal kingdom*
+First PC campaign victory: Remove the Fallen Icon’s *eternal kingdom*  
 ability.
 
-Second PC campaign victory: Remove *even worse*, and ignore any nastier
+Second PC campaign victory: Remove *even worse*, and ignore any nastier  
 specials even if you are a nasty GM.
 
 Third PC campaign victory: Reduce the Fallen Icon’s defenses by 2.
@@ -13530,15 +14348,15 @@ Fourth PC campaign victory: Remove *the wandering king*.
 
 <u>Ability for all fauns: destiny</u>
 
-Fauns who are likely to end up in a fight choose one of two paths. The
-paths determine which of their defenses will be higher, and in some
+Fauns who are likely to end up in a fight choose one of two paths. The  
+paths determine which of their defenses will be higher, and in some  
 cases determine an additional ability or two.
 
-*Path of the Sword:* More martial-minded, these fauns are usually
-warriors, thieves, and hunters. They have a higher Physical Defense
+*Path of the Sword:* More martial-minded, these fauns are usually  
+warriors, thieves, and hunters. They have a higher Physical Defense  
 (PD).
 
-*Path of Song:* Magically-inclined, these fauns are usually bards,
+*Path of Song:* Magically-inclined, these fauns are usually bards,  
 magicians, priests, or druids. They have a higher Mental Defense (MD).
 
 #### Faun Troubadour
@@ -13910,10 +14728,10 @@ benefit, and adds 1 to its lower defense.</p></td>
 
 ### Flower of Unlife
 
-All flowers of unlife have a nastier special available called *Iconic
-energy drain*. When a PC is associated with an icon that is also
-associated with the flower of unlife (e.g. undead or nature icons), and
-they roll a natural 1–5 with an attack against the flower, the attacker
+All flowers of unlife have a nastier special available called *Iconic  
+energy drain*. When a PC is associated with an icon that is also  
+associated with the flower of unlife (e.g. undead or nature icons), and  
+they roll a natural 1–5 with an attack against the flower, the attacker  
 takes 2d6 damage and the flower heals that many hit points.
 
 #### Blood Rose
@@ -14994,85 +15812,85 @@ category of bonus maxes out at 4 bonuses.</p></td>
 
 <u>Unclean-One Abilities</u>
 
-Add one or two of the following abilities to humanoids to create
-cultists who worship the true-fomori (or to beasts to create corrupted
+Add one or two of the following abilities to humanoids to create  
+cultists who worship the true-fomori (or to beasts to create corrupted  
 animals).
 
-1.  *Ugly physique:* The cultist is repulsive almost beyond
-    comprehension, but its twisted form grants it the ability to
+1.  *Ugly physique:* The cultist is repulsive almost beyond  
+    comprehension, but its twisted form grants it the ability to  
     withstand blows. It gains +2 to AC and +1 to PD.
 
-2.  *Uncanny speed:* The unclean-one gains a +1d10 bonus to its
-    initiative. It has a +2 attack bonus against enemies that started
+2.  *Uncanny speed:* The unclean-one gains a +1d10 bonus to its  
+    initiative. It has a +2 attack bonus against enemies that started  
     the battle with lower initiative scores.
 
-3.  *Unearthly beauty:* The cultist has a perfect and unaging physical
-    body, a counterpoint to its increasingly corrupted soul. It gains +2
+3.  *Unearthly beauty:* The cultist has a perfect and unaging physical  
+    body, a counterpoint to its increasingly corrupted soul. It gains +2  
     to PD and MD.
 
-4.  *Unhealthy vigor:* When a melee attack hits the unclean-one, sores
-    and pustules on its body burst, and the attacker takes 5 acid damage
+4.  *Unhealthy vigor:* When a melee attack hits the unclean-one, sores  
+    and pustules on its body burst, and the attacker takes 5 acid damage  
     (champion: 10 damage; epic 15 damage).
 
-5.  *Unhinged joints:* The unclean-one cultist can move in strange ways,
-    crawling up walls like a giant bug, skittering along the ground, and
+5.  *Unhinged joints:* The unclean-one cultist can move in strange ways,  
+    crawling up walls like a giant bug, skittering along the ground, and  
     so forth. It gains a +2 bonus to disengage checks.
 
-6.  *Unholy regeneration:* When the escalation die is odd, the
-    unclean-one heals hit points equal to its level times the escalation
+6.  *Unholy regeneration:* When the escalation die is odd, the  
+    unclean-one heals hit points equal to its level times the escalation  
     die value at the start of its turn.
 
-7.  *Unnatural strength:* Once per battle, when the unclean-one misses
-    with an attack (but not when it fumbles), it can change it to a hit
-    and increase the damage by 2 for every point in the difference
-    between the missed result and what it needed to hit as a free
-    action. When it does, it takes 1d6 damage for every 2 extra damage
-    it deals this way. (It must deal the extra damage if it changes a
+7.  *Unnatural strength:* Once per battle, when the unclean-one misses  
+    with an attack (but not when it fumbles), it can change it to a hit  
+    and increase the damage by 2 for every point in the difference  
+    between the missed result and what it needed to hit as a free  
+    action. When it does, it takes 1d6 damage for every 2 extra damage  
+    it deals this way. (It must deal the extra damage if it changes a  
     miss into a hit.)
 
-8.  *Unreal scent:* Humanoid enemies that move into engagement with the
-    unclean-one must immediately roll a save or take 5 poison damage
-    (champion: 10 damage, epic 15: damage). Non-humanoid enemies
-    (including druids in beast form, those who have taken undead form
-    with the aid of necromantic spells, construct races, ooze races,
-    etc.) might be more susceptible (hard save, 16+), or less
+8.  *Unreal scent:* Humanoid enemies that move into engagement with the  
+    unclean-one must immediately roll a save or take 5 poison damage  
+    (champion: 10 damage, epic 15: damage). Non-humanoid enemies  
+    (including druids in beast form, those who have taken undead form  
+    with the aid of necromantic spells, construct races, ooze races,  
+    etc.) might be more susceptible (hard save, 16+), or less  
     susceptible (easy save, 6+), GM’s call.
 
 All unclean-ones get the following ability
 
-*Unreasonable master:* The true-fomori can reach into the unclean-one’s
-mind to give them visions and look through their memories. In this way
-the fomori keeps an eye on its far-flung cults, and gives guidance to
-its heralds, even speaking directly through them if it desires. Oh, and
-those visions can be instructive religious apparitions, pleasing dreams
-sent as rewards, or terrifying and painful hallucinations sent as
+*Unreasonable master:* The true-fomori can reach into the unclean-one’s  
+mind to give them visions and look through their memories. In this way  
+the fomori keeps an eye on its far-flung cults, and gives guidance to  
+its heralds, even speaking directly through them if it desires. Oh, and  
+those visions can be instructive religious apparitions, pleasing dreams  
+sent as rewards, or terrifying and painful hallucinations sent as  
 punishment (or because the fomori felt like inflicting suffering).
 
 <u>Fomorian Mutation Nastier Specials</u>
 
-Roll on the table below if you wish. You can also give fomorians some
+Roll on the table below if you wish. You can also give fomorians some  
 unclean-one abilities (though never unearthly beauty).
 
-1.  *Extra arm:* When the escalation die is odd, the fomorian can make
+1.  *Extra arm:* When the escalation die is odd, the fomorian can make  
     one extra melee attack per round as a quick action.
 
-2.  *Extra eyes:* The fomorian has a cluster of small eyes in the back
-    of its head, a huge eye on a shoulder, a slug-like eye stalk, etc.
-    The fomorian can’t be surprised or ambushed, and it has *true sight*
+2.  *Extra eyes:* The fomorian has a cluster of small eyes in the back  
+    of its head, a huge eye on a shoulder, a slug-like eye stalk, etc.  
+    The fomorian can’t be surprised or ambushed, and it has *true sight*  
     (spells like *blur*, *invisibility*, etc. don’t work on it).
 
-3.  *Fair is foul:* Once per turn as a free action, the fomorian can
+3.  *Fair is foul:* Once per turn as a free action, the fomorian can  
     make the following attack:
 
-> **C: Evil eye +11 vs. PD (one nearby or faraway enemy, but not one
-> that has been targeted by this attack since the start of the last
-> round)**—10 ongoing damage, and the target’s skin and bones painfully
-> twist to make them hideous to behold. At the start of each day,
-> provided they receive some form of magical healing, the twisted victim
-> rolls a save with a bonus equal to their Charisma or Constitution
+> **C: Evil eye +11 vs. PD (one nearby or faraway enemy, but not one  
+> that has been targeted by this attack since the start of the last  
+> round)**—10 ongoing damage, and the target’s skin and bones painfully  
+> twist to make them hideous to behold. At the start of each day,  
+> provided they receive some form of magical healing, the twisted victim  
+> rolls a save with a bonus equal to their Charisma or Constitution  
 > modifier (whichever is lower) to recover their original appearance.
 >
-> *Limited use:* Once one target has been hit by this attack, no further
+> *Limited use:* Once one target has been hit by this attack, no further  
 > *evil eye* attacks can be made by any fomorian this battle.
 
 4.  *Thick skin:* +1 AC and +2 PD.
@@ -15205,115 +16023,115 @@ hit or miss, equal to the hit points it healed.</p></td>
 
 <u>True-Fomori Houses Nastier Specials</u>
 
-Each of the greater fomori had many offspring, the true-fomori. While
-true-fomori are each unique you can usually tell which calde a
+Each of the greater fomori had many offspring, the true-fomori. While  
+true-fomori are each unique you can usually tell which calde a  
 true-fomori originated in.
 
-Use the following nastier special groups when you want to summon on the
-offspring of a specific greater fomori. You can also add in some
+Use the following nastier special groups when you want to summon on the  
+offspring of a specific greater fomori. You can also add in some  
 fomorian mutations and unclean-one abilities if you like.
 
 <u>House of Songs</u>
 
 These fomori sing songs that drive listeners to insanity.
 
-*Song of the House:* When the escalation die is odd, the enemy with the
-highest MD must roll a save at the start of the round. If it fails, it’s
-confused until the end of its next turn. When the escalation die is
-even, the same effect applies to the enemy with the lowest MD. The
+*Song of the House:* When the escalation die is odd, the enemy with the  
+highest MD must roll a save at the start of the round. If it fails, it’s  
+confused until the end of its next turn. When the escalation die is  
+even, the same effect applies to the enemy with the lowest MD. The  
 fomori chooses if enemies are tied for highest or lowest MD.
 
-*Ear-bleed:* The ears of all non-fomori creatures in the battle begin to
-bleed, and continue to do so until the end of the day. Until the next
-full heal-up, those creatures take a –4 penalty to skill checks
+*Ear-bleed:* The ears of all non-fomori creatures in the battle begin to  
+bleed, and continue to do so until the end of the day. Until the next  
+full heal-up, those creatures take a –4 penalty to skill checks  
 involving social situations or detecting sounds.
 
-*Discordancy:* The first time each battle the true fomori is staggered,
-each of its enemies in the battle is hampered until the end of its next
+*Discordancy:* The first time each battle the true fomori is staggered,  
+each of its enemies in the battle is hampered until the end of its next  
 turn.
 
 <u>House of Eyes</u>
 
-These fomori usually have lots of eyes, or a single prominent eye, and
+These fomori usually have lots of eyes, or a single prominent eye, and  
 fly by hovering.
 
-*Hovering flight:* This creature flies, its host’s unwashed and diseased
+*Hovering flight:* This creature flies, its host’s unwashed and diseased  
 feet hovering inches above the ground.
 
-*Eye beam:* Once per turn as a quick action, the fomori can fire a
+*Eye beam:* Once per turn as a quick action, the fomori can fire a  
 powerful ray from one or more of its eyes.
 
-**R: Eye beam +5 +fomori’s level vs. PD**—7 ongoing force damage
+**R: Eye beam +5 +fomori’s level vs. PD**—7 ongoing force damage  
 (champion: 14 damage; epic: 21 damage)
 
-*Natural 16+:* The target pops free from enemies it’s engaged with and
-can’t engage any enemies until it saves against the ongoing force
+*Natural 16+:* The target pops free from enemies it’s engaged with and  
+can’t engage any enemies until it saves against the ongoing force  
 damage.
 
-*Eye theft:* When a creature is staggered, it begins to feel as if its
-eyes are being pulled out by an invisible force. It takes a –1 penalty
-to hit and damage. Enemies that die in the presence of this fomori do
+*Eye theft:* When a creature is staggered, it begins to feel as if its  
+eyes are being pulled out by an invisible force. It takes a –1 penalty  
+to hit and damage. Enemies that die in the presence of this fomori do  
 indeed have their eyes sucked out as the fomori absorbs the eyeballs.
 
 <u>House of Nightmares</u>
 
-These fomori shift their forms instinctually, constantly devolving into
+These fomori shift their forms instinctually, constantly devolving into  
 ever-more horrible creatures.
 
-*Shifting from Nightmares:* When the true-fomori is hit by an attack
-that targets PD or MD, until the start of its next turn, the values of
-its PD and MD switch and it gains a bonus to AC equal to the escalation
+*Shifting from Nightmares:* When the true-fomori is hit by an attack  
+that targets PD or MD, until the start of its next turn, the values of  
+its PD and MD switch and it gains a bonus to AC equal to the escalation  
 die.
 
-*Nightmares:* After a battle with the fomori, the character with the
-lowest MD (randomly choose on a tie) has a nightmare during the
-following night, with a 50% chance that the nightmare somehow comes true
+*Nightmares:* After a battle with the fomori, the character with the  
+lowest MD (randomly choose on a tie) has a nightmare during the  
+following night, with a 50% chance that the nightmare somehow comes true  
 the next day.
 
-*Skin theft:* You know that trick with the tablecloth? When the
-true-fomori scores a critical hit, it does that to some of its target’s
-skin, and the target is stunned (save ends). Replacing the skin might
-take more than normal healing, too, and it might take a while to look
+*Skin theft:* You know that trick with the tablecloth? When the  
+true-fomori scores a critical hit, it does that to some of its target’s  
+skin, and the target is stunned (save ends). Replacing the skin might  
+take more than normal healing, too, and it might take a while to look  
 right on a creature again.
 
 <u>House of Spiders</u>
 
-These true-fomori tend to have lots of legs and can control spiders,
+These true-fomori tend to have lots of legs and can control spiders,  
 scorpions, ticks, and other arachnids.
 
-*Scuttle:* The true-fomori can climb like a spider and squeeze its body
+*Scuttle:* The true-fomori can climb like a spider and squeeze its body  
 down to scuttle swiftly under low openings.
 
-*Bite:* Once per turn as a quick action, the true-fomori can make the
+*Bite:* Once per turn as a quick action, the true-fomori can make the  
 following attack to inject acid into its victim and drink its innards.
 
-**Draining bite +5 + fomori’s level vs. AC**—7 acid damage (champion: 14
+**Draining bite +5 + fomori’s level vs. AC**—7 acid damage (champion: 14  
 damage; epic: 21 damage)
 
-*Natural 16+:* The target heals using a recovery, but the true-fomori
+*Natural 16+:* The target heals using a recovery, but the true-fomori  
 gains the hit points.
 
-*Sun-eating:* A creature staggered by this fomori can no longer see the
-sun the following day and must rely on lantern light or magical
-illumination. There is a 50% chance each day thereafter that the
-adventurer recovers and can once again see sunlight and feels its
-warmth. While a creature is unable to see or feel the healing sun,
-whenever it rolls recovery dice, it must reroll any die that has the
+*Sun-eating:* A creature staggered by this fomori can no longer see the  
+sun the following day and must rely on lantern light or magical  
+illumination. There is a 50% chance each day thereafter that the  
+adventurer recovers and can once again see sunlight and feels its  
+warmth. While a creature is unable to see or feel the healing sun,  
+whenever it rolls recovery dice, it must reroll any die that has the  
 maximum result (for example, a 10 on a d10).
 
 <u>House of Colors</u>
 
-These true-fomori have plumage or fur in unnatural madness-causing
+These true-fomori have plumage or fur in unnatural madness-causing  
 colors.
 
-*Color out of time:* An enemy making a ranged attack against the
-true-fomori takes a penalty to the attack equal to the escalation die
+*Color out of time:* An enemy making a ranged attack against the  
+true-fomori takes a penalty to the attack equal to the escalation die  
 and can’t use the escalation die for that attack.
 
-*Color drain:* When the true-fomori drops a creature to 0 hp or lower,
-that creature is drained of all color and can no longer perceive color.
-While under this effect, the creature takes a –4 penalty to social skill
-checks and a –1 penalty to saves. Restoring color to the creature
+*Color drain:* When the true-fomori drops a creature to 0 hp or lower,  
+that creature is drained of all color and can no longer perceive color.  
+While under this effect, the creature takes a –4 penalty to social skill  
+checks and a –1 penalty to saves. Restoring color to the creature  
 requires a quest involving walking a sacred labyrinth.
 
 #### Fomori Tyrant
@@ -15448,31 +16266,31 @@ affects the fomori even if it’s dead, healing it from 0 hp.</p></td>
 
 <u>Special Abilities for All Frogspawn</u>
 
-You should certainly use one ability per frogspawn, occasionally two.
+You should certainly use one ability per frogspawn, occasionally two.  
 For frogspawn mooks, treat the abilities as usable once per battle.
 
-*Disgusting tongue:* The frogspawn deals poison damage equal to its
-level to any character that pops free of it or successfully disengages
-from it. (Teleporting away is probably tongue-free unless the GM is
+*Disgusting tongue:* The frogspawn deals poison damage equal to its  
+level to any character that pops free of it or successfully disengages  
+from it. (Teleporting away is probably tongue-free unless the GM is  
 hopping mad.)
 
-*Dunk and cover:* If the battle is taking place in a swamp, lake, or
-river, whenever the frogspawn misses with a natural even attack roll, it
-can duck out of sight. Remove the frogspawn from the table until the
-start of its next turn. At the start of its next turn, place it anywhere
+*Dunk and cover:* If the battle is taking place in a swamp, lake, or  
+river, whenever the frogspawn misses with a natural even attack roll, it  
+can duck out of sight. Remove the frogspawn from the table until the  
+start of its next turn. At the start of its next turn, place it anywhere  
 nearby its previous location, but not engaged with an enemy.
 
-*Erratic leap (move action):* If the frogspawn is unengaged at the start
-of its turn, choose a random nearby enemy the frogspawn can see. The
-frogspawn leaps into engagement with that enemy and its crit range with
+*Erratic leap (move action):* If the frogspawn is unengaged at the start  
+of its turn, choose a random nearby enemy the frogspawn can see. The  
+frogspawn leaps into engagement with that enemy and its crit range with  
 melee attacks expands by 3 until the end of the turn.
 
-*Paranoid destroyer:* This frogspawn can’t be surprised. If there’s a
-surprise round, it gets to act. If there isn’t a surprise round at the
-start of combat, the frogspawn gets a surprise round if its natural
-initiative roll is 16+. On the down side, subtract 2 from this
-frogspawn’s MD, because it’s always sure it’s going to die. (Gamemaster:
-Don’t give this ability to all the frogspawn in a battle. Just one or
+*Paranoid destroyer:* This frogspawn can’t be surprised. If there’s a  
+surprise round, it gets to act. If there isn’t a surprise round at the  
+start of combat, the frogspawn gets a surprise round if its natural  
+initiative roll is 16+. On the down side, subtract 2 from this  
+frogspawn’s MD, because it’s always sure it’s going to die. (Gamemaster:  
+Don’t give this ability to all the frogspawn in a battle. Just one or  
 two.)
 
 #### Frogspawn Grunt
@@ -15933,23 +16751,23 @@ attack.</p></td>
 
 ### Fungaloid
 
-Some fungaloids can make special attacks. For those, add the fungaloid
+Some fungaloids can make special attacks. For those, add the fungaloid  
 creature’s level to attacks and damage, as indicated.
 
-**C: Poison tentacles 5 + level vs. PD (1d3 nearby enemies)—**3 + level
-poison damage, and the target is vulnerable to *fungal attacks* (save
+**C: Poison tentacles 5 + level vs. PD (1d3 nearby enemies)—**3 + level  
+poison damage, and the target is vulnerable to *fungal attacks* (save  
 ends)
 
-**C: Brown noise 5 + level vs. PD (1d3 nearby enemies)—**3 + level
+**C: Brown noise 5 + level vs. PD (1d3 nearby enemies)—**3 + level  
 ongoing thunder damage
 
-**C: Hallucinogenia 3 + level vs. MD (one nearby enemy)—**The target is
+**C: Hallucinogenia 3 + level vs. MD (one nearby enemy)—**The target is  
 confused (easy save ends, 6+)
 
-**C: Infectious spores 5 + level vs. PD (1d3 nearby enemies)—**3 + level
+**C: Infectious spores 5 + level vs. PD (1d3 nearby enemies)—**3 + level  
 ongoing poison damage
 
-**C: Piercing shriek 5 + level vs. PD (1d3 nearby enemies)—**4 + level
+**C: Piercing shriek 5 + level vs. PD (1d3 nearby enemies)—**4 + level  
 psychic damage
 
 #### Fomorian Brute
@@ -16989,44 +17807,44 @@ While not staggered, its crit range expands by 3.</p></td>
 
 <u>Abilities for Most Ghosts</u>
 
-Most ghosts have several or all of the following abilities. Normally we
-use these sections to cover abilities possessed by all the monsters of a
-certain type, but there’s enough variation in ghost stories that we
-figure we should provide tools for you to choose from rather than try to
+Most ghosts have several or all of the following abilities. Normally we  
+use these sections to cover abilities possessed by all the monsters of a  
+certain type, but there’s enough variation in ghost stories that we  
+figure we should provide tools for you to choose from rather than try to  
 force ghosts into one style of haunting.
 
-For the record, all ghosts also have some version of the *ghostly*
+For the record, all ghosts also have some version of the *ghostly*  
 ability, but its strength varies so we’ve put it into each stat block.
 
-*Bound hauntings:* Most ghosts are bound to an area, usually the area of
-their death. This ability won’t come up much in play, but it does make
-it seem likely that ghosts can be easier to get away from than other
-monsters. Move far enough fast enough and the ghost returns to the area
-it’s bound to. Occasionally festivals for the dead or other rituals can
-call bound ghosts from their hauntings, but those are unusual and
+*Bound hauntings:* Most ghosts are bound to an area, usually the area of  
+their death. This ability won’t come up much in play, but it does make  
+it seem likely that ghosts can be easier to get away from than other  
+monsters. Move far enough fast enough and the ghost returns to the area  
+it’s bound to. Occasionally festivals for the dead or other rituals can  
+call bound ghosts from their hauntings, but those are unusual and  
 temporary circumstances.
 
-**Exceptions:** There may be ghosts that are bound to people, or events,
-or phenomena that travel. There might even be ghosts that aren’t bound
-to anything, but at that stage there are several other questions that
+**Exceptions:** There may be ghosts that are bound to people, or events,  
+or phenomena that travel. There might even be ghosts that aren’t bound  
+to anything, but at that stage there are several other questions that  
 surface and odd magical, iconic, or unique intervention seems likely.
 
-*Flight:* Most ghosts fly, though some may be quite slow, seeming to
-drift or walking on air. Ghosts that fly in unusual ways will be flagged
+*Flight:* Most ghosts fly, though some may be quite slow, seeming to  
+drift or walking on air. Ghosts that fly in unusual ways will be flagged  
 with their own abilities.
 
-**Exceptions:** Not all ghosts fly. Some seem constrained to act much
-like they acted when they were alive, and flying wasn’t part of their
+**Exceptions:** Not all ghosts fly. Some seem constrained to act much  
+like they acted when they were alive, and flying wasn’t part of their  
 life package.
 
-*Unnatural touch:* Many ghosts can alter the temperature of their
-environment to more closely match the underworld or afterlife that
-they’ve so far evaded. Sometimes that’s icy cold, sometimes that’s
-burning hot, and sometimes it’s just kind of normal, which would go
+*Unnatural touch:* Many ghosts can alter the temperature of their  
+environment to more closely match the underworld or afterlife that  
+they’ve so far evaded. Sometimes that’s icy cold, sometimes that’s  
+burning hot, and sometimes it’s just kind of normal, which would go  
 unnoticed unless the ghost is somewhere abnormal!
 
-**Exceptions:** This is more of a special effect of ghost stories than
-part of a creature’s combat abilities, and you can safely ignore it
+**Exceptions:** This is more of a special effect of ghost stories than  
+part of a creature’s combat abilities, and you can safely ignore it  
 unless you find telling moments when it adds to the game.
 
 #### Sadsack
@@ -17480,11 +18298,11 @@ enemies with fewer than 96 hit points.</p></td>
 
 ### Ghoul
 
-For nastier specials, instead of a slow, poisonous bite, a more deadly
-bite can also make things challenging for adventurers. Each time a ghoul
-bites a character, that PC immediately loses a recovery. If they run out
-of recoveries before their next full heal-up, that character must start
-making last gasp saves at the start of each battle. If the character
+For nastier specials, instead of a slow, poisonous bite, a more deadly  
+bite can also make things challenging for adventurers. Each time a ghoul  
+bites a character, that PC immediately loses a recovery. If they run out  
+of recoveries before their next full heal-up, that character must start  
+making last gasp saves at the start of each battle. If the character  
 fails their fourth last gasp save this way, they turn into a ghoul.
 
 #### Gravemeat
@@ -18548,18 +19366,18 @@ and <em>resist lightning 16+</em>.</p></td>
 
 Gibbering mouthers have the following abilities:
 
-*Eyes everywhere:* Gibbering mouthers can’t be ambushed or sneaked up
+*Eyes everywhere:* Gibbering mouthers can’t be ambushed or sneaked up  
 on.
 
-In addition, though gibbering mouthers are aberrations they are
-ooze-like enough that they use the ooze abilities flows where it likes
+In addition, though gibbering mouthers are aberrations they are  
+ooze-like enough that they use the ooze abilities flows where it likes  
 and ooze.
 
-*Flows where it likes:* The gibbering mouther is immune to opportunity
+*Flows where it likes:* The gibbering mouther is immune to opportunity  
 attacks.
 
-*Ooze:* The gibbering mouther is immune to effects. When an attack
-applies a condition to a gibbering mouther (dazed, hampered, weakened,
+*Ooze:* The gibbering mouther is immune to effects. When an attack  
+applies a condition to a gibbering mouther (dazed, hampered, weakened,  
 ongoing damage, etc.), that condition doesn’t affect it.
 
 #### Gibbering Mouther
@@ -18689,7 +19507,7 @@ half its full hit points.</p></td>
 
 <u>Nastier Special for all gnolls:</u>
 
-*Blood fury:* +1d10 melee damage if the gnoll or its target is
+*Blood fury:* +1d10 melee damage if the gnoll or its target is  
 staggered.
 
 #### Gnoll Ranger
@@ -19696,117 +20514,117 @@ Hags get two of the following abilities, and a single death curse.
 
 <u>Hag Abilities: Choose TWO</u>
 
-**Adept Illusionist:** The hag gains a +5 bonus to initiative checks due
+**Adept Illusionist:** The hag gains a +5 bonus to initiative checks due  
 to being not quite where she seems.
 
-*Hag ability:* As a distraction, the hag creates an illusion of her
-doing one thing, when she is in fact setting a trap. The hag throws out
-a bear-trap or other impediment and one nearby enemy becomes stuck (save
-ends). While stuck this way, the target takes 6 damage at the start of
+*Hag ability:* As a distraction, the hag creates an illusion of her  
+doing one thing, when she is in fact setting a trap. The hag throws out  
+a bear-trap or other impediment and one nearby enemy becomes stuck (save  
+ends). While stuck this way, the target takes 6 damage at the start of  
 each of its turns.
 
-**Another skin:** On the hag’s first round of combat each battle, she
-gains a +2 attack bonus due to her victims being shocked as she bursts
+**Another skin:** On the hag’s first round of combat each battle, she  
+gains a +2 attack bonus due to her victims being shocked as she bursts  
 out of her false outer skin.
 
-*Hag ability:* The hag coughs up a glob of liquid pseudo-flesh that
-globs onto a nearby enemy (no attack roll). The glob solidifies causing
-an effect of the hag’s choice: the target is stuck (save ends); OR the
-target is unable to cast spells during its next turn (the pseudo-flesh
+*Hag ability:* The hag coughs up a glob of liquid pseudo-flesh that  
+globs onto a nearby enemy (no attack roll). The glob solidifies causing  
+an effect of the hag’s choice: the target is stuck (save ends); OR the  
+target is unable to cast spells during its next turn (the pseudo-flesh  
 covers their mouth and face).
 
-**Blood pact:** Each creature allied to the hag through a pact gains a
+**Blood pact:** Each creature allied to the hag through a pact gains a  
 +2 bonus with their first attack each battle if the hag is present.
 
-*Hag ability:* The hag spits blood in the face of the target and makes a
-command. The target must roll an immediate save; on a failure, as a free
-action it makes basic attack against an ally or against itself (target’s
+*Hag ability:* The hag spits blood in the face of the target and makes a  
+command. The target must roll an immediate save; on a failure, as a free  
+action it makes basic attack against an ally or against itself (target’s  
 choice).
 
 **Breath stealing:** The hag starts combat with 10 temporary hit points.
 
-*Hag ability:* The hag steals a recovery from the target and heals 20
+*Hag ability:* The hag steals a recovery from the target and heals 20  
 hp.
 
-**Death shriek:** When a melee attack hits the hag, she lets out a
+**Death shriek:** When a melee attack hits the hag, she lets out a  
 shriek as a free action and the attacker takes 2d4 thunder damage.
 
-*Hag ability:* The hag begins to shriek, and each enemy in the battle
+*Hag ability:* The hag begins to shriek, and each enemy in the battle  
 takes a –4 attack penalty with spells until the start of her next turn.
 
-**Dusk walk:** Once per day the hag can implant a suggestion in the mind
-of a target sleeping within a day’s travel of her. The hag rolls an
-attack: **+10 vs. MD**; on a hit, she implants a suggestion in the
-target that they must obey when a condition she chooses is met.
-Suggested actions can’t cause direct harm (the target can’t be forced to
-fight another or harm themselves), can be no longer than 12 words, and
-affects the target for a week or until triggered. GM keeps the roll
+**Dusk walk:** Once per day the hag can implant a suggestion in the mind  
+of a target sleeping within a day’s travel of her. The hag rolls an  
+attack: **+10 vs. MD**; on a hit, she implants a suggestion in the  
+target that they must obey when a condition she chooses is met.  
+Suggested actions can’t cause direct harm (the target can’t be forced to  
+fight another or harm themselves), can be no longer than 12 words, and  
+affects the target for a week or until triggered. GM keeps the roll  
 hidden.
 
-*Hag ability:* The hag becomes immaterial, pops free from all enemies
-engaged with her, and enters the land of dreams, re-appearing next to
-any nearby conscious creature (or a nearby or faraway creature that is
-unconscious). The hag then makes the following attack: **C: +10 vs. MD
-(each nearby unconscious enemy)**—The hag implants a suggestion in the
-target that they must obey when they become conscious (usually “When you
-awake, flee this fight and discard your equipment.”) Suggested actions
-can’t cause direct harm. The round after the target acts on the
-implanted suggestion it can start rolling normal saves to throw off the
+*Hag ability:* The hag becomes immaterial, pops free from all enemies  
+engaged with her, and enters the land of dreams, re-appearing next to  
+any nearby conscious creature (or a nearby or faraway creature that is  
+unconscious). The hag then makes the following attack: **C: +10 vs. MD  
+(each nearby unconscious enemy)**—The hag implants a suggestion in the  
+target that they must obey when they become conscious (usually “When you  
+awake, flee this fight and discard your equipment.”) Suggested actions  
+can’t cause direct harm. The round after the target acts on the  
+implanted suggestion it can start rolling normal saves to throw off the  
 effect.
 
-**Fateful visions:** The hag uses a +2 magical weapon traded to her for
-her services (she gains a +2 bonus to attack and damage with melee
+**Fateful visions:** The hag uses a +2 magical weapon traded to her for  
+her services (she gains a +2 bonus to attack and damage with melee  
 attacks).
 
-*Hag ability:* The hag has seen this fight in a vision. Her crit range
+*Hag ability:* The hag has seen this fight in a vision. Her crit range  
 expands by 2 until the end of the battle. Each increase is cumulative.
 
-**Foul-touched:** When an enemy is battling the hag, at the start of
-each of its turns, it takes 2d6 psychic damage from the horror of the
-hag’s visage unless it takes precautions to avoid directly glancing at
-her terrible face (mirror, blindfold, etc., which might cause attack
+**Foul-touched:** When an enemy is battling the hag, at the start of  
+each of its turns, it takes 2d6 psychic damage from the horror of the  
+hag’s visage unless it takes precautions to avoid directly glancing at  
+her terrible face (mirror, blindfold, etc., which might cause attack  
 penalties).
 
-*Hag ability:* The hag chooses a nearby enemy and glares at it. That
-target must roll an immediate save; on a failure, the target is stricken
-blind by her ugliness. While blinded this way, the target is hampered,
-weakened, and can’t make ranged attacks. The target can end the effect
-by splashing liquid into their eyes or using a similar act to clear the
+*Hag ability:* The hag chooses a nearby enemy and glares at it. That  
+target must roll an immediate save; on a failure, the target is stricken  
+blind by her ugliness. While blinded this way, the target is hampered,  
+weakened, and can’t make ranged attacks. The target can end the effect  
+by splashing liquid into their eyes or using a similar act to clear the  
 ugly out as a standard action.
 
-**Song of dreams:** Enemies take a –4 penalty to their initiative rolls
+**Song of dreams:** Enemies take a –4 penalty to their initiative rolls  
 in battles with the hag.
 
-*Hag ability:* The hag begins to sing and the two enemies closest to her
-(even if faraway) must roll an immediate save; on a failure, the target
-is dazed (save ends). If the dazed target fails its first save, instead
-it’s weakened (save ends). If the weakened target fails its second save,
+*Hag ability:* The hag begins to sing and the two enemies closest to her  
+(even if faraway) must roll an immediate save; on a failure, the target  
+is dazed (save ends). If the dazed target fails its first save, instead  
+it’s weakened (save ends). If the weakened target fails its second save,  
 instead it’s helpless (save ends).
 
-**Thief of mist:** The hag ignores opportunity attacks and can’t be
+**Thief of mist:** The hag ignores opportunity attacks and can’t be  
 intercepted while moving.
 
-*Hag ability:* The hag becomes a mist until the start of her next turn.
-While a mist, only spells cast with a +3 implement and attacks using a
-+3 magical weapon can harm her. (Some special story item might also
+*Hag ability:* The hag becomes a mist until the start of her next turn.  
+While a mist, only spells cast with a +3 implement and attacks using a  
++3 magical weapon can harm her. (Some special story item might also  
 allow attacks to hit if no PC has a +3 item.)
 
-**Twist the path:** Once per day the hag can enspell an area to attract
-visitors, causing those traveling nearby to get lost and wander to that
-location. Alternately, the hag can cause the location to repel visitors.
-Finding the correct path to that location requires a DC 20 check if it
-is a familiar place, a DC 25 check if the travelers only have a map or
+**Twist the path:** Once per day the hag can enspell an area to attract  
+visitors, causing those traveling nearby to get lost and wander to that  
+location. Alternately, the hag can cause the location to repel visitors.  
+Finding the correct path to that location requires a DC 20 check if it  
+is a familiar place, a DC 25 check if the travelers only have a map or  
 guide, or a DC 30 check if the travelers are unfamiliar with the area.
 
 *Hag ability:* The target is also confused (easy save ends, 6+).
 
-**Weakening touch:** Each enemy fighting the hag must roll a normal save
-at the start of the battle; on a failure, that creature starts the
+**Weakening touch:** Each enemy fighting the hag must roll a normal save  
+at the start of the battle; on a failure, that creature starts the  
 battle weakened (easy save ends, 6+).
 
-*Hag ability:* The target is dazed (save ends). If the dazed target
-fails its first save, instead it’s weakened (save ends). When the target
-saves against this effect, it takes a –2 attack penalty until the end of
+*Hag ability:* The target is dazed (save ends). If the dazed target  
+fails its first save, instead it’s weakened (save ends). When the target  
+saves against this effect, it takes a –2 attack penalty until the end of  
 its next turn.
 
 **Winter breath:** The hag’s attacks deal cold damage.
@@ -19815,14 +20633,14 @@ its next turn.
 
 <u>Death Curses: Create ONE</u>
 
-When a hag dies she curses the one who killed her. The only known way to
-remove the curse is to seek the aid of another hag, though there may be
+When a hag dies she curses the one who killed her. The only known way to  
+remove the curse is to seek the aid of another hag, though there may be  
 some ways to end such a curse that are not readily known.
 
-Create one curse per hag. A good curse makes life horribly weird for a
-character, but isn’t something that debilitates them. Avoid ones that
-blind, deafen, cripple, or mute characters. Odd habits, ugly features,
-unusual smells, strange and disgusting diets—all these are good. They
+Create one curse per hag. A good curse makes life horribly weird for a  
+character, but isn’t something that debilitates them. Avoid ones that  
+blind, deafen, cripple, or mute characters. Odd habits, ugly features,  
+unusual smells, strange and disgusting diets—all these are good. They  
 should make the character and the story more interesting.
 
 #### Hag
@@ -19889,7 +20707,7 @@ their attacks.</p></td>
 
 <u>Nastier Special for all half-orcs</u>
 
-*Lethal swing:* Once per battle, a half-orc can reroll a melee attack
+*Lethal swing:* Once per battle, a half-orc can reroll a melee attack  
 and use the result it prefers.
 
 #### Half-Orc Legionnaire
@@ -20026,17 +20844,17 @@ effect as a free action.</p></td>
 
 These nastier specials also apply to temple lions.
 
-*Mirrored aggression:* Hallowed gargoyles have some ability to sense
-intentions and a larger capacity to react appropriately! PCs with a
-negative or conflicted relationship with the Religious Icon are
+*Mirrored aggression:* Hallowed gargoyles have some ability to sense  
+intentions and a larger capacity to react appropriately! PCs with a  
+negative or conflicted relationship with the Religious Icon are  
 vulnerable to all the hallowed gargoyles’ attacks.
 
-*Statues, statues, everywhere:* Because they look so much like statues,
-and because most of the things that look like hallowed gargoyles are
-statues, hallowed gargoyles are capable of springing a surprise on
-inattentive PCs. When there’s a chance of such an ambush, give the PCs a
-normal skill check (DC 20 at champion-tier, DC 25 at epic tier) to
-notice the gargoyles waking and avoid being surprised (13<sup>th</sup>
+*Statues, statues, everywhere:* Because they look so much like statues,  
+and because most of the things that look like hallowed gargoyles are  
+statues, hallowed gargoyles are capable of springing a surprise on  
+inattentive PCs. When there’s a chance of such an ambush, give the PCs a  
+normal skill check (DC 20 at champion-tier, DC 25 at epic tier) to  
+notice the gargoyles waking and avoid being surprised (13<sup>th</sup>  
 Age core rulebook, page 164).
 
 #### Beautific Gargoyle
@@ -21018,36 +21836,36 @@ are dazed and can't use the escalation die.</p>
 
 <u>Aberrant Attack Table</u>
 
-Roll a d6 to determine what type of additional attack(s) the hellwarped
-beast has, and its general characteristics. Use the first set of stats
+Roll a d6 to determine what type of additional attack(s) the hellwarped  
+beast has, and its general characteristics. Use the first set of stats  
 for the brutes, and the second for the spawn.
 
-**1. Biting mandibles +15/+11 vs. AC**—50/13 damage, and the target is
-stuck (save ends); while the target is stuck this way, at the start of
-the hellwarped’s turn, it automatically deals 50/13 damage to the target
+**1. Biting mandibles +15/+11 vs. AC**—50/13 damage, and the target is  
+stuck (save ends); while the target is stuck this way, at the start of  
+the hellwarped’s turn, it automatically deals 50/13 damage to the target  
 but can’t make an *aberrant attack* that turn.
 
-**2. Extra claw +15/+11 vs. AC**—75/19 damage (and the claw can benefit
+**2. Extra claw +15/+11 vs. AC**—75/19 damage (and the claw can benefit  
 from the *dual miss* effect).
 
-**3. Lashing tentacle +15/+11 vs. PD**—20/5 damage, and the target is
-weakened (save ends); the first time the target fails this save, it
+**3. Lashing tentacle +15/+11 vs. PD**—20/5 damage, and the target is  
+weakened (save ends); the first time the target fails this save, it  
 becomes stunned instead (save ends).
 
-**4. C: Antennae waveburst +15/+11 vs. MD (one nearby enemy)**—20/5
-psychic damage, and the target must roll an immediate save. If it fails,
+**4. C: Antennae waveburst +15/+11 vs. MD (one nearby enemy)**—20/5  
+psychic damage, and the target must roll an immediate save. If it fails,  
 it’s confused until the end of its next turn.
 
-**5. R: Shooting quills +15/+11 vs. AC (one nearby enemy not engaged
-with it)**—40/10 damage. In addition, it takes only half damage from
+**5. R: Shooting quills +15/+11 vs. AC (one nearby enemy not engaged  
+with it)**—40/10 damage. In addition, it takes only half damage from  
 opportunity attacks thanks to the spikes covering it.
 
-**6.** *\[use only when triggered as an aberrant attack\]* **Charging
-horn slam +15/+11 vs. PD**—50/13 damage, and the target is dazed (save
+**6.** *\[use only when triggered as an aberrant attack\]* **Charging  
+horn slam +15/+11 vs. PD**—50/13 damage, and the target is dazed (save  
 ends).
 
-> *Free charge:* The hellwarped pops free from each enemy engaged with
-> it after making its *claws* attacks, then moves to a nearby enemy as a
+> *Free charge:* The hellwarped pops free from each enemy engaged with  
+> it after making its *claws* attacks, then moves to a nearby enemy as a  
 > free action and makes this attack.
 
 #### Hellwarped Spawn
@@ -21183,15 +22001,15 @@ instead of rolling.</p></td>
 
 ### Horned Azinth
 
-Due to the horned azinth’s ability to move about undetected, it’s likely
-that the adventurers are going to run into trouble with them by
-accidentally wandering into the midst of a herd. If that happens, the
-horned azinth will ambush the heroes. Use this variant on the standard
+Due to the horned azinth’s ability to move about undetected, it’s likely  
+that the adventurers are going to run into trouble with them by  
+accidentally wandering into the midst of a herd. If that happens, the  
+horned azinth will ambush the heroes. Use this variant on the standard  
 ambush and surprise rules.
 
-First, 1d3 + 1 horned azinth get to act before initiative is rolled
-instead of only two of the beasts. Second, if you normally advance the
-escalation die at the end of the surprise round, don’t do it. The azinth
+First, 1d3 + 1 horned azinth get to act before initiative is rolled  
+instead of only two of the beasts. Second, if you normally advance the  
+escalation die at the end of the surprise round, don’t do it. The azinth  
 are too well concealed for momentum to favor the heroes.
 
 #### Horned Azinth Calf
@@ -21609,22 +22427,22 @@ fire damage</p>
 
 #### Chaos Hydra
 
-This hydra starts with four heads, but they’re not always the same
-heads! Roll a d6 four times before the fight begins to find out which
-heads the chaos hydra starts the battle with. A head that starts the
-fight may not finish the battle, heads shift mid-fight, and as usual for
+This hydra starts with four heads, but they’re not always the same  
+heads! Roll a d6 four times before the fight begins to find out which  
+heads the chaos hydra starts the battle with. A head that starts the  
+fight may not finish the battle, heads shift mid-fight, and as usual for  
 hydras, new heads sprout when the creature takes serious damage.
 
-*One attack per head:* As for the more generic hydras, each of the chaos
-hydra’s heads can make an attack when it uses a standard action. Unlike
-those other hydras, each separate head is going to have its own attack
-style, though it’s possible that the hydra will randomly have two or
+*One attack per head:* As for the more generic hydras, each of the chaos  
+hydra’s heads can make an attack when it uses a standard action. Unlike  
+those other hydras, each separate head is going to have its own attack  
+style, though it’s possible that the hydra will randomly have two or  
 more of the same type of head for a couple rounds!
 
-*Heads with bonuses:* A few of the heads provide abilities or bonuses as
-well as one or two possible attacks. For a change, these bonuses are
-cumulative. For example, a chaos hydra with two draconic heads would
-have a +4 bonus to its AC. Since the heads shift frequently, those
+*Heads with bonuses:* A few of the heads provide abilities or bonuses as  
+well as one or two possible attacks. For a change, these bonuses are  
+cumulative. For example, a chaos hydra with two draconic heads would  
+have a +4 bonus to its AC. Since the heads shift frequently, those  
 bonuses won’t last forever.
 
 <table>
@@ -22130,22 +22948,22 @@ gasp save that turn.</p></td>
 
 ### Kobold
 
-All kobolds have the *trapster* ability. When a kobold makes a
-*trapster* attack and rolls a natural attack roll that is higher than
-the target’s Wisdom, the creature has maneuvered the target into a trap
+All kobolds have the *trapster* ability. When a kobold makes a  
+*trapster* attack and rolls a natural attack roll that is higher than  
+the target’s Wisdom, the creature has maneuvered the target into a trap  
 with the attack. A creature can only be subjected to one trap per round.
 
-When a kobold triggers its *trapster* ability, determine the damage the
-trap deals by rolling a 1d4, then adding the escalation die. If there’s
+When a kobold triggers its *trapster* ability, determine the damage the  
+trap deals by rolling a 1d4, then adding the escalation die. If there’s  
 a dungeon-shaman in the battle, use a d8 instead of a d4.
 
-Kobold traps can deal ongoing damage to the target instead of regular
-damage, if that makes sense for the trap. For ongoing damage, roll 1d4
+Kobold traps can deal ongoing damage to the target instead of regular  
+damage, if that makes sense for the trap. For ongoing damage, roll 1d4  
 (or 1d8) plus the escalation die, and then subtract one (minimum 1).
 
-Kobold traps can impose conditions upon the target, if you choose. Roll
-normal trap damage, but the trap only deals half damage (minimum 1).
-Then roll a d4 for the condition the trap imposes upon the target until
+Kobold traps can impose conditions upon the target, if you choose. Roll  
+normal trap damage, but the trap only deals half damage (minimum 1).  
+Then roll a d4 for the condition the trap imposes upon the target until  
 the end of its next turn.
 
 1.  The target is stuck.
@@ -22156,7 +22974,7 @@ the end of its next turn.
 
 4.  The target is vulnerable.
 
-Trap types vary according to the location/terrain and the whim of the
+Trap types vary according to the location/terrain and the whim of the  
 GM.
 
 #### Kobold Grand Wizard
@@ -23096,18 +23914,18 @@ gains a +4 attack bonus that turn.</p></td>
 
 <u>Abilities for all kohwa</u>
 
-*Flight:* Kohwa are winged, and therefore capable of flight. While they
-are strong fliers and able to travel great distances in this way, they
-are acutely aware of how ungainly they look while doing so, and
-therefore prefer to walk or run unless they are certain no one is
+*Flight:* Kohwa are winged, and therefore capable of flight. While they  
+are strong fliers and able to travel great distances in this way, they  
+are acutely aware of how ungainly they look while doing so, and  
+therefore prefer to walk or run unless they are certain no one is  
 watching.
 
-*Swimming:* Unlike many cat species, kohwa are perfectly at home in the
+*Swimming:* Unlike many cat species, kohwa are perfectly at home in the  
 water, so diving into a lake or river is a poor defense against them.
 
-*Telepathy:* Kohwa are capable of short-range telepathy with non-kohwa.
-It is assumed (although no one is entirely sure) that they are capable
-of communicating with others of their species at greater distances, as
+*Telepathy:* Kohwa are capable of short-range telepathy with non-kohwa.  
+It is assumed (although no one is entirely sure) that they are capable  
+of communicating with others of their species at greater distances, as  
 when one is in trouble, others are sure to appear—eventually.
 
 #### Kohwa Messenger
@@ -23483,22 +24301,22 @@ battle.</p></td>
 
 <u>Nastier Specials for All Kroma Dragonics</u>
 
-If you’d like to make your dragonic wyrmspawn more deadly, give them
-wings and limited flight. Or if your dragonics have the blood of the
-mighty wyrms flowing through them (or the magic of dragons has worn off
+If you’d like to make your dragonic wyrmspawn more deadly, give them  
+wings and limited flight. Or if your dragonics have the blood of the  
+mighty wyrms flowing through them (or the magic of dragons has worn off  
 on them), consider giving some of them a random dragon ability.
 
-*Limited flight:* At the start of each turn, roll a d6. If the result is
-less than or equal to the escalation die, the dragonic gains flight as a
-move action during its turns thanks to a pair of wings it unfurls from
-its back. The flight tends to be more power-flapping or gliding from one
-place to another rather than hovering. Flamewings who also have limited
-flight prefer to use their burning wings to fly in combat wherever
+*Limited flight:* At the start of each turn, roll a d6. If the result is  
+less than or equal to the escalation die, the dragonic gains flight as a  
+move action during its turns thanks to a pair of wings it unfurls from  
+its back. The flight tends to be more power-flapping or gliding from one  
+place to another rather than hovering. Flamewings who also have limited  
+flight prefer to use their burning wings to fly in combat wherever  
 possible, resorting to their physical wings only if needed.
 
-*Blood of the wyrm:* This dragonic displays traits of its forebears, the
-mighty wyrms. Roll a d10 and consult the random dragon ability table, or
-choose one of the first ten options that looks likely to shape the story
+*Blood of the wyrm:* This dragonic displays traits of its forebears, the  
+mighty wyrms. Roll a d10 and consult the random dragon ability table, or  
+choose one of the first ten options that looks likely to shape the story  
 or battle.
 
 #### Greenscale Wild Stalker
@@ -24100,33 +24918,33 @@ it misses with a melee attack.</p></td>
 
 ### Lammasu
 
-*Flight:* All lammasu fly. Warrior lammasu fly with upright dignity,
-sometimes a bit slower than is wise. Fallen lammasu fly well enough to
-keep up with all but the quickest demons. Lammasu wizards and priests
-fly more gracefully than the warriors, but only because they’re less
+*Flight:* All lammasu fly. Warrior lammasu fly with upright dignity,  
+sometimes a bit slower than is wise. Fallen lammasu fly well enough to  
+keep up with all but the quickest demons. Lammasu wizards and priests  
+fly more gracefully than the warriors, but only because they’re less  
 eager to run into things.
 
-*Minor servitors:* When a lammasu isn’t in combat or resting in
-stone-form, it’s usually surrounded by a fawning retinue of spirit
-servants. The servants look like people from ages the world no longer
-remembers. They stick close to the lammasu, seldom or never speak, and
-in truth may be a projection of the lammasu’s spirit or will. The
-spirits are no use in combat, but they can manipulate small objects such
-as combs and scented perfumes to use upon the lammasu’s beard, hair, and
+*Minor servitors:* When a lammasu isn’t in combat or resting in  
+stone-form, it’s usually surrounded by a fawning retinue of spirit  
+servants. The servants look like people from ages the world no longer  
+remembers. They stick close to the lammasu, seldom or never speak, and  
+in truth may be a projection of the lammasu’s spirit or will. The  
+spirits are no use in combat, but they can manipulate small objects such  
+as combs and scented perfumes to use upon the lammasu’s beard, hair, and  
 jewelry.
 
-*Stone rest:* Outside the overworld, lammasu who wish to rest can
-transform themselves into solid stone. A lammasu can see and hear as if
-it were still made of flesh. It can change back to flesh as a free
-action, but must wait a day before returning to stone, which is no great
-delay for lammasu guardians whose positions extend for decades or
-centuries. Considering that many sculptors carve stone lammasu to place
-in front of or within important structures, it’s deliberately difficult
-for a thief or assassin to know whether he is facing a stone statue or a
+*Stone rest:* Outside the overworld, lammasu who wish to rest can  
+transform themselves into solid stone. A lammasu can see and hear as if  
+it were still made of flesh. It can change back to flesh as a free  
+action, but must wait a day before returning to stone, which is no great  
+delay for lammasu guardians whose positions extend for decades or  
+centuries. Considering that many sculptors carve stone lammasu to place  
+in front of or within important structures, it’s deliberately difficult  
+for a thief or assassin to know whether he is facing a stone statue or a  
 transformed beast.
 
-Note that this form of solid stone is different from the living stone
-form sometimes adopted by the lammasu warrior, wizard, and priest during
+Note that this form of solid stone is different from the living stone  
+form sometimes adopted by the lammasu warrior, wizard, and priest during  
 battle.
 
 #### Fallen Lammasu
@@ -25234,13 +26052,13 @@ end of its next turn</p></td>
 
 <u>Nastier Special for all naga:</u>
 
-Arcane balance: Whenever the naga rolls a natural 1–5 with an attack
-roll, it can cancel one magical effect created by a spell or magic item
-that is affecting the naga or a nearby creature (including beneficial
-effect on a PC). It can be an ongoing effect, an effect that only lasts
-a round, or even an effect that was supposed to last until the end of
-the battle. Use your sense of what is magical and what isn’t: a bard’s
-song is clearly magical, but a rogue’s Shadow Walk talent probably
+Arcane balance: Whenever the naga rolls a natural 1–5 with an attack  
+roll, it can cancel one magical effect created by a spell or magic item  
+that is affecting the naga or a nearby creature (including beneficial  
+effect on a PC). It can be an ongoing effect, an effect that only lasts  
+a round, or even an effect that was supposed to last until the end of  
+the battle. Use your sense of what is magical and what isn’t: a bard’s  
+song is clearly magical, but a rogue’s Shadow Walk talent probably  
 isn’t, despite the wizard’s arguments that it *should* be.
 
 #### Swaysong Naga
@@ -25859,19 +26677,19 @@ be lowered to 20 as a result.</p></td>
 
 <u>Standard powers for all nymphs</u>
 
-*Domain bound:* Nymphs are tied to an area of land or water. Land areas
-will be at most a couple miles wide; water areas might be much larger.
+*Domain bound:* Nymphs are tied to an area of land or water. Land areas  
+will be at most a couple miles wide; water areas might be much larger.  
 As a rule, nymphs can’t leave the area they’re bound to.
 
-*Limited immortality:* A nymph that drops to 0 hit points or is
-otherwise slain will eventually return to life in its domain, so long as
-its domain and its secret survives. After an hour, a nymph needs a hard
-save to return to life. After eight hours, a nymph needs a normal save
-to return to life. If the nymph has still not returned, roll an easy
+*Limited immortality:* A nymph that drops to 0 hit points or is  
+otherwise slain will eventually return to life in its domain, so long as  
+its domain and its secret survives. After an hour, a nymph needs a hard  
+save to return to life. After eight hours, a nymph needs a normal save  
+to return to life. If the nymph has still not returned, roll an easy  
 save at the end of each 24 hours until the nymph succeeds.
 
-*Note on types:* The following nymphs with the humanoid type probably
-remember themselves. Nymphs that have probably forgotten their original
+*Note on types:* The following nymphs with the humanoid type probably  
+remember themselves. Nymphs that have probably forgotten their original  
 selves have the elemental type.
 
 #### Wood Nymph (Dryad)
@@ -26934,8 +27752,8 @@ All oozes have the following two abilities:
 
 *Flows where it likes:* The ooze is immune to opportunity attacks.
 
-*Ooze:* The ooze is immune to effects. When an attack applies a
-condition to an ooze (dazed, hampered, weakened, ongoing damage, etc.),
+*Ooze:* The ooze is immune to effects. When an attack applies a  
+condition to an ooze (dazed, hampered, weakened, ongoing damage, etc.),  
 that condition doesn’t affect it.
 
 #### Ochre Jelly
@@ -28220,8 +29038,8 @@ just got onto the agenda, one way or another.</p></td>
 
 All pixies have the *glamour* ability.
 
-*Glamour*: Outside of combat, pixies can create complex illusions at
-will. For the PC, it’s usually a normal or hard skill check to sort out
+*Glamour*: Outside of combat, pixies can create complex illusions at  
+will. For the PC, it’s usually a normal or hard skill check to sort out  
 what’s real.
 
 #### Pixie Warrior
@@ -28723,27 +29541,27 @@ poison.</p></td>
 
 <u>Nastier Special for all rakshasas</u>
 
-*Lockheart:* The first time a rakshasa is dropped to 0 hit points, it
-dies but will definitely be reborn, even if the PCs attempt to use an
-icon die result to prevent the resurrection. A PC who scores a critical
-hit against the rakshasa can attempt to nullify *lockheart* by choosing
-to ignore all other effects of the critical hit (all damage, not just
-the doubling) and attempting a normal save. If the save succeeds,
-*lockheart* is ignored this battle. If the save fails, *lockheart* is
-still in effect. A rakshasa can only use *lockheart* once in its
+*Lockheart:* The first time a rakshasa is dropped to 0 hit points, it  
+dies but will definitely be reborn, even if the PCs attempt to use an  
+icon die result to prevent the resurrection. A PC who scores a critical  
+hit against the rakshasa can attempt to nullify *lockheart* by choosing  
+to ignore all other effects of the critical hit (all damage, not just  
+the doubling) and attempting a normal save. If the save succeeds,  
+*lockheart* is ignored this battle. If the save fails, *lockheart* is  
+still in effect. A rakshasa can only use *lockheart* once in its  
 lifetime.
 
-Alternatively, instead of rolling saves, the PCs could go on a quest to
-find the lockheart’s key before confronting the rakshasa! That’s a story
+Alternatively, instead of rolling saves, the PCs could go on a quest to  
+find the lockheart’s key before confronting the rakshasa! That’s a story  
 angle you get to manipulate as you choose.
 
-*Backwards palms:* When staggered, the rakshasa’s hands shapeshift so
-that its palms trade places with the backs of its hands. It not only
-looks extremely weird, it also presents the player characters with an
-odd choice: The next time the escalation die would advance, the PCs have
-to choose whether the escalation die will decrease by 1 (minimum 0) or
-whether this rakshasa gets to use the escalation die until the end of
-the battle. If the PC group is split, the decision goes to the character
+*Backwards palms:* When staggered, the rakshasa’s hands shapeshift so  
+that its palms trade places with the backs of its hands. It not only  
+looks extremely weird, it also presents the player characters with an  
+odd choice: The next time the escalation die would advance, the PCs have  
+to choose whether the escalation die will decrease by 1 (minimum 0) or  
+whether this rakshasa gets to use the escalation die until the end of  
+the battle. If the PC group is split, the decision goes to the character  
 with the highest initiative.
 
 #### Rakshasa Sybarite
@@ -29449,10 +30267,10 @@ damage.</p></td>
 
 ### Redcap
 
-All redcaps have special abilities based on *The Bad Word*. Before every
-battle against redcaps, the GM should determine the *bad word* for that
-battle. Whenever a PC or a player at the table says the word, every
-redcap in the battle can use their associated ability as a free action
+All redcaps have special abilities based on *The Bad Word*. Before every  
+battle against redcaps, the GM should determine the *bad word* for that  
+battle. Whenever a PC or a player at the table says the word, every  
+redcap in the battle can use their associated ability as a free action  
 that interrupts whatever action is currently happening.
 
 #### Splotchcap
@@ -30368,23 +31186,23 @@ damage.</p></td>
 
 <u>Abilities for All Salamanders</u>
 
-*Escalating inferno:* If the salamander is in an area with flames, lava,
-or that it has set on fire, it gets to use the escalation die, adding it
-to its attack rolls. Even when not fighting in such an environment, a
-salamander attacked with a spell or attack that deals fire damage gets
-to use the escalation die until the end of its next turn, or longer if
-it’s a powerful or lingering spell. Avoid casting fireball in battle
+*Escalating inferno:* If the salamander is in an area with flames, lava,  
+or that it has set on fire, it gets to use the escalation die, adding it  
+to its attack rolls. Even when not fighting in such an environment, a  
+salamander attacked with a spell or attack that deals fire damage gets  
+to use the escalation die until the end of its next turn, or longer if  
+it’s a powerful or lingering spell. Avoid casting fireball in battle  
 with a salamander!
 
-*Resist fire 16+:* Fire attacks against the salamander must roll a
-natural 16+ attack roll or the attack does half damage. Whether or not
+*Resist fire 16+:* Fire attacks against the salamander must roll a  
+natural 16+ attack roll or the attack does half damage. Whether or not  
 such an attack hits, see escalating inferno!
 
 <u>Nastier Special</u>
 
-*Heat metal:* Enemies who make a melee attack with a non-magical weapon
-against a salamander and who roll a natural 1 or 3 take ongoing fire
-damage equal to twice the salamander’s level unless they drop their
+*Heat metal:* Enemies who make a melee attack with a non-magical weapon  
+against a salamander and who roll a natural 1 or 3 take ongoing fire  
+damage equal to twice the salamander’s level unless they drop their  
 weapon as a free action.
 
 <u>Extreme Heat Environments</u>
@@ -30393,19 +31211,19 @@ weapon as a free action.
 
 Fire (DC 20 to avoid).
 
-**Burning alive +5 vs. PD (adventurers who failed the skill check)**—2d4
+**Burning alive +5 vs. PD (adventurers who failed the skill check)**—2d4  
 fire damage
 
 Miss: Half damage.
 
 Falling timbers (DC 15 to avoid).
 
-**Crushed +10 vs. AC (adventurers who failed the skill check)**—10
+**Crushed +10 vs. AC (adventurers who failed the skill check)**—10  
 damage
 
 Smoke inhalation (DC 25 to avoid).
 
-**Choking smoke +15 vs. PD (adventurers who failed the skill
+**Choking smoke +15 vs. PD (adventurers who failed the skill  
 check)**—2d8 poison damage
 
 *Miss:* Half damage.
@@ -30414,42 +31232,42 @@ check)**—2d8 poison damage
 
 Fire (DC 25 to avoid).
 
-**Burning alive +15 vs. PD (adventurers who failed the skill
+**Burning alive +15 vs. PD (adventurers who failed the skill  
 check)**—2d8 fire damage
 
 *Miss:* Half damage.
 
 Smoke inhalation (DC 30 to avoid).
 
-**Choking smoke +20 vs. PD (adventurers who failed the skill
+**Choking smoke +20 vs. PD (adventurers who failed the skill  
 check)**—4d8 poison damage
 
 Miss: Half damage.
 
 Heat (DC 20 to avoid).
 
-**Scalding air +10 vs. PD (adventurers who failed the skill check)**—15
+**Scalding air +10 vs. PD (adventurers who failed the skill check)**—15  
 fire damage
 
 <u>Epic Tier: Volcano</u>
 
 Noxious fumes (DC 35 to avoid).
 
-**Noxious fumes +25 vs. PD (adventurers who failed the skill check)**—20
+**Noxious fumes +25 vs. PD (adventurers who failed the skill check)**—20  
 fire damage
 
 Miss: Half damage.
 
 Heat (DC 25 to avoid).
 
-**Scalding air +10 vs. PD (adventurers who failed the skill check)**—20
+**Scalding air +10 vs. PD (adventurers who failed the skill check)**—20  
 ongoing fire damage
 
 *Miss:* Half damage.
 
 Slow lava flow (DC 20 to avoid).
 
-**Burned away +25 vs. PD (adventurers who failed the skill check)**—50
+**Burned away +25 vs. PD (adventurers who failed the skill check)**—50  
 fire damage and possible loss of limb
 
 *Miss:* Half damage, and permanent scarring.
@@ -30892,8 +31710,8 @@ it deals double damage with its next attack, hit or miss.</p></td>
 
 <u>For all skeletons</u>
 
-*Resist weapons 16+:* When a weapon attack targets this creature, the
-attacker must roll a natural 16+ on the attack roll or it only deals
+*Resist weapons 16+:* When a weapon attack targets this creature, the  
+attacker must roll a natural 16+ on the attack roll or it only deals  
 half damage.
 
 #### Decrepit Skeleton
@@ -31513,17 +32331,17 @@ flensed away.</p></td>
 
 <u>Nastier Specials for all specters</u>
 
-*Aura of loss:* The first time during a battle the specter is staggered,
-each nearby enemy with 30 hp or fewer is hampered until the end of the
-specter’s next turn. (9<sup>th</sup> level dread specter affects enemies
+*Aura of loss:* The first time during a battle the specter is staggered,  
+each nearby enemy with 30 hp or fewer is hampered until the end of the  
+specter’s next turn. (9<sup>th</sup> level dread specter affects enemies  
 with 60 hp or fewer.)
 
-*Healing drain:* When an enemy engaged with a specter heals, it heals
-only half the normal hit points, and the specter heals the other half
+*Healing drain:* When an enemy engaged with a specter heals, it heals  
+only half the normal hit points, and the specter heals the other half  
 (round down).
 
-*Spectral evasion:* Once per battle as a free action when an enemy
-attacks the specter, it can force the attacker to reroll the attack and
+*Spectral evasion:* Once per battle as a free action when an enemy  
+attacks the specter, it can force the attacker to reroll the attack and  
 use the result the specter prefers.
 
 #### Specter
@@ -31628,88 +32446,88 @@ fewer)</strong>—60 negative energy damage</p></td>
 
 <u>Champion Tier: Star-Masks & Cultists</u>
 
-To change things up, here are some additional nastier-special abilities
-to give to the star-mask cultists and puppets the PCs face. The
-abilities key off who the star-mask cultist was before they were taken
+To change things up, here are some additional nastier-special abilities  
+to give to the star-mask cultists and puppets the PCs face. The  
+abilities key off who the star-mask cultist was before they were taken  
 by the mask.
 
 <u>Dwarf (or maybe Half-Orc)</u>
 
-*\[Group ability\] Stronger than stone:* Once per battle, a staggered
-dwarf heals to full health as a free action. No matter how many dwarves
+*\[Group ability\] Stronger than stone:* Once per battle, a staggered  
+dwarf heals to full health as a free action. No matter how many dwarves  
 there are in the battle, only one can use this ability.
 
 <u>Elf (or maybe Halfling)</u>
 
-*\[Group ability\] Elf-like grace:* Once per battle, an elf can take a
-second standard action during its turn. No matter how many elves there
+*\[Group ability\] Elf-like grace:* Once per battle, an elf can take a  
+second standard action during its turn. No matter how many elves there  
 are in the battle, only one can use this ability.
 
 <u>Human (or maybe Half Orc)</u>
 
-*\[Group ability\] Sudden cunning:* Once per battle, a human can turn
-one of its missed attacks into a hit, or a hit into a critical hit. No
-matter how many humans there are in the battle, only one can use this
+*\[Group ability\] Sudden cunning:* Once per battle, a human can turn  
+one of its missed attacks into a hit, or a hit into a critical hit. No  
+matter how many humans there are in the battle, only one can use this  
 ability.
 
 <u>Halfling or Gnome (or maybe Elf)</u>
 
-*\[Group ability\] Quicker than that:* Once per battle, a halfling or
-gnome can turn a hit against it into a miss, or can ignore the miss
-effects of an attack against it. No matter how many halflings or gnomes
+*\[Group ability\] Quicker than that:* Once per battle, a halfling or  
+gnome can turn a hit against it into a miss, or can ignore the miss  
+effects of an attack against it. No matter how many halflings or gnomes  
 there are in the battle, only one can use this ability.
 
 <u>Epic Tier: Star-Mask Brains</u>
 
-The epic tier star-mask creatures are all star-mask brains. Star mask
-brains warp the reality around them, creating odd effects that can
+The epic tier star-mask creatures are all star-mask brains. Star mask  
+brains warp the reality around them, creating odd effects that can  
 surprise the unwary
 
 <u>Star-Mask Brain Effects</u>
 
-At the start of each round in a battle with one or more star-mask
-brains, roll a d10 to see what happens. Some effects are immediate,
+At the start of each round in a battle with one or more star-mask  
+brains, roll a d10 to see what happens. Some effects are immediate,  
 others last the entire round:
 
-**1. Consumption.** One brain can consume any lower-level xombie,
-star-mask, or brain ally to heal back to half hit points if it’s
-staggered, or to full health if not staggered. If there are no allies
-present, 1d4 xombies or cultists show up (note, they may be too low
-level to have any effect except to be swiftly eliminated by the PCs or
+**1. Consumption.** One brain can consume any lower-level xombie,  
+star-mask, or brain ally to heal back to half hit points if it’s  
+staggered, or to full health if not staggered. If there are no allies  
+present, 1d4 xombies or cultists show up (note, they may be too low  
+level to have any effect except to be swiftly eliminated by the PCs or  
 consumed in a later round).
 
-**2. De-escalating illusion.** The star-mask brain blasts the minds of
-the adventurers with illusions—the escalation die decreases by 1 (to a
+**2. De-escalating illusion.** The star-mask brain blasts the minds of  
+the adventurers with illusions—the escalation die decreases by 1 (to a  
 minimum of 0).
 
-**3. Delusions.** The star-mask brain messes with the adventurers’
-perceptions. Once this round as a free action, the brain can roll a save
-to avoid a ranged attack that hits it. If it succeeds, the attack misses
-instead. If it rolls 16+ on the save, the attack is redirected and
-automatically hits a nearby enemy other than the attacker of the brain’s
+**3. Delusions.** The star-mask brain messes with the adventurers’  
+perceptions. Once this round as a free action, the brain can roll a save  
+to avoid a ranged attack that hits it. If it succeeds, the attack misses  
+instead. If it rolls 16+ on the save, the attack is redirected and  
+automatically hits a nearby enemy other than the attacker of the brain’s  
 choice.
 
-**4. Mental empowerment.** Each star-mask brain or cultist in the battle
+**4. Mental empowerment.** Each star-mask brain or cultist in the battle  
 gains a +2 bonus to saves and MD this round.
 
-**5. Intrusive thoughts.** The star-mask brain is thinking hard about
+**5. Intrusive thoughts.** The star-mask brain is thinking hard about  
 the characters—each PC takes 2d12 psychic damage.
 
-**6. Magical flux.** When the PCs use spell attacks or other magic
+**6. Magical flux.** When the PCs use spell attacks or other magic  
 attacks, they must roll twice and use the lower result.
 
-**7. Magical reflux.** When a PC casts a spell this round, they take
+**7. Magical reflux.** When a PC casts a spell this round, they take  
 2d20 force damage.
 
-**8. Matter warp.** Everything shudders and twists for a moment, and
+**8. Matter warp.** Everything shudders and twists for a moment, and  
 each engaged creature pops free from engagement.
 
-**9. Possession.** The hive mind possesses a PC, who is automatically
-confused until the end of their next turn. Each adventurer can be
+**9. Possession.** The hive mind possesses a PC, who is automatically  
+confused until the end of their next turn. Each adventurer can be  
 confused only once per battle from this effect.
 
-**10. Steal the momentum.** The star-mask hive mind temporarily steals
-the escalation die; this round, so the monsters get the benefit of the
+**10. Steal the momentum.** The star-mask hive mind temporarily steals  
+the escalation die; this round, so the monsters get the benefit of the  
 die and the adventurers don’t.
 
 #### Fast Xombie
@@ -32546,134 +33364,134 @@ magic that could restore them.)</p></td>
 
 #### Star-Mask Host Template
 
-Star-mask cultists can range from those who are simple followers who are
-unaware of the cult’s true purpose, to fully controlled puppets, to
+Star-mask cultists can range from those who are simple followers who are  
+unaware of the cult’s true purpose, to fully controlled puppets, to  
 individuals who welcome their star-mask “partners.”
 
-A star-mask brute normally begins life as a large beast or a dragon, but
-becomes host to dozens of star-masks. The star-masks warp and mutate
+A star-mask brute normally begins life as a large beast or a dragon, but  
+becomes host to dozens of star-masks. The star-masks warp and mutate  
 their host, and eventually it is no longer recognizable.
 
-To convert a regular monster or NPC to a star-mask host, give it a
-couple abilities from those listed under psychic powers, physical
-warping, and tentacles. In addition, increase its attack bonus by +4.
-The base creature’s level increases by 1 for purposes of building
+To convert a regular monster or NPC to a star-mask host, give it a  
+couple abilities from those listed under psychic powers, physical  
+warping, and tentacles. In addition, increase its attack bonus by +4.  
+The base creature’s level increases by 1 for purposes of building  
 battles.
 
 <u>Psychic Powers</u>
 
-The star-mask hosts have psychic powers granted to them by their
-symbiotic masks. Such hosts usually have some outward sign of their
+The star-mask hosts have psychic powers granted to them by their  
+symbiotic masks. Such hosts usually have some outward sign of their  
 powers—swollen skulls or throbbing veins.
 
 <u>Choose one or more of the following:</u>
 
-**C: Dysthymic ray +5 + level vs. MD (one nearby enemy)**—10 psychic
+**C: Dysthymic ray +5 + level vs. MD (one nearby enemy)**—10 psychic  
 damage (champion: 20 damage; epic: 30 damage)
 
-*Natural 18+:* The target is confused (save ends) and any confusion
+*Natural 18+:* The target is confused (save ends) and any confusion  
 effect from the ray on a previous target ends.
 
 *Quick use:* 1/round, as a quick action.
 
-*Group mind:* Provided there is a star-mask brain around (it doesn’t
-have to be in the fight, just in the general vicinity), the host gains a
-+4 bonus to MD and knows everything that the star-mask brain knows (and
-vise-versa). If there isn’t a star-mask brain in the area, the host only
+*Group mind:* Provided there is a star-mask brain around (it doesn’t  
+have to be in the fight, just in the general vicinity), the host gains a  
++4 bonus to MD and knows everything that the star-mask brain knows (and  
+vise-versa). If there isn’t a star-mask brain in the area, the host only  
 gains a +1 bonus to MD.
 
-*Healed by the hive mind:* Once per battle as a standard action, the
-host heals 25% of its maximum hit points, as does one of its nearby
+*Healed by the hive mind:* Once per battle as a standard action, the  
+host heals 25% of its maximum hit points, as does one of its nearby  
 allies.
 
-*Hive mind puppet:* When an enemy drops to 0 hp or below, it must roll a
-save. If it fails, it’s “turned” to the star-masks’ side. A turned
-creature recovers during its next turn with temporary hp equal to its
-normal maximum hit points, but it’s now an ally of the star-masks (hard
-save ends, 16+). Once that creature saves and breaks free, it must roll
+*Hive mind puppet:* When an enemy drops to 0 hp or below, it must roll a  
+save. If it fails, it’s “turned” to the star-masks’ side. A turned  
+creature recovers during its next turn with temporary hp equal to its  
+normal maximum hit points, but it’s now an ally of the star-masks (hard  
+save ends, 16+). Once that creature saves and breaks free, it must roll  
 a normal save. If it fails, it loses the temporary hit points.
 
-**R: Psychic chains +5 + level vs. MD**—5 ongoing psychic damage
+**R: Psychic chains +5 + level vs. MD**—5 ongoing psychic damage  
 (champion: 10 ongoing damage, epic: 20 ongoing damage)
 
-*Aftereffect:* When the target saves against the ongoing damage, if the
-save was a natural odd roll, the target becomes confused until it hits
+*Aftereffect:* When the target saves against the ongoing damage, if the  
+save was a natural odd roll, the target becomes confused until it hits  
 an ally with an attack.
 
 *Limited use:* 1/battle.
 
-*Psychic illusion:* The host looks normal. It requires a DC 30 skill
-check to notice things like tentacles or bulging muscles on it. If a
+*Psychic illusion:* The host looks normal. It requires a DC 30 skill  
+check to notice things like tentacles or bulging muscles on it. If a  
 creature’s MD is 17 or less, it won’t even notice the mask itself.
 
-*Telekinetic flight:* The host can fly. When an enemy misses the host
+*Telekinetic flight:* The host can fly. When an enemy misses the host  
 with an attack and rolls a natural 1–5, it pops free from that enemy.
 
-**C: Woe betide you +5 + level vs. MD (one nearby enemy)**—10 psychic
-damage (champion: 20 damage; epic: 35 damage), and the target can’t heal
+**C: Woe betide you +5 + level vs. MD (one nearby enemy)**—10 psychic  
+damage (champion: 20 damage; epic: 35 damage), and the target can’t heal  
 using a recovery (save ends)
 
 *Limited use:* 1/battle.
 
 <u>Physical Enhancements</u>
 
-The star-mask host has been physically enhanced by the star-mask.
-Hunched and twisted forms or skin split open over bulging red muscles
-are common side effects. The greater the physical enhancements the more
-brutish and less intelligent the host becomes (and the easier for the
+The star-mask host has been physically enhanced by the star-mask.  
+Hunched and twisted forms or skin split open over bulging red muscles  
+are common side effects. The greater the physical enhancements the more  
+brutish and less intelligent the host becomes (and the easier for the  
 star-mask to influence).
 
 <u>Choose one or more of the following:</u>
 
-*Amazing endurance:* The host gains +2 AC and +1 PD, or double that
+*Amazing endurance:* The host gains +2 AC and +1 PD, or double that  
 bonus while it is defending a star-mask brain.
 
-*Leap:* Once per battle when the escalation die is even, the host can
-pop free from all enemies and leap somewhere nearby or far away as a
-move action. If the host engages an enemy with this movement and
+*Leap:* Once per battle when the escalation die is even, the host can  
+pop free from all enemies and leap somewhere nearby or far away as a  
+move action. If the host engages an enemy with this movement and  
 attacks, it gains a +1 bonus to that attack.
 
-*Trampling charge:* As a standard action, the host moves through an
-enemy’s space without taking an opportunity attack and finishes its move
+*Trampling charge:* As a standard action, the host moves through an  
+enemy’s space without taking an opportunity attack and finishes its move  
 out of engagement, making the following attack against that enemy.
 
-**Trample +5 + level vs. AC**—10 damage (champion: 20 damage; epic: 40
+**Trample +5 + level vs. AC**—10 damage (champion: 20 damage; epic: 40  
 damage)
 
 *Natural even miss:* Half damage.
 
-*Natural even hit:* The target pops free from the host and is hurled far
+*Natural even hit:* The target pops free from the host and is hurled far  
 away from the host.
 
 <u>Tentacles</u>
 
-The star-mask grips to its host with tentacles, but this star-mask has
+The star-mask grips to its host with tentacles, but this star-mask has  
 gone further than that.
 
 <u>Choose one or more of the following:</u>
 
-*Barbed tentacles:* Enemies that pop free of the host or move away from
+*Barbed tentacles:* Enemies that pop free of the host or move away from  
 it without first disengaging take 10 damage.
 
-*Climbing tentacles:* The host can climb up walls and across ceilings as
+*Climbing tentacles:* The host can climb up walls and across ceilings as  
 easily as it moves on the ground.
 
-*Grasping tentacles:* Enemies engaged with the host must roll twice for
+*Grasping tentacles:* Enemies engaged with the host must roll twice for  
 disengage checks and take the lowest result.
 
-*Tentacles everywhere:* If the star-mask host is intercepted, it can
+*Tentacles everywhere:* If the star-mask host is intercepted, it can  
 make a *probing tentacles* attack as a free action.
 
-**C: Probing tentacles +5 + level vs. PD (an enemy intercepting
-it)**—The enemy becomes stuck and takes 5 ongoing poison damage (save
+**C: Probing tentacles +5 + level vs. PD (an enemy intercepting  
+it)**—The enemy becomes stuck and takes 5 ongoing poison damage (save  
 ends both) (champion: 10 ongoing damage; epic: 20 ongoing damage)
 
-*Target dies while still stuck:* If a creature dies while stuck in the
-tentacles, the host lays 1d4 star-mask eggs in it, which hatch into
-scuttling star-masks after 1d3 – 1 rounds (0 rounds mean the eggs hatch
+*Target dies while still stuck:* If a creature dies while stuck in the  
+tentacles, the host lays 1d4 star-mask eggs in it, which hatch into  
+scuttling star-masks after 1d3 – 1 rounds (0 rounds mean the eggs hatch  
 almost instantly).
 
-**R: Whipping tentacles +5 + level vs. AC**—10 damage (champion: 20
+**R: Whipping tentacles +5 + level vs. AC**—10 damage (champion: 20  
 damage; epic: 35 damage)
 
 *Quick use:* 1/round, as a quick action.
@@ -32798,107 +33616,107 @@ uh-oh.</p></td>
 
 <u>Special Abilities for All Taranar</u>
 
-*All-rock (resist weapons and negative energy 16+):* All taranar are
-resistant to physical damage as a result of their stony nature. If an
-assailant fails to make a natural roll of 16+ when using a weapon
-against a taranar, the attacker deals only half damage. The resistance
-also applies to negative energy damage, which tends to fizzle
+*All-rock (resist weapons and negative energy 16+):* All taranar are  
+resistant to physical damage as a result of their stony nature. If an  
+assailant fails to make a natural roll of 16+ when using a weapon  
+against a taranar, the attacker deals only half damage. The resistance  
+also applies to negative energy damage, which tends to fizzle  
 ineffectively against the ancient stones.
 
-*Lightning-flare:* As a last ditch defense, when a taranar is reduced to
-between 1 and 10 hp, it can discharge its remaining stored energy as a
-counterattack (no attack roll required) against the character who
-delivered the telling blow, dealing 1d6 lightning damage per level of
-the taranar. The taranar immediately returns to its immobile rock form
-and cannot take any further role in the battle. It will then remain
-torpid unless destroyed or the cycle turns full circle and the
-conditions for it to wake are met again (providing they can be). Such
-severely damaged creatures reawaken as broken taranar, regardless of
+*Lightning-flare:* As a last ditch defense, when a taranar is reduced to  
+between 1 and 10 hp, it can discharge its remaining stored energy as a  
+counterattack (no attack roll required) against the character who  
+delivered the telling blow, dealing 1d6 lightning damage per level of  
+the taranar. The taranar immediately returns to its immobile rock form  
+and cannot take any further role in the battle. It will then remain  
+torpid unless destroyed or the cycle turns full circle and the  
+conditions for it to wake are met again (providing they can be). Such  
+severely damaged creatures reawaken as broken taranar, regardless of  
 what they were before.
 
-*Thick-skinned:* Being made of stone has its benefits. The taranar are
-immune to almost all effects—they cannot be dazed, weakened, confused,
-or made vulnerable to anything beyond those energies they are already
-vulnerable to (fire and cold; see below). Taranar are also immune to
+*Thick-skinned:* Being made of stone has its benefits. The taranar are  
+immune to almost all effects—they cannot be dazed, weakened, confused,  
+or made vulnerable to anything beyond those energies they are already  
+vulnerable to (fire and cold; see below). Taranar are also immune to  
 ongoing damage.
 
 <u>Cracking Up</u>
 
-Taranar are big and tough. But even big, tough creatures have a weakness
-(or, at least, you really have to hope they do if you don’t want to get
-squashed). For the stone people, their two main fears are fire and ice.
-This may stem from their clashes with their ancient foes the frost and
-fire giants, or it may be due to the actions of those who, over the
-centuries, have used heat and cold to smash their bodies into manageable
+Taranar are big and tough. But even big, tough creatures have a weakness  
+(or, at least, you really have to hope they do if you don’t want to get  
+squashed). For the stone people, their two main fears are fire and ice.  
+This may stem from their clashes with their ancient foes the frost and  
+fire giants, or it may be due to the actions of those who, over the  
+centuries, have used heat and cold to smash their bodies into manageable  
 fragments.
 
-As a result, the taranar are vulnerable to fire and cold energy, both of
-which play havoc with their physiology—so much so that a hit from a fire
-attack followed immediately (either in the current or subsequent round)
-by a hit from a cold attack will cause double cold damage, irrespective
-of whether a critical (normally 18+) has been rolled. If a critical is
+As a result, the taranar are vulnerable to fire and cold energy, both of  
+which play havoc with their physiology—so much so that a hit from a fire  
+attack followed immediately (either in the current or subsequent round)  
+by a hit from a cold attack will cause double cold damage, irrespective  
+of whether a critical (normally 18+) has been rolled. If a critical is  
 rolled, triple the damage inflicted.
 
 <u>Iconic Powers</u>
 
-Centuries of existence as free-standing monoliths have exposed the
-taranar to many of the world’s most powerful magical traditions. There’s
-something about a circle or avenue of standing stones that inspires
+Centuries of existence as free-standing monoliths have exposed the  
+taranar to many of the world’s most powerful magical traditions. There’s  
+something about a circle or avenue of standing stones that inspires  
 druids, cultists, chaos magicians, and wizards to get a ritual going.
 
-Part of the taranar’s remarkable success at hiding through the ages
-comes from the fact that they don’t wake up just because someone is
-using their stone as an altar for a goblin sacrifice or a ritual of
-rebirth. But sleeping through centuries of ritual magic doesn’t mean
-that the taranar have been unaffected by the experience. It’s possible
+Part of the taranar’s remarkable success at hiding through the ages  
+comes from the fact that they don’t wake up just because someone is  
+using their stone as an altar for a goblin sacrifice or a ritual of  
+rebirth. But sleeping through centuries of ritual magic doesn’t mean  
+that the taranar have been unaffected by the experience. It’s possible  
 that a taranar could have acquired lingering magical abilities.
 
 You can use the following special abilities in at least five ways:
 
-1: As a consequence of a story connection between a taranar and its
-location in the world, obviously exposed for a long period of time to
+1: As a consequence of a story connection between a taranar and its  
+location in the world, obviously exposed for a long period of time to  
 magicians associated with an icon.
 
-2: As a reaction to a PC’s use of an icon advantage, particularly as a
-possible complication of an icon advantage used when the taranar are in
+2: As a reaction to a PC’s use of an icon advantage, particularly as a  
+possible complication of an icon advantage used when the taranar are in  
 play or in the story.
 
-3: To cast the taranar as heroes or villains relative to the player
+3: To cast the taranar as heroes or villains relative to the player  
 characters’ intentions.
 
-4: As lower impact nastier specials in battles that seem overly easy on
+4: As lower impact nastier specials in battles that seem overly easy on  
 the PCs.
 
-5: In combination with each other, since it’s entirely possible that the
+5: In combination with each other, since it’s entirely possible that the  
 magic of more than one icon has shaped a stone!
 
-**Magic Icon (The Flying Stones):** In sympathy with the magic that
-keeps the Magic Icon city aloft, a taranar influenced by the Magic
-Icon’s magic can fly until the end of a battle after it has either
-scored or suffered a critical hit. The flight isn’t quick or agile. More
-like empowered levitation, about what you’d expect from an airborne
+**Magic Icon (The Flying Stones):** In sympathy with the magic that  
+keeps the Magic Icon city aloft, a taranar influenced by the Magic  
+Icon’s magic can fly until the end of a battle after it has either  
+scored or suffered a critical hit. The flight isn’t quick or agile. More  
+like empowered levitation, about what you’d expect from an airborne  
 monolith.
 
-**Demonic Icon (The Stones are Red):** Roll a random demon ability. The
+**Demonic Icon (The Stones are Red):** Roll a random demon ability. The  
 taranar will use that ability once this battle, and once only.
 
-**Graceful Icon (Repose):** Roll a normal save when dropped to 0 hit
-points. If the save succeeds, the taranar only drops to 1 hit point and
-teleports somewhere far away to sleep for a while. And then it wakes up.
+**Graceful Icon (Repose):** Roll a normal save when dropped to 0 hit  
+points. If the save succeeds, the taranar only drops to 1 hit point and  
+teleports somewhere far away to sleep for a while. And then it wakes up.  
 And remembers everything…
 
-**Nature Icon (The Call):** The first time the escalation die reaches
-5+, another taranar surfaces in the battle, called up from hidden
+**Nature Icon (The Call):** The first time the escalation die reaches  
+5+, another taranar surfaces in the battle, called up from hidden  
 slumber.
 
-**Undead Icon (Simple Fear):** The taranar has the *fear* ability,
-affecting creatures at or beneath the fear threshold for its level
+**Undead Icon (Simple Fear):** The taranar has the *fear* ability,  
+affecting creatures at or beneath the fear threshold for its level  
 indicated on the DIY monster tables.
 
 **Brute Icon (Savagery):** −2 to all defenses. +2 to all attacks.
 
-**Draconic Icon (Fight the Claw):** Taranar are usually enemies of the
-dragons. Exposure to their magic has taught the taranar to use the
+**Draconic Icon (Fight the Claw):** Taranar are usually enemies of the  
+dragons. Exposure to their magic has taught the taranar to use the  
 escalation die whenever it is odd.
 
 #### Conglomerate
@@ -33287,6 +34105,7 @@ turn.</p></td>
 </tbody>
 </table>
 
+<<<<<<<< HEAD:Monster-Reference.md
 ### Tarrasque
 
 <table>
@@ -33410,6 +34229,8 @@ bind, wound, or otherwise hamper the tarrasque.</p></td>
 </tbody>
 </table>
 
+========
+>>>>>>>> 268f6c4 (chore(Monsters): Splitting out Monsters):split_output/Monster-Reference.md
 ### The Saved
 
 #### Avenging Orb
@@ -33871,12 +34692,12 @@ turn.</p></td>
 
 All treants except awakened tress have the *demolish* ability.
 
-*Free-form ability—Demolish:* Given time, treants are capable of pulling
-apart just about anything that’s been put together. Their roots squeeze
-into spaces between paving stones, slowly pulling them up and out of
-place. Their branches can likewise worm their way into spaces in walls,
-doors, and gates, and with steady pressure they can pull down most
-human-made structures. This slow-motion destruction takes minutes for
+*Free-form ability—Demolish:* Given time, treants are capable of pulling  
+apart just about anything that’s been put together. Their roots squeeze  
+into spaces between paving stones, slowly pulling them up and out of  
+place. Their branches can likewise worm their way into spaces in walls,  
+doors, and gates, and with steady pressure they can pull down most  
+human-made structures. This slow-motion destruction takes minutes for  
 the simplest efforts and hours for major demolition.
 
 #### Awakened Trees
@@ -34037,13 +34858,13 @@ the whipping branches.</p></td>
 
 <u>For all troglodytes</u>
 
-*Trog stench:* Trogs spray scents that stink so badly that other
-humanoids take penalties to all attacks, defenses, and saves when
-engaged with a troglodyte or when nearby three or more troglodytes.
+*Trog stench:* Trogs spray scents that stink so badly that other  
+humanoids take penalties to all attacks, defenses, and saves when  
+engaged with a troglodyte or when nearby three or more troglodytes.  
 Non-humanoids aren’t affected.
 
-Humanoids affected by *trog stench* can make a normal save (with a
-penalty) at the end of each of their turns. If the save succeeds, the
+Humanoids affected by *trog stench* can make a normal save (with a  
+penalty) at the end of each of their turns. If the save succeeds, the  
 humanoid can ignore all *trog stench* for the rest of the battle.
 
 *Trog stench* penalties vary for different humanoid races:
@@ -34397,6 +35218,7 @@ target also takes 10 ongoing damage.</p></td>
 
 ### Undead Icon Cult
 
+<<<<<<<< HEAD:Monster-Reference.md
 #### Undead Icon Cultist
 
 <table>
@@ -34444,6 +35266,8 @@ on full hit points but is now UNDEAD not HUMANOID.</p></td>
 </tbody>
 </table>
 
+========
+>>>>>>>> 268f6c4 (chore(Monsters): Splitting out Monsters):split_output/Monster-Reference.md
 #### Drudge Citizen
 
 <table>
@@ -34571,7 +35395,7 @@ terrifying. All nearby and faraway enemies with less than 60 hp must
 save or become affected by fear (dazed and unable to use the escalation
 die) until the end of their next turn. Necromancers are immune to this
 effect. (Characters with active icon relationship advantages might also
-be able to dodge it, depending on the story they tell . . . .)</p>
+be able to dodge it, depending on the story they tell … .)</p>
 <p><em>Quick use:</em> 1/battle, as a quick action.</p>
 <p><em>Flight:</em> While immaterial the phantom can fly.</p>
 <p><u>Nastier Special</u></p>
