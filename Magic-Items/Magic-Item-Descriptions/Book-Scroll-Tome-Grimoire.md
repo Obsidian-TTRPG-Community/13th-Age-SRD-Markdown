@@ -70,7 +70,7 @@ When you cast a divine spell, heal using a recovery and add +`dice: 1d6` hit poi
 
 (Recharge 16+)
 
-When you roll a skill check using Intelligence, Wisdom, or Charisma and dislike the result, reroll the check. Quirk: Annoyingly curious.
+When you roll a skill check using Intelligence, Wisdom, or Charisma and dislike the result, reroll the check. **Quirk**: Annoyingly curious.
 
 #### Champion
 

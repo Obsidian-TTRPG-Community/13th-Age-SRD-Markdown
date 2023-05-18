@@ -94,7 +94,7 @@ When you drop one or more foes with an arcane spell attack, heal using a recover
 
 #### Totem Kilt
 
-A hide-and-fur skirt bedecked with garish tribal charms, totemic symbols, and spirit knots. You can reroll the first death save you make each battle. Add +2 to the roll. Quirk: Sometimes speaks with the voices of ancestors.
+A hide-and-fur skirt bedecked with garish tribal charms, totemic symbols, and spirit knots. You can reroll the first death save you make each battle. Add +2 to the roll. **Quirk**: Sometimes speaks with the voices of ancestors.
 
 #### Vitality
 
