@@ -1,4 +1,17 @@
-#### Fire Bat
+---
+ac: 18
+aliases: Fire Bat
+created: 2023-05-18
+description: 
+image: 
+level: 3
+modifier: 9
+publish: 
+tags: 13A/Bestiary/Beast, 13A/Monsters/Type/Mook
+updated: 2023-05-18
+---
+
+## Fire Bat
 
 <table>
 <colgroup>
