@@ -1,4 +1,17 @@
-#### Magma Brute
+---
+ac: 19
+aliases: Magma Brute
+created: 2023-05-18
+description: 
+image: 
+level: 3 
+modifier: 4
+publish: 
+tags: 13A/Bestiary/Construct, 13A/13A/Monsters/Type/Wrecker
+updated: 2023-05-18
+---
+
+## Magma Brute
 
 <table>
 <colgroup>
