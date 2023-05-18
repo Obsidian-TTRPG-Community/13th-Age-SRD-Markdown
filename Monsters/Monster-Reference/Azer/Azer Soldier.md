@@ -1,4 +1,17 @@
-#### Azer Soldier
+---
+ac: 20
+aliases: Azer Soldier
+created: 2023-05-18
+description: 
+image: 
+level: 4
+modifier: 7
+publish: 
+tags: [13A/Bestiary/Humanoid/Dwarf, 13A/Monsters/Type/Troop]
+updated: 2023-05-18
+---
+
+## Azer Soldier
 
 <table>
 <colgroup>
