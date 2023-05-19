@@ -18,5 +18,6 @@ updated: 2023-05-07
 	- [Fire Bat](./Azer/Fire%20Bat.md)
 	- [Magma Brute](./Azer/Magma%20Brute.md)
 - [Basilisk](./Basilisk.md)
+- **[Battle-Shade](./Battle-Shade/Battle-Shade.md)**
 
 %% End Waypoint %%
