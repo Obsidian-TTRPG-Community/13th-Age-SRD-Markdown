@@ -17,5 +17,6 @@ updated: 2023-05-07
 	- [Azer Soldier](./Azer/Azer%20Soldier.md)
 	- [Fire Bat](./Azer/Fire%20Bat.md)
 	- [Magma Brute](./Azer/Magma%20Brute.md)
+- [Basilisk](./Basilisk.md)
 
 %% End Waypoint %%
