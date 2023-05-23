@@ -1,55 +1,41 @@
 ---
-ac: 19
 aliases: [Dire Bear]
-created: 2023-05-12
+created: 
 description: 
-hp: 130
 image: 
 level: 4
-modifier: 7
 publish: 
-tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Troop]
-updated: 2023-05-13
+role: troop
+strength: large
+tags: ["13A/Bestiary/beast", "13A/Monsters/Type/troop"]
+type: beast
+updated: 
 ---
 
-## Dire Bear
-
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 71%" />
-<col style="width: 5%" />
-<col style="width: 6%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Large</strong></p>
-<p><strong>4<sup>th</sup> level</strong></p>
-<p><strong>Troop</strong></p>
-<p><strong>Beast</strong></p></td>
-<td><p>Initiative: +7</p>
-<p><strong>Bite +8 vs. AC</strong>—24 damage</p>
-<p><em>Natural even hit:</em> The target takes +2d6 damage from a claw
-swipe.</p>
-<p><em>Savage:</em> The dire bear gains a +2 attack bonus against
-staggered enemies.</p>
-<p><em>One dire feature:</em> Roll randomly unless you know this beast’s
-story already.</p></td>
-<td><p><strong>AC</strong></p>
-<p><strong>PD</strong></p>
-<p><strong>MD</strong></p>
-<p><strong>HP</strong></p></td>
-<td><p><strong>19</strong></p>
-<p><strong>19</strong></p>
-<p><strong>14</strong></p>
-<p><strong>130</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```statblock
+layout: Basic 13th Age Monster Layout
+columns: 1
+name: "Dire Bear"
+size: "large"
+level: "4"
+levelOrdinal: "4th"
+role: "troop"
+type: "beast"
+initiative: "7"
+actions:
+    - name: "Bite +8 vs. AC"
+      desc: "24 damage"
+      traits:
+          - name: "Natural even hit"
+            desc: "The target takes +2d6 damage from a claw swipe."
+traits:
+    - name: "Savage"
+      desc: "The dire bear gains a +2 attack bonus against staggered enemies."
+    - name: "One dire feature"
+      desc: "Roll randomly unless you know this beast’s story already."
+ac: "19"
+pd: "19"
+md: "14"
+hp: "130"
+```
 
