@@ -9,7 +9,6 @@ updated: 2023-05-18
 ---
 
 ## Azer
-**Source**::
 
 ### Combat
 
