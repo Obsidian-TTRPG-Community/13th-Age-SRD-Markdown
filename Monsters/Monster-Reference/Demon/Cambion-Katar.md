@@ -1,6 +1,6 @@
 ---
 aliases: [Cambion Katar]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 6
@@ -9,7 +9,7 @@ role: wrecker
 strength: normal
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/wrecker"]
 type: demon
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

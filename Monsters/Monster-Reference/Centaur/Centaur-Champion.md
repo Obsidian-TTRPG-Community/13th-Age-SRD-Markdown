@@ -1,6 +1,6 @@
 ---
 aliases: [Centaur Champion]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 6
@@ -9,7 +9,7 @@ role: leader
 strength: 2×
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/leader"]
 type: humanoid
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

@@ -9,7 +9,7 @@ role: wrecker
 strength: large
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/wrecker"]
 type: demon
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

@@ -1,6 +1,6 @@
 ---
 aliases: [Barbed Devil (Hamatula)]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 10
@@ -9,7 +9,7 @@ role: caster
 strength: normal
 tags: ["13A/Bestiary/devil", "13A/Monsters/Type/caster"]
 type: devil
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

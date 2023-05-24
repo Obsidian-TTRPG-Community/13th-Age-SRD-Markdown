@@ -1,6 +1,6 @@
 ---
 aliases: [Chuulish Swarm]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 6
@@ -9,7 +9,7 @@ role: troop
 strength: normal
 tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/troop"]
 type: aberration
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

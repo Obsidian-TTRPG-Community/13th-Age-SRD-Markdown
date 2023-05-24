@@ -1,22 +1,21 @@
 ---
-aliases: Azer
+aliases: [Azer]
 created: 2023-05-18
 description: 
 image: 
 publish: 
 tags: [13A/Bestiary/Azer]
-updated: 2023-05-18
+updated: 2023-05-24
 ---
 
 ## Azer
 
 ### Combat
 
-Each time an attack hits an azer during the battle, the lava pool becomes more agitated. After every three attacks that hit any azers in the battle, the pool makes a _lava shot_ attack as a free action. The pool is full of molten rock but not actually a monster, so it can’t be killed normally. There might be other ways to cool it down though. Anyone who ends up in the lava takes `dice: 4d8` fire damage per round until they leave the pool.
+Each time an attack hits an azer during the battle, the lava pool becomes more agitated. After every three attacks that hit any azers in the battle, the pool makes a *lava shot* attack as a free action. The pool is full of molten rock but not actually a monster, so it can’t be killed normally. There might be other ways to cool it down though. Anyone who ends up in the lava takes `dice: 4d8` fire damage per round until they leave the pool.
 
 **Lava shot +9 vs. PD (one random nearby enemy of the azers)** — 10 fire damage, and 10 ongoing fire damage  
- _Miss:_ 5 fire damage, and 5 ongoing fire damage.
-
+ *Miss:* 5 fire damage, and 5 ongoing fire damage.
 
 ### Background
 

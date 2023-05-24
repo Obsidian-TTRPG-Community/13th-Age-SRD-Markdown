@@ -9,7 +9,7 @@ role: spoiler
 strength: large
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/spoiler"]
 type: demon
-updated: 2023-05-23
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases: []
 created: 2023-05-23
 description: 
 image: 
 publish: 
-tags: 
-updated: 2023-05-23
+tags: []
+updated: 2023-05-24
 ---
 
 ## Devil
@@ -20,7 +20,7 @@ Although devils vary between campaigns, they need to retain certain key elements
 -   Are clearly distinguishable from demons.
 -   Have horns.
 
-Devils have a unique ability called _devil’s dues_. Player characters that attack a devil don’t automatically get to use the escalation die. If you want to add the escalation die to your attack, you have to decide before rolling the attack to give the devil its due. Each type of devil (except for those with the weakling ability) will specify what it gets when you give it its due. Note that an attack that targets more than one devil would require multiple devil’s due decisions and trade-offs.
+Devils have a unique ability called *devil’s dues*. Player characters that attack a devil don’t automatically get to use the escalation die. If you want to add the escalation die to your attack, you have to decide before rolling the attack to give the devil its due. Each type of devil (except for those with the weakling ability) will specify what it gets when you give it its due. Note that an attack that targets more than one devil would require multiple devil’s due decisions and trade-offs.
 
 Devils have other special abilities that can be picked randomly or purposely. Choose 0 to 2 abilities per devil. Some abilities may be conditional. For example, a devil may only get a special ability while a boss devil is commanding them.
 

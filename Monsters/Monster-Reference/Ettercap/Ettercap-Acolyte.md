@@ -1,6 +1,6 @@
 ---
 aliases: [Ettercap Acolyte]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 1
@@ -9,7 +9,7 @@ role: mook
 strength: normal
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/mook"]
 type: humanoid
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

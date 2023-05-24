@@ -1,6 +1,6 @@
 ---
 aliases: [Dire Wolf]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 3
@@ -9,7 +9,7 @@ role: troop
 strength: large
 tags: ["13A/Bestiary/beast", "13A/Monsters/Type/troop"]
 type: beast
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

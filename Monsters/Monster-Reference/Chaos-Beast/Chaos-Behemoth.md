@@ -1,6 +1,6 @@
 ---
 aliases: [Chaos Behemoth]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 4
@@ -9,7 +9,7 @@ role: spoiler
 strength: huge
 tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/spoiler"]
 type: aberration
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

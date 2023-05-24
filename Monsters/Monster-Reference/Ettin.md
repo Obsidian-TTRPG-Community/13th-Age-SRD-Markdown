@@ -1,6 +1,6 @@
 ---
 aliases: [Ettin]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 5
@@ -9,7 +9,7 @@ role: troop
 strength: large
 tags: ["13A/Bestiary/giant", "13A/Monsters/Type/troop"]
 type: giant
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

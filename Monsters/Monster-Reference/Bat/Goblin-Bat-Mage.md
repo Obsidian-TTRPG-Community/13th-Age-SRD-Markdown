@@ -1,6 +1,6 @@
 ---
 aliases: [Goblin Bat Mage]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 3
@@ -9,7 +9,7 @@ role: spoiler
 strength: normal
 tags: ["13A/Bestiary/beast", "13A/Bestiary/humanoid", "13A/Monsters/Type/spoiler"]
 type: beast
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

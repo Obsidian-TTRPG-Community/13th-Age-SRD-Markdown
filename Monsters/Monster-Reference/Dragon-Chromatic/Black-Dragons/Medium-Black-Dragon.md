@@ -1,6 +1,6 @@
 ---
 aliases: [Medium Black Dragon]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 3
@@ -9,7 +9,7 @@ role: wrecker
 strength: normal
 tags: ["13A/Bestiary/dragon", "13A/Monsters/Type/wrecker"]
 type: dragon
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

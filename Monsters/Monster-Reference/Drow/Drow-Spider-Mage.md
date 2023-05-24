@@ -1,6 +1,6 @@
 ---
 aliases: [Drow Spider Mage]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 3
@@ -9,7 +9,7 @@ role: caster
 strength: normal
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/caster"]
 type: humanoid
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

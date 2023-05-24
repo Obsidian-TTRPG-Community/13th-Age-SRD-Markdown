@@ -1,6 +1,6 @@
 ---
 aliases: [Smoke Minions]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 12
@@ -9,7 +9,7 @@ role: mook
 strength: normal
 tags: ["13A/Bestiary/construct", "13A/Monsters/Type/mook"]
 type: construct
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

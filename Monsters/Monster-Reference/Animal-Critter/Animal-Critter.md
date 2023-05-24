@@ -5,7 +5,7 @@ description:
 image: 
 publish: 
 tags: [13A/Monsters/Rules/Animal-Critter]
-updated: 2023-05-13
+updated: 2023-05-24
 ---
 
 ## Animal/Critter
@@ -34,6 +34,7 @@ All bats have the following abilities:
 - [Dire-Tiger](./Dire-Tiger.md)
 - [Dire-Wolf](./Dire-Wolf.md)
 - [Giant Scorpian](./Giant%20Scorpian.md)
+- [Giant-Ant](./Giant-Ant.md)
 - [Giant-Praying-Mantis](./Giant-Praying-Mantis.md)
 - [Giant-Web-Spider](./Giant-Web-Spider.md)
 - [Hunting-Spider](./Hunting-Spider.md)

@@ -1,6 +1,6 @@
 ---
 aliases: [Medium Brass Dragon]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 2
@@ -9,7 +9,7 @@ role: troop
 strength: normal
 tags: ["13A/Bestiary/dragon", "13A/Monsters/Type/troop"]
 type: dragon
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

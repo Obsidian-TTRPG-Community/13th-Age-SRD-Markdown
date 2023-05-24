@@ -1,11 +1,11 @@
 ---
-aliases: Bat
+aliases: [Bat]
 created: 2023-05-23
 description: 
 image: 
 publish: 
-tags: 13A/Bestiary/Bat
-updated: 2023-05-23
+tags: [13A/Bestiary/Bat]
+updated: 2023-05-24
 ---
 
 All bats have the following abilities:
@@ -14,7 +14,7 @@ All bats have the following abilities:
 -   Flight: Small bats fly quickly and turn easily. Bigger bats fly more awkwardly.
 -   Wall-crawler: A bat can climb on ceilings and walls as easily as it moves on the ground.
 
-### Map of Monsters
+## Map of Monsters
 
 %% Begin Waypoint %%
 - [Bat-Cavalry](./Bat-Cavalry.md)

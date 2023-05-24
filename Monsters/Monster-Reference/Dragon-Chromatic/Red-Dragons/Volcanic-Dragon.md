@@ -1,6 +1,6 @@
 ---
 aliases: [Volcanic Dragon (Red)]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 7
@@ -9,7 +9,7 @@ role: wrecker
 strength: large
 tags: ["13A/Bestiary/dragon", "13A/Monsters/Type/wrecker"]
 type: dragon
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

@@ -1,12 +1,13 @@
 ---
-aliases: 
+aliases: []
 created: 2023-05-23
 description: 
 image: 
 publish: 
-tags: 
-updated: 2023-05-23
+tags: []
+updated: 2023-05-24
 ---
+
 ## Devil, Fang
 
 Fang Devil is a singular river creature. 

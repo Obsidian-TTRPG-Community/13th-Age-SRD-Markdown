@@ -1,6 +1,6 @@
 ---
 aliases: [Ice Devil, Gelugon]
-created: 
+created: 2023-05-23
 description: 
 image: 
 level: 11
@@ -9,7 +9,7 @@ role: leader
 strength: normal
 tags: ["13A/Bestiary/devil", "13A/Monsters/Type/leader"]
 type: devil
-updated: 
+updated: 2023-05-24
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
