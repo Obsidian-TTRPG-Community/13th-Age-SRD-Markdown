@@ -249,6 +249,9 @@ updated: 2023-05-24
 - **[Hags](./Hags/Hags.md)**
 	- [Hag](./Hags/Hag.md)
 - **[Half-Orcs](./Half-Orcs/Half-Orcs.md)**
+	- [Half-Orc -Tribal-Champion](./Half-Orcs/Half-Orc%20-Tribal-Champion.md)
+	- [Half-Orc Commander](./Half-Orcs/Half-Orc%20Commander.md)
+	- [Half-Orc Legionnaire](./Half-Orcs/Half-Orc%20Legionnaire.md)
 - **Zombie**
 - **Zorigami**
 	- [Apex-Zorigami](./Zorigami/Apex-Zorigami.md)
