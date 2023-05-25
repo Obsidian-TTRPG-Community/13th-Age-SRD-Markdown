@@ -12,4 +12,4 @@ strength: normal
 
 See [Fire Bat](../Bat/Fire-Bat.md) below.
 
-![Fire Bat](../Bat/Fire%20Bat.md)
+![Fire Bat](../Animal%20Critter/Fire%20Bat.md)

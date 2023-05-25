@@ -27,17 +27,24 @@ All bats have the following abilities:
 ## Map of Content
 
 %% Begin Waypoint %%
+- [Bat Cavalry](./Bat%20Cavalry.md)
 - [Bear](./Bear.md)
+- [Dire Bat](./Dire%20Bat.md)
 - [Dire Bear](./Dire%20Bear.md)
 - [Dire Boar](./Dire%20Boar.md)
 - [Dire Rat](./Dire%20Rat.md)
 - [Dire Tiger](./Dire%20Tiger.md)
 - [Dire Wolf](./Dire%20Wolf.md)
+- [Fire Bat](./Fire%20Bat.md)
 - [Giant Ant](./Giant%20Ant.md)
 - [Giant Praying Mantis](./Giant%20Praying%20Mantis.md)
 - [Giant Scorpian](./Giant%20Scorpian.md)
 - [Giant Web Spider](./Giant%20Web%20Spider.md)
+- [Goblin Bat Mage](./Goblin%20Bat%20Mage.md)
 - [Hunting Spider](./Hunting%20Spider.md)
+- [Swarm of Bats](./Swarm%20of%20Bats.md)
+- [Thunder Bat](./Thunder%20Bat.md)
 - [Wolf](./Wolf.md)
+- [Wraith Bat](./Wraith%20Bat.md)
 
 %% End Waypoint %%

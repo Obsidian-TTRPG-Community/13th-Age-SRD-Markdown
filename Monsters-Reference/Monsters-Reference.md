@@ -44,7 +44,6 @@ updated: 2023-05-24
 	- **[Azer Beast](./Beast/Azer%20Beast/Azer%20Beast.md)**
 		- [Azer Fire Bat](./Beast/Azer%20Beast/Azer%20Fire%20Bat.md)
 	- [Basilisk](./Beast/Basilisk.md)
-	- **[Bat](./Beast/Bat/Bat.md)**
 	- **[Bulette](./Beast/Bulette/Bulette.md)**
 		- [Deep Bulette](./Beast/Bulette/Deep%20Bulette.md)
 		- [Green Bulette](./Beast/Bulette/Green%20Bulette.md)
