@@ -50,6 +50,7 @@ updated: 2023-05-24
 		- [Lumberland Dirt Fisher](./Beast/Bulette/Lumberland%20Dirt%20Fisher.md)
 		- [Ravenous Bumoorah](./Beast/Bulette/Ravenous%20Bumoorah.md)
 	- **[Chimera](./Beast/Chimera/Chimera.md)**
+		- [Iconic Chimera](./Beast/Chimera/Iconic%20Chimera.md)
 	- **[Couatls](./Beast/Couatls/Couatls.md)**
 		- [Couatl](./Beast/Couatls/Couatl.md)
 		- [Elder Couatl](./Beast/Couatls/Elder%20Couatl.md)
