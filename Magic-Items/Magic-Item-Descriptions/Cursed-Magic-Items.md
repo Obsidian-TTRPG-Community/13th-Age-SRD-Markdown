@@ -4,7 +4,7 @@ created: 2023-05-18
 description: 
 image: 
 publish: 
-tags: 13A-Items/Magic/Cursed
+tags: 13A/Items/Magic/Cursed
 updated: 2023-05-18
 ---
 
