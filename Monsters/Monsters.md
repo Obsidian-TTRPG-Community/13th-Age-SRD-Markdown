@@ -28,17 +28,8 @@ You can use the monsters included in the *13th* *Age* Archmage Engine, or you ca
 	- [Strike-Damage](./Monster-Creation/Strike-Damage.md)
 - [Monster-Key](./Monster-Key.md)
 - [Monster-List](./Monster-List.md)
-- **Monster-Reference**
-	- **[Animal-Critter](./Monster-Reference/Animal-Critter/Animal-Critter.md)**
-	- [Ankheg](./Monster-Reference/Ankheg.md)
-	- **[Azer](./Monster-Reference/Azer/Azer.md)**
-		- [Azer Soldier](./Monster-Reference/Azer/Azer%20Soldier.md)
-		- [Fire Bat](./Monster-Reference/Azer/Fire%20Bat.md)
-		- [Magma Brute](./Monster-Reference/Azer/Magma%20Brute.md)
 - **Monster-Rules**
-	- [Dire-Animals](./Monster-Rules/Dire-Animals.md)
-	- [Group-Abilities](./Monster-Rules/Group-Abilities.md)
-	- [Large-and-Huge-Monsters](./Monster-Rules/Large-and-Huge-Monsters.md)
+	- [Dire-[Animal-Critter](../Monsters-Reference/Animal%20Critter/Animal-Critter.md)er-Rul[Ankheg](../Monsters-Reference/Beast/Ankheg.md)ge-Mon[Azer Humanoid](../Monsters-Reference/Azer/Azer%20Humanoid.md)nsters.md)
 	- [Leveling-Up](./Monster-Rules/Leveling-Up.md)
 	- [Monster-Abilities](./Monster-Rules/Monster-Abilities.md)
 	- [Mooks](./Monster-Rules/Mooks.md)
