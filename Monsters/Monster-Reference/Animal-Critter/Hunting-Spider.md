@@ -1,54 +1,40 @@
 ---
-ac: 17
 aliases: [Hunting Spider]
-created: 2023-05-12
+created: 
 description: 
-hp: 34
 image: 
 level: 2
-modifier: 6
 publish: 
-tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Wrecker]
-updated: 2023-05-13
+role: wrecker
+strength: normal
+tags: ["13A/Bestiary/beast", "13A/Monsters/Type/wrecker"]
+type: beast
+updated: 
 ---
+```statblock
+layout: Basic 13th Age Monster Layout
+columns: 1
+name: "Hunting Spider"
+size: "normal"
+level: "2"
+levelOrdinal: "2nd"
+role: "wrecker"
+type: "beast"
+initiative: "6"
+actions:
+    - name: "Bite +6 vs. AC"
+      desc: "8 damage"
+      traits:
+          - name: "Natural 16+"
+            desc: "The target also takes 1d8 ongoing poison damage."
+traits:
+    - name: "Scuttle"
+      desc: "A hunting spider can turn its own failed disengage check into a success by taking 1d4 damage."
+    - name: "Wall-crawler"
+      desc: "A hunting spider can climb on ceilings and walls as easily as it moves on the ground."
+ac: "17"
+pd: "14"
+md: "11"
+hp: "34"
+```
 
-## Hunting Spider
-
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 72%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Normal</strong></p>
-<p><strong>2<sup>nd</sup> level</strong></p>
-<p><strong>Wrecker</strong></p>
-<p><strong>Beast</strong></p></td>
-<td><p>Initiative: +6</p>
-<p><strong>Bite +6 vs. AC—</strong>8 damage</p>
-<p><em>Natural 16+:</em> The target also takes 1d8 ongoing poison
-damage.</p>
-<p><em>Scuttle:</em> A hunting spider can turn its own failed disengage
-check into a success by taking 1d4 damage.</p>
-<p><em>Wall-crawler:</em> A hunting spider can climb on ceilings and
-walls as easily as it moves on the ground.</p></td>
-<td><p><strong>AC</strong></p>
-<p><strong>PD</strong></p>
-<p><strong>MD</strong></p>
-<p><strong>HP</strong></p></td>
-<td><p><strong>17</strong></p>
-<p><strong>14</strong></p>
-<p><strong>11</strong></p>
-<p><strong>34</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>

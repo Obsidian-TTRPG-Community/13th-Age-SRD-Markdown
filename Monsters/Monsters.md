@@ -28,13 +28,7 @@ You can use the monsters included in the *13th* *Age* Archmage Engine, or you ca
 	- [Strike-Damage](./Monster-Creation/Strike-Damage.md)
 - [Monster-Key](./Monster-Key.md)
 - [Monster-List](./Monster-List.md)
-- **Monster-Reference**
-	- **[Animal-Critter](./Monster-Reference/Animal-Critter/Animal-Critter.md)**
-	- [Ankheg](./Monster-Reference/Ankheg.md)
-	- **[Azer](./Monster-Reference/Azer/Azer.md)**
-		- [Azer Soldier](./Monster-Reference/Azer/Azer%20Soldier.md)
-		- [Fire Bat](./Monster-Reference/Azer/Fire%20Bat.md)
-		- [Magma Brute](./Monster-Reference/Azer/Magma%20Brute.md)
+- **[Monster-Reference](./Monster-Reference/Monster-Reference.md)**
 - **Monster-Rules**
 	- [Dire-Animals](./Monster-Rules/Dire-Animals.md)
 	- [Group-Abilities](./Monster-Rules/Group-Abilities.md)

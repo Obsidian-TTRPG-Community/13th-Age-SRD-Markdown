@@ -25,4 +25,3 @@ This plugin turns dice syntax inside Obsidian into rolled results.
 **Example**: d10 `dice: d10` can render into `d10 (1d10 -> [3] -> 3)`
 - The vault has been set up to show the results of any d20 if Dice  
 Roller is installed. 
-

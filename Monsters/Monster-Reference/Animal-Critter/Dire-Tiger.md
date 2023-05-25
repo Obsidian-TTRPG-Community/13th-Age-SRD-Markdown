@@ -1,61 +1,42 @@
 ---
-ac: 20
 aliases: [Dire Tiger]
-created: 2023-05-12
+created: 
 description: 
-hp: 160
 image: 
 level: 6
-modifier: 9
 publish: 
-tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Troop]
-updated: 2023-05-13
+role: troop
+strength: large
+tags: ["13A/Bestiary/beast", "13A/Monsters/Type/troop"]
+type: beast
+updated: 
 ---
-
-## Dire Tiger
-
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 71%" />
-<col style="width: 5%" />
-<col style="width: 6%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Large</p>
-<p>6<sup>th</sup> level</p>
-<p>Troop</p>
-<p>Beast</p></td>
-<td><p>Initiative: +9</p>
-<p><strong>Crushing jaws and shredding claws +11 vs. AC (2
-attacks)</strong>—17 damage</p>
-<p><em>[Special trigger]</em> <strong>Pounce +13 vs. AC</strong>—38
-damage, and the target is hampered while it’s engaged with the tiger</p>
-<p><em>Pouncing opportunity:</em> When an enemy moves to engage the dire
-tiger while it’s unengaged, it can meet that enemy halfway and make a
-<em>pounce</em> attack as an interrupt action before the target’s
-attack.</p>
-<p><em>Springing attack:</em> If the dire tiger is unengaged and moves
-to engage an enemy (with a springing leap), it can make a
-<em>pounce</em> attack as a standard action.</p>
-<p><em>One random dire feature:</em> Use the dire features
-table.</p></td>
-<td><p><strong>AC</strong></p>
-<p><strong>PD</strong></p>
-<p><strong>MD</strong></p>
-<p><strong>HP</strong></p></td>
-<td><p>20</p>
-<p>19</p>
-<p>15</p>
-<p>160</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```statblock
+layout: Basic 13th Age Monster Layout
+columns: 1
+name: "Dire Tiger"
+size: "large"
+level: "6"
+levelOrdinal: "6th"
+role: "troop"
+type: "beast"
+initiative: "9"
+actions:
+    - name: "Crushing jaws and shredding claws +11 vs. AC (2 attacks)"
+      desc: "17 damage"
+traits:
+    - name: "Pouncing opportunity"
+      desc: "When an enemy moves to engage the dire tiger while it’s unengaged, it can meet that enemy halfway and make a pounce attack as an interrupt action before the target’s attack."
+    - name: "Springing attack"
+      desc: "If the dire tiger is unengaged and moves to engage an enemy (with a springing leap), it can make a pounce attack as a standard action."
+    - name: "One random dire feature"
+      desc: "Use the dire features table."
+triggered_actions:
+    - name: "Pounce +13 vs. AC"
+      desc: "38 damage, and the target is hampered while it’s engaged with the tiger"
+ac: "20"
+pd: "19"
+md: "15"
+hp: "160"
+```
 

@@ -1,0 +1,50 @@
+---
+aliases: [Big Air Elemental]
+created: 
+description: 
+image: 
+level: 7
+publish: 
+role: wrecker
+strength: normal
+tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/wrecker"]
+type: elemental
+updated: 
+---
+```statblock
+layout: Basic 13th Age Monster Layout
+columns: 1
+name: "Big Air Elemental"
+size: "normal"
+level: "7"
+levelOrdinal: "7th"
+role: "wrecker"
+type: "elemental"
+initiative: "14"
+actions:
+    - name: "Slam +13 vs. AC"
+      desc: "20 damage"
+    - name: "C: Swirling winds +13 vs. PD (1d3 random conscious nearby enemies)"
+      desc: "22 damage"
+      traits:
+          - name: "Natural even hit"
+            desc: "The target pops free from the elemental."
+traits:
+    - name: "Flight"
+      desc: "It’s quick and direct."
+    - name: "Resist non-spell damage 16+"
+      desc: "When a non-spell attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage."
+    - name: "Whirlwind transformation"
+      desc: "Roll a d8 at the start of each of the air elemental’s turns. If you roll less than or equal to the escalation die, it shifts into whirlwind form until the end of the battle. While in this form it gains the following improved attack (and you stop rolling whirlwind transformation checks):"
+triggered_actions:
+    - name: "Elemental whirlwind +13 vs. PD (each enemy engaged with it and one nearby enemy)"
+      desc: "22 damage"
+      traits:
+          - name: "Miss"
+            desc: "Half damage."
+ac: "22"
+pd: "21"
+md: "17"
+hp: "88"
+```
+

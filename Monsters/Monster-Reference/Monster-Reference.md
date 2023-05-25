@@ -14,10 +14,116 @@ updated: 2023-05-07
 - **[Animal-Critter](./Animal-Critter/Animal-Critter.md)**
 - [Ankheg](./Ankheg.md)
 - **[Azer](./Azer/Azer.md)**
-	- [Azer Soldier](./Azer/Azer%20Soldier.md)
-	- [Fire Bat](./Azer/Fire%20Bat.md)
-	- [Magma Brute](./Azer/Magma%20Brute.md)
+	- [Azer-Fire-Bat](./Azer/Azer-Fire-Bat.md)
+	- [Azer-Soldier](./Azer/Azer-Soldier.md)
+	- [Magma-Brute](./Azer/Magma-Brute.md)
 - [Basilisk](./Basilisk.md)
+- **[Bat](./Bat/Bat.md)**
 - **[Battle-Shade](./Battle-Shade/Battle-Shade.md)**
+- **[Bulette](./Bulette/Bulette.md)**
+	- [Deep-Bulette](./Bulette/Deep-Bulette.md)
+	- [Green-Bulette](./Bulette/Green-Bulette.md)
+	- [Lumberland-Dirt-Fisher](./Bulette/Lumberland-Dirt-Fisher.md)
+	- [Ravenous-Bumoorah](./Bulette/Ravenous-Bumoorah.md)
+- **Centaur**
+	- [Centaur-Champion](./Centaur/Centaur-Champion.md)
+	- [Centaur-Lancer](./Centaur/Centaur-Lancer.md)
+	- [Centaur-Raider](./Centaur/Centaur-Raider.md)
+	- [Centaur-Ranger](./Centaur/Centaur-Ranger.md)
+- **[Chaos-Beast](./Chaos-Beast/Chaos-Beast.md)**
+	- [Chaos-Behemoth](./Chaos-Beast/Chaos-Behemoth.md)
+	- [Chaos-Brute](./Chaos-Beast/Chaos-Brute.md)
+	- [Chaos-Glorp](./Chaos-Beast/Chaos-Glorp.md)
+- **[Chuul](./Chuul/Chuul.md)**
+	- [Chuulish-Slave](./Chuul/Chuulish-Slave.md)
+	- [Chuulish-Swarm](./Chuul/Chuulish-Swarm.md)
+	- [Massive-Mutant-Chuul](./Chuul/Massive-Mutant-Chuul.md)
+- **[Couatls](./Couatls/Couatls.md)**
+	- [Couatl](./Couatls/Couatl.md)
+	- [Elder-Couatl](./Couatls/Elder-Couatl.md)
+- **[Demon](./Demon/Demon.md)**
+	- [Balor](./Demon/Balor.md)
+	- [Bat-Demon](./Demon/Bat-Demon.md)
+	- [Cambion-Dirk](./Demon/Cambion-Dirk.md)
+	- [Cambion-Hellblade](./Demon/Cambion-Hellblade.md)
+	- [Cambion-Katar](./Demon/Cambion-Katar.md)
+	- [Cambion-Sickle](./Demon/Cambion-Sickle.md)
+	- [Corpse-Dybbuk](./Demon/Corpse-Dybbuk.md)
+	- [Despoiler-Mage](./Demon/Despoiler-Mage.md)
+	- [Despoiler](./Demon/Despoiler.md)
+	- [Dretch](./Demon/Dretch.md)
+	- [Ethereal-Dybbuk](./Demon/Ethereal-Dybbuk.md)
+	- [Frenzy-Demon](./Demon/Frenzy-Demon.md)
+	- [Giant-Vrock](./Demon/Giant-Vrock.md)
+	- [Hooked-Demon](./Demon/Hooked-Demon.md)
+	- [Imp](./Demon/Imp.md)
+	- [Marilith](./Demon/Marilith.md)
+	- [Nalfeshnee](./Demon/Nalfeshnee.md)
+	- [Parasitic-Dybbuk](./Demon/Parasitic-Dybbuk.md)
+	- [Vrock](./Demon/Vrock.md)
+- **[Derro](./Derro/Derro.md)**
+	- [Derro-Maniac](./Derro/Derro-Maniac.md)
+	- [Derro-Sage](./Derro/Derro-Sage.md)
+- **[Devil](./Devil/Devil.md)**
+	- [Barbed-Devil](./Devil/Barbed-Devil.md)
+	- [Bearded-Devil](./Devil/Bearded-Devil.md)
+	- [Bone-Devil](./Devil/Bone-Devil.md)
+	- [Fury-Devil](./Devil/Fury-Devil.md)
+	- [Hell-Imp](./Devil/Hell-Imp.md)
+	- [Hooded-Devil](./Devil/Hooded-Devil.md)
+	- [Horned-Devil](./Devil/Horned-Devil.md)
+	- [Ice-Devil](./Devil/Ice-Devil.md)
+	- [Lemure](./Devil/Lemure.md)
+	- [Pit-Fiend](./Devil/Pit-Fiend.md)
+	- [Skin-Devil](./Devil/Skin-Devil.md)
+	- [Smoke-Devil](./Devil/Smoke-Devil.md)
+- **[Devil-Fang](./Devil-Fang/Devil-Fang.md)**
+	- [Fang-Devil](./Devil-Fang/Fang-Devil.md)
+	- [River-Devil-Minion](./Devil-Fang/River-Devil-Minion.md)
+	- [River-Devil](./Devil-Fang/River-Devil.md)
+	- [The-Final-Devil](./Devil-Fang/The-Final-Devil.md)
+- **[Dragon-Chromatic](./Dragon-Chromatic/Dragon-Chromatic.md)**
+	- **Black-Dragons**
+		- [Catacomb-Dragon](./Dragon-Chromatic/Black-Dragons/Catacomb-Dragon.md)
+		- [Empyrean-Dragon](./Dragon-Chromatic/Black-Dragons/Empyrean-Dragon.md)
+		- [Gorge-Dragon](./Dragon-Chromatic/Black-Dragons/Gorge-Dragon.md)
+		- [Huge-Black-Dragon](./Dragon-Chromatic/Black-Dragons/Huge-Black-Dragon.md)
+		- [Large-Black-Dragon](./Dragon-Chromatic/Black-Dragons/Large-Black-Dragon.md)
+		- [Medium-Black-Dragon](./Dragon-Chromatic/Black-Dragons/Medium-Black-Dragon.md)
+		- [Void-Dragon](./Dragon-Chromatic/Black-Dragons/Void-Dragon.md)
+	- **Blue-Dragons**
+		- [Huge-Blue-Dragon](./Dragon-Chromatic/Blue-Dragons/Huge-Blue-Dragon.md)
+		- [Large-Blue-Dragon](./Dragon-Chromatic/Blue-Dragons/Large-Blue-Dragon.md)
+		- [Medium-Blue-Dragon](./Dragon-Chromatic/Blue-Dragons/Medium-Blue-Dragon.md)
+	- **Green-Dragons**
+		- [Huge-Green-Dragon](./Dragon-Chromatic/Green-Dragons/Huge-Green-Dragon.md)
+		- [Large-Green-Dragon](./Dragon-Chromatic/Green-Dragons/Large-Green-Dragon.md)
+		- [Medium-Green-Dragon](./Dragon-Chromatic/Green-Dragons/Medium-Green-Dragon.md)
+	- **Red-Dragons**
+		- [Flamewreathed-Dragon](./Dragon-Chromatic/Red-Dragons/Flamewreathed-Dragon.md)
+		- [Greathoard-Elder](./Dragon-Chromatic/Red-Dragons/Greathoard-Elder.md)
+		- [Hoard-Spirit](./Dragon-Chromatic/Red-Dragons/Hoard-Spirit.md)
+		- [Hoardsong-Dragon](./Dragon-Chromatic/Red-Dragons/Hoardsong-Dragon.md)
+		- [Huge-Red-Dragon](./Dragon-Chromatic/Red-Dragons/Huge-Red-Dragon.md)
+		- [Large-Red-Dragon](./Dragon-Chromatic/Red-Dragons/Large-Red-Dragon.md)
+		- [Medium-Red-Dragon](./Dragon-Chromatic/Red-Dragons/Medium-Red-Dragon.md)
+		- [Volcanic-Dragon](./Dragon-Chromatic/Red-Dragons/Volcanic-Dragon.md)
+	- [Smoke-Minions](./Dragon-Chromatic/Smoke-Minions.md)
+	- **White-Dragons**
+		- [Blizzard-Dragon](./Dragon-Chromatic/White-Dragons/Blizzard-Dragon.md)
+		- [Cenotaph-Dragon](./Dragon-Chromatic/White-Dragons/Cenotaph-Dragon.md)
+		- [Huge-White-Dragon](./Dragon-Chromatic/White-Dragons/Huge-White-Dragon.md)
+		- [Large-White-Dragon](./Dragon-Chromatic/White-Dragons/Large-White-Dragon.md)
+		- [Mausoleum-Dragon](./Dragon-Chromatic/White-Dragons/Mausoleum-Dragon.md)
+		- [Medium-White-Dragon](./Dragon-Chromatic/White-Dragons/Medium-White-Dragon.md)
+		- [Moon-Dragon](./Dragon-Chromatic/White-Dragons/Moon-Dragon.md)
+		- [White-Dragon-Hatchling](./Dragon-Chromatic/White-Dragons/White-Dragon-Hatchling.md)
+- **Dragon-Other**
+	- [Shadow-Dragon](./Dragon-Other/Shadow-Dragon.md)
+	- [Shadow-Thief](./Dragon-Other/Shadow-Thief.md)
+- **Zorigami**
+	- [Apex-Zorigami](./Zorigami/Apex-Zorigami.md)
+	- [Dawn-Zorigami](./Zorigami/Dawn-Zorigami.md)
+	- [Dusk-Zorigami](./Zorigami/Dusk-Zorigami.md)
 
 %% End Waypoint %%
