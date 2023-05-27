@@ -4,8 +4,9 @@ created: 2023-05-01
 description: 
 image: 
 publish: 
+statblock: inline
 tags: [13A/Monsters/Reference]
-updated: 2023-05-24
+updated: 2023-05-27
 ---
 
 ## Map of Monsters
@@ -37,7 +38,6 @@ updated: 2023-05-24
 		- [Soul Flenser](./Aberration/Soul%20Flensers/Soul%20Flenser.md)
 		- [The Flenses](./Aberration/Soul%20Flensers/The%20Flenses.md)
 	- [Whispering Prophet](./Aberration/Whispering%20Prophet.md)
-- **[Battle Shade](./Battle%20Shade/Battle%20Shade.md)**
 - **Beast**
 	- **[Animal Critter](./Beast/Animal%20Critter/Animal%20Critter.md)**
 	- [Ankheg](./Beast/Ankheg.md)
@@ -56,6 +56,13 @@ updated: 2023-05-24
 		- [Elder Couatl](./Beast/Couatls/Elder%20Couatl.md)
 	- **Drow Beast**
 		- [Weaver Swarm](./Beast/Drow%20Beast/Weaver%20Swarm.md)
+	- **[Elemental Beasts](./Beast/Elemental%20Beasts/Elemental%20Beasts.md)**
+		- [Badger](./Beast/Elemental%20Beasts/Badger.md)
+		- [Giant Bird of Prey](./Beast/Elemental%20Beasts/Giant%20Bird%20of%20Prey.md)
+		- [Great Cat](./Beast/Elemental%20Beasts/Great%20Cat.md)
+		- [Rat Swarm](./Beast/Elemental%20Beasts/Rat%20Swarm.md)
+		- [Venomous Snake](./Beast/Elemental%20Beasts/Venomous%20Snake.md)
+	- [Gauntlets Beast Mascot](./Beast/Gauntlets%20Beast%20Mascot.md)
 	- **Hellbugs**
 		- [Boombug](./Beast/Hellbugs/Boombug.md)
 		- [hellwasp](./Beast/Hellbugs/hellwasp.md)
@@ -119,6 +126,13 @@ updated: 2023-05-24
 		- [Iron Golem](./Construct/Golem/Iron%20Golem.md)
 		- [Marble Golem](./Construct/Golem/Marble%20Golem.md)
 		- [Stone Golem](./Construct/Golem/Stone%20Golem.md)
+	- **The Bonded**
+		- [Bonded Arcane Archer](./Construct/The%20Bonded/Bonded%20Arcane%20Archer.md)
+		- [Bonded Hero](./Construct/The%20Bonded/Bonded%20Hero.md)
+		- [Bonded Hexknight](./Construct/The%20Bonded/Bonded%20Hexknight.md)
+		- [Bonded Prophet](./Construct/The%20Bonded/Bonded%20Prophet.md)
+		- [Bonded Veil](./Construct/The%20Bonded/Bonded%20Veil.md)
+		- [Bonded Warlock](./Construct/The%20Bonded/Bonded%20Warlock.md)
 	- **[Warbanner Constructs](./Construct/Warbanner%20Constructs/Warbanner%20Constructs.md)**
 		- [Brutes Warbanner](./Construct/Warbanner%20Constructs/Brutes%20Warbanner.md)
 		- [Deathly Warbanner](./Construct/Warbanner%20Constructs/Deathly%20Warbanner.md)
@@ -132,21 +146,35 @@ updated: 2023-05-24
 - **[Demon](./Demon/Demon.md)**
 	- [Balor](./Demon/Balor.md)
 	- [Bat Demon](./Demon/Bat%20Demon.md)
+	- **Bone Imp**
+		- [Bone Imp Archer](./Demon/Bone%20Imp/Bone%20Imp%20Archer.md)
+		- [Bone Imp Mage-Eater](./Demon/Bone%20Imp/Bone%20Imp%20Mage-Eater.md)
+		- [Bone Imp Skullbiter](./Demon/Bone%20Imp/Bone%20Imp%20Skullbiter.md)
+		- [Bone Imp Tormentor](./Demon/Bone%20Imp/Bone%20Imp%20Tormentor.md)
 	- [Cambion Dirk](./Demon/Cambion%20Dirk.md)
 	- [Cambion Hellblade](./Demon/Cambion%20Hellblade.md)
 	- [Cambion Katar](./Demon/Cambion%20Katar.md)
 	- [Cambion Sickle](./Demon/Cambion%20Sickle.md)
 	- [Corpse Dybbuk](./Demon/Corpse%20Dybbuk.md)
+	- **Demonic Icon Cult**
+		- [Demonic Icon Fantatic](./Demon/Demonic%20Icon%20Cult/Demonic%20Icon%20Fantatic.md)
+		- [Demonic Icon Priest](./Demon/Demonic%20Icon%20Cult/Demonic%20Icon%20Priest.md)
+		- [Demonic Icon Wiard](./Demon/Demonic%20Icon%20Cult/Demonic%20Icon%20Wiard.md)
 	- [Despoiler Mage](./Demon/Despoiler%20Mage.md)
 	- [Despoiler](./Demon/Despoiler.md)
 	- [Dretch](./Demon/Dretch.md)
 	- [Ethereal Dybbuk](./Demon/Ethereal%20Dybbuk.md)
 	- [Frenzy Demon](./Demon/Frenzy%20Demon.md)
+	- [Gauntlets Demon Mascot](./Demon/Gauntlets%20Demon%20Mascot.md)
 	- [Giant Vrock](./Demon/Giant%20Vrock.md)
 	- [Glabrezou](./Demon/Glabrezou.md)
 	- [Hedzou](./Demon/Hedzou.md)
 	- [Hooked Demon](./Demon/Hooked%20Demon.md)
 	- [Imp](./Demon/Imp.md)
+	- **Laughing Demons**
+		- [Cackling Demon](./Demon/Laughing%20Demons/Cackling%20Demon.md)
+		- [Giggling Demon](./Demon/Laughing%20Demons/Giggling%20Demon.md)
+		- [Laughing Demon](./Demon/Laughing%20Demons/Laughing%20Demon.md)
 	- [Marilith](./Demon/Marilith.md)
 	- [Nalfeshnee](./Demon/Nalfeshnee.md)
 	- [Parasitic Dybbuk](./Demon/Parasitic%20Dybbuk.md)
@@ -233,6 +261,8 @@ updated: 2023-05-24
 	- **Other**
 		- [Shadow Dragon](./Dragon/Other/Shadow%20Dragon.md)
 		- [Shadow Thief](./Dragon/Other/Shadow%20Thief.md)
+	- **[Purple Dragons](./Dragon/Purple%20Dragons/Purple%20Dragons.md)**
+		- [The Purple Dragon](./Dragon/Purple%20Dragons/The%20Purple%20Dragon.md)
 - **Elemental**
 	- [Air Elemental](./Elemental/Air%20Elemental.md)
 	- [Big Air Elemental](./Elemental/Big%20Air%20Elemental.md)
@@ -285,6 +315,13 @@ updated: 2023-05-24
 	- [Troll](./Giant/Troll.md)
 	- [Winter Beast](./Giant/Winter%20Beast.md)
 - **Humanoid**
+	- **[Briar Elves](./Humanoid/Briar%20Elves/Briar%20Elves.md)**
+		- [Briar Elf Assassin](./Humanoid/Briar%20Elves/Briar%20Elf%20Assassin.md)
+		- [Briar Elf Slayer](./Humanoid/Briar%20Elves/Briar%20Elf%20Slayer.md)
+		- [Briar Elf Sorcerer](./Humanoid/Briar%20Elves/Briar%20Elf%20Sorcerer.md)
+		- [Briar Elf Sovereign](./Humanoid/Briar%20Elves/Briar%20Elf%20Sovereign.md)
+		- [Briar Elf Stalker](./Humanoid/Briar%20Elves/Briar%20Elf%20Stalker.md)
+		- [Briar Elf Warrior](./Humanoid/Briar%20Elves/Briar%20Elf%20Warrior.md)
 	- **Centaur**
 		- [Centaur Champion](./Humanoid/Centaur/Centaur%20Champion.md)
 		- [Centaur Lancer](./Humanoid/Centaur/Centaur%20Lancer.md)
@@ -386,6 +423,13 @@ updated: 2023-05-24
 		- [Sahuagin Glow Priest](./Humanoid/Sahuagin/Sahuagin%20Glow%20Priest.md)
 		- [Sahuagin Mutant](./Humanoid/Sahuagin/Sahuagin%20Mutant.md)
 		- [Sahuagin Raider](./Humanoid/Sahuagin/Sahuagin%20Raider.md)
+	- **The Ebon Gauntlet**
+		- [Ebon Gauntlet Adjudicator](./Humanoid/The%20Ebon%20Gauntlet/Ebon%20Gauntlet%20Adjudicator.md)
+		- [Ebon Gauntlet Eye](./Humanoid/The%20Ebon%20Gauntlet/Ebon%20Gauntlet%20Eye.md)
+		- [Ebon Gauntlet Inquisitor](./Humanoid/The%20Ebon%20Gauntlet/Ebon%20Gauntlet%20Inquisitor.md)
+		- [Ebon Gauntlet Sword](./Humanoid/The%20Ebon%20Gauntlet/Ebon%20Gauntlet%20Sword.md)
+		- [Gauntlets Humanoid Mascot](./Humanoid/The%20Ebon%20Gauntlet/Gauntlets%20Humanoid%20Mascot.md)
+		- [Greater Ebon Gauntlet Sword](./Humanoid/The%20Ebon%20Gauntlet/Greater%20Ebon%20Gauntlet%20Sword.md)
 	- **The Saved**
 		- [Avenging Orb](./Humanoid/The%20Saved/Avenging%20Orb.md)
 		- [Destroying Sword](./Humanoid/The%20Saved/Destroying%20Sword.md)
@@ -417,6 +461,15 @@ updated: 2023-05-24
 		- [Fungaloid Empress](./Plant/Fungaloid/Fungaloid%20Empress.md)
 		- [Fungaloid Monarch](./Plant/Fungaloid/Fungaloid%20Monarch.md)
 		- [Sporrior](./Plant/Fungaloid/Sporrior.md)
+	- **[Plant Briar Elves](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elves.md)**
+		- [Barbed Vines](./Plant/Plant%20Briar%20Elves/Barbed%20Vines.md)
+		- [Briar Tree](./Plant/Plant%20Briar%20Elves/Briar%20Tree.md)
+		- [Plant Briar Elf Assassin](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elf%20Assassin.md)
+		- [Plant Briar Elf Slayer](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elf%20Slayer.md)
+		- [Plant Briar Elf Sorcerer](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elf%20Sorcerer.md)
+		- [Plant Briar Elf Sovereign](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elf%20Sovereign.md)
+		- [Plant Briar Elf Stalker](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elf%20Stalker.md)
+		- [Plant Briar Elf Warrior](./Plant/Plant%20Briar%20Elves/Plant%20Briar%20Elf%20Warrior.md)
 	- **[Plant Flowers of Unlife](./Plant/Plant%20Flowers%20of%20Unlife/Plant%20Flowers%20of%20Unlife.md)**
 		- [Blood Rose](./Plant/Plant%20Flowers%20of%20Unlife/Blood%20Rose.md)
 		- [Poison Dandelion](./Plant/Plant%20Flowers%20of%20Unlife/Poison%20Dandelion.md)
@@ -428,7 +481,24 @@ updated: 2023-05-24
 		- [Awakened Trees](./Plant/Treants/Awakened%20Trees.md)
 		- [Common Treant](./Plant/Treants/Common%20Treant.md)
 		- [Treant Titan](./Plant/Treants/Treant%20Titan.md)
+- **Spirit**
+	- **[Eidolon](./Spirit/Eidolon/Eidolon.md)**
+		- [Attached Eidolon](./Spirit/Eidolon/Attached%20Eidolon.md)
+		- [Eidolon in Guardian Form](./Spirit/Eidolon/Eidolon%20in%20Guardian%20Form.md)
+		- [Eidolon in Humanoid Form](./Spirit/Eidolon/Eidolon%20in%20Humanoid%20Form.md)
+		- [Eidolon in Hunting Form](./Spirit/Eidolon/Eidolon%20in%20Hunting%20Form.md)
+		- [Eidolon in War Form](./Spirit/Eidolon/Eidolon%20in%20War%20Form.md)
 - **Undead**
+	- **[Battle Shade](./Undead/Battle%20Shade/Battle%20Shade.md)**
+		- [Archer Shade](./Undead/Battle%20Shade/Archer%20Shade.md)
+		- [Blade Shade](./Undead/Battle%20Shade/Blade%20Shade.md)
+		- [Bloody Shade](./Undead/Battle%20Shade/Bloody%20Shade.md)
+		- [Broken Shade](./Undead/Battle%20Shade/Broken%20Shade.md)
+		- [Slaughter Pit Shade](./Undead/Battle%20Shade/Slaughter%20Pit%20Shade.md)
+	- **[Coin Zombies](./Undead/Coin%20Zombies/Coin%20Zombies.md)**
+		- [Coin Collector Zombie](./Undead/Coin%20Zombies/Coin%20Collector%20Zombie.md)
+		- [Coin Zombie](./Undead/Coin%20Zombies/Coin%20Zombie.md)
+		- [Jackpot Zombie](./Undead/Coin%20Zombies/Jackpot%20Zombie.md)
 	- **[Ghouls](./Undead/Ghouls/Ghouls.md)**
 		- [Ghast](./Undead/Ghouls/Ghast.md)
 		- [Ghoul Fleshripper](./Undead/Ghouls/Ghoul%20Fleshripper.md)
@@ -458,6 +528,13 @@ updated: 2023-05-24
 	- **[Specters](./Undead/Specters/Specters.md)**
 		- [Dread Specter](./Undead/Specters/Dread%20Specter.md)
 		- [Specter](./Undead/Specters/Specter.md)
+	- **[Undead Briar Elves](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elves.md)**
+		- [Undead Briar Elf Assassin](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elf%20Assassin.md)
+		- [Undead Briar Elf Slayer](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elf%20Slayer.md)
+		- [Undead Briar Elf Sorcerer](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elf%20Sorcerer.md)
+		- [Undead Briar Elf Sovereign](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elf%20Sovereign.md)
+		- [Undead Briar Elf Stalker](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elf%20Stalker.md)
+		- [Undead Briar Elf Warrior](./Undead/Undead%20Briar%20Elves/Undead%20Briar%20Elf%20Warrior.md)
 	- **[Undead Flowers of Unlife](./Undead/Undead%20Flowers%20of%20Unlife/Undead%20Flowers%20of%20Unlife.md)**
 		- [Death Blossom](./Undead/Undead%20Flowers%20of%20Unlife/Death%20Blossom.md)
 		- [Lich Flower](./Undead/Undead%20Flowers%20of%20Unlife/Lich%20Flower.md)
