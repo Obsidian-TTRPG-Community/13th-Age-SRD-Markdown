@@ -4,8 +4,9 @@ created: 2023-05-18
 description: 
 image: 
 publish: 
-tags: [13A/Bestiary/Battle-Shade]
-updated: 2023-05-24
+statblock: inline
+tags: [13A/Monsters/Rules/Battle-Shade]
+updated: 2023-05-27
 ---
 
 ## Battle Shade
