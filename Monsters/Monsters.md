@@ -30,9 +30,7 @@ You can use the monsters included in the *13th* *Age* Archmage Engine, or you ca
 - [Monster-List](./Monster-List.md)
 - **[Monster-Reference](./Monster-Reference/Monster-Reference.md)**
 - **Monster-Rules**
-	- [Dire-Animals](./Monster-Rules/Dire-Animals.md)
-	- [Group-Abilities](./Monster-Rules/Group-Abilities.md)
-	- [Large-and-Huge-Monsters](./Monster-Rules/Large-and-Huge-Monsters.md)
+	- [Dire-[Animal-Critter](../Monsters-Reference/Animal%20Critter/Animal-Critter.md)er-Rul[Ankheg](../Monsters-Reference/Beast/Ankheg.md)ge-Mon[Azer Humanoid](../Monsters-Reference/Azer/Azer%20Humanoid.md)nsters.md)
 	- [Leveling-Up](./Monster-Rules/Leveling-Up.md)
 	- [Monster-Abilities](./Monster-Rules/Monster-Abilities.md)
 	- [Mooks](./Monster-Rules/Mooks.md)
