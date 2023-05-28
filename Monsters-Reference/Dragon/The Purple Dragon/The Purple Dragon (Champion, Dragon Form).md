@@ -47,11 +47,13 @@ actions:
       traits:
           - name: Limited Use
             desc: 1/battle
+    - name: Shape-shifter supreme
+      desc: As a move action, the Purple Dragon can change from their _dragon form_ to their _[[The Purple Dragon (Champion, Human Form)|human form]]_.
 traits:
     - name: Escalator
       desc: The Purple Dragon adds the escalation die to their attacks.
     - name: Shape-shifter supreme
-      desc: The Purple Dragon can choose to be in its _human form_ or its _dragon form_. Switching forms is a move action. Though their _dragon form_ is huge, their _human form_ is regular size, and other forms are whatever size is appropriate to that form. By epic tier, the Purple Dragon can conceivably take any form, but regardless of tier their vanity limits her to forms that feature purple and magenta (purple clothes and magenta hair, purple scales and magenta wing membranes, etc.).
+      desc: The Purple Dragon can choose to be in its _[[The Purple Dragon (Champion, Human Form)|human form]]_ or its _dragon form_. Switching forms is a move action. Though their _dragon form_ is huge, their _human form_ is regular size, and other forms are whatever size is appropriate to that form. By epic tier, the Purple Dragon can conceivably take any form, but regardless of tier their vanity limits her to forms that feature purple and magenta (purple clothes and magenta hair, purple scales and magenta wing membranes, etc.).
     - name: Flight
       desc: In their _dragon form_ the __Purple Dragon__ can fly. They can also fly using magic, but prefers to not do so unless they need to fight a flying enemy.
     - name: "Intermittent breath"

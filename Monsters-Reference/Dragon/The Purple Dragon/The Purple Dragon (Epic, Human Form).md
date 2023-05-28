@@ -10,7 +10,7 @@ aliases: ["Purple Dragon", "The Purple Dragon"]
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "The Purple Dragon (Epic, Human Form)"
-size: "huge"
+size: "normal"
 level: "12"
 levelOrdinal: "12th"
 role: "caster"
@@ -40,6 +40,8 @@ actions:
       traits:
           - name: Limited Use
             desc: 1/battle
+    - name: Shape-shifter supreme
+      desc: As a move action, the Purple Dragon can change from their _human form_ to their _[[The Purple Dragon (Epic, Dragon Form)|dragon form]]_.
 traits:
     - name: Escalator
       desc: The Purple Dragon adds the escalation die to their attacks.

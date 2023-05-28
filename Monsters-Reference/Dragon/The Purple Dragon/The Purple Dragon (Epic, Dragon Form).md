@@ -47,6 +47,8 @@ actions:
       traits:
           - name: Limited Use
             desc: 1/battle
+    - name: Shape-shifter supreme
+      desc: As a move action, the Purple Dragon can change from their _dragon form_ to their _[[The Purple Dragon (Epic, Human Form)|human form]]_.
 traits:
     - name: Escalator
       desc: The Purple Dragon adds the escalation die to their attacks.
