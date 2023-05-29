@@ -26,6 +26,12 @@ updated: 2023-05-27
 		- [Hagunemnon](./Aberration/Elder%20Beast/Hagunemnon.md)
 		- [Umluppuk](./Aberration/Elder%20Beast/Umluppuk.md)
 		- [Warped Beast](./Aberration/Elder%20Beast/Warped%20Beast.md)
+	- **[Gibbering Mouthers](./Aberration/Gibbering%20Mouthers/Gibbering%20Mouthers.md)**
+		- [Atrocious Gibbering Mouther](./Aberration/Gibbering%20Mouthers/Atrocious%20Gibbering%20Mouther.md)
+		- [Gibbering Mouther](./Aberration/Gibbering%20Mouthers/Gibbering%20Mouther.md)
+	- **[Hellwarped Beast](./Aberration/Hellwarped%20Beast/Hellwarped%20Beast.md)**
+		- [Hellwarped Brute](./Aberration/Hellwarped%20Beast/Hellwarped%20Brute.md)
+		- [Hellwarped Spawn](./Aberration/Hellwarped%20Beast/Hellwarped%20Spawn.md)
 	- [Hungry Star](./Aberration/Hungry%20Star.md)
 	- **Intellect Devourers**
 		- [Intellect Assassin](./Aberration/Intellect%20Devourers/Intellect%20Assassin.md)
@@ -38,6 +44,11 @@ updated: 2023-05-27
 		- [Soul Flenser](./Aberration/Soul%20Flensers/Soul%20Flenser.md)
 		- [The Flenses](./Aberration/Soul%20Flensers/The%20Flenses.md)
 	- [Whispering Prophet](./Aberration/Whispering%20Prophet.md)
+- [Ankheg](./Ankheg.md)
+- **Azers**
+	- [Azer Fire Bat](./Azers/Azer%20Fire%20Bat.md)
+- [Basilisk](./Basilisk.md)
+- **[Battle Shade](./Battle%20Shade/Battle%20Shade.md)**
 - **Beast**
 	- **[Animal Critter](./Beast/Animal%20Critter/Animal%20Critter.md)**
 	- [Ankheg](./Beast/Ankheg.md)
@@ -69,9 +80,15 @@ updated: 2023-05-27
 		- [Hook Skuttler](./Beast/Hellbugs/Hook%20Skuttler.md)
 		- [Swarming Maw](./Beast/Hellbugs/Swarming%20Maw.md)
 	- [Hellhound](./Beast/Hellhound.md)
+	- **[Horned Azinth](./Beast/Horned%20Azinth/Horned%20Azinth.md)**
+		- [Horned Azinth Adult](./Beast/Horned%20Azinth/Horned%20Azinth%20Adult.md)
+		- [Horned Azinth Calf](./Beast/Horned%20Azinth/Horned%20Azinth%20Calf.md)
 	- **Hydra**
 		- [Five Headed Hydra](./Beast/Hydra/Five%20Headed%20Hydra.md)
 		- [Seven Headed Hydra](./Beast/Hydra/Seven%20Headed%20Hydra.md)
+	- **[Kohwa](./Beast/Kohwa/Kohwa.md)**
+		- [Kohwa Enforcer](./Beast/Kohwa/Kohwa%20Enforcer.md)
+		- [Kohwa Messenger](./Beast/Kohwa/Kohwa%20Messenger.md)
 	- **[Lammasu](./Beast/Lammasu/Lammasu.md)**
 		- [Fallen Lammasu](./Beast/Lammasu/Fallen%20Lammasu.md)
 		- [Lammasu Priest](./Beast/Lammasu/Lammasu%20Priest.md)
@@ -126,6 +143,11 @@ updated: 2023-05-27
 		- [Iron Golem](./Construct/Golem/Iron%20Golem.md)
 		- [Marble Golem](./Construct/Golem/Marble%20Golem.md)
 		- [Stone Golem](./Construct/Golem/Stone%20Golem.md)
+	- **[Hallowed Gargoyles](./Construct/Hallowed%20Gargoyles/Hallowed%20Gargoyles.md)**
+		- [Beautific Gargoyle](./Construct/Hallowed%20Gargoyles/Beautific%20Gargoyle.md)
+		- [Hallowed Gargoyle](./Construct/Hallowed%20Gargoyles/Hallowed%20Gargoyle.md)
+		- [Temple Lion](./Construct/Hallowed%20Gargoyles/Temple%20Lion.md)
+	- [Hellstone Gargoyle](./Construct/Hellstone%20Gargoyle.md)
 	- **The Bonded**
 		- [Bonded Arcane Archer](./Construct/The%20Bonded/Bonded%20Arcane%20Archer.md)
 		- [Bonded Hero](./Construct/The%20Bonded/Bonded%20Hero.md)
@@ -192,6 +214,9 @@ updated: 2023-05-27
 		- [The Final Devil](./Devil/Devil%20Fang/The%20Final%20Devil.md)
 	- [Fury Devil](./Devil/Fury%20Devil.md)
 	- [Hell Imp](./Devil/Hell%20Imp.md)
+	- **Hellcats**
+		- [Ember Imp](./Devil/Hellcats/Ember%20Imp.md)
+		- [Hellcat](./Devil/Hellcats/Hellcat.md)
 	- [Honey Devil](./Devil/Honey%20Devil.md)
 	- [Hooded Devil](./Devil/Hooded%20Devil.md)
 	- [Horned Devil](./Devil/Horned%20Devil.md)
@@ -263,6 +288,7 @@ updated: 2023-05-27
 		- [Shadow Thief](./Dragon/Other/Shadow%20Thief.md)
 	- **[Purple Dragons](./Dragon/Purple%20Dragons/Purple%20Dragons.md)**
 		- [The Purple Dragon](./Dragon/Purple%20Dragons/The%20Purple%20Dragon.md)
+- [Drider](./Drider.md)
 - **Elemental**
 	- [Air Elemental](./Elemental/Air%20Elemental.md)
 	- [Big Air Elemental](./Elemental/Big%20Air%20Elemental.md)
@@ -275,11 +301,22 @@ updated: 2023-05-27
 	- [Epic Fire Elemental](./Elemental/Epic%20Fire%20Elemental.md)
 	- [Epic Water Elemental](./Elemental/Epic%20Water%20Elemental.md)
 	- [Fire Elemental](./Elemental/Fire%20Elemental.md)
+	- **Flux Elementals**
 	- [Small Air Elemental](./Elemental/Small%20Air%20Elemental.md)
 	- [Small Earth Elemental](./Elemental/Small%20Earth%20Elemental.md)
 	- [Small Fire Elemental](./Elemental/Small%20Fire%20Elemental.md)
 	- [Small Water Elemental](./Elemental/Small%20Water%20Elemental.md)
 	- [Water Elemental](./Elemental/Water%20Elemental.md)
+- [Gargoyle](./Gargoyle.md)
+- [Gauntlets Beast Mascot](./Gauntlets%20Beast%20Mascot.md)
+- **[Ghouls](./Ghouls/Ghouls.md)**
+	- [Ghast](./Ghouls/Ghast.md)
+	- [Ghoul Fleshripper](./Ghouls/Ghoul%20Fleshripper.md)
+	- [Ghoul Licklash](./Ghouls/Ghoul%20Licklash.md)
+	- [Ghoul Pusbuster](./Ghouls/Ghoul%20Pusbuster.md)
+	- [Ghoul](./Ghouls/Ghoul.md)
+	- [Gravemeat](./Ghouls/Gravemeat.md)
+	- [Newly Risen Ghoul](./Ghouls/Newly%20Risen%20Ghoul.md)
 - **Giant**
 	- [Bergship Raider](./Giant/Bergship%20Raider.md)
 	- [Cloud Giant Magician](./Giant/Cloud%20Giant%20Magician.md)
@@ -314,6 +351,27 @@ updated: 2023-05-27
 	- [Storm Giant](./Giant/Storm%20Giant.md)
 	- [Troll](./Giant/Troll.md)
 	- [Winter Beast](./Giant/Winter%20Beast.md)
+- **Golem**
+	- [Bronze Golem](./Golem/Bronze%20Golem.md)
+	- [Clay Golem](./Golem/Clay%20Golem.md)
+	- [Flesh Golem](./Golem/Flesh%20Golem.md)
+	- [Iron Golem](./Golem/Iron%20Golem.md)
+	- [Marble Golem](./Golem/Marble%20Golem.md)
+	- [Stone Golem](./Golem/Stone%20Golem.md)
+- **Haunted Skull**
+	- [Black Skull](./Haunted%20Skull/Black%20Skull.md)
+	- [Flaming Skull](./Haunted%20Skull/Flaming%20Skull.md)
+	- [Jest Bones](./Haunted%20Skull/Jest%20Bones.md)
+	- [Screaming Skull](./Haunted%20Skull/Screaming%20Skull.md)
+	- [Skull of the Beast](./Haunted%20Skull/Skull%20of%20the%20Beast.md)
+	- [Slime Skull](./Haunted%20Skull/Slime%20Skull.md)
+	- [Watch Skull](./Haunted%20Skull/Watch%20Skull.md)
+- **Hellbugs**
+	- [Boombug](./Hellbugs/Boombug.md)
+	- [hellwasp](./Hellbugs/hellwasp.md)
+	- [Hook Skuttler](./Hellbugs/Hook%20Skuttler.md)
+	- [Swarming Maw](./Hellbugs/Swarming%20Maw.md)
+- [Hellhound](./Hellhound.md)
 - **Humanoid**
 	- **[Briar Elves](./Humanoid/Briar%20Elves/Briar%20Elves.md)**
 		- [Briar Elf Assassin](./Humanoid/Briar%20Elves/Briar%20Elf%20Assassin.md)
@@ -442,6 +500,33 @@ updated: 2023-05-27
 		- [Human Rabble](./Humanoid/Warbanner%20Humans/Human%20Rabble.md)
 	- **Wendigo**
 		- [Ravenous Cannibal](./Humanoid/Wendigo/Ravenous%20Cannibal.md)
+- [Hungry Star](./Hungry%20Star.md)
+- **Hydra**
+	- [Five Headed Hydra](./Hydra/Five%20Headed%20Hydra.md)
+	- [Seven Headed Hydra](./Hydra/Seven%20Headed%20Hydra.md)
+- **Intellect Devourers**
+	- [Intellect Assassin](./Intellect%20Devourers/Intellect%20Assassin.md)
+	- [Intellect Devourer](./Intellect%20Devourers/Intellect%20Devourer.md)
+- **[Lammasu](./Lammasu/Lammasu.md)**
+	- [Fallen Lammasu](./Lammasu/Fallen%20Lammasu.md)
+	- [Lammasu Priest](./Lammasu/Lammasu%20Priest.md)
+	- [Lammasu Warrior](./Lammasu/Lammasu%20Warrior.md)
+	- [Lammasu Wizard](./Lammasu/Lammasu%20Wizard.md)
+- **Lich**
+	- [Lich Baroness](./Lich/Lich%20Baroness.md)
+	- [Lich Count](./Lich/Lich%20Count.md)
+	- [Lich Prince](./Lich/Lich%20Prince.md)
+- **[Manticore](./Manticore/Manticore.md)**
+	- [Coursing Manticore](./Manticore/Coursing%20Manticore.md)
+	- [Manticore Bard](./Manticore/Manticore%20Bard.md)
+	- [Mantikumhar](./Manticore/Mantikumhar.md)
+- **[Nagas](./Nagas/Nagas.md)**
+	- [Elder Manafang Naga](./Nagas/Elder%20Manafang%20Naga.md)
+	- [Elder Sparkscale Naga](./Nagas/Elder%20Sparkscale%20Naga.md)
+	- [Elder Swaysong Naga](./Nagas/Elder%20Swaysong%20Naga.md)
+	- [Manafang Naga](./Nagas/Manafang%20Naga.md)
+	- [Sparkscale Naga](./Nagas/Sparkscale%20Naga.md)
+	- [Swaysong Naga](./Nagas/Swaysong%20Naga.md)
 - **[Ooze](./Ooze/Ooze.md)**
 	- [Black Pudding](./Ooze/Black%20Pudding.md)
 	- **Gelahedron**
@@ -451,6 +536,9 @@ updated: 2023-05-27
 		- [Gelatinous Tetrahedron](./Ooze/Gelahedron/Gelatinous%20Tetrahedron.md)
 	- [Gelatinous Cube](./Ooze/Gelatinous%20Cube.md)
 	- [Ochre Jelly](./Ooze/Ochre%20Jelly.md)
+- [Owlbear](./Owlbear.md)
+- [Oytugh](./Oytugh.md)
+- [Phase Spider](./Phase%20Spider.md)
 - **Plant**
 	- **[Fungaloid](./Plant/Fungaloid/Fungaloid.md)**
 		- [Aerial Spore](./Plant/Fungaloid/Aerial%20Spore.md)
@@ -481,6 +569,35 @@ updated: 2023-05-27
 		- [Awakened Trees](./Plant/Treants/Awakened%20Trees.md)
 		- [Common Treant](./Plant/Treants/Common%20Treant.md)
 		- [Treant Titan](./Plant/Treants/Treant%20Titan.md)
+- **[Purple Worm](./Purple%20Worm/Purple%20Worm.md)**
+	- [Ancient Purple Worm](./Purple%20Worm/Ancient%20Purple%20Worm.md)
+	- [Parasitic Lightning Beetle](./Purple%20Worm/Parasitic%20Lightning%20Beetle.md)
+	- [Purple Larva](./Purple%20Worm/Purple%20Larva.md)
+- **Remorhaz**
+	- [Adult Remorhaz](./Remorhaz/Adult%20Remorhaz.md)
+	- [Barbellite](./Remorhaz/Barbellite.md)
+	- [Frost-Würm](./Remorhaz/Frost-W%C3%BCrm.md)
+	- [Rakshasa](./Remorhaz/Rakshasa.md)
+	- [Remorhaz Queen](./Remorhaz/Remorhaz%20Queen.md)
+	- [Squib Swarm](./Remorhaz/Squib%20Swarm.md)
+- **Rust Monsters**
+	- [Rust Monster Obliterator](./Rust%20Monsters/Rust%20Monster%20Obliterator.md)
+	- [Rust Monster](./Rust%20Monsters/Rust%20Monster.md)
+- **Sahuagin Beasts**
+	- [iron Sea Shark](./Sahuagin%20Beasts/iron%20Sea%20Shark.md)
+	- [Razor Shark](./Sahuagin%20Beasts/Razor%20Shark.md)
+- **[Skeletons](./Skeletons/Skeletons.md)**
+	- [Blackamber Skeletal Legionnaire](./Skeletons/Blackamber%20Skeletal%20Legionnaire.md)
+	- [Decrepit Skeleton](./Skeletons/Decrepit%20Skeleton.md)
+	- [Skeletal Hound](./Skeletons/Skeletal%20Hound.md)
+	- [Skeleton Archer](./Skeletons/Skeleton%20Archer.md)
+	- [Skeleton Warrior](./Skeletons/Skeleton%20Warrior.md)
+- **Soul Flensers**
+	- [Soul Flenser](./Soul%20Flensers/Soul%20Flenser.md)
+	- [The Flenses](./Soul%20Flensers/The%20Flenses.md)
+- **[Specters](./Specters/Specters.md)**
+	- [Dread Specter](./Specters/Dread%20Specter.md)
+	- [Specter](./Specters/Specter.md)
 - **Spirit**
 	- **[Eidolon](./Spirit/Eidolon/Eidolon.md)**
 		- [Attached Eidolon](./Spirit/Eidolon/Attached%20Eidolon.md)
@@ -488,6 +605,17 @@ updated: 2023-05-27
 		- [Eidolon in Humanoid Form](./Spirit/Eidolon/Eidolon%20in%20Humanoid%20Form.md)
 		- [Eidolon in Hunting Form](./Spirit/Eidolon/Eidolon%20in%20Hunting%20Form.md)
 		- [Eidolon in War Form](./Spirit/Eidolon/Eidolon%20in%20War%20Form.md)
+- **Stirges**
+	- [Stirge](./Stirges/Stirge.md)
+	- [Stirgelings](./Stirges/Stirgelings.md)
+- [Tarrasque](./Tarrasque.md)
+- **The Bonded**
+	- [Bonded Arcane Archer](./The%20Bonded/Bonded%20Arcane%20Archer.md)
+	- [Bonded Hero](./The%20Bonded/Bonded%20Hero.md)
+	- [Bonded Hexknight](./The%20Bonded/Bonded%20Hexknight.md)
+	- [Bonded Prophet](./The%20Bonded/Bonded%20Prophet.md)
+	- [Bonded Veil](./The%20Bonded/Bonded%20Veil.md)
+	- [Bonded Warlock](./The%20Bonded/Bonded%20Warlock.md)
 - **Undead**
 	- **[Battle Shade](./Undead/Battle%20Shade/Battle%20Shade.md)**
 		- [Archer Shade](./Undead/Battle%20Shade/Archer%20Shade.md)
@@ -499,6 +627,16 @@ updated: 2023-05-27
 		- [Coin Collector Zombie](./Undead/Coin%20Zombies/Coin%20Collector%20Zombie.md)
 		- [Coin Zombie](./Undead/Coin%20Zombies/Coin%20Zombie.md)
 		- [Jackpot Zombie](./Undead/Coin%20Zombies/Jackpot%20Zombie.md)
+	- **[Ghosts](./Undead/Ghosts/Ghosts.md)**
+		- [Disgraced Legionnaire](./Undead/Ghosts/Disgraced%20Legionnaire.md)
+		- [Epic Haunting](./Undead/Ghosts/Epic%20Haunting.md)
+		- [Hungry Mouth Ghost](./Undead/Ghosts/Hungry%20Mouth%20Ghost.md)
+		- [Lesser Haunting](./Undead/Ghosts/Lesser%20Haunting.md)
+		- [Major Haunting](./Undead/Ghosts/Major%20Haunting.md)
+		- [Most Hungry Ghost](./Undead/Ghosts/Most%20Hungry%20Ghost.md)
+		- [Petulant Never-Was](./Undead/Ghosts/Petulant%20Never-Was.md)
+		- [Sadsack](./Undead/Ghosts/Sadsack.md)
+		- [Twisted Soul](./Undead/Ghosts/Twisted%20Soul.md)
 	- **[Ghouls](./Undead/Ghouls/Ghouls.md)**
 		- [Ghast](./Undead/Ghouls/Ghast.md)
 		- [Ghoul Fleshripper](./Undead/Ghouls/Ghoul%20Fleshripper.md)
@@ -554,5 +692,23 @@ updated: 2023-05-27
 		- [Zombie Beast](./Undead/Zombies/Zombie%20Beast.md)
 		- [Zombie of the Silver Rose](./Undead/Zombies/Zombie%20of%20the%20Silver%20Rose.md)
 		- [Zombie Shuffler](./Undead/Zombies/Zombie%20Shuffler.md)
+- **[Warbanner Constructs](./Warbanner%20Constructs/Warbanner%20Constructs.md)**
+	- [Brutes Warbanner](./Warbanner%20Constructs/Brutes%20Warbanner.md)
+	- [Deathly Warbanner](./Warbanner%20Constructs/Deathly%20Warbanner.md)
+	- [Feral Warbanner](./Warbanner%20Constructs/Feral%20Warbanner.md)
+	- [Zealots Warbanner](./Warbanner%20Constructs/Zealots%20Warbanner.md)
+- **[Werebeasts](./Werebeasts/Werebeasts.md)**
+	- [Werebear](./Werebeasts/Werebear.md)
+	- [Wereboar](./Werebeasts/Wereboar.md)
+	- [Wererat](./Werebeasts/Wererat.md)
+	- [Weretiger](./Werebeasts/Weretiger.md)
+	- [Werewolf](./Werebeasts/Werewolf.md)
+- [Whispering Prophet](./Whispering%20Prophet.md)
+- [Wibble](./Wibble.md)
+- [Wyvern](./Wyvern.md)
+- **Zorigami**
+	- [Apex Zorigami](./Zorigami/Apex%20Zorigami.md)
+	- [Dawn Zorigami](./Zorigami/Dawn%20Zorigami.md)
+	- [Dusk Zorigami](./Zorigami/Dusk%20Zorigami.md)
 
 %% End Waypoint %%
