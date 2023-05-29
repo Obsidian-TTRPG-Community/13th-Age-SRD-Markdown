@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Frogfolk]
 created: 2023-05-28
 description: 
 image: 
