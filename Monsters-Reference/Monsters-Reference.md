@@ -26,6 +26,12 @@ updated: 2023-05-27
 		- [Hagunemnon](./Aberration/Elder%20Beast/Hagunemnon.md)
 		- [Umluppuk](./Aberration/Elder%20Beast/Umluppuk.md)
 		- [Warped Beast](./Aberration/Elder%20Beast/Warped%20Beast.md)
+	- **[Gibbering Mouthers](./Aberration/Gibbering%20Mouthers/Gibbering%20Mouthers.md)**
+		- [Atrocious Gibbering Mouther](./Aberration/Gibbering%20Mouthers/Atrocious%20Gibbering%20Mouther.md)
+		- [Gibbering Mouther](./Aberration/Gibbering%20Mouthers/Gibbering%20Mouther.md)
+	- **[Hellwarped Beast](./Aberration/Hellwarped%20Beast/Hellwarped%20Beast.md)**
+		- [Hellwarped Brute](./Aberration/Hellwarped%20Beast/Hellwarped%20Brute.md)
+		- [Hellwarped Spawn](./Aberration/Hellwarped%20Beast/Hellwarped%20Spawn.md)
 	- [Hungry Star](./Aberration/Hungry%20Star.md)
 	- **Intellect Devourers**
 		- [Intellect Assassin](./Aberration/Intellect%20Devourers/Intellect%20Assassin.md)
@@ -38,38 +44,11 @@ updated: 2023-05-27
 		- [Soul Flenser](./Aberration/Soul%20Flensers/Soul%20Flenser.md)
 		- [The Flenses](./Aberration/Soul%20Flensers/The%20Flenses.md)
 	- [Whispering Prophet](./Aberration/Whispering%20Prophet.md)
-- **[Animal Critter](./Animal%20Critter/Animal%20Critter.md)**
-	- [Bat Cavalry](./Animal%20Critter/Bat%20Cavalry.md)
-	- [Bear](./Animal%20Critter/Bear.md)
-	- [Dire Bat](./Animal%20Critter/Dire%20Bat.md)
-	- [Dire Bear](./Animal%20Critter/Dire%20Bear.md)
-	- [Dire Boar](./Animal%20Critter/Dire%20Boar.md)
-	- [Dire Rat](./Animal%20Critter/Dire%20Rat.md)
-	- [Dire Tiger](./Animal%20Critter/Dire%20Tiger.md)
-	- [Dire Wolf](./Animal%20Critter/Dire%20Wolf.md)
-	- [Fire Bat](./Animal%20Critter/Fire%20Bat.md)
-	- [Giant Ant](./Animal%20Critter/Giant%20Ant.md)
-	- [Giant Praying Mantis](./Animal%20Critter/Giant%20Praying%20Mantis.md)
-	- [Giant Scorpian](./Animal%20Critter/Giant%20Scorpian.md)
-	- [Giant Web Spider](./Animal%20Critter/Giant%20Web%20Spider.md)
-	- [Goblin Bat Mage](./Animal%20Critter/Goblin%20Bat%20Mage.md)
-	- [Hunting Spider](./Animal%20Critter/Hunting%20Spider.md)
-	- [Swarm of Bats](./Animal%20Critter/Swarm%20of%20Bats.md)
-	- [Thunder Bat](./Animal%20Critter/Thunder%20Bat.md)
-	- [Wolf](./Animal%20Critter/Wolf.md)
-	- [Wraith Bat](./Animal%20Critter/Wraith%20Bat.md)
 - [Ankheg](./Ankheg.md)
-- **[Azer Beast](./Azer%20Beast/Azer%20Beast.md)**
-	- [Azer Fire Bat](./Azer%20Beast/Azer%20Fire%20Bat.md)
-- **[Azer Constructs](./Azer%20Constructs/Azer%20Constructs.md)**
-	- [Magma Brute](./Azer%20Constructs/Magma%20Brute.md)
+- **Azers**
+	- [Azer Fire Bat](./Azers/Azer%20Fire%20Bat.md)
 - [Basilisk](./Basilisk.md)
 - **[Battle Shade](./Battle%20Shade/Battle%20Shade.md)**
-	- [Archer Shade](./Battle%20Shade/Archer%20Shade.md)
-	- [Blade Shade](./Battle%20Shade/Blade%20Shade.md)
-	- [Bloody Shade](./Battle%20Shade/Bloody%20Shade.md)
-	- [Broken Shade](./Battle%20Shade/Broken%20Shade.md)
-	- [Slaughter Pit Shade](./Battle%20Shade/Slaughter%20Pit%20Shade.md)
 - **Beast**
 	- **[Animal Critter](./Beast/Animal%20Critter/Animal%20Critter.md)**
 	- [Ankheg](./Beast/Ankheg.md)
@@ -101,9 +80,15 @@ updated: 2023-05-27
 		- [Hook Skuttler](./Beast/Hellbugs/Hook%20Skuttler.md)
 		- [Swarming Maw](./Beast/Hellbugs/Swarming%20Maw.md)
 	- [Hellhound](./Beast/Hellhound.md)
+	- **[Horned Azinth](./Beast/Horned%20Azinth/Horned%20Azinth.md)**
+		- [Horned Azinth Adult](./Beast/Horned%20Azinth/Horned%20Azinth%20Adult.md)
+		- [Horned Azinth Calf](./Beast/Horned%20Azinth/Horned%20Azinth%20Calf.md)
 	- **Hydra**
 		- [Five Headed Hydra](./Beast/Hydra/Five%20Headed%20Hydra.md)
 		- [Seven Headed Hydra](./Beast/Hydra/Seven%20Headed%20Hydra.md)
+	- **[Kohwa](./Beast/Kohwa/Kohwa.md)**
+		- [Kohwa Enforcer](./Beast/Kohwa/Kohwa%20Enforcer.md)
+		- [Kohwa Messenger](./Beast/Kohwa/Kohwa%20Messenger.md)
 	- **[Lammasu](./Beast/Lammasu/Lammasu.md)**
 		- [Fallen Lammasu](./Beast/Lammasu/Fallen%20Lammasu.md)
 		- [Lammasu Priest](./Beast/Lammasu/Lammasu%20Priest.md)
@@ -147,25 +132,6 @@ updated: 2023-05-27
 		- [Weretiger](./Beast/Werebeasts/Weretiger.md)
 		- [Werewolf](./Beast/Werebeasts/Werewolf.md)
 	- [Wyvern](./Beast/Wyvern.md)
-- **[Bulette](./Bulette/Bulette.md)**
-	- [Deep Bulette](./Bulette/Deep%20Bulette.md)
-	- [Green Bulette](./Bulette/Green%20Bulette.md)
-	- [Lumberland Dirt Fisher](./Bulette/Lumberland%20Dirt%20Fisher.md)
-	- [Ravenous Bumoorah](./Bulette/Ravenous%20Bumoorah.md)
-- **[Chaos Beast](./Chaos%20Beast/Chaos%20Beast.md)**
-	- [Chaos Behemoth](./Chaos%20Beast/Chaos%20Behemoth.md)
-	- [Chaos Brute](./Chaos%20Beast/Chaos%20Brute.md)
-	- [Chaos Glorp](./Chaos%20Beast/Chaos%20Glorp.md)
-- **[Chimera](./Chimera/Chimera.md)**
-	- [Iconic Chimera](./Chimera/Iconic%20Chimera.md)
-- **[Chuul](./Chuul/Chuul.md)**
-	- [Chuulish Slave](./Chuul/Chuulish%20Slave.md)
-	- [Chuulish Swarm](./Chuul/Chuulish%20Swarm.md)
-	- [Massive Mutant Chuul](./Chuul/Massive%20Mutant%20Chuul.md)
-- **[Coin Zombies](./Coin%20Zombies/Coin%20Zombies.md)**
-	- [Coin Collector Zombie](./Coin%20Zombies/Coin%20Collector%20Zombie.md)
-	- [Coin Zombie](./Coin%20Zombies/Coin%20Zombie.md)
-	- [Jackpot Zombie](./Coin%20Zombies/Jackpot%20Zombie.md)
 - **Construct**
 	- **[Azer Constructs](./Construct/Azer%20Constructs/Azer%20Constructs.md)**
 		- [Magma Brute](./Construct/Azer%20Constructs/Magma%20Brute.md)
@@ -177,6 +143,11 @@ updated: 2023-05-27
 		- [Iron Golem](./Construct/Golem/Iron%20Golem.md)
 		- [Marble Golem](./Construct/Golem/Marble%20Golem.md)
 		- [Stone Golem](./Construct/Golem/Stone%20Golem.md)
+	- **[Hallowed Gargoyles](./Construct/Hallowed%20Gargoyles/Hallowed%20Gargoyles.md)**
+		- [Beautific Gargoyle](./Construct/Hallowed%20Gargoyles/Beautific%20Gargoyle.md)
+		- [Hallowed Gargoyle](./Construct/Hallowed%20Gargoyles/Hallowed%20Gargoyle.md)
+		- [Temple Lion](./Construct/Hallowed%20Gargoyles/Temple%20Lion.md)
+	- [Hellstone Gargoyle](./Construct/Hellstone%20Gargoyle.md)
 	- **The Bonded**
 		- [Bonded Arcane Archer](./Construct/The%20Bonded/Bonded%20Arcane%20Archer.md)
 		- [Bonded Hero](./Construct/The%20Bonded/Bonded%20Hero.md)
@@ -194,9 +165,6 @@ updated: 2023-05-27
 		- [Apex Zorigami](./Construct/Zorigami/Apex%20Zorigami.md)
 		- [Dawn Zorigami](./Construct/Zorigami/Dawn%20Zorigami.md)
 		- [Dusk Zorigami](./Construct/Zorigami/Dusk%20Zorigami.md)
-- **[Couatls](./Couatls/Couatls.md)**
-	- [Couatl](./Couatls/Couatl.md)
-	- [Elder Couatl](./Couatls/Elder%20Couatl.md)
 - **[Demon](./Demon/Demon.md)**
 	- [Balor](./Demon/Balor.md)
 	- [Bat Demon](./Demon/Bat%20Demon.md)
@@ -246,6 +214,9 @@ updated: 2023-05-27
 		- [The Final Devil](./Devil/Devil%20Fang/The%20Final%20Devil.md)
 	- [Fury Devil](./Devil/Fury%20Devil.md)
 	- [Hell Imp](./Devil/Hell%20Imp.md)
+	- **Hellcats**
+		- [Ember Imp](./Devil/Hellcats/Ember%20Imp.md)
+		- [Hellcat](./Devil/Hellcats/Hellcat.md)
 	- [Honey Devil](./Devil/Honey%20Devil.md)
 	- [Hooded Devil](./Devil/Hooded%20Devil.md)
 	- [Horned Devil](./Devil/Horned%20Devil.md)
@@ -318,12 +289,6 @@ updated: 2023-05-27
 	- **[Purple Dragons](./Dragon/Purple%20Dragons/Purple%20Dragons.md)**
 		- [The Purple Dragon](./Dragon/Purple%20Dragons/The%20Purple%20Dragon.md)
 - [Drider](./Drider.md)
-- **Drow Beast**
-	- [Weaver Swarm](./Drow%20Beast/Weaver%20Swarm.md)
-- **Elder Beast**
-	- [Hagunemnon](./Elder%20Beast/Hagunemnon.md)
-	- [Umluppuk](./Elder%20Beast/Umluppuk.md)
-	- [Warped Beast](./Elder%20Beast/Warped%20Beast.md)
 - **Elemental**
 	- [Air Elemental](./Elemental/Air%20Elemental.md)
 	- [Big Air Elemental](./Elemental/Big%20Air%20Elemental.md)
@@ -342,64 +307,6 @@ updated: 2023-05-27
 	- [Small Fire Elemental](./Elemental/Small%20Fire%20Elemental.md)
 	- [Small Water Elemental](./Elemental/Small%20Water%20Elemental.md)
 	- [Water Elemental](./Elemental/Water%20Elemental.md)
-- **[Elemental Beasts](./Elemental%20Beasts/Elemental%20Beasts.md)**
-	- [Badger](./Elemental%20Beasts/Badger.md)
-	- [Giant Bird of Prey](./Elemental%20Beasts/Giant%20Bird%20of%20Prey.md)
-	- [Great Cat](./Elemental%20Beasts/Great%20Cat.md)
-	- [Rat Swarm](./Elemental%20Beasts/Rat%20Swarm.md)
-	- [Venomous Snake](./Elemental%20Beasts/Venomous%20Snake.md)
-- **[Fallen Icon of Nature](./Fallen%20Icon%20of%20Nature/Fallen%20Icon%20of%20Nature.md)**
-	- [Barrier Beast](./Fallen%20Icon%20of%20Nature/Barrier%20Beast.md)
-	- [Fanatical Druid Circle](./Fallen%20Icon%20of%20Nature/Fanatical%20Druid%20Circle.md)
-	- [Frenzied Wolf Pack](./Fallen%20Icon%20of%20Nature/Frenzied%20Wolf%20Pack.md)
-	- [Militant Ranger Squad](./Fallen%20Icon%20of%20Nature/Militant%20Ranger%20Squad.md)
-	- [Oppurtunistic Orc Band](./Fallen%20Icon%20of%20Nature/Oppurtunistic%20Orc%20Band.md)
-	- [Treant Avenger](./Fallen%20Icon%20of%20Nature/Treant%20Avenger.md)
-- **[Fallen Icons of Undead](./Fallen%20Icons%20of%20Undead/Fallen%20Icons%20of%20Undead.md)**
-	- [Fallen Icon's Shadow](./Fallen%20Icons%20of%20Undead/Fallen%20Icon's%20Shadow.md)
-	- [Fallen Icons Maw](./Fallen%20Icons%20of%20Undead/Fallen%20Icons%20Maw.md)
-	- [Greater Summoned Ghoul](./Fallen%20Icons%20of%20Undead/Greater%20Summoned%20Ghoul.md)
-	- [Jackal Bearer](./Fallen%20Icons%20of%20Undead/Jackal%20Bearer.md)
-	- [Jackal Gravewrecker](./Fallen%20Icons%20of%20Undead/Jackal%20Gravewrecker.md)
-	- [Jackal High Mage](./Fallen%20Icons%20of%20Undead/Jackal%20High%20Mage.md)
-	- [Jackal High Priest](./Fallen%20Icons%20of%20Undead/Jackal%20High%20Priest.md)
-	- [Jackal Mage](./Fallen%20Icons%20of%20Undead/Jackal%20Mage.md)
-	- [Jackal Priest](./Fallen%20Icons%20of%20Undead/Jackal%20Priest.md)
-	- [Jackal Scout](./Fallen%20Icons%20of%20Undead/Jackal%20Scout.md)
-	- [Summoned Ghoul](./Fallen%20Icons%20of%20Undead/Summoned%20Ghoul.md)
-- **[Fallen Icons of Underground](./Fallen%20Icons%20of%20Underground/Fallen%20Icons%20of%20Underground.md)**
-	- [Bronze Errant](./Fallen%20Icons%20of%20Underground/Bronze%20Errant.md)
-	- [Bronze Kingsguard](./Fallen%20Icons%20of%20Underground/Bronze%20Kingsguard.md)
-	- [Fallen Icon-Underground](./Fallen%20Icons%20of%20Underground/Fallen%20Icon-Underground.md)
-	- [Glittering Bearer](./Fallen%20Icons%20of%20Underground/Glittering%20Bearer.md)
-	- [Gray Hoarder](./Fallen%20Icons%20of%20Underground/Gray%20Hoarder.md)
-	- [Gray Raider](./Fallen%20Icons%20of%20Underground/Gray%20Raider.md)
-	- [Loyal Gatherer](./Fallen%20Icons%20of%20Underground/Loyal%20Gatherer.md)
-	- [Royal Bearer](./Fallen%20Icons%20of%20Underground/Royal%20Bearer.md)
-	- [Screaming Hoardling](./Fallen%20Icons%20of%20Underground/Screaming%20Hoardling.md)
-- **Fey**
-	- [Grandmother](./Fey/Grandmother.md)
-	- [Great Hound](./Fey/Great%20Hound.md)
-	- [Pixie Knight](./Fey/Pixie%20Knight.md)
-	- [River-Spirit](./Fey/River-Spirit.md)
-	- [Spriggan](./Fey/Spriggan.md)
-	- [Sprite](./Fey/Sprite.md)
-	- [The Rascal](./Fey/The%20Rascal.md)
-- **Fire Giant**
-	- [Fire Giant Holy Warrior](./Fire%20Giant/Fire%20Giant%20Holy%20Warrior.md)
-	- [Fire Giant Priest-General](./Fire%20Giant/Fire%20Giant%20Priest-General.md)
-	- [Fire Giant Smith](./Fire%20Giant/Fire%20Giant%20Smith.md)
-	- [Forge Wolf](./Fire%20Giant/Forge%20Wolf.md)
-- **[Frogfolk](./Frogfolk/Frogfolk.md)**
-	- [Frog Knight](./Frogfolk/Frog%20Knight.md)
-	- [Frogspawn Champion](./Frogfolk/Frogspawn%20Champion.md)
-	- [Frogspawn Deceiver](./Frogfolk/Frogspawn%20Deceiver.md)
-	- [Frogspawn Grunt](./Frogfolk/Frogspawn%20Grunt.md)
-	- [Frogspawn Monk](./Frogfolk/Frogspawn%20Monk.md)
-	- [Frogspawn Old-One](./Frogfolk/Frogspawn%20Old-One.md)
-	- [Frogspawn Spellcroaker](./Frogfolk/Frogspawn%20Spellcroaker.md)
-	- [Frogspawn Thug](./Frogfolk/Frogspawn%20Thug.md)
-	- [Mutant Bullfrog](./Frogfolk/Mutant%20Bullfrog.md)
 - [Gargoyle](./Gargoyle.md)
 - [Gauntlets Beast Mascot](./Gauntlets%20Beast%20Mascot.md)
 - **[Ghouls](./Ghouls/Ghouls.md)**
@@ -499,14 +406,6 @@ updated: 2023-05-27
 		- [Ettercap Keeper](./Humanoid/Ettercap/Ettercap%20Keeper.md)
 		- [Ettercap Supplicant](./Humanoid/Ettercap/Ettercap%20Supplicant.md)
 		- [Ettercap Warrior](./Humanoid/Ettercap/Ettercap%20Warrior.md)
-	- **[Fauns](./Humanoid/Fauns/Fauns.md)**
-		- [Faun Bandleader](./Humanoid/Fauns/Faun%20Bandleader.md)
-		- [Faun Enchanter](./Humanoid/Fauns/Faun%20Enchanter.md)
-		- [Faun Harrier](./Humanoid/Fauns/Faun%20Harrier.md)
-		- [Faun Keeper](./Humanoid/Fauns/Faun%20Keeper.md)
-		- [Faun Outlaw](./Humanoid/Fauns/Faun%20Outlaw.md)
-		- [Faun Ranger](./Humanoid/Fauns/Faun%20Ranger.md)
-		- [Faun Troubadour](./Humanoid/Fauns/Faun%20Troubadour.md)
 	- **[Gnoll](./Humanoid/Gnoll/Gnoll.md)**
 		- [Gnoll Fiendfletch](./Humanoid/Gnoll/Gnoll%20Fiendfletch.md)
 		- [Gnoll Ranger](./Humanoid/Gnoll/Gnoll%20Ranger.md)
@@ -717,13 +616,6 @@ updated: 2023-05-27
 	- [Bonded Prophet](./The%20Bonded/Bonded%20Prophet.md)
 	- [Bonded Veil](./The%20Bonded/Bonded%20Veil.md)
 	- [Bonded Warlock](./The%20Bonded/Bonded%20Warlock.md)
-- **[The Fomorians](./The%20Fomorians/The%20Fomorians.md)**
-	- [Fomorial Top-Cannibal](./The%20Fomorians/Fomorial%20Top-Cannibal.md)
-	- [Fomorian Brute](./The%20Fomorians/Fomorian%20Brute.md)
-	- [Fomorian Bully](./The%20Fomorians/Fomorian%20Bully.md)
-	- **[True Fomori](./The%20Fomorians/True%20Fomori/True%20Fomori.md)**
-		- [Fomori Torturer](./The%20Fomorians/True%20Fomori/Fomori%20Torturer.md)
-		- [Fomori Tyrant](./The%20Fomorians/True%20Fomori/Fomori%20Tyrant.md)
 - **Undead**
 	- **[Battle Shade](./Undead/Battle%20Shade/Battle%20Shade.md)**
 		- [Archer Shade](./Undead/Battle%20Shade/Archer%20Shade.md)
@@ -735,6 +627,16 @@ updated: 2023-05-27
 		- [Coin Collector Zombie](./Undead/Coin%20Zombies/Coin%20Collector%20Zombie.md)
 		- [Coin Zombie](./Undead/Coin%20Zombies/Coin%20Zombie.md)
 		- [Jackpot Zombie](./Undead/Coin%20Zombies/Jackpot%20Zombie.md)
+	- **[Ghosts](./Undead/Ghosts/Ghosts.md)**
+		- [Disgraced Legionnaire](./Undead/Ghosts/Disgraced%20Legionnaire.md)
+		- [Epic Haunting](./Undead/Ghosts/Epic%20Haunting.md)
+		- [Hungry Mouth Ghost](./Undead/Ghosts/Hungry%20Mouth%20Ghost.md)
+		- [Lesser Haunting](./Undead/Ghosts/Lesser%20Haunting.md)
+		- [Major Haunting](./Undead/Ghosts/Major%20Haunting.md)
+		- [Most Hungry Ghost](./Undead/Ghosts/Most%20Hungry%20Ghost.md)
+		- [Petulant Never-Was](./Undead/Ghosts/Petulant%20Never-Was.md)
+		- [Sadsack](./Undead/Ghosts/Sadsack.md)
+		- [Twisted Soul](./Undead/Ghosts/Twisted%20Soul.md)
 	- **[Ghouls](./Undead/Ghouls/Ghouls.md)**
 		- [Ghast](./Undead/Ghouls/Ghast.md)
 		- [Ghoul Fleshripper](./Undead/Ghouls/Ghoul%20Fleshripper.md)
