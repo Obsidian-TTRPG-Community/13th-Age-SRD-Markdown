@@ -1,10 +1,15 @@
 ---
+aliases: ["Purple Dragon", "The Purple Dragon"]
+created: 2023-05-28
+description: 
+image: 
 level: 4
+publish: 
 role: caster
-type: dragon
 strength: huge
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/caster", "13A/Monsters/Strength/triple"]
-aliases: ["Purple Dragon", "The Purple Dragon"]
+type: dragon
+updated: 2023-05-29
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout

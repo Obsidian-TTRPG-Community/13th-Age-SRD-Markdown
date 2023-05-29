@@ -28,7 +28,6 @@ You can use the monsters included in the *13th* *Age* Archmage Engine, or you ca
 	- [Strike-Damage](./Monster-Creation/Strike-Damage.md)
 - [Monster-Key](./Monster-Key.md)
 - [Monster-List](./Monster-List.md)
-- **[Monster-Reference](./Monster-Reference/Monster-Reference.md)**
 - **Monster-Rules**
 	- [Dire-Animals](./Monster-Rules/Dire-Animals.md)
 	- [Group-Abilities](./Monster-Rules/Group-Abilities.md)
