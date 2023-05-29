@@ -1,0 +1,39 @@
+---
+aliases: [Horned Azinth Calf]
+created: 
+description: 
+image: 
+level: 3
+publish: 
+role: wrecker
+statblock: inline
+strength: 2×
+tags: ["13A/Bestiary/beast", "13A/Monsters/Type/wrecker"]
+type: beast
+updated: 
+---
+```statblock
+layout: Basic 13th Age Monster Layout
+columns: 1
+name: "Horned Azinth Calf"
+size: "2×"
+level: "3"
+levelOrdinal: "3rd"
+role: "wrecker"
+type: "beast"
+initiative: "8"
+actions:
+    - name: "Headbutt +8 vs. AC"
+      desc: "18 damage, or 24 damage if the horned azinth first moves before attacking an enemy it was not engaged with at the start of its turn"
+traits:
+    - name: "Natural blurring"
+      desc: "Attacks against the horned azinth calf have a 20% miss chance. An attacker must roll the miss chance before the attack roll. In addition, the azinth is nearly invisible while standing still or slowly grazing, as it blends in with its surroundings."
+nastier_traits:
+    - name: "Protect the young"
+      desc: "Each horned azinth adult gains a +1 attack bonus during a battle that includes one or more calves, +2 if any calves are attacked, and +4 if any calves are killed!"
+ac: "19"
+pd: "17"
+md: "11"
+hp: "75"
+```
+
