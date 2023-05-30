@@ -113,6 +113,7 @@ updated: 2023-05-29
 		- **Hellbugs**
 			- [[Boombug]]
 			- [[Hellwasp]]
+			- [[hellwasp]]
 			- [[Hook-Skuttler]]
 			- [[Swarming-Maw]]
 		- [[Hellhound]]
