@@ -112,7 +112,7 @@ updated: 2023-05-29
 			- [[Mutant-Bullfrog]]
 		- **Hellbugs**
 			- [[Boombug]]
-			- [[hellwasp]]
+			- [[Hellwasp]]
 			- [[Hook-Skuttler]]
 			- [[Swarming-Maw]]
 		- [[Hellhound]]
@@ -224,10 +224,10 @@ updated: 2023-05-29
 		- [[Balor]]
 		- [[Bat-Demon]]
 		- **Bone-Imp**
-			- [[Bone Imp Archer]]
-			- [[Bone Imp Mage-Eater]]
-			- [[Bone Imp Skullbiter]]
-			- [[Bone Imp Tormenter]]
+			- [[Bone-Imp-Archer]]
+			- [[Bone-Imp-Mage-Eater]]
+			- [[Bone-Imp-Skullbiter]]
+			- [[Bone-Imp-Tormenter]]
 		- [[Cambion-Dirk]]
 		- [[Cambion-Hellblade]]
 		- [[Cambion-Katar]]
