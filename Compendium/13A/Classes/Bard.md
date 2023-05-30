@@ -50,12 +50,11 @@ Bards may start with either 25 gp or `dice: 1d6*10` gp.
 
 #### Melee Weapons
 
-|                  | **One-Handed**                  | **Two-Handed**                              |
-| ---------------- | ------------------------------- | ------------------------------------------- |
-| Small            | `dice: 1d4` dagger              | `dice: 1d6` club                            |
-| Light or Simple  | `dice: 1d6` mace, shortsword    | `dice: 1d8` spear                           |
-| Heavy or Martial | `dice: 1d8` longsword, scimitar | `dice: 1d10`(-2 atk) greatsword, dire flail |
-
+|| **One-Handed**      | **Two-Handed**       |
+| ---------------- | ------------------------ | ------------------------- |
+| Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
+| Light or Simple  | `dice: 1d6` mace, shortsword    | 1d8 spear        |
+| Heavy or Martial | 1d8 longsword, scimitar | `dice: 1d10`(-2 atk) greatsword, dire flail |  
 ^13A-Class-Bard-Melee
 
 ### Level Progression
@@ -775,7 +774,7 @@ Standard action each turn; 16+ to sustain
 *Bardic song* 
 Daily  
 Quick action each turn; 16+ to sustain  
-**Opening & Sustained Effect:** Each nearby enemy that has fewer hit points than you is dazed until the end of your next turn.  
+**Opening & Sustained Effect:** Each nearby enemy that has fewer hit points than you is dazed until the end of your next turn.
 **Final Verse:** Each nearby enemy takes `dice: 5d6` + Charisma psychic damage.  
 **9th level song**: `dice: 7d6` damage.
 
