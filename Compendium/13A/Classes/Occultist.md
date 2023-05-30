@@ -41,8 +41,8 @@ The occultist may start with either 25 gp or `dice: 1d6*10` gp.
 || One-Handed      | Two-Handed      |  
 | ---------------- | --------------------------------- | ------------------------ |  
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club, staff |  
-| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | 1d8 (-2 atk) spear       |  
-| Heavy or Martial | 1d8 (-4 atk) longsword, warhammer | `dice: 1d10`(-4 atk) greatsword |
+| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-2 atk) spear       |  
+| Heavy or Martial | `dice: 1d8` (-4 atk) longsword, warhammer | `dice: 1d10`(-4 atk) greatsword |
 
 #### Ranged Weapons
 
@@ -50,7 +50,7 @@ The occultist may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------- | --------------------------- | --------------------- |
 | Small   | `dice: 1d4` dagger, dart     | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` (-2 atk) javelin | `dice: 1d6` (-1 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —  | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow  |
+| Heavy or Martial | —  | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
 
 ### Level Progression
 
@@ -381,7 +381,7 @@ Interrupt action to cast; expend focus
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** The target takes 2d6 + Wisdom extra damage from the hit. (If your attack crits, double the damage you are adding to your ally’s attack, but not their base damage.)
+**Hit:** The target takes `dice: 2d6` + Wisdom extra damage from the hit. (If your attack crits, double the damage you are adding to your ally’s attack, but not their base damage.)
 
 **Miss:** The target takes extra damage from the hit equal to the spell level.
 
@@ -417,7 +417,7 @@ Interrupt action to cast; expend focus
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** 2d6 + Wisdom psychic damage, and the ally the target missed gains the same amount of temporary hit points.
+**Hit:** `dice: 2d6` + Wisdom psychic damage, and the ally the target missed gains the same amount of temporary hit points.
 
 **Miss:** Half damage, and you take the other half of the damage.
 
@@ -485,13 +485,13 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-3rd level spell: 8d6 damage, and 10 ongoing damage; 10 ongoing damage on a miss.
+3rd level spell: `dice: 8d6` damage, and 10 ongoing damage; 10 ongoing damage on a miss.
 
 5th level spell: `dice: 8d10`damage, and 15 ongoing damage; 15 ongoing damage on a miss.
 
 7th level spell: `dice: 2d6*10` damage, and 25 ongoing damage; 25 ongoing damage on a miss.
 
-9th level spell: 2d10 x 10 damage, and 35 ongoing damage; 35 ongoing damage on a miss.
+9th level spell: `dice: 2d10*10` damage, and 35 ongoing damage; 35 ongoing damage on a miss.
 
 ##### Adventurer Feat
 
@@ -523,7 +523,7 @@ Interrupt action to cast; expend focus
 
 7th level spell: `dice: 7d10`damage.
 
-9th level spell: 10d10 damage.
+9th level spell: `dice: 10d10` damage.
 
 ##### Adventurer Feat
 
@@ -725,13 +725,13 @@ Free action to cast
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** 7d6 + Wisdom psychic damage.
+**Hit:** `dice: 7d6` + Wisdom psychic damage.
 
 **Retain Focus:** —.
 
 7th level spell: `dice: 6d10`damage.
 
-9th level spell: 10d10 damage.
+9th level spell: `dice: 10d10` damage.
 
 #### Crooked Step
 

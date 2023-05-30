@@ -38,8 +38,8 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 || One-Handed      | Two-Handed       |
 | ---------------- | ------------------------ | ------------------------- |
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` shortsword, hand axe | 1d8 spear        |
-| Heavy or Martial | 1d8 longsword, warhammer | `dice: 1d10`greatsword, greataxe |  
+| Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |  
 ^13A-Class-Fighter-Melee
 
 ### Ranged Weapons
@@ -48,7 +48,7 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ---------------- | ------------------ | ------------ |
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —       | 1d8 heavy crossbow | 1d8 longbow  |  
+| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |  
 ^13A-Class-Fighter-Ranged
 
 ## Level Progression
@@ -245,7 +245,7 @@ One battle per day, you can use Power Attack twice in the battle.
 
 #### Epic Feat
 
-One-handed weapon damage using Power Attack increases to `dice: 1d6` per level; two-handed weapon damage using Power Attack increases to 1d8 per level.
+One-handed weapon damage using Power Attack increases to `dice: 1d6` per level; two-handed weapon damage using Power Attack increases to `dice: 1d8` per level.
 
 ### Skilled Intercept
 

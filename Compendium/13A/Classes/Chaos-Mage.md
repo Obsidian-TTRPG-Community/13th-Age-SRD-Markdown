@@ -49,8 +49,8 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 |                  | **One-Handed**                   | **Two-Handed**           |
 | ---------------- | -------------------------------- | ------------------------ |
 | Small            | `dice: 1d4` dagger, pronged fork         | `dice: 1d6` club, staff          |
-| Light or Simple  | `dice: 1d6` (-2 atk) axe, shortsword     | 1d8 (-4 atk) spear       |
-| Heavy or Martial | 1d8 (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |  
+| Light or Simple  | `dice: 1d6` (-2 atk) axe, shortsword     | `dice: 1d8` (-4 atk) spear       |
+| Heavy or Martial | `dice: 1d8` (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |  
 ^13A-Class-Chaos-Mage-Melee
 
 ### Ranged Weapons
@@ -59,7 +59,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------- | --------------------------- | --------------------- |
 | Small            | `dice: 1d4` dagger, star     | `dice: 1d4` hand crossbow           | -                     |
 | Light or Simple  | `dice: 1d6` (-2 atk) javelin | `dice: 1d6` (-1 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | -                    | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow  |
+| Heavy or Martial | -                    | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
 
 ^13A-Class-Chaos-Mage-Ranged
 
@@ -421,7 +421,7 @@ Once per battle
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 1d8 + Charisma damage.
+**Hit:** `dice: 1d8` + Charisma damage.
 
 **Natural Even Hit:** As a hit, plus another nearby enemy takes half damage.
 
@@ -460,7 +460,7 @@ Daily
 
 5th level spell: `dice: 6d10`damage.
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -478,17 +478,17 @@ At-Will
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1–4   | Gift—You or one of your nearby allies gains 7 temporary hit points.  |
 | 5–8   | Resilience—You gain 7 temporary hit points.        |
-| 9–12  | Aura/tentacles—The next enemy that moves to engage you this battle takes 2d6 damage.   |
+| 9–12  | Aura/tentacles—The next enemy that moves to engage you this battle takes `dice: 2d6` damage.   |
 | 13–16 | defence bonus—You gain a +2 bonus to the defence of your choice (AC, PD, or MD) until an attack against that defence misses you or until the end of the battle.|
 | 17–20 | Healing—You or your nearby ally with the fewest hit points can heal using a recovery. (If you’re the one with the fewest hit points among you and your nearby allies, it’s you.) |
 
-3rd level spell: *gift* and *resilience* now grant 12 temporary hit points; *aura/tentacles* damage is 2d10.
+3rd level spell: *gift* and *resilience* now grant 12 temporary hit points; *aura/tentacles* damage is `dice:2d10`.
 
-5th level spell: *gift* and *resilience* now grant 20 temporary hit points; *aura/tentacles* damage is 4d10.
+5th level spell: *gift* and *resilience* now grant 20 temporary hit points; *aura/tentacles* damage is `dice: 4d10`.
 
-7th level spell: *gift* and *resilience* now grant 35 temporary hit points; *aura/tentacles* damage is 6d8.
+7th level spell: *gift* and *resilience* now grant 35 temporary hit points; *aura/tentacles* damage is `dice: 6d8`.
 
-9th level spell: *gift* and *resilience* now grant 60 temporary hit points; *aura/tentacles* damage is 10d8.
+9th level spell: *gift* and *resilience* now grant 60 temporary hit points; *aura/tentacles* damage is `dice: 10d8`.
 
 **Adventurer Feat**
 
@@ -538,7 +538,7 @@ At-Will
 
 **Attack:** Charisma + Level vs. MD
 
-**Hit:** 1d8 + Charisma psychic damage
+**Hit:** `dice: 1d8` + Charisma psychic damage
 
 **Hit vs. a Staggered Target:** As a hit, except there is no damage roll; the target takes maximum damage.
 
@@ -559,6 +559,14 @@ When you hit a demon with this spell, it’s also hampered (save ends).
 **Champion Feat**
 
 The damage dice for the spell increase by one size (for example, d6s to d8s).
+
+3rd level spell: `dice: 3d8` damage.
+
+5th level spell: `dice: 5d8` damage.
+
+7th level spell: `dice: 5d8`damage.
+
+9th level spell: `dice: 6d12`damage.
 
 **Epic Feat**
 
@@ -626,7 +634,7 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 1d8 + Charisma fire damage, and the target loses its *resist damage* abilities, if any (hard save ends, 16+).
+**Hit:** `dice: 1d8` + Charisma fire damage, and the target loses its *resist damage* abilities, if any (hard save ends, 16+).
 
 **Miss:** Damage equal to your level.
 
@@ -660,7 +668,7 @@ Daily
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 7d6 + Charisma fire damage.
+**Hit:** `dice: 7d6` + Charisma fire damage.
 
 **Natural Even Hit:** As a hit, plus if the target is staggered after the attack, it’s also stunned until the end of its next turn.
 
@@ -700,7 +708,7 @@ Add your Charisma modifier to the extra damage (double your Charisma modifier at
 
 **Champion Feat**
 
-When you cast this spell, each nearby enemy that’s staggered also takes 2d6 thunder damage (4d6 thunder damage at 8th level).
+When you cast this spell, each nearby enemy that’s staggered also takes `dice: 2d6` thunder damage (`dice: 4d6` thunder damage at 8th level).
 
 **Epic Feat**
 
@@ -720,7 +728,7 @@ Daily
 
 7th level spell: `dice: 7d10`damage.
 
-9th level spell: 10d10 damage.
+9th level spell: `dice: 10d10` damage.
 
 **Adventurer Feat**
 
@@ -742,7 +750,7 @@ Ranged spell
 
 At-Will
 
-**Targets:** 1d3 nearby enemies
+**Targets:** `dice: 1d3` nearby enemies
 
 **Effect:** The target takes 4 force damage.
 
@@ -778,7 +786,7 @@ Daily
 
 After the damage, roll the escalation die and use the new result.
 
-7th level spell: Damage equal to 2d6 x the escalation die.
+7th level spell: Damage equal to `dice: 2d6` x the escalation die.
 
 9th level spell: Damage equal to `dice: 2d12` x the escalation die.
 
@@ -850,7 +858,7 @@ At-Will
 
 **Hit:** `dice: 1d4` + Charisma lightning damage, and a different random nearby enemy takes the same amount of thunder damage.
 
-3rd level spell: 2d6 damage.
+3rd level spell: `dice: 2d6` damage.
 
 5th level spell: `dice: 3d6` damage.
 
@@ -864,7 +872,7 @@ This spell now deals damage equal to your level on a miss.
 
 **Champion Feat**
 
-The damage dice for this spell increase by one size (for example, from `dice: 3d6` to 3d8).
+The damage dice for this spell increase by one size (for example, from `dice: 3d6` to `dice: 3d8`).
 
 **Epic Feat**
 
@@ -880,9 +888,9 @@ Daily
 
 5th level spell: `dice: 1d10`x the number of recoveries.
 
-7th level spell: 2d6 x the number of recoveries.
+7th level spell: `dice: 2d6` x the number of recoveries.
 
-9th level spell: 2d10 x the number of recoveries.
+9th level spell: `dice: 2d10` x the number of recoveries.
 
 ### Twisted Path
 
@@ -902,13 +910,13 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: `dice: 6d6`damage, you or ally loses 2d6 hit points.
+3rd level spell: `dice: 6d6`damage, you or ally loses `dice: 2d6` hit points.
 
 5th level spell: `dice: 6d10`damage, you or ally loses `dice: 4d6`hit points.
 
-7th level spell: 10d10 damage, you or ally loses `dice: 6d6`hit points.
+7th level spell: `dice: 10d10` damage, you or ally loses `dice: 6d6`hit points.
 
-9th level spell: `dice: 2d8*10` damage, you or ally loses 8d6 hit points.
+9th level spell: `dice: 2d8*10` damage, you or ally loses `dice: 8d6` hit points.
 
 **Adventurer Feat**
 
@@ -916,7 +924,7 @@ The spell now deals half damage on a miss.
 
 **Champion Feat**
 
-You or an ally now lose one less die of hit points (for example, `dice: 3d6` instead of 4d6).
+You or an ally now lose one less die of hit points (for example, `dice: 3d6` instead of `dice: 4d6`).
 
 **Epic Feat**
 
@@ -1004,7 +1012,7 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 1d8 + Charisma holy damage, and one nearby ally gains 3 temporary hit points.
+**Hit:** `dice: 1d8` + Charisma holy damage, and one nearby ally gains 3 temporary hit points.
 
 **Miss:** Damage equal to your level.
 
@@ -1068,13 +1076,13 @@ At-Will
 
 **Effect:** The targets teleport and swap places. Each teleported enemy takes `dice: 1d6` damage. You and your allies don’t take damage from teleporting.
 
-3rd level spell: 2d6 damage.
+3rd level spell: `dice: 2d6` damage.
 
-5th level spell: 2d10 damage.
+5th level spell: `dice: 2d10` damage.
 
 7th level spell: `dice: 3d12` damage.
 
-9th level spell: 4d12 damage.
+9th level spell: `dice: 4d12` damage.
 
 **Adventurer Feat**
 
@@ -1082,7 +1090,7 @@ Once per day, one or more targets of the spell can be faraway.
 
 **Champion Feat**
 
-The damage increases by one die (for example, 2d10 becomes 3d10).
+The damage increases by one die (for example, `dice: 2d10` becomes `dice: 3d10`).
 
 **Epic Feat**
 

@@ -33,25 +33,25 @@ Clerics may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      |     | 12      | —  |
 | Heavy      |     | 14      | —  |
 | Shield     |     | 1       | —  |
-  
+  ^13A-Class-Cleric-Armor
 
 #### Melee Weapons
 
-|| One-Handed      | Two-Handed|
-| ---------------- | --------------------------------- | ------------------------------------ |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club  |
-| Light or Simple  | `dice: 1d6` mace, shortsword     | 1d8 spear |
-| Heavy or Martial | 1d8 (-2 atk) longsword, warhammer | `dice: 1d10`(–2 atk) greatsword, dire flail |
-| Shield  | 1      | —|
-
+|                  | One-Handed                                | Two-Handed                                  |
+| ---------------- | ----------------------------------------- | ------------------------------------------- |
+| Small            | `dice: 1d4` dagger                        | `dice: 1d6` club                            |
+| Light or Simple  | `dice: 1d6` mace, shortsword              | `dice: 1d8` spear                           |
+| Heavy or Martial | `dice: 1d8` (-2 atk) longsword, warhammer | `dice: 1d10`(–2 atk) greatsword, dire flail |
+| Shield           | 1                                         | —                                           |
+  ^13A-Class-Cleric-Melee
 #### Ranged Weapons
 
-|| **Thrown**       | **Crossbow**       | **Bow**      |
-| ---------------- | ---------------- | --------------------------- | --------------------- |
-| Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | -   |
-| Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | -       | 1d8 (-1 atk) heavy crossbow | 1d8 (-5 atk) longbow  |
-
+|                  | **Thrown**               | **Crossbow**                        | **Bow**                       |
+| ---------------- | ------------------------ | ----------------------------------- | ----------------------------- |
+| Small            | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow           | -                             |
+| Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow          | `dice: 1d6` (-2 atk) shortbow |
+| Heavy or Martial | -                        | `dice: 1d8` (-1 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
+  ^13A-Class-Cleric-Ranged
 ### Level Progression
 
 | Cleric Level       | Total Hit Points  | Total Feats   | 1st level spell (M) | 3rd level spell (M) | 5th level spell (M) | 7th level spell (M) | 9th level spell (M) | Level-up Ability Bonuses | Damage Bonus From Ability Score |
@@ -67,6 +67,7 @@ Clerics may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (7 + CON mod) x 16| 4 adventurer 3 champion 1 epic  | — | — | 1 | 7 | — | —      | 3 x ability modifier   |
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic  | — | — | — | 2 | 6 | —      | 3 x ability modifier   |
 | Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic  | — | — | — | 1 | 8 | +1 to 3 abilities        | 3 x ability modifier   |      
+  ^13A-Class-Cleric-Progression
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
@@ -86,7 +87,7 @@ Although not listed on the table, this class gets three talents. It does not gai
 | Backgrounds        | 8 points, max 5 in any one background      |
 | Icon Relationships | 3 points        |
 | Talents   | 3      |
-
+  ^13A-Class-Cleric-Stats
 ### Basic Attacks
 
 #### Melee Attack
@@ -334,11 +335,11 @@ Quick action to cast
 
 3rd level spell: Each target also gains `dice: 1d10`temporary hit points per point of the attack bonus.
 
-5th level spell: Each target also gains 2d10 temporary hit points instead of `dice: 1d10`per point of the attack bonus.
+5th level spell: Each target also gains `dice: 2d10` temporary hit points instead of `dice: 1d10`per point of the attack bonus.
 
 7th level spell: All attack bonuses granted by the spell increase by +1.
 
-9th level spell: Each target also gains `dice: 3d10`temporary hit points instead of 2d10 per point of the attack bonus.
+9th level spell: Each target also gains `dice: 3d10`temporary hit points instead of `dice: 2d10` per point of the attack bonus.
 
 ##### Cure Wounds
 
@@ -398,7 +399,7 @@ At-Will
 
 ###### Adventurer Feat
 
-The spell also deals +1d6 damage against an undamaged target. At 5th level that increases to +`dice:2d6` damage; at 8th level it increases to +4d6 damage.
+The spell also deals +`dice: 1d6` damage against an undamaged target. At 5th level that increases to +`dice:2d6` damage; at 8th level it increases to +4d6 damage.
 
 ###### Champion Feat
 
@@ -444,11 +445,11 @@ Once per battle
 
 **Miss:** Your nearby ally with the fewest hit points gains a +2 bonus to AC until the end of your next turn.
 
-3rd level spell: 7d6 damage.
+3rd level spell: `dice: 7d6` damage.
 
 5th level spell: `dice: 7d10`damage.
 
-7th level spell: 10d12 damage.
+7th level spell: `dice: 10d12` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -472,7 +473,7 @@ Daily
 
 **Hit by 8+:** Against non-mooks, holy damage equal to half the target’s maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals 4d10 x your level holy damage.
 
-**Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals 4d20 x your level holy damage
+**Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals `dice: 4d20` x your level holy damage
 
 3rd level spell: Target with 90 hp or fewer.
 
@@ -576,7 +577,7 @@ Daily
 
 7th level spell: `dice: 2d6*10` damage.
 
-9th level spell: 2d10 x 10 damage.
+9th level spell: `dice: 2d10*10` damage.
 
 ###### Champion Feat
 
@@ -620,7 +621,7 @@ Quick action to cast
 
 **Cast for power:** One nearby ally deals +`dice: 2d8` damage with melee attacks this battle.
 
-**Cast for broad Effect:** Choose up to three nearby creatures (including you); each target deals +1d8 damage with melee attacks this battle.
+**Cast for broad Effect:** Choose up to three nearby creatures (including you); each target deals +`dice: 1d8` damage with melee attacks this battle.
 
 5th level spell: Power +4d6, Broad +`dice:2d6`.
 
@@ -672,7 +673,7 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 8d12 damage.
+7th level spell: `dice: 8d12` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 

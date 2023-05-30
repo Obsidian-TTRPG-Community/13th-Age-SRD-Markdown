@@ -39,8 +39,8 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 | 0       | One-Handed     | Two-Handed       |
 |------------------|-------------------------|---------------------------|
 | Small   | `dice: 1d4` dagger     | `dice: 1d6` staff        |
-| Light or Simple  | `dice: 1d6` (-2 atk) shortsword | 1d8 (-2 atk) spear*       |
-| Heavy or Martial | 1d8 (-5 atk) longsword  | `dice: 1d10`(-5 atk) greatsword* |
+| Light or Simple  | `dice: 1d6` (-2 atk) shortsword | `dice: 1d8` (-2 atk) spear*       |
+| Heavy or Martial | `dice: 1d8` (-5 atk) longsword  | `dice: 1d10`(-5 atk) greatsword* |
 
 #### Ranged Weapons
 
@@ -48,7 +48,7 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------|------------------------------|------------------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow   | —    |
 | Light or Simple  | `dice: 1d6` (-2) javelin | `dice: 1d6` (–1 atk) light crossbow* | `dice: 1d6` (-2 atk) shortbow* |
-| Heavy or Martial | —       | 1d8 (–4 atk) heavy crossbow* | 1d8 (-5 atk) longbow*  |
+| Heavy or Martial | —       | `dice: 1d8` (–4 atk) heavy crossbow* | `dice: 1d8` (-5 atk) longbow*  |
 
 - A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
@@ -140,7 +140,7 @@ Wizards can cast their spells as rituals.
 
 ##### Champion Feat
 
-You can cast full rituals by using all your actions each round to focus on the ritual for 1d3 + 1 rounds. As with standard rituals, your fast rituals are not meant to replace combat spells; they’re a means of acquiring and improvising wondrous magical effects rather than a means of inflicting damage and conditions.
+You can cast full rituals by using all your actions each round to focus on the ritual for `dice: 1d3` + 1 rounds. As with standard rituals, your fast rituals are not meant to replace combat spells; they’re a means of acquiring and improvising wondrous magical effects rather than a means of inflicting damage and conditions.
 
 ### Class Talents
 
@@ -563,7 +563,7 @@ Cyclic (cast once per battle OR at-will when the escalation die is even)
 
 7th level spell: 10d6 damage, 40 hp or fewer.
 
-9th level spell: 10d12 damage, 60 hp or fewer.
+9th level spell: `dice: 10d12` damage, 60 hp or fewer.
 
 ##### Adventurer Feat
 
@@ -629,7 +629,7 @@ At-Will
 
 7th level spell: `dice: 7d10`damage.
 
-9th level spell: 10d12 damage.
+9th level spell: `dice: 10d12` damage.
 
 ##### Adventurer Feat
 
@@ -689,7 +689,7 @@ At-Will
 
 3rd level spell: `dice: 1d6` damage.
 
-5th level spell: 2d6 damage.
+5th level spell: `dice: 2d6` damage.
 
 7th level spell: `dice: 3d6` damage.
 
@@ -757,11 +757,11 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-5th level spell: 4d12 damage.
+5th level spell: `dice: 4d12` damage.
 
 7th level spell: `dice: 7d10`damage.
 
-9th level spell: 10d12 damage.
+9th level spell: `dice: 10d12` damage.
 
 #### Force Salvo
 
@@ -779,7 +779,7 @@ Targets: One or more nearby or faraway enemies (see below)
 
 5th level spell: `dice: 7d10`damage.
 
-7th level spell: 10d12 damage.
+7th level spell: `dice: 10d12` damage.
 
 9th level spell: `dice: 3d6*10` damage.
 
@@ -833,7 +833,7 @@ Close-quarters spell
 
 Daily
 
-Targets: 1d3 + 1 nearby enemies in a group or in a (rough) line
+Targets: `dice: 1d3` + 1 nearby enemies in a group or in a (rough) line
 
 **Attack:** Intelligence + Level vs. PD
 
@@ -841,7 +841,7 @@ Targets: 1d3 + 1 nearby enemies in a group or in a (rough) line
 
 **Miss:** Half damage.
 
-5th level spell: 10d10 damage.
+5th level spell: `dice: 10d10` damage.
 
 7th level spell: `dice: 2d8*10` damage.
 
@@ -921,7 +921,7 @@ Always: For the rest of the battle, once per round when an enemy moves to engage
 
 7th level spell: `dice: 6d10`damage.
 
-9th level spell: 10d10 damage.
+9th level spell: `dice: 10d10` damage.
 
 ##### Champion Feat
 
@@ -983,11 +983,11 @@ Daily
 
 **Special:** When you cast this spell, you can choose to cast it recklessly.
 
-**Target:** 1d3 nearby enemies in a group. If you cast recklessly, you can target 1d3 additional enemies, but then your allies engaged with the target may also take damage (see below).
+**Target:** `dice: 1d3` nearby enemies in a group. If you cast recklessly, you can target `dice: 1d3` additional enemies, but then your allies engaged with the target may also take damage (see below).
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 10d10 fire damage.
+**Hit:** `dice: 10d10` fire damage.
 
 **Miss:** Half damage.
 
@@ -1003,7 +1003,7 @@ Casting the spell recklessly increases the number of additional targets to `dice
 
 ##### Epic Feat
 
-Increase the number of targets to 1d3 + 1 instead of 1d3.
+Increase the number of targets to `dice: 1d3` + 1 instead of 1d3.
 
 #### Invisibility
 
@@ -1017,7 +1017,7 @@ Daily
 
 High Arcana: The duration out of combat is 1 hour instead.
 
-7th level spell: You can now target 1d3 nearby allies (including you) with the spell.
+7th level spell: You can now target `dice: 1d3` nearby allies (including you) with the spell.
 
 9th level spell: Creatures made invisible by the spell have a 25% chance of remaining invisible the first time (and first time only) they attack or get flashy.
 
@@ -1088,7 +1088,7 @@ Ranged spell
 
 Recharge 16+ after battle
 
-**Target:** 1d3 nearby allies (including yourself, if you wish)
+**Target:** `dice: 1d3` nearby allies (including yourself, if you wish)
 
 **Effect:** Until the end of the battle, the target ignores the resistance power of any creature it targets with an attack.
 
@@ -1110,7 +1110,7 @@ Daily
 
 **Miss:** Half damage.
 
-9th level spell: 2d10 x 10 damage; if the spell misses, you regain it during your next quick rest.
+9th level spell: `dice: 2d10*10` damage; if the spell misses, you regain it during your next quick rest.
 
 ### 9th Level Spells
 
@@ -1140,7 +1140,7 @@ Ranged spell
 
 Daily
 
-**Special:** You summon a meteor swarm. If you’re underground, you get the ur-dark stalactite equivalent! Nothing more happens this round, but roll 1d3 + 1 to determine how many meteors you have summoned.
+**Special:** You summon a meteor swarm. If you’re underground, you get the ur-dark stalactite equivalent! Nothing more happens this round, but roll `dice: 1d3` + 1 to determine how many meteors you have summoned.
 
 At the start of your next turn, even if you are unconscious or dead or have left the area, the meteors arrive one per turn at the start of each of your turns and slam into the combat area.
 
@@ -1148,7 +1148,7 @@ At the start of your next turn, even if you are unconscious or dead or have left
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d4 x 10 damage of the energy type of your choice (cold, fire, lightning).
+**Hit:** `dice: 4d4*10` damage of the energy type of your choice (cold, fire, lightning).
 
 Any allies engaged with the enemies you are targeting take one-fourth damage from each meteor that impacts the area.
 

@@ -41,8 +41,8 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 || One-Handed      | Two-Handed      |
 | ---------------- | ------------------------ | ------------------------ |
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club        |
-| Light or Simple  | `dice: 1d6` scimitar, shortsword | 1d8 spear       |
-| Heavy or Martial | 1d8 longsword, battleaxe | `dice: 1d10`greatsword, halberd |
+| Light or Simple  | `dice: 1d6` scimitar, shortsword | `dice: 1d8` spear       |
+| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, halberd |
 
 #### Ranged Weapons
 
@@ -50,7 +50,7 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------|--------------------|--------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —       | 1d8 heavy crossbow | 1d8 longbow  |
+| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
 
 ### Level Progression
 
@@ -125,7 +125,7 @@ Add `dice: 2d12` to the damage roll instead of 1d12.
 
 ##### Epic Feat
 
-Add 4d12 to the damage roll instead of 2d12.
+Add `dice: 4d12` to the damage roll instead of 2d12.
 
 ### Class Talents
 

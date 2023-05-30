@@ -28,7 +28,7 @@ Possible backgrounds include:
 
 #### Gold Pieces
 
-Barbarians may start with either 25 gp or `dice: 1d6*10` (`dice: `dice: 1d6` * 10`) gp.
+Barbarians may start with either 25 gp or `dice: 1d6*10` gp.
 
 #### Armor
 
@@ -44,8 +44,8 @@ Barbarians may start with either 25 gp or `dice: 1d6*10` (`dice: `dice: 1d6` * 1
 || **One-Handed**      | **Two-Handed**       |
 | ---------------- | ------------------------ | ------------------------- |
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` hand-axe, warclub    | 1d8 spear        |
-| Heavy or Martial | 1d8 longsword, battleaxe | `dice: 1d10`greatsword, greataxe |
+| Light or Simple  | `dice: 1d6` hand-axe, warclub    | `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, greataxe |
 ^13A-Class-Barbarian-Melee
 #### Ranged Weapons
 
@@ -53,7 +53,7 @@ Barbarians may start with either 25 gp or `dice: 1d6*10` (`dice: `dice: 1d6` * 1
 | ---------------- | ----------------------- | --------------------------- | ------------ |
 | Small   | `dice: 1d4` dagger     | `dice: 1d4` (-5 atk) hand crossbow  | -   |
 | Light or Simple  | `dice: 1d6` javelin, axe, spear | `dice: 1d6` (-5 atk) light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | -     | 1d8 (-5 atk) heavy crossbow | 1d8 longbow  |
+| Heavy or Martial | -     | `dice: 1d8` (-5 atk) heavy crossbow | `dice: 1d8` longbow  |
 ^13A-Class-Barbarian-Ranged
 ### Level Progression
 
@@ -118,7 +118,7 @@ All barbarians have the Barbarian Rage class feature.
 
 Once per day, use a quick action to start raging. A rage lasts until the end of battle, or about 5 minutes.
 
-While raging, you roll 2d20 (`dice: 2d20`) to hit with your barbarian melee and thrown weapon attacks instead of 1d20. Use the higher roll for the attack.
+While raging, you roll `dice: 2d20` to hit with your barbarian melee and thrown weapon attacks instead of `dice: 1d20`. Use the higher roll for the attack.
 
 If you roll a natural 11+ with both dice and your highest attack roll is a hit, the attack is a critical hit!
 
@@ -156,7 +156,7 @@ While raging, you can use Barbaric Cleave as many times as you like during a bat
 
 #### Building Frenzy
 
-One battle per day, as a free action after you have missed an attack, gain +1d4 damage to each successful melee attack until the end of the battle. For each missed attack following this, add another +1d4 damage, up to a maximum of +4d4 damage.
+One battle per day, as a free action after you have missed an attack, gain +`dice: 1d4` damage to each successful melee attack until the end of the battle. For each missed attack following this, add another +`dice: 1d4` damage, up to a maximum of +`dice: 4d4` damage.
 
 **Adventurer Feat**  
 Bonus damage dice are now d6s.
@@ -169,7 +169,7 @@ You can use Building Frenzy twice a day.
 
 #### Slayer
 
-During your turn, when you attack a staggered enemy you were not engaged with at the start of your turn, deal +1d6 damage per level to that creature if you hit.
+During your turn, when you attack a staggered enemy you were not engaged with at the start of your turn, deal +`dice: 1d6` damage per level to that creature if you hit.
 
 **Adventurer Feat**  
 You gain a +2 bonus to Slayer attacks.
@@ -240,13 +240,13 @@ You can now use Natural Will as a free action when an enemy attacks you.
 
 #### Violence
 
-Once per battle, add a +1d4 bonus to a barbarian melee attack roll after finding out whether you hit or missed.
+Once per battle, add a +`dice: 1d4` bonus to a barbarian melee attack roll after finding out whether you hit or missed.
 
 **Champion Feat**  
 If the attack still misses, deal half damage.
 
 **Epic Feat**  
-The bonus increases to +1d6.
+The bonus increases to +`dice: 1d6`.
 
 ### Epic Talents
 
@@ -255,7 +255,7 @@ At 8th level, you gain an additional barbarian class talent. Choose one of these
 #### Ancestral Warband
 
 One battle per day as a quick action, you can call the spirits of your ancestors to fight alongside you. Your ancestors can’t be hurt or affected by the creatures of this world.  
-At the end of each of your turns, if you are conscious, roll a d6 (`dice: d6`). If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world.
+At the end of each of your turns, if you are conscious, roll a d6. If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world.
 
 Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or [magic items](Compendium/13A/Magic-Items/Magic-Items.md) as you see fit.
 

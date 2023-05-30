@@ -38,9 +38,9 @@ Rogues may start with either 25 gp or `dice: 1d6*10` gp.
 
 || One-Handed     | Two-Handed      |
 |------------------|----------------------------------|--------------------------|
-| Small   | 1d8 dagger     | `dice: 1d6` club        |
-| Light or Simple  | 1d8 shortsword, wicked knife     | 1d8 spear       |
-| Heavy or Martial | 1d8 (-2 atk) longsword, scimitar | `dice: 1d10`(-2 atk) greatsword |
+| Small   | `dice: 1d8` dagger     | `dice: 1d6` club        |
+| Light or Simple  | `dice: 1d8` shortsword, wicked knife     | `dice: 1d8` spear       |
+| Heavy or Martial | `dice: 1d8` (-2 atk) longsword, scimitar | `dice: 1d10`(-2 atk) greatsword |
 
 #### Ranged Weapons
 
@@ -48,7 +48,7 @@ Rogues may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------|-----------------------------|----------------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —  |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow|
-| Heavy or Martial | —       | 1d8 (–1 atk) heavy crossbow | 1d8 (-2 atk) longbow |
+| Heavy or Martial | —       | `dice: 1d8` (–1 atk) heavy crossbow | `dice: 1d8` (-2 atk) longbow |
 
 ### Level Progression
 
@@ -128,10 +128,10 @@ Once per round when you make a rogue melee weapon attack against an enemy engage
 
 | Rogue Level | Extra Damage |
 |-------------|--------------|
-| 1  | +1d4|
+| 1  | +`dice: 1d4`|
 | 2  | +1d6|
 | 4  | +`dice:2d6`|
-| 6  | +3d6|
+| 6  | +`dice: 3d6` |
 | 8  | +5d6|
 | 10 | +7d6|
 

@@ -39,8 +39,8 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 || One-Handed      | Two-Handed       |
 | ---------------- | ------------------------ | ------------------------- |
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` shortsword, hand axe | 1d8 spear        |
-| Heavy or Martial | 1d8 longsword, warhammer | `dice: 1d10`greatsword, greataxe |
+| Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |
 
 #### Ranged Weapons
 
@@ -48,7 +48,7 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------|--------------------|--------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —       | 1d8 heavy crossbow | 1d8 longbow  |
+| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
 
 ### Level Progression
 
@@ -417,13 +417,13 @@ Use the following stats as the baseline for your animal companion. Remember that
 |-------|------------|--------|----|------------|------------|-----------|
 | 0     | +5 vs. AC  | d8     | 16 | 14| 10| 20 (10)   |
 | 1     | +6 vs. AC  | d10    | 17 | 15| 11| 27 (13)   |
-| 2     | +7 vs. AC  | 2d6    | 18 | 16| 12| 36 (18)   |
+| 2     | +7 vs. AC  | `dice: 2d6`    | 18 | 16| 12| 36 (18)   |
 | 3     | +9 vs. AC  | `dice: 3d6`    | 19 | 17| 13| 45 (22)   |
 | 4     | +10 vs. AC | `dice: 4d6`   | 21 | 19| 15| 54 (27)   |
 | 5     | +11 vs. AC | `dice: 5d6`    | 22 | 20| 16| 72 (36)   |
 | 6     | +13 vs. AC | `dice: 6d6`   | 23 | 21| 17| 90 (45)   |
-| 7     | +14 vs. AC | 7d6    | 25 | 23| 19| 108 (54)  |
-| 8     | +15 vs. AC | 8d6    | 26 | 24| 20| 144 (72)  |
+| 7     | +14 vs. AC | `dice: 7d6`    | 25 | 23| 19| 108 (54)  |
+| 8     | +15 vs. AC | `dice: 8d6`    | 26 | 24| 20| 144 (72)  |
 | 9     | +17 vs. AC | 9d6    | 27 | 25| 21| 180 (90)  |
 | 10    | +18 vs. AC | 10d6   | 28 | 26| 22| 216 (108) |
 
@@ -567,7 +567,7 @@ Daily
 
 **Effect:** Until the end of the battle, when the target hits with a melee attack, you heal hit points equal to `dice: 1d10`+ your Wisdom modifier.
 
-9th level spell: You now heal hit points equal to 2d10 + double your Wisdom modifier.
+9th level spell: You now heal hit points equal to `dice: 2d10` + double your Wisdom modifier.
 
 #### 9th Level Spells
 

@@ -39,8 +39,8 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 || One-Handed   | Two-Handed       |
 | ---------------- | ------------------------------ | ---------------------------------- |
 | Small   | `dice: 1d4` dagger   | `dice: 1d6` club, staff  |
-| Light or Simple  | `dice: 1d6` mace, axe, shell blade     | 1d8 spear        |
-| Heavy or Martial | 1d8 (-2 atk)* warhammer, flail | `dice: 1d10`(–2 atk) dire flail, greataxe |
+| Light or Simple  | `dice: 1d6` mace, axe, shell blade     | `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` (-2 atk)* warhammer, flail | `dice: 1d10`(–2 atk) dire flail, greataxe |
 | Shield  | 1   | -2*     |      
 ^13A-Class-Druid-Melee
 \*Warrior druid talent choices can change shield and one-handed weapon stats.
@@ -51,7 +51,7 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ---------------- | --------------------------- | -------------------- |
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` (-2 atk)hand crossbow   | —  |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` (-2 atk) light crossbow | `dice: 1d6` shortbow|
-| Heavy or Martial | —       | 1d8 (–5 atk) heavy crossbow | 1d8 (–2 atk) longbow |
+| Heavy or Martial | —       | `dice: 1d8` (–5 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow |
 | Shield  | 1       | -2*       | 3  |
 ^13A-Class-Druid-Ranged
 #### Level Progression
@@ -205,7 +205,7 @@ At-Will
 
 **Natural Even Hit:** `dice: 1d6` + Wisdom cold damage, and a different nearby enemy takes cold damage equal to your level.
 
-**Natural Odd Hit:** `dice: 1d6` + Wisdom cold damage, and each nearby mook takes 1d3 damage.
+**Natural Odd Hit:** `dice: 1d6` + Wisdom cold damage, and each nearby mook takes `dice: 1d3` damage.
 
 **Miss:** Damage equal to your level.
 
@@ -241,7 +241,7 @@ At-Will
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom damage.
+**Hit:** `dice: 1d8` + Wisdom damage.
 
 **Natural Odd Hit:** As a hit, plus ongoing damage equal to your Strength or Dexterity modifier, whichever is higher.
 
@@ -283,13 +283,13 @@ At-Will
 
 **Natural Odd Hit:** As a hit, plus one of your allies engaged with the target, if any, takes `dice: 1d6` fire damage.
 
-3rd level spell: `dice: 5d6` damage, 2d6 damage on odd hit.
+3rd level spell: `dice: 5d6` damage, `dice: 2d6` damage on odd hit.
 
 5th level spell: `dice: 5d8`damage, 2d8 damage on odd hit.
 
 7th level spell: `dice: 7d10`damage, `dice: 3d10`damage on odd hit.
 
-9th level spell: 10d10 damage, `dice: 4d6`damage on odd hit.
+9th level spell: `dice: 10d10` damage, `dice: 4d6`damage on odd hit.
 
 ##### Water Mastery
 
@@ -373,7 +373,7 @@ Daily
 
 5th level spell: `dice: 6d10`damage, and the target also can’t teleport (save ends all).
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -397,7 +397,7 @@ Daily
 
 5th level spell: `dice: 6d10`damage and 10 ongoing cold damage, and you gain *flight* until the end of your next turn.
 
-7th level spell: 10d10 damage and 10 ongoing cold damage, and you gain *flight* until the end of the battle.
+7th level spell: `dice: 10d10` damage and 10 ongoing cold damage, and you gain *flight* until the end of the battle.
 
 9th level spell: `dice: 2d8*10` damage, and 15 ongoing cold damage.
 
@@ -439,7 +439,7 @@ Your summoned creatures can arrive anywhere you can see nearby, instead of needi
 
 ###### Champion Feat
 
-When you summon a non-mook creature, roll 2d10 and add double your Strength modifier or Dexterity modifier, whichever is higher. Your summoned creature increases its base hit points by that amount. (At 8th level, roll `dice: 3d10`and add triple the modifier.)
+When you summon a non-mook creature, roll `dice: 2d10` and add double your Strength modifier or Dexterity modifier, whichever is higher. Your summoned creature increases its base hit points by that amount. (At 8th level, roll `dice: 3d10`and add triple the modifier.)
 
 ###### Epic Feat
 
@@ -509,7 +509,7 @@ Ranged spell
 
 Daily
 
-**Targets:** 1d3 + 1 nearby enemies
+**Targets:** `dice: 1d3` + 1 nearby enemies
 
 **Attack:** Wisdom + Level vs. PD
 
@@ -519,7 +519,7 @@ Daily
 
 7th level spell: `dice: 5d12` damage.
 
-9th level spell: 8d12 damage.
+9th level spell: `dice: 8d12` damage.
 
 ###### Fog Bank (Water)
 
@@ -545,13 +545,13 @@ Daily
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 10d8 + Wisdom lightning damage.
+**Hit:** `dice: 10d8` + Wisdom lightning damage.
 
 **Miss:** 15 lightning damage.
 
 **Effect:** Until the end of the battle, when the escalation die is odd at the start of your turn, repeat this attack once that turn against one random nearby enemy as a free action, even if you don’t have line of sight to that creature.
 
-9th level spell: 10d12 damage; 25 miss damage.
+9th level spell: `dice: 10d12` damage; 25 miss damage.
 
 ##### 9th Level Spells
 
@@ -946,7 +946,7 @@ Your extra melee damage while using this aspect increases according to your leve
 
 6th level druid: +`dice:2d6` damage.
 
-8th level druid: +3d6 damage.
+8th level druid: +`dice: 3d6` damage.
 
 10th level druid: +3d12 damage.
 
@@ -1039,7 +1039,7 @@ Ranged spell
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 1d8 psychic damage (don’t add your ability score modifier).
+**Hit:** `dice: 1d8` psychic damage (don’t add your ability score modifier).
 
 **Natural Even Hit:** As a hit, plus the target can’t attack the druid until the end of its next turn unless the druid moves to engage the target.
 
@@ -1099,7 +1099,7 @@ Ranged spell
 
 Daily
 
-**Effect:** Until the end of the battle, the area the battle is occurring in is dangerous to move in. When an enemy moves through the area on the ground (enemies using *teleport* or similar powers aren’t affected), it must roll a normal save that turn. On a failure, that creature takes 7d6 damage. If they move again that turn, they don’t have to roll a save.
+**Effect:** Until the end of the battle, the area the battle is occurring in is dangerous to move in. When an enemy moves through the area on the ground (enemies using *teleport* or similar powers aren’t affected), it must roll a normal save that turn. On a failure, that creature takes `dice: 7d6` damage. If they move again that turn, they don’t have to roll a save.
 
 You can move normally in the area. Your allies must roll an easy save (6+); if they fail they take half damage when they move.
 
@@ -1129,7 +1129,7 @@ Ranged spell
 
 At-Will (in any terrain)
 
-**Targets:** 1d3 nearby enemies in a group
+**Targets:** `dice: 1d3` nearby enemies in a group
 
 **Attack:** Wisdom + Level vs. PD
 
@@ -1139,7 +1139,7 @@ At-Will (in any terrain)
 
 3rd level spell: `dice: 2d4` damage.
 
-5th level spell: 2d6 damage.
+5th level spell: `dice: 2d6` damage.
 
 7th level spell: `dice: 4d6`damage.
 
@@ -1171,7 +1171,7 @@ Ranged spell
 
 Daily
 
-**Target:** 1d3 nearby creatures
+**Target:** `dice: 1d3` nearby creatures
 
 **Attack:** Wisdom + Level vs. PD
 
@@ -1183,7 +1183,7 @@ Daily
 
 7th level spell: `dice: 6d10`damage; hit/miss effect affects targets with 220 hp or fewer.
 
-9th level spell: 10d10 damage; hit/miss effect affects targets with 350 hp or fewer.
+9th level spell: `dice: 10d10` damage; hit/miss effect affects targets with 350 hp or fewer.
 
 ###### Plantwalk (5th level)
 
@@ -1227,7 +1227,7 @@ Once per battle (in any terrain)
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 2d6 + Wisdom cold damage, or `dice: 3d6` + Wisdom cold damage to an enemy you are engaged with.
+**Hit:** `dice: 2d6` + Wisdom cold damage, or `dice: 3d6` + Wisdom cold damage to an enemy you are engaged with.
 
 **Natural Even Miss:** Half damage.
 
@@ -1237,7 +1237,7 @@ Once per battle (in any terrain)
 
 5th level spell: `dice: 5d10`damage, or `dice: 6d10`to an enemy you are engaged with.
 
-7th level spell: `dice: 8d10`damage, or 10d10 to an enemy you are engaged with.
+7th level spell: `dice: 8d10`damage, or `dice: 10d10` to an enemy you are engaged with.
 
 9th level spell: `dice: 2d6*10` damage, or `dice: 2d8*10` to an enemy you are engaged with.
 
@@ -1259,7 +1259,7 @@ Quick action to cast
 
 7th level spell: `dice: 6d10`damage.
 
-9th level spell: 10d10 damage.
+9th level spell: `dice: 10d10` damage.
 
 ###### Icicle (3rd level)
 
@@ -1279,9 +1279,9 @@ Daily
 
 5th level spell: `dice: 7d10`damage.
 
-7th level spell: 10d12 damage.
+7th level spell: `dice: 10d12` damage.
 
-9th level spell: 2d10 x 10 damage.
+9th level spell: `dice: 2d10*10` damage.
 
 ###### Cone of Cold (5th level)
 
@@ -1299,7 +1299,7 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -1327,7 +1327,7 @@ At-Will (in any terrain)
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom damage; or 2d8 + Wisdom damage against a mook.
+**Hit:** `dice: 1d8` + Wisdom damage; or 2d8 + Wisdom damage against a mook.
 
 **Miss:** Damage equal to your level against a non-mook; no effect against a mook.
 
@@ -1335,7 +1335,7 @@ At-Will (in any terrain)
 
 5th level spell: `dice: 5d6` damage, or `dice: 6d10`against a mook.
 
-7th level spell: `dice: 5d8`damage, or 10d8 against a mook.
+7th level spell: `dice: 5d8`damage, or `dice: 10d8` against a mook.
 
 9th level spell: `dice: 8d10`damage, or `dice: 3d6*10` against a mook.
 
@@ -1355,7 +1355,7 @@ Daily
 
 7th level spell: Heal `dice: 7d10`hit points.
 
-9th level spell: Heal 10d10 hit points.
+9th level spell: Heal `dice: 10d10` hit points.
 
 ###### Stomp! (5th level)
 
@@ -1413,7 +1413,7 @@ At-Will (in any terrain)
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom lightning damage, or 2d8 + Wisdom lightning damage against a creature that is flying.
+**Hit:** `dice: 1d8` + Wisdom lightning damage, or 2d8 + Wisdom lightning damage against a creature that is flying.
 
 **Miss:** Damage equal to your level.
 
@@ -1421,7 +1421,7 @@ At-Will (in any terrain)
 
 5th level spell: `dice: 5d6` damage, or `dice: 6d10`against a flying creature.
 
-7th level spell: `dice: 5d8`damage, or 10d8 against a flying creature.
+7th level spell: `dice: 5d8`damage, or `dice: 10d8` against a flying creature.
 
 9th level spell: `dice: 8d10`damage, or `dice: 3d6*10` against a flying creature.
 
@@ -1437,7 +1437,7 @@ Quick action to cast
 
 3rd level spell: `dice: 1d6` + Wisdom modifier damage.
 
-5th level spell: 2d6 + Wisdom modifier damage.
+5th level spell: `dice: 2d6` + Wisdom modifier damage.
 
 7th level spell: `dice: 3d6` + Wisdom modifier damage.
 
@@ -1507,7 +1507,7 @@ At-Will (in any terrain)
 
 7th level spell: `dice: 4d6`damage.
 
-9th level spell: 4d12 damage.
+9th level spell: `dice: 4d12` damage.
 
 ###### Heat Metal (1st level)
 
@@ -1529,7 +1529,7 @@ Daily
 
 7th level spell: `dice: 9d10`damage, and 40 ongoing damage (hit and miss).
 
-9th level spell: 10d12 damage, and 50 ongoing damage (hit and miss).
+9th level spell: `dice: 10d12` damage, and 50 ongoing damage (hit and miss).
 
 ###### Air & Fire (3rd level)
 
@@ -1591,7 +1591,7 @@ Once per battle (in any terrain)
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** Each nearby enemy takes 2d6 damage (don’t add your ability score modifier). For mooks, deal the damage once to the mob, not to each member of it.
+**Hit:** Each nearby enemy takes `dice: 2d6` damage (don’t add your ability score modifier). For mooks, deal the damage once to the mob, not to each member of it.
 
 3rd level spell: `dice: 4d6`damage.
 
@@ -1611,7 +1611,7 @@ Daily
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 2d6 + Wisdom damage, and 10 special ongoing damage.
+**Hit:** `dice: 2d6` + Wisdom damage, and 10 special ongoing damage.
 
 *special ongoing damage:* The target can’t start rolling saves against this damage until you or your allies attack it, or until it starts its turn staggered.
 
@@ -1623,7 +1623,7 @@ Daily
 
 7th level spell: `dice: 8d10`damage, and 25 ongoing damage; 15 ongoing on a miss.
 
-9th level spell: 10d12 damage, and 40 ongoing damage; 20 ongoing on a miss.
+9th level spell: `dice: 10d12` damage, and 40 ongoing damage; 20 ongoing on a miss.
 
 ###### How Things End (5th level)
 
@@ -1641,7 +1641,7 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -1729,7 +1729,7 @@ Daily
 
 5th level spell: 6d8 damage.
 
-7th level spell: 10d8 damage.
+7th level spell: `dice: 10d8` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -1745,9 +1745,9 @@ Daily
 
 **Hit:** `dice: 2d6*10` + Wisdom psychic damage, and you and each of your nearby allies can roll a save with a +5 bonus against any save ends effect created by the target.
 
-**Miss:** Half damage, and you and 1d3 of your nearby allies can each roll a save against any save ends effect created by the target.
+**Miss:** Half damage, and you and `dice: 1d3` of your nearby allies can each roll a save against any save ends effect created by the target.
 
-9th level spell: 2d10 x 10 damage.
+9th level spell: `dice: 2d10*10` damage.
 
 #### Warrior Druid
 
@@ -1770,7 +1770,7 @@ If you use two talents to become a Warrior Druid adept, choose *three* of the fo
     
 -   Your base hit points are 7 + CON mod instead of 6 + CON mod.
     
--   You can use one-handed 1d8 martial weapons without taking the –2 attack penalty that other druids suffer.
+-   You can use one-handed `dice: 1d8` martial weapons without taking the –2 attack penalty that other druids suffer.
     
 -   You can use a shield (in human form) without taking an attack penalty like other druids.
     
@@ -2313,13 +2313,13 @@ Use the following stats as the baseline for your animal companion. Remember that
 | ----- | ---------- | ------ | --- | ---------- | ---------- | --------- |
 | 0     | +5 vs. AC  | d8     | 16  | 14| 10| 20 (10)   |
 | 1     | +6 vs. AC  | d10    | 17  | 15| 11| 27 (13)   |
-| 2     | +7 vs. AC  | 2d6    | 18  | 16| 12| 36 (18)   |
+| 2     | +7 vs. AC  | `dice: 2d6`    | 18  | 16| 12| 36 (18)   |
 | 3     | +9 vs. AC  | `dice: 3d6`    | 19  | 17| 13| 45 (22)   |
 | 4     | +10 vs. AC | `dice: 4d6`   | 21  | 19| 15| 54 (27)   |
 | 5     | +11 vs. AC | `dice: 5d6`    | 22  | 20| 16| 72 (36)   |
 | 6     | +13 vs. AC | `dice: 6d6`   | 23  | 21| 17| 90 (45)   |
-| 7     | +14 vs. AC | 7d6    | 25  | 23| 19| 108 (54)  |
-| 8     | +15 vs. AC | 8d6    | 26  | 24| 20| 144 (72)  |
+| 7     | +14 vs. AC | `dice: 7d6`    | 25  | 23| 19| 108 (54)  |
+| 8     | +15 vs. AC | `dice: 8d6`    | 26  | 24| 20| 144 (72)  |
 | 9     | +17 vs. AC | 9d6    | 27  | 25| 21| 180 (90)  | 
 | 10    | +18 vs. AC | 10d6   | 28  | 26| 22| 216 (108) |
 
@@ -2462,7 +2462,7 @@ Daily
 
 **Effect:** Until the end of the battle, when the target hits with a melee attack, you heal hit points equal to `dice: 1d10`+ your Wisdom modifier.
 
-9th level spell: You now heal hit points equal to 2d10 + double your Wisdom modifier.
+9th level spell: You now heal hit points equal to `dice: 2d10` + double your Wisdom modifier.
 
 #### 9th Level Spells
 

@@ -42,7 +42,7 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 | ---------------- | ---------------- | --------------------------- | --------------------- |
 | Small   | `dice: 1d4` dagger, star | `dice: 1d4` (-2 atk) hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` javelin      | `dice: 1d6` (-3 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —       | 1d8 (-4 atk) heavy crossbow | 1d8 (-3 atk) longbow  |
+| Heavy or Martial | —       | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-3 atk) longbow  |
 
 ## Level Progression
 
@@ -112,7 +112,7 @@ Under normal circumstances, melee weapons that are traditional in a monk’s sty
 
 -   JAB attacks deal `dice: 1d6` damage per level.
     
--   PUNCH attacks deal 1d8 damage per level.
+-   PUNCH attacks deal `dice: 1d8` damage per level.
     
 -   KICK attacks deal `dice: 1d10`damage per level.
     
@@ -205,9 +205,9 @@ When the escalation die is 4+, your Flurry attack deals PUNCH + Strength damage 
 
 *If you use* Greeting Fist *in a battle, you can’t use any other* Seven Deadly Secrets *talent that battle.*
 
-The first time you make a melee attack against each enemy during a battle (including the first mook of a mob), the target takes 1d8 extra damage on a hit.
+The first time you make a melee attack against each enemy during a battle (including the first mook of a mob), the target takes `dice: 1d8` extra damage on a hit.
 
-2nd level monk: 2d6 extra damage.
+2nd level monk: `dice: 2d6` extra damage.
 
 4th level monk: 2d8 extra damage.
 
@@ -946,7 +946,7 @@ Melee attack
 
 **Hit:** JAB + Strength damage.
 
-**Natural Even Hit:** As a hit, plus 2d6 ongoing lightning damage.
+**Natural Even Hit:** As a hit, plus `dice: 2d6` ongoing lightning damage.
 
 **Miss:** Both you and the target take damage equal to your level.
 
@@ -974,7 +974,7 @@ Melee attack
 
 **Hit:** KICK + Strength damage.
 
-**Natural Even Hit:** As a hit, plus 1d3 nearby enemies other than the target each take lightning damage equal to double your level.
+**Natural Even Hit:** As a hit, plus `dice: 1d3` nearby enemies other than the target each take lightning damage equal to double your level.
 
 **Miss:** Half damage.
 

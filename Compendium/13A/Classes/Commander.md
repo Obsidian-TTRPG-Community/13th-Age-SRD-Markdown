@@ -36,21 +36,22 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 ^13A-Class-Commander-Armor
 #### Melee Weapons
 
-|| One-Handed      | Two-Handed      |
-| ---------------- | --------------------------------- | ------------------------ |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club        |
-| Light or Simple  | `dice: 1d6` mace, shortsword     | 1d8 spear       |
-| Heavy or Martial | 1d8 (-2 atk) longsword, warhammer | `dice: 1d10`(–2 atk) greatsword |
-| Shield  | 1      | —      |
-
+|                  | One-Handed                                | Two-Handed                      |
+| ---------------- | ----------------------------------------- | ------------------------------- |
+| Small            | `dice: 1d4` dagger                        | `dice: 1d6` club                |
+| Light or Simple  | `dice: 1d6` mace, shortsword              | `dice: 1d8` spear               |
+| Heavy or Martial | `dice: 1d8` (-2 atk) longsword, warhammer | `dice: 1d10`(–2 atk) greatsword |
+| Shield           | 1                                         | —                               |
+^13A-Class-Commander-Melee
 #### Ranged Weapons
 
-|| Thrown  | Crossbow  | Bow|
-| ---------------- | ---------------- | --------------------------- | -------------------- |
-| Small   | `dice: 1d4` dagger, star | `dice: 1d4` hand crossbow  | —  |
-| Light or Simple  | `dice: 1d6` javelin      | `dice: 1d6` light crossbow | `dice: 1d6` shortbow|
-| Heavy or Martial | —       | 1d8 (–2 atk) heavy crossbow | 1d8 (–2 atk) longbow |
-
+|                  | Thrown                   | Crossbow                            | Bow                          |
+| ---------------- | ------------------------ | ----------------------------------- | ---------------------------- |
+| ---------------- | ------------------------ | ----------------------------------- | ---------------------------- |
+| Small            | `dice: 1d4` dagger, star | `dice: 1d4` hand crossbow           | —                            |
+| Light or Simple  | `dice: 1d6` javelin      | `dice: 1d6` light crossbow          | `dice: 1d6` shortbow         |
+| Heavy or Martial | —                        | `dice: 1d8` (–2 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow |
+^13A-Class-Commander-Ranged
 #### Level Progression
 
 | Commander Level    | Total Hit Points  | Total Feats  | Class Talents (M) | Commands & Tactics (m) | Pool available (M) | Level-up Ability  | Damage Bonus From Ability Score |
@@ -66,6 +67,7 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (7 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 4        | 9    | 7th level | | 3 x ability modifier   |
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 4        | 9    | 9th level | | 3 x ability modifier   |
 | Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 4        | 10   | 9th level | +1 to 3 abilities | 3 x ability modifier   |      
+^13A-Class-Commander-Progression
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
 ### Stats
@@ -83,7 +85,7 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | Icon Relationships        | 3 points (4 at 5th level; 5 at 8th level)  |
 | Talents | 3 (see level progression chart)   |
 | Feats   | 1 per Level     |
-
+^13A-Class-Commander-Stats
 ### Basic Attacks
 
 #### Melee Attack
@@ -116,11 +118,11 @@ You can choose the commands and tactics you want to use. A 1st-level commander s
 
 #### Fight from the Front
 
-When you hit with a commander melee attack during your turn, gain 1d3 command points.
+When you hit with a commander melee attack during your turn, gain `dice: 1d3` command points.
 
 ##### Adventurer Feat
 
-You now gain `dice: 1d4` command points when you hit with a melee attack during your turn instead of 1d3.
+You now gain `dice: 1d4` command points when you hit with a melee attack during your turn instead of `dice: 1d3`.
 
 ##### Champion Feat
 
@@ -516,11 +518,11 @@ Quick action, when the escalation die is 2+
 
 **Recharge** 16+ after battle
 
-**Effect:** Decrease the escalation die by 1. Then 1d3 of your nearby allies can heal using a recovery.
+**Effect:** Decrease the escalation die by 1. Then `dice: 1d3` of your nearby allies can heal using a recovery.
 
 ##### Adventurer Feat
 
-The tactic now affects 1d3 + 1 nearby allies.
+The tactic now affects `dice: 1d3` + 1 nearby allies.
 
 ##### Champion Feat
 
@@ -644,7 +646,7 @@ Quick action
 
 **Recharge** 16+ after battle
 
-**Targets:** You and 1d3 nearby allies
+**Targets:** You and `dice: 1d3` nearby allies
 
 **Effect:** Each target can take a move action as a free action, starting with you and proceeding in the order of your choice.
 

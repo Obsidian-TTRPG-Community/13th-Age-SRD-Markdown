@@ -39,8 +39,8 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 | 0       | One-Handed    | Two-Handed       |
 |------------------|------------------------|---------------------------|
 | Small   | `dice: 1d4` dagger    | `dice: 1d6` staff        |
-| Light or Simple  | `dice: 1d6` shortsword| 1d8 spear        |
-| Heavy or Martial | 1d8 (-2 atk) longsword | `dice: 1d10`(-2 atk) greatsword* |
+| Light or Simple  | `dice: 1d6` shortsword| `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` (-2 atk) longsword | `dice: 1d10`(-2 atk) greatsword* |
 
 #### Ranged Weapons
 
@@ -48,7 +48,7 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|-------------|------------------------------|------------------------|
 | Small   | `dice: 1d4` dagger  | `dice: 1d4` hand crossbow   | —    |
 | Light or Simple  | `dice: 1d6` javelin | `dice: 1d6` (–1 atk) light crossbow* | `dice: 1d6` (-2 atk) shortbow* |
-| Heavy or Martial | —  | 1d8 (–3 atk) heavy crossbow* | 1d8 (-4 atk) longbow*  |
+| Heavy or Martial | —  | `dice: 1d8` (–3 atk) heavy crossbow* | `dice: 1d8` (-4 atk) longbow*  |
   
 - A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
@@ -387,7 +387,7 @@ Daily
 
 7th level spell: 6d12 damage.
 
-9th level spell: 10d12 damage.
+9th level spell: `dice: 10d12` damage.
 
 *Breath Weapon*: For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
 
@@ -403,7 +403,7 @@ Targets: Up to two nearby enemies in a group
 
 **Hit:** `dice: 1d6` + Charisma fire damage.
 
-3rd level spell: 1d8 damage.
+3rd level spell: `dice: 1d8` damage.
 
 5th level spell: 2d8 damage.
 
@@ -435,7 +435,7 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 1d8 + Charisma random energy damage, and if the natural attack roll was even, you gain a chaotic benefit as if you had gathered power.
+**Hit:** `dice: 1d8` + Charisma random energy damage, and if the natural attack roll was even, you gain a chaotic benefit as if you had gathered power.
 
 **Miss:** Damage equal to your level.
 
@@ -469,11 +469,11 @@ Recharge 16+ after battle
 
 **Miss:** Half damage.
 
-3rd level spell: 7d6 damage.
+3rd level spell: `dice: 7d6` damage.
 
 5th level spell: `dice: 6d10`damage.
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -523,13 +523,13 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** `dice: 1d6` + Charisma fire damage, and if the natural attack roll is even, the target also takes 1d8 ongoing fire damage.
+**Hit:** `dice: 1d6` + Charisma fire damage, and if the natural attack roll is even, the target also takes `dice: 1d8` ongoing fire damage.
 
 **Miss:** Damage equal to your level.
 
 3rd level spell: `dice: 3d6` damage; `dice: 2d4` ongoing.
 
-5th level spell: `dice: 4d6`damage; 2d6 ongoing.
+5th level spell: `dice: 4d6`damage; `dice: 2d6` ongoing.
 
 7th level spell: `dice: 6d6`damage; `dice: 3d6` ongoing.
 
@@ -623,13 +623,13 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** `dice: 3d6` + Charisma thunder damage, and the first enemy that hits you with a melee attack before the start of your next turn takes 2d6 thunder damage. (An empowered spell does not double this aftershock damage.)
+**Hit:** `dice: 3d6` + Charisma thunder damage, and the first enemy that hits you with a melee attack before the start of your next turn takes `dice: 2d6` thunder damage. (An empowered spell does not double this aftershock damage.)
 
 **Miss:** Damage equal to your level.
 
-5th level spell: `dice: 5d6` damage; 2d6 aftershock damage.
+5th level spell: `dice: 5d6` damage; `dice: 2d6` aftershock damage.
 
-7th level spell: 7d6 damage; `dice: 3d6` aftershock damage.
+7th level spell: `dice: 7d6` damage; `dice: 3d6` aftershock damage.
 
 9th level spell: 9d6 damage; `dice: 4d6`aftershock damage.
 
@@ -653,7 +653,7 @@ Daily
 
 **Miss:** 10 ongoing acid damage.
 
-7th level spell: 10d10 damage, and 40 ongoing damage; 20 ongoing on a miss.
+7th level spell: `dice: 10d10` damage, and 40 ongoing damage; 20 ongoing on a miss.
 
 9th level spell: `dice: 2d6*10` damage, and 60 ongoing damage; 30 ongoing on a miss.
 
@@ -675,13 +675,13 @@ Daily
 
 **Attack:** Charisma + Level vs. MD
 
-**Hit:** 8d6 + Charisma psychic damage, and if the natural attack roll is even, you can teleport to a nearby location you can see.
+**Hit:** `dice: 8d6` + Charisma psychic damage, and if the natural attack roll is even, you can teleport to a nearby location you can see.
 
 **Miss:** Damage equal to your level.
 
 7th level spell: `dice: 9d10`damage.
 
-9th level spell: 10d12 damage.
+9th level spell: `dice: 10d12` damage.
 
 ##### Epic Feat
 
@@ -731,11 +731,11 @@ Daily
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 10d12 + Charisma lightning damage, and at the start of the target’s next turn, `dice: 1d6` of its nearby allies take 20 lightning damage.
+**Hit:** `dice: 10d12` + Charisma lightning damage, and at the start of the target’s next turn, `dice: 1d6` of its nearby allies take 20 lightning damage.
 
 **Miss:** Half damage, and no damage to target’s allies.
 
-9th level spell: 2d10 x 10 damage; 25 lightning damage to nearby allies.
+9th level spell: `dice: 2d10*10` damage; 25 lightning damage to nearby allies.
 
 ##### Epic Feat
 
@@ -784,8 +784,8 @@ Roll a d8 to see which power you gain:
 | 3| Backlash| The first time you are staggered this battle, the enemy who staggered you becomes confused (save ends).   |
 | 4| Spell frenzy     | You enter a spell frenzy (see Infernal Heritage talent). If you were already in a spell frenzy, you now roll 3d20 for each attack and take damage equal to triple the target’s level for each roll that misses.       |
 | 5| Fear aura        | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die.        |
-| 6| Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby.       |
-| 7| Demonic speed    | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
+| 6| Teleport `dice: 1d3` + 1 times this battle | As a move action, you can teleport anywhere you can see nearby.       |
+| 7| Demonic speed    | You can take an extra standard action each turn that the escalation die is even. You lose `dice: 2d10` hit points each time you use the extra action. |
 | 8| Eye of the demon | Choose any two features you want. For the rest of this day, all your icon relationships disappear and are replaced by an identical number of conflicted points with a villainous icon (preferably one that is demonic).        |
 
 ### 9th Level Spells
@@ -800,7 +800,7 @@ Daily
 
 **Attack:** Charisma + Level vs. MD
 
-**Hit:** `dice: 2d12*10`  + Charisma negative energy damage, and the target moves down 2d6 points in initiative order, to a minimum of 1.
+**Hit:** `dice: 2d12*10`  + Charisma negative energy damage, and the target moves down `dice: 2d6` points in initiative order, to a minimum of 1.
 
 **Miss:** Half damage.
 

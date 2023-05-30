@@ -37,8 +37,8 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 || One-Handed      | Two-Handed      |
 | ---------------- | --------------------------------- | ------------------------ |
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club, staff |
-| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | 1d8 (-4 atk) spear       |
-| Heavy or Martial | 1d8 (-5 atk) longsword, warhammer | `dice: 1d10`(-6 atk) greatsword |
+| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-4 atk) spear       |
+| Heavy or Martial | `dice: 1d8` (-5 atk) longsword, warhammer | `dice: 1d10`(-6 atk) greatsword |
 
 ### Ranged Weapons
 
@@ -46,7 +46,7 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------- | --------------------------- | --------------------- |
 | Small   | `dice: 1d4` dagger, star     | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` (-2 atk) javelin | `dice: 1d6` (-1 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —  | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow  |
+| Heavy or Martial | —  | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
 
 ## Level Progression
 
@@ -265,7 +265,7 @@ Undead you summon release holy energy bursts as they drop to 0 hp, dealing a sma
 
 Mooks you summon deal holy damage equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
 
-Non-mooks you summon deal holy damage equal to your Charisma modifier x `dice: 1d4` (1d8 at 5th level; 2d6 at 8th level).
+Non-mooks you summon deal holy damage equal to your Charisma modifier x `dice: 1d4` (1d8 at 5th level; `dice: 2d6` at 8th level).
 
 In story terms, you’re not likely to have a positive relationship with any necromantic icons if you take the Redeemer talent.
 
@@ -490,7 +490,7 @@ Once per battle
 
 **Attack:** Intelligence + Level vs. MD (make one attack only against the attack target)
 
-**Hit vs. an enemy:** 2d6 + Intelligence negative energy damage, and the healing target can heal using a recovery.
+**Hit vs. an enemy:** `dice: 2d6` + Intelligence negative energy damage, and the healing target can heal using a recovery.
 
 **Hit vs. an ally:** 5 negative energy damage, and the healing target can heal using a recovery.
 
@@ -502,7 +502,7 @@ Once per battle
 
 7th level spell: `dice: 7d10`damage vs. enemy, 20 damage vs. ally.
 
-9th level spell: 10d12 damage vs. enemy, 30 damage vs. ally.
+9th level spell: `dice: 10d12` damage vs. enemy, 30 damage vs. ally.
 
 #### Adventurer Feat
 
@@ -622,21 +622,21 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a mob of 1d3 + 1 crumbling skeleton mooks, as per the summoning rules. These skeletons fight for you until the end of the battle or until they drop to 0 hp, whichever comes first.
+**Effect:** You summon a mob of `dice: 1d3` + 1 crumbling skeleton mooks, as per the summoning rules. These skeletons fight for you until the end of the battle or until they drop to 0 hp, whichever comes first.
 
 As you cast the spell at higher levels, the mooks you summon vary, as shown below. The stats for each mob of mooks you can summon are also shown below.
 
-3rd level spell: 1d3 + 1 putrid zombie mooks.
+3rd level spell: `dice: 1d3` + 1 putrid zombie mooks.
 
-5th level spell: 1d3 + 1 starving ghoul mooks.
+5th level spell: `dice: 1d3` + 1 starving ghoul mooks.
 
-7th level spell: 1d3 + 1 masterless vampire spawn mooks.
+7th level spell: `dice: 1d3` + 1 masterless vampire spawn mooks.
 
-9th level spell: 1d3 + 1 Blackamber skeletal warrior mooks.
+9th level spell: `dice: 1d3` + 1 Blackamber skeletal warrior mooks.
 
 #### Champion Feat
 
-You now summon `dice: 1d4` + 1 mooks when you cast this spell instead of 1d3 + 1.
+You now summon `dice: 1d4` + 1 mooks when you cast this spell instead of `dice: 1d3` + 1.
 
 #### Epic Feat
 
@@ -721,7 +721,7 @@ Daily
 
 5th level spell: `dice: 7d10`damage.
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -769,7 +769,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d12 + Intelligence negative energy damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
+**Hit:** `dice: 4d12` + Intelligence negative energy damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
 
 **Miss:** Half damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
 
@@ -777,7 +777,7 @@ Daily
 
 7th level spell: `dice: 2d6*10` damage.
 
-9th level spell: 2d10 x 10 damage.
+9th level spell: `dice: 2d10*10` damage.
 
 **Special:** The stats for the mooks created by each level of *the bones beneath* appear below. The level or physical nature of the mooks is irrelevant; the magic of the spell turns whatever creatures it’s forced to work with into skeletal mook allies with the stats below.
 
@@ -825,7 +825,7 @@ Daily
 
 **Miss vs.** **an ally:** You take half the damage the ally would have taken on a hit.
 
-5th level spell: 8d12 damage to an enemy, 2d6 damage to an ally.
+5th level spell: `dice: 8d12` damage to an enemy, `dice: 2d6` damage to an ally.
 
 7th level spell: `dice: 2d8*10` damage to an enemy, `dice: 3d8`damage to an ally.
 
@@ -861,7 +861,7 @@ Daily
 
 5th level spell: `dice: 6d10`damage.
 
-7th level spell: 10d10 damage.
+7th level spell: `dice: 10d10` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -875,7 +875,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d12 + Intelligence negative energy damage, and the target is weakened (save ends)
+**Hit:** `dice: 4d12` + Intelligence negative energy damage, and the target is weakened (save ends)
 
 **Miss:** Half damage.
 
@@ -883,7 +883,7 @@ Daily
 
 7th level spell: `dice: 2d6*10` damage.
 
-9th level spell: 2d10 x 10 damage.
+9th level spell: `dice: 2d10*10` damage.
 
 #### Adventurer Feat
 
@@ -903,7 +903,7 @@ Ranged spell
 
 Variable
 
-*Special:* You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait `dice: 1d6` hours before casting it again.
+*Special:* You can use this spell `dice: 1d3` times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait `dice: 1d6` hours before casting it again.
 
 **Target:** One corpse you are touching that has been dead less than a day. Note that creatures that were undead for a longer period before they were killed are not legal targets.
 
@@ -959,7 +959,7 @@ Ranged spell
 
 Daily
 
-**Effect:** Choose a nearby enemy. It takes 2d6 negative energy damage for each point on the escalation die. (For example, if the escalation die is 2 when you cast the spell, you’ll deal `dice: 4d6`negative energy damage to the target.)
+**Effect:** Choose a nearby enemy. It takes `dice: 2d6` negative energy damage for each point on the escalation die. (For example, if the escalation die is 2 when you cast the spell, you’ll deal `dice: 4d6`negative energy damage to the target.)
 
 Until the end of the battle, as a free action at the start of each of your turns, repeat the effect above, choosing a target and dealing damage based on the escalation die value.
 
@@ -1083,11 +1083,11 @@ Ranged spell
 
 Daily
 
-**Target:** 1d3 nearby enemies in a group, and any of your allies engaged with those enemies
+**Target:** `dice: 1d3` nearby enemies in a group, and any of your allies engaged with those enemies
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 10d10 + Intelligence negative energy damage.
+**Hit:** `dice: 10d10` + Intelligence negative energy damage.
 
 **Natural even hit:** As a hit, plus the target is hampered (save ends).
 
@@ -1103,9 +1103,9 @@ Daily
 
 Quick action to cast
 
-**Effect:** You lose 10d8 hit points that can’t be prevented in any way. At the start of your next turn, you heal using 3 free recoveries. If you are at 0 hp or below, or even dead, you return to life at 0 hp before healing.
+**Effect:** You lose `dice: 10d8` hit points that can’t be prevented in any way. At the start of your next turn, you heal using 3 free recoveries. If you are at 0 hp or below, or even dead, you return to life at 0 hp before healing.
 
-9th level spell: You lose 10d12 hit points.
+9th level spell: You lose `dice: 10d12` hit points.
 
 ### Ghost Form
 

@@ -50,11 +50,12 @@ Bards may start with either 25 gp or `dice: 1d6*10` gp.
 
 #### Melee Weapons
 
-|| **One-Handed**      | **Two-Handed**       |
-| ---------------- | ------------------------ | ------------------------- |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` mace, shortsword    | 1d8 spear        |
-| Heavy or Martial | 1d8 longsword, scimitar | `dice: 1d10`(-2 atk) greatsword, dire flail |  
+|                  | **One-Handed**                  | **Two-Handed**                              |
+| ---------------- | ------------------------------- | ------------------------------------------- |
+| Small            | `dice: 1d4` dagger              | `dice: 1d6` club                            |
+| Light or Simple  | `dice: 1d6` mace, shortsword    | `dice: 1d8` spear                           |
+| Heavy or Martial | `dice: 1d8` longsword, scimitar | `dice: 1d10`(-2 atk) greatsword, dire flail |
+
 ^13A-Class-Bard-Melee
 
 ### Level Progression
@@ -302,11 +303,11 @@ An engaged ally you target with this battle cry can pop free from one enemy as a
 
 ##### Adventurer Feat
 
-The target adds +1d4 healing per point on the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die|escalation die]].
+The target adds +`dice: 1d4` healing per point on the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die|escalation die]].
 
 ##### Champion Feat
 
-The attack can now also trigger on any natural even roll; the extra healing is now +1d6 per point.
+The attack can now also trigger on any natural even roll; the extra healing is now +`dice: 1d6` per point.
 
 ##### Epic Feat
 
@@ -348,7 +349,7 @@ If the escalation die is 3+, two nearby conscious allies (instead of one) can ea
 
 #### Song of Heroes
 
-Bardic song  
+*Bardic song* 
 Recharge 11+ after battle  
 Quick action each turn; 11+ to sustain  
 **Opening & Sustained Effect:** You and your nearby allies gain a +1 attack bonus until the start of your next turn.  
@@ -364,7 +365,7 @@ Quick action each turn; 11+ to sustain
 
 #### Song of Spilt Blood
 
-Bardic song  
+*Bardic song* 
 Daily  
 Quick action each turn; 6+ to sustain  
 **Opening & Sustained Effect:** Any attack against you takes a penalty equal to the number of your allies in the battle who have more hit points than you.  
@@ -392,11 +393,11 @@ At-Will
 
 3rd level spell: `dice: 2d4` damage.
 
-5th level spell: 4d4 damage.
+5th level spell: `dice: 4d4`damage.
 
-7th level spell: 6d4 damage.
+7th level spell: `dice: 6d4`damage.
 
-9th level spell: 10d4 damage.
+9th level spell: `dice: 10d4`damage.
 
 **Adventurer Feat**
 
@@ -534,15 +535,15 @@ Flexible melee attack
 
 **Adventurer Feat**
 
-That ally’s attack also deals +1d6 damage.
+That ally’s attack also deals +`dice: 1d6` damage.
 
 **Champion Feat**
 
-The damage bonus increases to +3d6.
+The damage bonus increases to +`dice: 3d6`.
 
 **Epic Feat**
 
-The damage bonus increases to +3d12.
+The damage bonus increases to +`dice: 3d12`.
 
 *Take Heart!*
 
@@ -568,7 +569,7 @@ Quick action each turn; 11+ to sustain
 
 5th level song: `dice: 5d6` temporary hit points; sustain the song on a 9+.
 
-7th level song: 7d6 temporary hit points, and the recovery from the final verse is free.
+7th level song: `dice: 7d6` temporary hit points, and the recovery from the final verse is free.
 
 9th level song: `dice: 9d8` temporary hit points; sustain the song on a 7+.
 
@@ -590,15 +591,15 @@ Standard action each turn; 11+ to sustain
 
 **Final Verse:** Make the attack again, but this time it deals half damage on a miss.
 
-5th level song: 7d6 damage.
+5th level song: `dice: 7d6` damage.
 
 7th level song: `dice: 9d8` damage.
 
-9th level song: 10d12 damage.
+9th level song: `dice: 10d12` damage.
 
 **Champion Feat**
 
-The number of targets increases to 2d4.
+The number of targets increases to `dice: 2d4`.
 
 **Epic Feat**
 
@@ -622,7 +623,7 @@ Recharge 11+ after battle
 
 5th level spell: 9d6 damage.
 
-7th level spell: 10d8 damage.
+7th level spell: `dice: 10d8` damage.
 
 9th level spell: `dice: 2d8*10` damage.
 
@@ -682,7 +683,7 @@ Flexible melee attack
 
 **Triggering Roll:** Natural 16+ if the escalation die is 5+; otherwise natural 20
 
-**Effect:** A nearby ally can heal using a recovery, and three nearby allies gain a +3d6 damage bonus to their next damage roll this battle.
+**Effect:** A nearby ally can heal using a recovery, and three nearby allies gain a +`dice: 3d6` damage bonus to their next damage roll this battle.
 
 **Champion Feat**
 
@@ -690,7 +691,7 @@ The battle cry can now trigger when the escalation die is 3+ instead of 5+.
 
 **Epic Feat**
 
-The damage bonus is now +3d12.
+The damage bonus is now +`dice: 3d12`.
 
 5th Level Songs
 
@@ -720,8 +721,8 @@ Recharge 16+ after battle
 **Attack:** Charisma + Level vs. MD  
 **Hit:** 8d8 + Charisma psychic damage + Xd6 bonus damage, where X = escalation die.  
 **Miss:** Xd6 psychic damage, where X = escalation die.  
-**7th level spell**: 10d10 damage.  
-**9th level spell**: 2d10 x 10 damage.
+**7th level spell**: `dice: 10d10` damage.  
+**9th level spell**: `dice: 2d10*10` damage.
 
 ##### Champion Feat
 
@@ -762,7 +763,7 @@ The battle cry can now trigger on a natural 19+.
 
 #### Song of Blood & Legends
 
-Bardic song  
+*Bardic song* 
 Daily  
 Standard action each turn; 16+ to sustain  
 **Opening & Sustained Effect:** Each nearby ally who hits at least one enemy with an attack during their turn can heal using a recovery.  
@@ -771,12 +772,12 @@ Standard action each turn; 16+ to sustain
 
 #### Song of Victory
 
-Bardic song  
+*Bardic song* 
 Daily  
 Quick action each turn; 16+ to sustain  
 **Opening & Sustained Effect:** Each nearby enemy that has fewer hit points than you is dazed until the end of your next turn.  
 **Final Verse:** Each nearby enemy takes `dice: 5d6` + Charisma psychic damage.  
-**9th level song**: 7d6 damage.
+**9th level song**: `dice: 7d6` damage.
 
 ### 7th Level Spells
 
