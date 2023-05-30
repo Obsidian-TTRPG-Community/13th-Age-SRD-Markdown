@@ -1,54 +1,41 @@
 ---
-aliases: ["Bat Demon"]
-created: 2023-05-23
-level: 13
-permalink: 
+aliases: [Bat Demon]
+created: 
+level: 6
 publish: 
-role: wrecker
-strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Wrecker"]
+role: mook
+statblock: inline
+strength: normal
+tags: ["13A/Bestiary/demon", "13A/Monsters/Type/mook"]
 type: demon
-updated: 2023-05-29
+updated: 
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Bat Demon"
-size: "large"
-level: "13"
-levelOrdinal: "13th"
-role: "wrecker"
+name: "Bat-Demon"
+size: "normal"
+level: "6"
+levelOrdinal: "6th"
+role: "mook"
 type: "demon"
-initiative: "17"
+initiative: "14"
 actions:
-    - name: "Abyssal blade +18 vs. AC"
-      desc: "160 damage"
+    - name: "Scrabbling claws +11 vs. AC"
+      desc: "10 damage"
       traits:
-          - name: "Natural even hit"
-            desc: "The balor deals +1d20 lightning damage to the target and to one other nearby enemy of the balor’s choice. Then repeat that damage roll against the targets once for each point on the escalation die (so if it’s 4, that’s four more d20 rolls)."
-          - name: "Natural even miss"
-            desc: "80 damage."
-    - name: "C: Flaming whip +18 vs. PD (one nearby enemy)"
-      desc: "50 fire damage, and the target is pulled to the balor, who engages it"
-      traits:
-          - name: "Natural even miss"
-            desc: "25 fire damage."
-          - name: "Limited use"
-            desc: "1/round, as a quick action."
+          - name: "Miss"
+            desc: "3 damage."
 traits:
-    - name: "Desperate escalator"
-      desc: "While staggered, the balor adds the escalation die to its attack rolls."
-    - name: "Fiery aura"
-      desc: "At the start of the balor’s turn, each enemy engaged with it takes 4d10 fire damage; any die result of 10 is kept and the die rerolled."
     - name: "Flight"
-      desc: "As the standard monster ability."
-    - name: "Shadow and flame"
-      desc: "The balor gains a +5 bonus to all defences against attacks by far away enemies."
-nastier_traits:
-    - name: "Vorpal blade"
-      desc: "Critical hits with the abyssal blade deal triple damage instead of double damage."
-ac: "29"
-pd: "27"
-md: "23"
-hp: "850"
+      desc: "Bat demons are indifferent flyers, better suited to gliding between stalactites and clinging to walls than to skillful flying."
+    - name: "Murder-pile"
+      desc: "At the start of each of the bat demon mob’s turns, choose one random nearby conscious enemy. All bat demons in the battle attempt to attack that enemy this turn, moving to it without disengaging and relying on their _shifty_ ability to protect them. They keep attacking their target that turn even if it drops to 0 hp or below."
+    - name: "Shifty"
+      desc: "Bat demons gain a +5 AC bonus against opportunity attacks. In addition, they have _resist damage 18+_ against opportunity attacks (half damage if the natural attack roll isn’t 18+)."
+ac: "20"
+pd: "19"
+md: "16"
+hp: "22"
 ```
+
