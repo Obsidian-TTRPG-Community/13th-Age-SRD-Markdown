@@ -9,7 +9,7 @@ tags: 13A
 updated: +002023-04-30 1238
 ---
 
-![13thage_intro](Table-of-Contents-image-1.jpeg)
+![13thage_intro](Compendium/13A/13th-Age-Index-image-1.jpeg)
 
 ## 13th Age System Reference Document
 
@@ -59,10 +59,10 @@ updated: +002023-04-30 1238
 	10. [[Compendium/13A/Classes/Necromancer]]
 	11. [[Compendium/13A/Classes/Occultist]]
 	12. [[Compendium/13A/Classes/Paladin]]
-	13. [[Compendium/13A/Classes/Ranger]]
-	14. [[Compendium/13A/Classes/Rogue]]
-	15. [[Compendium/13A/Classes/Sorcerer]]
-	16. [[Compendium/13A/Classes/Wizard]]
+	13. [[Compendium/13A/Classes/Ranger|Ranger]]
+	14. [[Compendium/13A/Classes/Rogue|Rogue]]
+	15. [[Compendium/13A/Classes/Sorcerer|Sorcerer]]
+	16. [[Compendium/13A/Classes/Wizard|Wizard]]
 7. [Multiclassing](Compendium/13A/Multiclassing/Multiclassing.md)
 	1. [Multiclassing Basics](Compendium/13A/Multiclassing/Multiclassing.md#Multiclassing%20Basics)
 	2. [Key Ability Modifier](Compendium/13A/Multiclassing/Multiclassing.md#Key%20Ability%20Modifier)
@@ -102,11 +102,10 @@ updated: +002023-04-30 1238
 	7. [[Loot: Treasure Rewards]]
 	8. [Rituals](Compendium/13A/Running-the-Game/Rituals.md)
 10. [Monsters](Monsters/Monsters.md)
-	1. [Monster Rules](Monsters/Monster-Rules/Monster-Rules.md)
-	2. [Monster List](Monsters/Monster-List.md)
-	3. [Monster Key](Monsters/Monster-Key.md)
-	4. [[Monsters-Reference/Monster-Reference]]
-	5. [[Monster Creation]]
+	1. [[Monster Rules]]
+	2. [[Monsters/Monster-List.md|Monster List]]
+	3. [[Monsters/Monster-Key.md|Monster Key]]
+	5. [[Compendium/13A/Monsters/Monster-Creation/Monster-Creation|Monster Creation]]
 	6. [Underkrakens](Monsters/Underkrakens.md)
 11. [Magic Items](Compendium/13A/Magic-Items/Magic-Items.md)
 	1. [One-Use Items](Compendium/13A/Magic-Items/One-Use-Items.md)

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Spoiler"]
 type: beast
 updated: 2023-05-29
 ---
@@ -44,4 +44,3 @@ pd: "18"
 md: "14"
 hp: "50"
 ```
-

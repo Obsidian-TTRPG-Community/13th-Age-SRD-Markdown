@@ -7,7 +7,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Spoiler"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -44,4 +44,3 @@ pd: "12"
 md: "16"
 hp: "36"
 ```
-

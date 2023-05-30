@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: archer
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Archer"]
 type: beast
 updated: 2023-05-29
 ---
@@ -43,4 +43,3 @@ pd: "18"
 md: "15"
 hp: "70"
 ```
-

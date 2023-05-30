@@ -11,4 +11,4 @@ updated: 2023-05-29
 
 See [Fire Bat](../Bat/Fire-Bat.md) below.
 
-![Fire Bat](../Animal%20Critter/Fire%20Bat.md)
+![[Compendium/13A/Bestiary/Beast/Animal-Critter/Fire-Bat|Fire Bat]]

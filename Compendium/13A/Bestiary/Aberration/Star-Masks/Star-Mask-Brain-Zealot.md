@@ -7,7 +7,7 @@ publish:
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Archer"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -34,4 +34,3 @@ pd: "27"
 md: "23"
 hp: "300"
 ```
-

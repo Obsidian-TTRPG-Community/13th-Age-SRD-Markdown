@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chuuls", , "13A/Monsters/Type/Wrecker"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -67,4 +67,3 @@ pd: "25"
 md: "22"
 hp: "450"
 ```
-

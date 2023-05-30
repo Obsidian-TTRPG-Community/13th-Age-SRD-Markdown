@@ -3,7 +3,7 @@ aliases: [Monster Stat Adjustments, Stat Adjustments]
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation]
+tags: [13A/Monsters/Creation/Adjustments]
 updated: 2023-05-29
 ---
 

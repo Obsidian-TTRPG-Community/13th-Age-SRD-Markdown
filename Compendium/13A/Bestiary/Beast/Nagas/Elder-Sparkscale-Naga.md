@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Leader"]
 type: beast
 updated: 2023-05-29
 ---
@@ -49,4 +49,3 @@ pd: "23"
 md: "19"
 hp: "190"
 ```
-

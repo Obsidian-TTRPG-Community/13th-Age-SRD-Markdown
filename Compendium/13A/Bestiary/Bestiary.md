@@ -12,11 +12,13 @@ updated: 2023-05-29
 %% Begin Waypoint %%
 - **[[Bestiary]]**
 	- **Aberration**
-		- **[[Chaos-Beast]]**
+		- **Chaos-Beasts**
+			- [[Chaos-Beast]]
 			- [[Chaos-Behemoth]]
 			- [[Chaos-Brute]]
 			- [[Chaos-Glorp]]
-		- **[[Chuul]]**
+		- **Chuuls**
+			- [[Chuul]]
 			- [[Chuulish-Slave]]
 			- [[Chuulish-Swarm]]
 			- [[Massive-Mutant-Chuul]]
@@ -36,9 +38,7 @@ updated: 2023-05-29
 			- [[Intellect-Assassin]]
 			- [[Intellect-Devourer]]
 		- [[Oytugh]]
-		- **Rust-Monsters**
-			- [[Rust-Monster-Obliterator]]
-			- [[Rust-Monster]]
+		- [[Rust-Monster]]
 		- **Soul-Flensers**
 			- [[Soul-Flenser]]
 			- [[The-Flenses]]
@@ -85,14 +85,17 @@ updated: 2023-05-29
 		- **[[Azer-Beast]]**
 			- [[Azer-Fire-Bat]]
 		- [[Basilisk]]
+		- [[Beast Gauntlets Mascot]]
 		- **Beast-Nature-Fallen-Icon**
 			- [[Frenzied-Wolf-Pack]]
-		- **[[Bulette]]**
+		- **Bulettes**
+			- [[Bulette]]
 			- [[Deep-Bulette]]
 			- [[Green-Bulette]]
 			- [[Lumberland-Dirt-Fisher]]
 			- [[Ravenous-Bumoorah]]
-		- **[[Chimera]]**
+		- **Chimeras**
+			- [[Chimera]]
 			- [[Iconic-Chimera]]
 		- **[[Couatls]]**
 			- [[Couatl]]
@@ -107,7 +110,6 @@ updated: 2023-05-29
 			- [[Venomous-Snake]]
 		- **Frogfolk-Beasts**
 			- [[Mutant-Bullfrog]]
-		- [[Gauntlets-Beast-Mascot]]
 		- **Hellbugs**
 			- [[Boombug]]
 			- [[hellwasp]]
@@ -222,10 +224,10 @@ updated: 2023-05-29
 		- [[Balor]]
 		- [[Bat-Demon]]
 		- **Bone-Imp**
-			- [[Bone-Imp-Archer]]
-			- [[Bone-Imp-Mage-Eater]]
-			- [[Bone-Imp-Skullbiter]]
-			- [[Bone-Imp-Tormentor]]
+			- [[Bone Imp Archer]]
+			- [[Bone Imp Mage-Eater]]
+			- [[Bone Imp Skullbiter]]
+			- [[Bone Imp Tormenter]]
 		- [[Cambion-Dirk]]
 		- [[Cambion-Hellblade]]
 		- [[Cambion-Katar]]
@@ -253,6 +255,7 @@ updated: 2023-05-29
 		- [[Marilith]]
 		- [[Nalfeshnee]]
 		- [[Parasitic-Dybbuk]]
+		- [[Rust-Monster-Obliterator]]
 		- [[Vrock]]
 		- **Wendigo**
 			- [[Elder-Wendigo]]

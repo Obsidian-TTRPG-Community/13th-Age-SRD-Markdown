@@ -3,7 +3,7 @@ aliases: [Ghouls]
 created: 2023-05-23
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Ghouls]
+tags: [13A/Monsters/Factions/Ghouls]
 updated: 2023-05-29
 ---
 

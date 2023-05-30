@@ -3,7 +3,7 @@ aliases: [Gnoll]
 created: 2023-05-23
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Gnoll]
+tags: [13A/Monsters/Factions/Gnoll]
 updated: 2023-05-29
 ---
 

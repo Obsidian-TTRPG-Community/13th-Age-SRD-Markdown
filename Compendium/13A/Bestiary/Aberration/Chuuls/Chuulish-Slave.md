@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chuuls", , "13A/Monsters/Type/Troop"]
 type: aberration
 updated: 2023-05-29
 ---

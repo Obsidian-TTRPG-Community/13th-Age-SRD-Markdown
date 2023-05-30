@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", , "13A/Monsters/Type/Wrecker"]
 type: aberration
 updated: 2023-05-29
 ---

@@ -7,7 +7,7 @@ publish:
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Troop"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -38,4 +38,3 @@ pd: "16"
 md: "21"
 hp: "80"
 ```
-

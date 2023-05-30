@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Troop"]
 type: beast
 updated: 2023-05-29
 ---
@@ -46,4 +46,3 @@ pd: "18"
 md: "22"
 hp: "180"
 ```
-

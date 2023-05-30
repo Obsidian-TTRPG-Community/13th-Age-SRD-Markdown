@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: 2×
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook", "13A/Faction/Sahuagin"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Mook", "13A/Faction/Sahuagin"]
 type: beast
 updated: 2023-05-29
 ---
@@ -38,4 +38,3 @@ pd: "19"
 md: "14"
 hp: "32"
 ```
-

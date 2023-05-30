@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: large
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chuuls", , "13A/Monsters/Type/Spoiler"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -50,4 +50,3 @@ pd: "18"
 md: "18"
 hp: "126"
 ```
-

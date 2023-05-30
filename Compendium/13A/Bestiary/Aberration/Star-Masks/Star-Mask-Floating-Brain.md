@@ -7,7 +7,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Mook"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -41,4 +41,3 @@ pd: "20"
 md: "24"
 hp: "50"
 ```
-

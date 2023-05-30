@@ -3,7 +3,7 @@ aliases: [Monster Baseline Stats for Normal Monsters, Baseline Stats for Normal 
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation]
+tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Normal]
 updated: 2023-05-29
 ---
 

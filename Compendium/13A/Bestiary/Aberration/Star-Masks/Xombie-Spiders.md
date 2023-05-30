@@ -7,7 +7,7 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Blocker"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -42,4 +42,3 @@ pd: "11"
 md: "15"
 hp: "46"
 ```
-

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Mook"]
 type: beast
 updated: 2023-05-29
 ---
@@ -40,4 +40,3 @@ pd: "16"
 md: "11"
 hp: "10"
 ```
-

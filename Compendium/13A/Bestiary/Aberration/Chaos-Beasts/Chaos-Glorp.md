@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", , "13A/Monsters/Type/Mook"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -34,4 +34,3 @@ pd: "16"
 md: "13"
 hp: "20"
 ```
-

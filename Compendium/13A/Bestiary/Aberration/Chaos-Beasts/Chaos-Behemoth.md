@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", , "13A/Monsters/Type/Spoiler"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -40,4 +40,3 @@ pd: "16"
 md: "16"
 hp: "90"
 ```
-

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Caster"]
 type: beast
 updated: 2023-05-29
 ---
@@ -53,4 +53,3 @@ pd: "17"
 md: "23"
 hp: "330"
 ```
-

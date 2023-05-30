@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Blocker"]
 type: beast
 updated: 2023-05-29
 ---
@@ -39,4 +39,3 @@ pd: "16"
 md: "12"
 hp: "68"
 ```
-

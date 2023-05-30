@@ -3,7 +3,7 @@ aliases: [Baseline Stats for Large or Double-Strength Monsters]
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation]
+tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Large]
 updated: 2023-05-29
 ---
 

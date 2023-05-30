@@ -7,7 +7,7 @@ publish:
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Caster"]
 type: beast
 updated: 2023-05-29
 ---
@@ -53,4 +53,3 @@ pd: "20"
 md: "19"
 hp: "162"
 ```
-

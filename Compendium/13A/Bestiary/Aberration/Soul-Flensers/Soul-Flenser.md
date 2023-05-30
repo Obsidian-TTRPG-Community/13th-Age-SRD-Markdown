@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Soul-Flensers", , "13A/Monsters/Type/Spoiler"]
 type: aberration
 updated: 2023-05-29
 ---
@@ -54,4 +54,3 @@ pd: "21"
 md: "23"
 hp: "180"
 ```
-

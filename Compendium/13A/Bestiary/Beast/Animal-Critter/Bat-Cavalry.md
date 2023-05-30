@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Wrecker"]
 type: beast
 updated: 2023-05-29
 ---
@@ -48,4 +48,3 @@ pd: "17"
 md: "14"
 hp: "70"
 ```
-
