@@ -28,7 +28,7 @@ Possible backgrounds include:
 
 #### Gold Pieces
 
-Barbarians may start with either 25 gp or `dice: 1d6*10` (`dice: `dice: 1d6` * 10`) gp.
+Barbarians may start with either 25 gp or `dice: 1d6*10` gp.
 
 #### Armor
 
@@ -44,8 +44,8 @@ Barbarians may start with either 25 gp or `dice: 1d6*10` (`dice: `dice: 1d6` * 1
 || **One-Handed**      | **Two-Handed**       |
 | ---------------- | ------------------------ | ------------------------- |
 | Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` hand-axe, warclub    | 1d8 spear        |
-| Heavy or Martial | 1d8 longsword, battleaxe | `dice: 1d10`greatsword, greataxe |
+| Light or Simple  | `dice: 1d6` hand-axe, warclub    | `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, greataxe |
 ^13A-Class-Barbarian-Melee
 #### Ranged Weapons
 
@@ -53,7 +53,7 @@ Barbarians may start with either 25 gp or `dice: 1d6*10` (`dice: `dice: 1d6` * 1
 | ---------------- | ----------------------- | --------------------------- | ------------ |
 | Small   | `dice: 1d4` dagger     | `dice: 1d4` (-5 atk) hand crossbow  | -   |
 | Light or Simple  | `dice: 1d6` javelin, axe, spear | `dice: 1d6` (-5 atk) light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | -     | 1d8 (-5 atk) heavy crossbow | 1d8 longbow  |
+| Heavy or Martial | -     | `dice: 1d8` (-5 atk) heavy crossbow | `dice: 1d8` longbow  |
 ^13A-Class-Barbarian-Ranged
 ### Level Progression
 
