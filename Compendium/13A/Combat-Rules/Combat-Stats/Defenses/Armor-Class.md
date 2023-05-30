@@ -1,0 +1,12 @@
+---
+aliases: [Armor Class, AC]
+created: 2023-05-13
+permalink: 
+publish: 
+tags: [13A/Combat/Rules/Stats/defences/AC]
+updated: 2023-05-29
+---
+
+## Armor Class (AC)
+
+AC protects you from weapon attacks. It is equal to the middle value among Con, Dex, and Wis. Disregard the higher and the lower values.
