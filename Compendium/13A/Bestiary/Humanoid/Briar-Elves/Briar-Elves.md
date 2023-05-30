@@ -4,7 +4,7 @@ created: 2023-05-25
 permalink: 
 publish: 
 statblock: inline
-tags: [13A/Monsters/Rules/Briar-Elves/Humanoid]
+tags: [13A/Monsters/Factions/Briar-Elves/Humanoid]
 updated: 2023-05-29
 ---
 

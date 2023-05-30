@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: 2×
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Leader"]
 type: humanoid
 updated: 2023-05-29
 ---

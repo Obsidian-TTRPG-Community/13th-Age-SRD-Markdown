@@ -3,7 +3,7 @@ aliases: [Warbanner Constructs]
 created: 2023-05-24
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Warbanner]
+tags: [13A/Monsters/Factions/Warbanner]
 updated: 2023-05-29
 ---
 

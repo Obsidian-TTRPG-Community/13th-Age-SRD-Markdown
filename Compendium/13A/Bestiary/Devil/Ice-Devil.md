@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: normal
-tags: ["13A/Bestiary/devil", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Leader"]
 type: devil
 updated: 2023-05-29
 ---

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: huge
-tags: ["13A/Bestiary/ooze", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Ooze", "13A/Monsters/Type/Blocker"]
 type: ooze
 updated: 2023-05-29
 ---

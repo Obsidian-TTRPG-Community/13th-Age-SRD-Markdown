@@ -7,7 +7,7 @@ publish:
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/Caster"]
 type: elemental
 updated: 2023-05-29
 ---

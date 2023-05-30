@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/devil", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Mook"]
 type: devil
 updated: 2023-05-29
 ---

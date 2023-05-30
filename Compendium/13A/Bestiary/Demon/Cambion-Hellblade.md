@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Wrecker"]
 type: demon
 updated: 2023-05-29
 ---

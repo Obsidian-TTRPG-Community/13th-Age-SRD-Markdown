@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: 3×
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster"]
 type: humanoid
 updated: 2023-05-29
 ---

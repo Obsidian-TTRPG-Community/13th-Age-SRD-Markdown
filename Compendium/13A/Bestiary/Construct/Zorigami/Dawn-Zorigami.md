@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Spoiler"]
 type: construct
 updated: 2023-05-29
 ---

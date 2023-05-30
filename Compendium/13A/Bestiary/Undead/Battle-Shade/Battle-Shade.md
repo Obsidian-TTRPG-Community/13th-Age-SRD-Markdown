@@ -4,7 +4,7 @@ created: 2023-05-18
 permalink: 
 publish: 
 statblock: inline
-tags: [13A/Monsters/Rules/Battle-Shade]
+tags: [13A/Monsters/Factions/Battle-Shade]
 updated: 2023-05-29
 ---
 

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Blocker"]
 type: undead
 updated: 2023-05-29
 ---

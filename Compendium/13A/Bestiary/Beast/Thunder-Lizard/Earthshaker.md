@@ -7,7 +7,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler"]
 type: beast
 updated: 2023-05-29
 ---

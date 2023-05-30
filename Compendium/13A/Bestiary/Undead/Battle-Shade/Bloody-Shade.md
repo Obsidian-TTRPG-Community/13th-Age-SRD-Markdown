@@ -7,7 +7,7 @@ publish:
 role: mook
 statblock: inline
 strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Mook"]
 type: undead
 updated: 2023-05-29
 ---

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: normal
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Leader"]
 type: aberration
 updated: 2023-05-29
 ---

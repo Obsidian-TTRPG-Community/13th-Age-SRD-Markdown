@@ -7,7 +7,7 @@ publish:
 role: archer
 statblock: inline
 strength: 3×
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Archer"]
 type: construct
 updated: 2023-05-29
 ---

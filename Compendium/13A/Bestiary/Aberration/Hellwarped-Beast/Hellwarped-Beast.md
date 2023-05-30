@@ -1,10 +1,10 @@
 ---
-aliases: []
+aliases: [Hellwarped Beast]
 created: 2023-05-28
 permalink: 
 publish: 
-tags: []
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Hellwarped-Beast]
+updated: 2023-05-30
 ---
 
 ## Aberrant Attack Table

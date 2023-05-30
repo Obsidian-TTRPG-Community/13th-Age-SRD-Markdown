@@ -3,7 +3,7 @@ aliases: [Elemental Beasts]
 created: 2023-05-27
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Elemental-Beasts]
+tags: [13A/Monsters/Factions/Elemental-Beasts]
 updated: 2023-05-29
 ---
 

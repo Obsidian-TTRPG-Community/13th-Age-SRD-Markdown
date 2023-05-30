@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: 2×
-tags: ["13A/Bestiary/plant", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Leader"]
 type: plant
 updated: 2023-05-29
 ---

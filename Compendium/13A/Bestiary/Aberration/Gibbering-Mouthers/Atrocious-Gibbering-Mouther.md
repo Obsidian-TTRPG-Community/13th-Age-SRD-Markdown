@@ -7,7 +7,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Gibbering-Mouthers"]
 type: aberration
 updated: 2023-05-29
 ---

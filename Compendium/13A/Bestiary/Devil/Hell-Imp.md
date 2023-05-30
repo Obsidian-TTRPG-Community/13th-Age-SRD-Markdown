@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/devil", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Spoiler"]
 type: devil
 updated: 2023-05-29
 ---

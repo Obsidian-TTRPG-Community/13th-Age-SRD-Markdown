@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Mook"]
 type: aberration
 updated: 2023-05-29
 ---

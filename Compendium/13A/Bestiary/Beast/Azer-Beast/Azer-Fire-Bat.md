@@ -5,7 +5,7 @@ level: 3
 permalink: 
 publish: 
 strength: normal
-tags: [13A/Bestiary/Beast, 13A/Monsters/Type/mook, 13A/Faction/Azer]
+tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Mook, 13A/Faction/Azer]
 updated: 2023-05-29
 ---
 

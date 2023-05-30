@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/plant", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Troop"]
 type: plant
 updated: 2023-05-29
 ---

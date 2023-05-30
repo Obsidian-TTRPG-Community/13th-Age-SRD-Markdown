@@ -7,7 +7,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook"]
 type: beast
 updated: 2023-05-29
 ---

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Wrecker"]
 type: undead
 updated: 2023-05-29
 ---

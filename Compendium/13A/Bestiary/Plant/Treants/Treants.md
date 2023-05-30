@@ -3,7 +3,7 @@ aliases: [Treants]
 created: 2023-05-24
 permalink: 
 publish: 
-tags: [13A/Monster/Rules/Treants]
+tags: [13A/Monsters/Factions/Treants]
 updated: 2023-05-29
 ---
 All treants except awakened tress have the *demolish* ability.

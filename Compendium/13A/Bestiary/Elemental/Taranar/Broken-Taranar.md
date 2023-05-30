@@ -7,7 +7,7 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/Troop"]
 type: elemental
 updated: 2023-05-29
 ---

@@ -4,7 +4,7 @@ created: 2023-05-25
 permalink: 
 publish: 
 statblock: inline
-tags: [13A/Monsters/Rules/Briar-Elves/Plant]
+tags: [13A/Monsters/Factions/Briar-Elves/Plant]
 updated: 2023-05-29
 ---
 

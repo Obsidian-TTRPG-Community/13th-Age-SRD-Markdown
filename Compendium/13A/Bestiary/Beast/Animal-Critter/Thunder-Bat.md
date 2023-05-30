@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: archer
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Archer"]
 type: beast
 updated: 2023-05-29
 ---

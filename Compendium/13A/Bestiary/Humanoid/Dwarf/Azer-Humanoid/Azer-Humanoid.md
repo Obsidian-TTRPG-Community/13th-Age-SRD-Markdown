@@ -3,7 +3,7 @@ aliases: [Azer Humanoid]
 created: 2023-05-18
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Azer]
+tags: [13A/Monsters/Factions/Azer]
 updated: 2023-05-29
 ---
 

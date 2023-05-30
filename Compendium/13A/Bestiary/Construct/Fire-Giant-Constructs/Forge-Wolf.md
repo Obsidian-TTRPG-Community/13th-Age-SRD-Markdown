@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: large
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Mook"]
 type: construct
 updated: 2023-05-29
 ---

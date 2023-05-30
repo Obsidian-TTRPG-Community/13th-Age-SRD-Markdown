@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/giant", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Blocker"]
 type: giant
 updated: 2023-05-29
 ---

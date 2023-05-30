@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/wrecker", "13A/Faction/Wendigo"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Wrecker", "13A/Faction/Wendigo"]
 type: undead
 updated: 2023-05-29
 ---

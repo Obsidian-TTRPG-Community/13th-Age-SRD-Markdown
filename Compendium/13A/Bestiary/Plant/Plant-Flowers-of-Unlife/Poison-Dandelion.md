@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: 2×
-tags: ["13A/Bestiary/plant", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Spoiler"]
 type: plant
 updated: 2023-05-29
 ---

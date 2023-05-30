@@ -3,7 +3,7 @@ aliases: [Couatls]
 created: 2023-05-23
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Couatls]
+tags: [13A/Monsters/Factions/Couatls]
 updated: 2023-05-29
 ---
 

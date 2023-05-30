@@ -7,7 +7,7 @@ publish:
 role: leader
 statblock: inline
 strength: 2×
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Leader"]
 type: aberration
 updated: 2023-05-29
 ---

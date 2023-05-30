@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Wrecker"]
 type: humanoid
 updated: 2023-05-29
 ---

@@ -3,7 +3,7 @@ aliases: [Ooze]
 created: 2023-05-24
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Ooze]
+tags: [13A/Monsters/Factions/Ooze]
 updated: 2023-05-29
 ---
 

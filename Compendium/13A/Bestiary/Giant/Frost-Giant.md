@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: large
-tags: ["13A/Bestiary/giant", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Spoiler"]
 type: giant
 updated: 2023-05-29
 ---

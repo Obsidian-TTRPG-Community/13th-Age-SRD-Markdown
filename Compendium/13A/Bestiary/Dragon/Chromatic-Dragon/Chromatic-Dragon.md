@@ -3,7 +3,7 @@ aliases: ["Dragons, Chromatic", "Chromatic Dragon"]
 created: 2023-05-23
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Dragon]
+tags: [13A/Monsters/Factions/Dragon]
 updated: 2023-05-29
 ---
 

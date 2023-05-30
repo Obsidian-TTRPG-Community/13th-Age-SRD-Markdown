@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/dwarf", "13A/Monsters/Type/troop", "13A/Faction/Azer"]
+tags: ["13A/Bestiary/Humanoid/Dwarf", "13A/Monsters/Type/Troop", "13A/Faction/Azer"]
 type: dwarf
 updated: 2023-05-29
 ---

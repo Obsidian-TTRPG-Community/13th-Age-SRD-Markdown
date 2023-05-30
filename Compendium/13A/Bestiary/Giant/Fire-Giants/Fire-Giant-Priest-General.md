@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: large
-tags: ["13A/Bestiary/giant", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Leader"]
 type: giant
 updated: 2023-05-29
 ---

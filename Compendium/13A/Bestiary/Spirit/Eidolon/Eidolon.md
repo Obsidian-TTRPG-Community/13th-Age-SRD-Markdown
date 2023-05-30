@@ -3,7 +3,7 @@ aliases: [Eidolon]
 created: 2023-05-27
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Eidolon]
+tags: [13A/Monsters/Factions/Eidolon]
 updated: 2023-05-29
 ---
 
