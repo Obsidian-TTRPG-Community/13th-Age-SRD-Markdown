@@ -33,16 +33,17 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      | 12      | —  |
 | Heavy      | 16      | —  |
 | Shield     | 1       | —  |
-
+^13A-Class-Paladin-Armor
   
 
 #### Melee Weapons
 
-|| One-Handed      | Two-Handed      |
-| ---------------- | ------------------------ | ------------------------ |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club        |
-| Light or Simple  | `dice: 1d6` scimitar, shortsword | `dice: 1d8` spear       |
+|                  | One-Handed                       | Two-Handed                      |
+| ---------------- | -------------------------------- | ------------------------------- |
+| Small            | `dice: 1d4` dagger               | `dice: 1d6` club                |
+| Light or Simple  | `dice: 1d6` scimitar, shortsword | `dice: 1d8` spear               |
 | Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, halberd |
+^13A-Class-Paladin-Melee
 
 #### Ranged Weapons
 
@@ -51,6 +52,7 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
 | Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
+^13A-Class-Paladin-Ranged
 
 ### Level Progression
 
@@ -67,6 +69,7 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (8 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 5        |        | 3 x ability modifier   |
 | Level 9   | (8 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 5        |        | 3 x ability modifier   |
 | Level 10  | (8 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 5        | +1 to 3 abilities        | 3 x ability modifier   |
+^13A-Class-Paladin-Progression
 
 ### Stats
 
@@ -86,6 +89,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Icon Relationships | 3 points        |
 | Talents   | 3 (see level progression chart)   |
 | Feats     | 1 per Level     |
+^13A-Class-Paladin-Stats
 
 ### Basic Attacks
 
@@ -113,7 +117,7 @@ All paladins have the Smite Evil class feature.
 
 You can use this talent once per battle, plus an additional number of times per day equal to your Charisma modifier.
 
-As a free action before you make a paladin melee attack roll, you can declare that you’re using a Smite Evil attack. Add +1d12 to the damage roll AND deal half damage with the attack if it misses.
+As a free action before you make a paladin melee attack roll, you can declare that you’re using a Smite Evil attack. Add +`dice: 1d12` to the damage roll AND deal half damage with the attack if it misses.
 
 ##### Adventurer Feat
 
@@ -121,11 +125,11 @@ Your Smite Evil attacks gain a +4 attack bonus.
 
 ##### Champion Feat
 
-Add `dice: 2d12` to the damage roll instead of 1d12.
+Add `dice: 2d12` to the damage roll instead of `dice: 1d12`.
 
 ##### Epic Feat
 
-Add `dice: 4d12` to the damage roll instead of 2d12.
+Add `dice: 4d12` to the damage roll instead of `dice: 2d12`.
 
 ### Class Talents
 
@@ -236,11 +240,8 @@ You can only have one enemy challenged at a time.
 Your Paladin’s Challenge ends when…
 
 -   …you or the creature you are challenging falls unconscious or drops to 0 hp.
-    
 -   …you hit a different enemy with an attack (assuming you hit with the –4 penalty).
-    
 -   …the creature flees faraway and you choose to end the challenge.
-    
 
 An enemy can only be the subject of one Paladin’s Challenge at a time; a new challenge overrides the previous one.
 

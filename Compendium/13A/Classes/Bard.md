@@ -483,7 +483,7 @@ Daily
 
 **Miss:** Half damage, and deal thunder damage equal to your level to each of your allies engaged with the target.
 
-3rd level spell: 6d8 damage.
+3rd level spell: `dice: 6d8` damage.
 
 5th level spell: `dice: 8d10`damage.
 
@@ -621,7 +621,7 @@ Recharge 11+ after battle
 
 **Miss:** Damage equal to your level.
 
-5th level spell: 9d6 damage.
+5th level spell: `dice: 9d6` damage.
 
 7th level spell: `dice: 10d8` damage.
 

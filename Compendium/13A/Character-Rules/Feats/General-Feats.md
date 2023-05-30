@@ -3,7 +3,7 @@ aliases: ["General Feats"]
 created: 2023-02-07
 permalink: 
 publish: 
-tags: [13A/Characters/Feats/General, navtodo]
+tags: [13A/Characters/Feats/General]
 updated: 2023-05-29
 ---
 

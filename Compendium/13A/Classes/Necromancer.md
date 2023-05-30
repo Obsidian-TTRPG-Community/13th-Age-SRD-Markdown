@@ -4,7 +4,7 @@ created: 2023-05-07
 permalink: 
 publish: 
 tags: [13A/Characters/Classes/Necromancer]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Ability Scores
@@ -30,23 +30,26 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 10      | —  |
 | Heavy      | 11      | -2 |
-| Shield     | 1       | -2 |
+| Shield     | 1       | -2 |  
+^13A-Class-Necromancer-Armor
 
 ### Melee Weapons
 
-|| One-Handed      | Two-Handed      |
-| ---------------- | --------------------------------- | ------------------------ |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club, staff |
-| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-4 atk) spear       |
-| Heavy or Martial | `dice: 1d8` (-5 atk) longsword, warhammer | `dice: 1d10`(-6 atk) greatsword |
+|                  | One-Handed                                | Two-Handed                      |
+| ---------------- | ----------------------------------------- | ------------------------------- |
+| Small            | `dice: 1d4` dagger                        | `dice: 1d6` club, staff         |
+| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-4 atk) spear      |
+| Heavy or Martial | `dice: 1d8` (-5 atk) longsword, warhammer | `dice: 1d10`(-6 atk) greatsword |  
+^13A-Class-Necromancer-Melee
 
 ### Ranged Weapons
 
-|| Thrown      | Crossbow  | Bow |
-| ---------------- | -------------------- | --------------------------- | --------------------- |
-| Small   | `dice: 1d4` dagger, star     | `dice: 1d4` hand crossbow  | —   |
+|                  | Thrown                       | Crossbow                            | Bow                           |
+| ---------------- | ---------------------------- | ----------------------------------- | ----------------------------- |
+| Small            | `dice: 1d4` dagger, star     | `dice: 1d4` hand crossbow           | —                             |
 | Light or Simple  | `dice: 1d6` (-2 atk) javelin | `dice: 1d6` (-1 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —  | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
+| Heavy or Martial | —                            | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |  
+^13A-Class-Necromancer-Ranged
 
 ## Level Progression
 
@@ -62,7 +65,8 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | —    | —    | 3    | 5    | —    | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | —    | —    | —    | 8    | —    |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | —    | —    | —    | 3    | 6    |        | 3 x ability modifier   |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | —    | —    | —    | —    | 9    | +1 to 3 abilities        | 3 x ability modifier   |
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | —    | —    | —    | —    | 9    | +1 to 3 abilities        | 3 x ability modifier   |  
+^13A-Class-Necromancer-Progression
 
 Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
@@ -88,9 +92,8 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Talents | 3      |
 | Feats   | 1 per Level     |
 | Feats   | 1 per Level     |
-| Ability Bonus    | +2 Strength or Constitution (different from racial bonus)    |
-
-  
+| Ability Bonus    | +2 Strength or Constitution (different from racial bonus)    |  
+^13A-Class-Necromancer-Stats
 
 ## Basic Attacks
 
@@ -185,9 +188,7 @@ Once per day, you can hog the spotlight when using Cackling Soliloquist. When yo
 You gain the Cantrips class feature from the wizard class. The talent functions like the wizard’s class feature with the following exceptions:
 
 -   You can’t cast *mending*.
-    
 -   Your *light* cantrip has a sickly flicker or a dark edge. Feel free to call it *darklight*.
-    
 
 #### Adventurer Feat
 
@@ -231,11 +232,11 @@ You can use Deathknell to drop a mook, but only if it’s the last mook in its m
 
 3rd level spell: Drop an enemy with 10 hp or fewer. Heal `dice: 1d10`hit points.
 
-5th level spell: Drop an enemy with 15 hp or fewer. Heal 2d8 hit points.
+5th level spell: Drop an enemy with 15 hp or fewer. Heal `dice: 2d8` hit points.
 
 7th level spell: Drop an enemy with 20 hp or fewer. Heal `dice: 4d6`hit points.
 
-9th level spell: Drop an enemy with 25 hp or fewer. Heal 4d8 hit points.
+9th level spell: Drop an enemy with 25 hp or fewer. Heal `dice: 4d8` hit points.
 
 #### Adventurer Feat
 
@@ -265,7 +266,7 @@ Undead you summon release holy energy bursts as they drop to 0 hp, dealing a sma
 
 Mooks you summon deal holy damage equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
 
-Non-mooks you summon deal holy damage equal to your Charisma modifier x `dice: 1d4` (1d8 at 5th level; `dice: 2d6` at 8th level).
+Non-mooks you summon deal holy damage equal to your Charisma modifier x `dice: 1d4` (`dice: 1d8` at 5th level; `dice: 2d6` at 8th level).
 
 In story terms, you’re not likely to have a positive relationship with any necromantic icons if you take the Redeemer talent.
 
@@ -293,7 +294,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +6 vs. AC
 
-**Damage** d6
+**Damage** `dice: 1d6`
 
 **AC** 17
 
@@ -307,7 +308,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +7 vs. AC
 
-**Damage** d8
+**Damage** `dice: 1d8`
 
 **AC** 18
 
@@ -321,7 +322,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +9 vs. AC
 
-**Damage** d12
+**Damage** `dice: 1d12`
 
 **AC** 19
 
@@ -335,7 +336,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +10 vs. AC
 
-**Damage** 2d6
+**Damage** `dice: 2d6`
 
 **AC** 21
 
@@ -349,7 +350,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +11 vs. AC
 
-**Damage** 2d8
+**Damage** `dice: 2d8`
 
 **AC** 22
 
@@ -363,7 +364,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +13 vs. AC
 
-**Damage** 3d6
+**Damage** `dice: 3d6`
 
 **AC** 23
 
@@ -377,7 +378,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +14 vs. AC
 
-**Damage** 3d8
+**Damage** `dice: 3d8`
 
 **AC** 25
 
@@ -391,7 +392,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +15 vs. AC
 
-**Damage** 4d6
+**Damage** `dice: 4d6`
 
 **AC** 26
 
@@ -405,7 +406,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +17 vs. AC
 
-**Damage** 4d8
+**Damage** `dice: 4d8`
 
 **AC** 27
 
@@ -419,7 +420,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **Attack** +18 vs. AC
 
-**Damage** 5d6
+**Damage** `dice: 5d6`
 
 **AC** 28
 
@@ -435,26 +436,19 @@ Like animal companion feats, skeletal minion feats don’t build on each other. 
 
 ##### Adventurer Feats
 
--   Your skeletal minion now adds the escalation die to its attack rolls_**.**_
-    
+-   Your skeletal minion now adds the escalation die to its attack rolls.
 -   When an enemy attempts to disengage from the skeletal minion, it takes a penalty to the check equal to the escalation die.
-    
 -   As a quick action, you can set your skeletal minion ablaze, or extinguish the blaze. While it’s flaming, your skeleton minion’s damage dice increase by one size, and it deals fire damage with its melee attacks, but it takes damage equal to your level each time its natural attack roll is odd.
-    
 
 ##### Champion Feats
 
 -   Add a damage die of the same size to your skeletal minion’s damage rolls (for example, `dice: 3d6` becomes 4d6).
-    
--   Add double your Charisma modifier to your skeletal minion’s hit points. At 8th level, add triple it.
-    
+-   Add double your Charisma modifier to your skeletal minion’s hit points. At 8th level, add triple it.  
 -   Add a damage die of the same size to your skeletal minion’s damage rolls (for example, `dice: 4d6`becomes 5d6, and this is cumulative with the champion feat).
-    
 
 ##### Epic Feats
 
 -   Your skeletal minion gains a +2 bonus to all defences.
-    
 
 ### Sorta Dead
 
@@ -596,7 +590,7 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 2d8 damage.
+3rd level spell: `dice: 2d8` damage.
 
 5th level spell: `dice: 4d6`damage.
 
@@ -717,7 +711,7 @@ Daily
 
 **Second Miss:** Half damage, or full damage if the escalation die is 1+ and you choose to decrease it by 1.
 
-3rd level spell: 4d10 damage.
+3rd level spell: `dice: 4d10` damage.
 
 5th level spell: `dice: 7d10`damage.
 
@@ -773,7 +767,7 @@ Daily
 
 **Miss:** Half damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
 
-5th level spell: 7d12 damage.
+5th level spell: `dice: 7d12` damage.
 
 7th level spell: `dice: 2d6*10` damage.
 
@@ -879,7 +873,7 @@ Daily
 
 **Miss:** Half damage.
 
-5th level spell: 7d12 damage.
+5th level spell: `dice: 7d12` damage.
 
 7th level spell: `dice: 2d6*10` damage.
 
@@ -1143,7 +1137,7 @@ Daily
 
 **Hit:** The target drops to 0 hp and dies.
 
-**Miss:** You take 4d10 damage and regain *finger of death* after the battle.
+**Miss:** You take `dice: 4d10` damage and regain *finger of death* after the battle.
 
 ***Epic Feat:*** You can now target an enemy with 320 hp or fewer.
 

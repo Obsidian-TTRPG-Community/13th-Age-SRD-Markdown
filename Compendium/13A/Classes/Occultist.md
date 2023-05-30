@@ -21,7 +21,7 @@ Possible backgrounds for the occultist’s singular knowledge include: librarian
 
 ### Gear
 
-At 1st level, the occultist starts with the embroidered robes, secret scrolls, and runic vestments that you would expect from someone with such arcane power. He might have a small item that looks like a harmless bauble but whose markings become more intricate and mesmerizing the longer it’s viewed. To defend himself, he has a staff or a dagger hidden under his robe. He also has some personal possessions left over from his earlier life.
+At 1st level, the occultist starts with the embroidered robes, secret scrolls, and runic vestments that you would expect from someone with such arcane power. He might have a small item that looks like a harmless bauble but whose markings become more intricate and mesmerising the longer it’s viewed. To defend himself, he has a staff or a dagger hidden under his robe. He also has some personal possessions left over from his earlier life.
 
 #### Gold Pieces
 
@@ -35,22 +35,25 @@ The occultist may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      | 11      | —  |
 | Heavy      | 13      | -2 |
 | Shield     | 1       | -2 |
+^13A-Class-Occultist-Armor
 
 #### Melee Weapons
 
-|| One-Handed      | Two-Handed      |  
-| ---------------- | --------------------------------- | ------------------------ |  
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club, staff |  
-| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-2 atk) spear       |  
+|                  | One-Handed                                | Two-Handed                      |
+| ---------------- | ----------------------------------------- | ------------------------------- |
+| Small            | `dice: 1d4` dagger                        | `dice: 1d6` club, staff         |
+| Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-2 atk) spear      |
 | Heavy or Martial | `dice: 1d8` (-4 atk) longsword, warhammer | `dice: 1d10`(-4 atk) greatsword |
+^13A-Class-Occultist-Melee
 
 #### Ranged Weapons
 
-|| Thrown      | Crossbow  | Bow |
-| ---------------- | -------------------- | --------------------------- | --------------------- |
-| Small   | `dice: 1d4` dagger, dart     | `dice: 1d4` hand crossbow  | —   |
+|                  | Thrown                       | Crossbow                            | Bow                           |
+| ---------------- | ---------------------------- | ----------------------------------- | ----------------------------- |
+| Small            | `dice: 1d4` dagger, dart     | `dice: 1d4` hand crossbow           | —                             |
 | Light or Simple  | `dice: 1d6` (-2 atk) javelin | `dice: 1d6` (-1 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —  | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
+| Heavy or Martial | —                            | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |
+^13A-Class-Occultist-Ranged
 
 ### Level Progression
 
@@ -67,6 +70,7 @@ The occultist may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 6        | — | — | — | 9 | — | | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 6        | — | — | — | 4 | 5 | | 3 x ability modifier   |
 | Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 6        | — | — | — | — | 10| +1 to 3 abilities | 3 x ability modifier   |
+^13A-Class-Occultist-Level
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
@@ -300,6 +304,7 @@ Once per day as a free action, you gain a *fear aura* that affects each enemy at
 | 8        | 144|
 | 9        | 192|
 | 10       | 230|
+^13A-Class-Occultist-Fear-Aura
 
 #### Stance of Necessity
 
@@ -479,7 +484,7 @@ Interrupt action to cast; expend focus
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** 4d8 + Wisdom psychic damage, and 5 ongoing psychic damage.
+**Hit:** `dice: 4d8` + Wisdom psychic damage, and 5 ongoing psychic damage.
 
 **Miss:** 5 ongoing psychic damage.
 
@@ -788,9 +793,6 @@ Your retain focus range with this spell is now 1–15.
 ##### Epic Feat
 
 The spell is now recharge 11+ after battle instead.
-
-  
-  
 
 #### Stifle
 

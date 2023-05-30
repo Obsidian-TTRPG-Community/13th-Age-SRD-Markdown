@@ -3,7 +3,7 @@ aliases: ["13th Age Feats per Level"]
 created: 2023-02-07
 permalink: 
 publish: 
-tags: [13A/Characters/Feats/Leveling, navtodo]
+tags: [13A/Characters/Feats/Leveling]
 updated: 2023-05-29
 ---
 
@@ -23,7 +23,7 @@ updated: 2023-05-29
 | 10    | 4 Adventurer, 3 Champion, and 3 Epic                                     |    
 ^13A-Player-Feats-Level
 
-> Since humans start with an additional feat at 1st level, add one to the number of adventurer feats humans possess all the way up the chart.
+>[!info] Since humans start with an additional feat at 1st level, add one to the number of adventurer feats humans possess all the way up the chart.
 
 Most of the feats in the game are attached to specific class talents, attacks, and spells.
 

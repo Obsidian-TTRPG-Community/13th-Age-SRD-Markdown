@@ -33,22 +33,25 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      | 14      | —  |
 | Heavy      | 15      | -2 |
 | Shield     | 1       | -2 |
+^13A-Class-Ranger-Armor
 
 #### Melee Weapons
 
-|| One-Handed      | Two-Handed       |
-| ---------------- | ------------------------ | ------------------------- |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear        |
+|                  | One-Handed                       | Two-Handed                       |
+| ---------------- | -------------------------------- | -------------------------------- |
+| Small            | `dice: 1d4` dagger               | `dice: 1d6` club                 |
+| Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear                |
 | Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |
+^13A-Class-Ranger-Melee
 
 #### Ranged Weapons
 
-|| Thrown  | Crossbow  | Bow |
-|------------------|------------------|--------------------|--------------|
-| Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
+|                  | Thrown                   | Crossbow                   | Bow                  |
+| ---------------- | ------------------------ | -------------------------- | -------------------- |
+| Small            | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —                    |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
+| Heavy or Martial | —                        | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
+^13A-Class-Ranger-Ranged
 
 ### Level Progression
 
@@ -65,6 +68,7 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (7 + CON mod) x 16| 4 adventurer 3 champion 1 epic  | 5        |        | 3 x ability modifier   |
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic  | 5        |        | 3 x ability modifier   |
 | Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic  | 5        | +1 to 3 abilities        | 3 x ability modifier   |
+^13A-Class-Ranger-Progression
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
@@ -85,6 +89,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Icon Relationships        | 3 points  |
 | Talents | 3 (see level progression chart)      |
 | Feats   | 1 per Level        |
+^13A-Class-Ranger-Stats
 
 ### Basic Attacks
 
@@ -261,11 +266,8 @@ You gain an additional cleric spell of your choice that is your level or lower; 
 You have a small animal or beast that accompanies you on your adventures. Use the rules from the Wizard’s Familiar talent with the following differences:
 
 1.  The creature is your pet or friend instead of your familiar.
-    
 2.  Your pet is fully natural rather than partially magical.
-    
 3.  Your pet can end up with more abilities, if you choose.
-    
 
 ##### Adventurer Feat
 
@@ -424,8 +426,10 @@ Use the following stats as the baseline for your animal companion. Remember that
 | 6     | +13 vs. AC | `dice: 6d6`   | 23 | 21| 17| 90 (45)   |
 | 7     | +14 vs. AC | `dice: 7d6`    | 25 | 23| 19| 108 (54)  |
 | 8     | +15 vs. AC | `dice: 8d6`    | 26 | 24| 20| 144 (72)  |
-| 9     | +17 vs. AC | 9d6    | 27 | 25| 21| 180 (90)  |
-| 10    | +18 vs. AC | 10d6   | 28 | 26| 22| 216 (108) |
+| 9     | +17 vs. AC | `dice: 9d6`    | 27 | 25| 21| 180 (90)  |
+| 10    | +18 vs. AC | `dice: 10d6`   | 28 | 26| 22| 216 (108) |
+^13A-Class-Ranger-Companion-Stats
+
 
 #### Animal Companion Feats
 
@@ -434,29 +438,20 @@ Ranger animal companion feats are designed so that they do not build on each oth
 ##### Adventurer Feats
 
 -   Once per day, your animal companion can attack twice in a round with a standard action.
-    
 -   Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
-    
 -   Once per day, reroll one of your animal companion’s missed attack rolls.
-    
 -   Your animal companion adds the escalation die to its attacks.
-    
 
 ##### Champion Feats
 
 -   Once per day, your animal companion can force an enemy to reroll an attack that hit it.
-    
 -   Your Lethal Hunter talent also applies to your animal companion.
-    
 -   Increase your animal companion’s Physical Defense and Mental Defense by +1.
-    
 
 ##### Epic Feats
 
 -   Increase your animal companion’s damage die by one size (for example, from d6s to d8s, or d8s to d10s).
-    
 -   Increase your animal companion’s AC by +1.
-    
 
 #### Animal Companion Spells
 
@@ -476,6 +471,7 @@ Animal Companion spells are not available to Animal Companion initiates.
 | 8   | 9       | 4   | 7th level |
 | 9   | 10      | 4   | 9th level |
 | 10  | -       | 4   | 9th level |
+^13A-Class-Ranger-Animal-Companion-Spells
 
 #### 1st Level Spells
 

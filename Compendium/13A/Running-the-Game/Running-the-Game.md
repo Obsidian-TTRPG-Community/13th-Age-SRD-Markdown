@@ -3,13 +3,26 @@ aliases: [Running the Game in 13th Age]
 created: 2316-02-07
 permalink: 
 publish: 
-tags: [13A/Playing]
+tags: [13A/Gamemastery]
 updated: 2023-05-29
 ---
 
 ## Running the Game
 
 This section has instruction for the GM on running the game.
+
+
+## Map of Content
+
+%% Begin Waypoint %%
+- **[[Running-the-Game]]**
+	- [[Building-Battles]]
+	- [[Leveling-Up]]
+	- [[Rituals]]
+
+%% End Waypoint %%
+
+## Rules
 
 ### Using Icon Relationships
 

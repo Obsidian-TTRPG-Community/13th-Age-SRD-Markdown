@@ -33,22 +33,25 @@ Rogues may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      | 12      | —  |
 | Heavy      | 13      | –2 |
 | Shield     | 1       | -2 |
+^13A-Class-Rogue-Armor
 
 #### Melee Weapons
 
-|| One-Handed     | Two-Handed      |
-|------------------|----------------------------------|--------------------------|
-| Small   | `dice: 1d8` dagger     | `dice: 1d6` club        |
-| Light or Simple  | `dice: 1d8` shortsword, wicked knife     | `dice: 1d8` spear       |
+|                  | One-Handed                               | Two-Handed                      |
+| ---------------- | ---------------------------------------- | ------------------------------- |
+| Small            | `dice: 1d8` dagger                       | `dice: 1d6` club                |
+| Light or Simple  | `dice: 1d8` shortsword, wicked knife     | `dice: 1d8` spear               |
 | Heavy or Martial | `dice: 1d8` (-2 atk) longsword, scimitar | `dice: 1d10`(-2 atk) greatsword |
+^13A-Class-Rogue-Melee
 
 #### Ranged Weapons
 
-|| Thrown  | Crossbow  | Bow|
-|------------------|------------------|-----------------------------|----------------------|
-| Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —  |
-| Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow|
-| Heavy or Martial | —       | `dice: 1d8` (–1 atk) heavy crossbow | `dice: 1d8` (-2 atk) longbow |
+|                  | Thrown                   | Crossbow                            | Bow                          |
+| ---------------- | ------------------------ | ----------------------------------- | ---------------------------- |
+| Small            | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow           | —                            |
+| Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow          | `dice: 1d6` shortbow         |
+| Heavy or Martial | —                        | `dice: 1d8` (–1 atk) heavy crossbow | `dice: 1d8` (-2 atk) longbow |
+^13A-Class-Rogue-Ranged
 
 ### Level Progression
 
@@ -65,6 +68,7 @@ Rogues may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 8       | 7th level       |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 8       | 9th level       |        | 3 x ability modifier   |
 | Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 9       | 9th level       | +1 to 3 abilities        | 3 x ability modifier   |
+^13A-Class-Rogue-Progression
 
 > [!info] Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
@@ -87,6 +91,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Icon Relationships        | 3 points        |
 | Talents | 3      |
 | Feats   | 1 per Level     |
+^13A-Class-Rogue-Stats
 
 ### Basic Attacks
 
@@ -134,6 +139,7 @@ Once per round when you make a rogue melee weapon attack against an enemy engage
 | 6  | +`dice: 3d6` |
 | 8  | +5d6|
 | 10 | +7d6|
+^13A-Class-Rogue-Sneak
 
 ##### Adventurer Feat
 
@@ -191,12 +197,13 @@ Your Sneak Attack damage is better than other rogues. Use the following Sneak At
 
 | Rogue Level | Extra Damage |
 |-------------|--------------|
-| 1  | +1d6|
-| 2  | +1d8|
+| 1  | +`dice: 1d6`|
+| 2  | +`dice: 1d8` |
 | 4  | +`dice: 2d8`|
-| 6  | +3d8|
-| 8  | +5d8|
-| 10 | +7d8|
+| 6  | +`dice: 3d8`|
+| 8  | +`dice: 5d8`|
+| 10 | +`dice: 7d8`|
+^13A-Class-Rogue-Sneak-Plus
 
 ##### Adventurer Feat
 

@@ -3,7 +3,7 @@ aliases: [defences]
 created: 2023-05-13
 permalink: 
 publish: 
-tags: [13A/Combat/Rules/Stats/defences]
+tags: [13A/Combat/Rules/Stats/Defences]
 updated: 2023-05-29
 ---
 

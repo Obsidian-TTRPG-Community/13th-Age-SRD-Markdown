@@ -33,22 +33,25 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      | 10      | —  |
 | Heavy      | 11      | –2 |
 | Shield     | 1       | -2 |
+^13A-Class-Wizard-Armor
 
 #### Melee Weapons
 
-| 0       | One-Handed     | Two-Handed       |
+|        | One-Handed     | Two-Handed       |
 |------------------|-------------------------|---------------------------|
 | Small   | `dice: 1d4` dagger     | `dice: 1d6` staff        |
 | Light or Simple  | `dice: 1d6` (-2 atk) shortsword | `dice: 1d8` (-2 atk) spear*       |
 | Heavy or Martial | `dice: 1d8` (-5 atk) longsword  | `dice: 1d10`(-5 atk) greatsword* |
+^13A-Class-Wizard-Melee
 
 #### Ranged Weapons
 
-| 0       | Thrown  | Crossbow   | Bow  |
+|        | Thrown  | Crossbow   | Bow  |
 |------------------|------------------|------------------------------|------------------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow   | —    |
 | Light or Simple  | `dice: 1d6` (-2) javelin | `dice: 1d6` (–1 atk) light crossbow* | `dice: 1d6` (-2 atk) shortbow* |
 | Heavy or Martial | —       | `dice: 1d8` (–4 atk) heavy crossbow* | `dice: 1d8` (-5 atk) longbow*  |
+^13A-Class-Wizard-Ranged
 
 - A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
@@ -67,6 +70,7 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | — | — | 3 | 8 | — |        |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | — | — | 1 | 5 | 6 |        |
 | Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | — | — | — | 3 | 9 | +1 to 3 abilities        |
+^13A-Class-Wizard-Progression
 
 > [!info] Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
@@ -89,6 +93,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Icon Relationships        | 3 points        |
 | Talents | 3      |
 | Feats   | 1 per Level     |
+^13A-Class-Wizard-Stats
 
 ### Basic Attacks
 
@@ -491,7 +496,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d10 acid damage, and 5 ongoing acid damage.
+**Hit:** `dice: 4d10` acid damage, and 5 ongoing acid damage.
 
 **Miss:** 5 ongoing acid damage, and you regain the spell during your next quick rest.
 
@@ -499,9 +504,9 @@ Daily
 
 5th level spell: `dice: 8d10`damage, and 15 ongoing damage; 15 ongoing on a miss.
 
-7th level spell: 3d4 x 10 damage, and 25 ongoing damage; 25 ongoing on a miss.
+7th level spell: `dice: 3d4*10` damage, and 25 ongoing damage; 25 ongoing on a miss.
 
-9th level spell: 5d4 x 10 damage, and 40 ongoing damage; 40 ongoing on a miss.
+9th level spell: `dice: 5d4*10` damage, and 40 ongoing damage; 40 ongoing on a miss.
 
 #### Blur
 
@@ -517,7 +522,7 @@ Daily
 
 5th level spell: Miss 25% of the time.
 
-7th level spell: Miss 30% of the time, and you can now target 1d2 creatures with the spell.
+7th level spell: Miss 30% of the time, and you can now target `dice: 1d2` creatures with the spell.
 
 9th level spell: Miss 30% of the time, and you can now target two creatures with the spell.
 
@@ -555,13 +560,13 @@ Cyclic (cast once per battle OR at-will when the escalation die is even)
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** 2d8 psychic damage, and if the target has 10 hp or fewer after the damage, it is weakened until the end of your next turn.
+**Hit:** `dice: 2d8` psychic damage, and if the target has 10 hp or fewer after the damage, it is weakened until the end of your next turn.
 
 3rd level spell: `dice: 4d6`damage, 20 hp or fewer.
 
-5th level spell: 6d8 damage, 30 hp or fewer.
+5th level spell: `dice: 6d8` damage, 30 hp or fewer.
 
-7th level spell: 10d6 damage, 40 hp or fewer.
+7th level spell: `dice: 10d6` damage, 40 hp or fewer.
 
 9th level spell: `dice: 10d12` damage, 60 hp or fewer.
 
@@ -589,13 +594,13 @@ At-Will
 
 **Effect:** `dice: 2d4` force damage.
 
-3rd level spell: 2d8 damage.
+3rd level spell: `dice: 2d8` damage.
 
 5th level spell: `dice: 4d6`damage.
 
 7th level spell: `dice: 6d6`damage.
 
-9th level spell: 10d6 damage.
+9th level spell: `dice: 10d6` damage.
 
 ##### Adventurer Feat
 
@@ -623,9 +628,9 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 4d8 damage.
+3rd level spell: `dice: 4d8` damage.
 
-5th level spell: 6d8 damage.
+5th level spell: `dice: 6d8` damage.
 
 7th level spell: `dice: 7d10`damage.
 
@@ -775,7 +780,7 @@ Targets: One or more nearby or faraway enemies (see below)
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d10 force damage.
+**Hit:** `dice: 4d10` force damage.
 
 5th level spell: `dice: 7d10`damage.
 
@@ -891,7 +896,7 @@ Ranged spell
 
 Daily
 
-**Target:** Before making the attack, roll 3d20 + 45 to determine the maximum number of hit points of enemies you can target with the spell. The spell can affect multiple enemies. You must target nearby enemies with the current lowest hit points first, and you don’t get to choose the exact targets (except in the case of ties). If adding a creature would exceed the spell’s hit point maximum, that enemy can’t be a target.
+**Target:** Before making the attack, roll `dice: 3d20` + 45 to determine the maximum number of hit points of enemies you can target with the spell. The spell can affect multiple enemies. You must target nearby enemies with the current lowest hit points first, and you don’t get to choose the exact targets (except in the case of ties). If adding a creature would exceed the spell’s hit point maximum, that enemy can’t be a target.
 
 **Attack:** Intelligence + Level vs. MD
 
@@ -899,11 +904,11 @@ Daily
 
 **Miss:** The target is dazed until the end of your next turn.
 
-5th level spell: Targets 5d20 +50 max hp.
+5th level spell: Targets `dice: 5d20` +50 max hp.
 
-7th level spell: Targets 7d20 + 100 max hp.
+7th level spell: Targets `dice: 7d20` + 100 max hp.
 
-9th level spell: Targets 9d20 + 200 max hp.
+9th level spell: Targets `dice: 9d20` + 200 max hp.
 
 #### Teleport Shield
 
@@ -917,7 +922,7 @@ Always: For the rest of the battle, once per round when an enemy moves to engage
 
 **Hit:** Teleport the enemy somewhere nearby you can see. You can place them in combat with one of your allies, but you can’t place them in a dangerous location. (It’s a defensive tool).
 
-5th level spell: The teleported enemy also takes 4d10 damage.
+5th level spell: The teleported enemy also takes `dice: 4d10` damage.
 
 7th level spell: `dice: 6d10`damage.
 
@@ -947,7 +952,7 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 3d4 x 10 damage.
+7th level spell: `dice: 3d4*10` damage.
 
 9th level spell: `dice: 3d6*10` damage.
 
@@ -993,9 +998,9 @@ Daily
 
 Reckless miss: Your allies engaged with the target take one-fourth damage.
 
-7th level spell: 12d10 damage.
+7th level spell: `dice: 12d10` damage.
 
-9th level spell: 20d10 damage.
+9th level spell: `dice: 20d10` damage.
 
 ##### Champion Feat
 
@@ -1062,9 +1067,6 @@ Daily
 In addition, at the start of each of the target’s turns this battle, if the escalation die is even, roll a d20 and add the escalation die; on a 16+, the target gains an additional standard action that turn.
 
 9th level spell: The roll for additional standard actions is now 11+ instead of 16+.
-
-  
-  
 
 #### Invisibility Purge
 
@@ -1156,7 +1158,7 @@ Any allies engaged with the enemies you are targeting take one-fourth damage fro
 
 ##### Epic Feat
 
-Each meteor now deals 5d4 x 10 damage.
+Each meteor now deals `dice: 5d4*10` damage.
 
 #### Teleport
 

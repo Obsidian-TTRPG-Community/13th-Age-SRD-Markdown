@@ -11,6 +11,42 @@ updated: 2023-05-29
 
 A multiclass character belongs to two [classes](Compendium/13A/Classes/Classes.md) instead of one. Multiclassing provides versatility—two classes offer more options than one at the expense of raw power.
 
+## Map of Content
+
+%% Begin Waypoint %%
+- **[[Multiclassing]]**
+	- [[Barbarian-Multiclass]]
+	- [[Bard-Multiclass]]
+	- [[Chaos-Mage-Multiclass]]
+	- [[Cleric-Multiclass]]
+	- [[Commander-Multiclass]]
+	- [[Druid-Multiclass]]
+	- [[Fighter-Multiclass]]
+	- [[Monk-Multiclass]]
+	- **Multiclass-Feats**
+		- [[Armored-in-Life]]
+		- [[Armored-Warfare]]
+		- [[Continual-Warp]]
+		- [[Controlled-Rage]]
+		- [[Diverse-Gathering]]
+		- [[Many-Fronts]]
+		- [[Seize-the-Momentum]]
+		- [[True-Flexibility]]
+		- [[Two-Weapon-Multiclass]]
+		- [[Wider-Focus]]
+	- [[Necromancer-Multiclass]]
+	- [[Occultist-Multiclass]]
+	- [[Paladin-Multiclass]]
+	- [[Ranger-Multiclass]]
+	- [[Rogue-Multiclass]]
+	- [[Sorcerer-Multiclass]]
+	- [[Wizard-Multiclass]]
+
+%% End Waypoint %%
+
+
+## Rules
+
 You can start at 1st level with a multiclass character or convert to being a multiclass character when you gain a level. Changing from a single-[class](Compendium/13A/Character-Rules/Class.md) character to a multiclass character during a campaign is often a consequence of some powerful story event.
 
 The core multiclass rule is that you can’t apply a talent, feat, or class feature to a spell or attack from a different class. For example, a [barbarian](Compendium/13A/Classes/Barbarian.md)/rogue who is raging makes barbarian attacks, rolling 2d20s to hit, but can’t add rogue Sneak Attack damage on top of the barbarian melee attack. Likewise, a rogue that uses *shadow walk* has to make a rogue attack upon returning to play, not a barbarian rage attack. Another example: a sorcerer/wizard or sorcerer/cleric can’t gather power as a sorcerer and then get double damage casting a spell from their  
@@ -198,3 +234,5 @@ The important things to remember in keeping track of the key ability for a multi
 > The source PDF and the word document from Pelgrane Press did not italicize the text as indicted above, so we believe this only exists in the printed books or full paid PDF versions of the source materials.
 >
 > We have gone ahead and bolded the combinations instead, but encourage you to double check our work and report any errors.
+
+

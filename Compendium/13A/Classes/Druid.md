@@ -4,7 +4,7 @@ created: 2023-05-04
 permalink: 
 publish: 
 tags: [13A/Characters/Classes/Druid]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Druid
@@ -32,28 +32,32 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      |
 | Light      | 10*     |
 | Heavy      | 14      |
-| Shield     | 1       |
+| Shield     | 1       |  
+
 ^13A-Class-Druid-Armor
+
 #### Melee Weapons
 
-|| One-Handed   | Two-Handed       |
-| ---------------- | ------------------------------ | ---------------------------------- |
-| Small   | `dice: 1d4` dagger   | `dice: 1d6` club, staff  |
-| Light or Simple  | `dice: 1d6` mace, axe, shell blade     | `dice: 1d8` spear        |
+|                  | One-Handed                             | Two-Handed                                |
+| ---------------- | -------------------------------------- | ----------------------------------------- |
+| Small            | `dice: 1d4` dagger                     | `dice: 1d6` club, staff                   |
+| Light or Simple  | `dice: 1d6` mace, axe, shell blade     | `dice: 1d8` spear                         |
 | Heavy or Martial | `dice: 1d8` (-2 atk)* warhammer, flail | `dice: 1d10`(–2 atk) dire flail, greataxe |
-| Shield  | 1   | -2*     |      
-^13A-Class-Druid-Melee
+| Shield           | 1                                      | -2*                                       |  
+^13A-Class-Druid-Melee  
+
 \*Warrior druid talent choices can change shield and one-handed weapon stats.
 
 #### Ranged Weapons
 
-|| Thrown  | Crossbow  | Bow|
-| ---------------- | ---------------- | --------------------------- | -------------------- |
-| Small   | `dice: 1d4` dagger       | `dice: 1d4` (-2 atk)hand crossbow   | —  |
-| Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` (-2 atk) light crossbow | `dice: 1d6` shortbow|
-| Heavy or Martial | —       | `dice: 1d8` (–5 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow |
-| Shield  | 1       | -2*       | 3  |
+|                  | Thrown                   | Crossbow                            | Bow                          |
+| ---------------- | ------------------------ | ----------------------------------- | ---------------------------- |
+| Small            | `dice: 1d4` dagger       | `dice: 1d4` (-2 atk)hand crossbow   | —                            |
+| Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` (-2 atk) light crossbow | `dice: 1d6` shortbow         |
+| Heavy or Martial | —                        | `dice: 1d8` (–5 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow |
+| Shield           | 1                        | -2*                                 | 3                            |  
 ^13A-Class-Druid-Ranged
+
 #### Level Progression
 
 | Druid Level        | Total Hit Points* | Total Feats  | Level-up Ability Bonuses | Damage Bonus From Ability Score |
@@ -69,23 +73,25 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic |        | 3 x ability modifier   |
 | Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | +1 to 3 abilities        | 3 x ability modifier   |
-
+^13A-Class-Druid-Progression
 ### Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.  
-| Ability Bonus    | +2 Strength, Dexterity, or Wisdom (different from racial bonus) |
-|---------------------------|-----------------------------------------------------------------|
-| Initiative       | Dex mod + Level    |
-| Armor Class (light armor) | 10 + middle mod of Con/Dex/Wis + Level        |
-| Physical Defense | 11 + middle mod of Str/Con/Dex + Level        |
-| Mental Defense   | 11 + middle mod of Int/Wis/Cha + Level        |
-| Hit Points       | (6 + Con mod) x Level modifier (see level progression chart)    |
-| Recoveries       | (probably) 8       |
-| Recovery Dice    | (1d6 x Level) + Con mod     |
-| Backgrounds      | 8 points, max 5 in any one background|
-| Icon Relationships        | 3 (4 at 5th level; 5 at 8th level)   |
-| Talents | 3|
-| Feats   | 1 per Level        |
+
+| Ability Bonus             | +2 Strength, Dexterity, or Wisdom (different from racial bonus) |
+| ------------------------- | --------------------------------------------------------------- |
+| Initiative                | Dex mod + Level                                                 |
+| Armor Class (light armor) | 10 + middle mod of Con/Dex/Wis + Level                          |
+| Physical Defense          | 11 + middle mod of Str/Con/Dex + Level                          |
+| Mental Defense            | 11 + middle mod of Int/Wis/Cha + Level                          |
+| Hit Points                | (6 + Con mod) x Level modifier (see level progression chart)    |
+| Recoveries                | (probably) 8                                                    |
+| Recovery Dice             | (1d6 x Level) + Con mod                                         |
+| Backgrounds               | 8 points, max 5 in any one background                           |
+| Icon Relationships        | 3 (4 at 5th level; 5 at 8th level)                              |
+| Talents                   | 3                                                               |
+| Feats                     | 1 per Level                                                     |
+^13A-Class-Druid-Stats
 
 ### Basic Attacks
 
@@ -162,7 +168,7 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 | Level 8   | —| — | 1 | 2 | —|
 | Level 9   | —| — | — | 2 | 1|
 | Level 10  | —| — | — | 1 | 2|
-
+^13A-Class-Druid-Elemental-Caster-Initiate
 ##### Elemental Caster Adept Level Progression
 
 | Druid Level        | 1st level | 3rd level  | 5th level  | 7th level  | 9th level  |
@@ -178,7 +184,7 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 | Level 8   | —| — | 1 | 4 | — |
 | Level 9   | —| — | — | 3 | 3 |
 | Level 10  | —| — | — | 2 | 4 |
-
+^13A-Class-Druid-Elemental-Caster-Adept
 ##### Air Mastery
 
 ###### Adventurer Feat
@@ -213,7 +219,7 @@ At-Will
 
 5th level spell: `dice: 5d6` damage, `dice: 1d10`mook damage on odd hit.
 
-7th level spell: `dice: 5d8`damage, 2d8 mook damage on odd hit.
+7th level spell: `dice: 5d8`damage, `dice: 2d8` mook damage on odd hit.
 
 9th level spell: `dice: 7d10`damage, `dice: 4d6`mook damage on odd hit.
 
@@ -285,7 +291,7 @@ At-Will
 
 3rd level spell: `dice: 5d6` damage, `dice: 2d6` damage on odd hit.
 
-5th level spell: `dice: 5d8`damage, 2d8 damage on odd hit.
+5th level spell: `dice: 5d8`damage, `dice: 2d8` damage on odd hit.
 
 7th level spell: `dice: 7d10`damage, `dice: 3d10`damage on odd hit.
 
@@ -321,7 +327,7 @@ At-Will
 
 3rd level spell: `dice: 4d6`damage.
 
-5th level spell: 6d6damage.
+5th level spell: `dice: 6d6` damage.
 
 7th level spell: `dice: 6d10`damage.
 
@@ -638,6 +644,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 | Level 8   | 2     | 2     | 2      |
 | Level 9   | 2     | 2     | 2      |
 | Level 10  | 2     | 2     | 2      |
+^13A-Class-Druid-Shifter-Initiate
 
 ##### Shifter Adept Level Progression
 
@@ -654,6 +661,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 | Level 8   | 3     | At-will        | 5      |
 | Level 9   | 3     | At-will        | 5      |
 | Level 10  | 3     | At-will        | 5      |
+^13A-Class-Druid-Shifter-Adept
 
 ##### Scout Form
 
@@ -718,9 +726,6 @@ At-Will for Shifter adepts
 Quick action
 
 **Effect:** You leave your humanoid form behind and assume the form of a deadly predator such as a wolf, panther, tiger, bear, wolverine, lion, or another animal that you are naturally connected to.
-
-  
-  
 
 The choice of what type of animal you become is up to you. You don’t always have to change into the same thing—your choices can suit the story. Stick to four-legged natural predators, not creatures with supernatural abilities or the ability to fly.
 
@@ -850,7 +855,7 @@ Quick action
 
 **Initiate Effect:** Until the end of the battle, when an enemy engaged with you fails a disengage check, you can make an opportunity attack against it. In addition, your natural even beast form attack rolls that would normally deal damage equal to your level deal half damage instead.
 
-**Adept Effect:** As the initiate effect, and you gain a +1d3 bonus to AC and a +1d3 bonus to PD (two separate rolls). Insects are unpredictable.
+**Adept Effect:** As the initiate effect, and you gain a +`dice: 1d3` bonus to AC and a +`dice: 1d3` bonus to PD (two separate rolls). Insects are unpredictable.
 
 Adventurer Feat
 
@@ -948,7 +953,7 @@ Your extra melee damage while using this aspect increases according to your leve
 
 8th level druid: +`dice: 3d6` damage.
 
-10th level druid: +3d12 damage.
+10th level druid: +`dice: 3d12` damage.
 
 Champion Feat
 
@@ -1045,7 +1050,7 @@ Ranged spell
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 2d8 damage.
+3rd level spell: `dice: 2d8` damage.
 
 5th level spell: `dice: 3d8`damage.
 
@@ -1293,7 +1298,7 @@ Daily
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 10d6 + Wisdom cold damage.
+**Hit:** `dice: 10d6` + Wisdom cold damage.
 
 **Natural Even Hit:** As a hit, plus the target is stuck (save ends).
 
@@ -1327,7 +1332,7 @@ At-Will (in any terrain)
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** `dice: 1d8` + Wisdom damage; or 2d8 + Wisdom damage against a mook.
+**Hit:** `dice: 1d8` + Wisdom damage; or `dice: 2d8` + Wisdom damage against a mook.
 
 **Miss:** Damage equal to your level against a non-mook; no effect against a mook.
 
@@ -1367,13 +1372,13 @@ Daily
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 7d12 + Wisdom damage.
+**Hit:** `dice: 7d12` + Wisdom damage.
 
 **Miss:** You don’t expend the spell, but must cast it again with your next standard action. If you don’t, you take damage from the spell as if you had been hit and the spell is expended.
 
-7th level spell: 3d4 x 10 damage.
+7th level spell: `dice: 3d4*10` damage.
 
-9th level spell: `dice: 3d8`x 10 damage.
+9th level spell: `dice: 3d8*10` damage.
 
 ###### Migratory Teleport (7th level)
 
@@ -1413,7 +1418,7 @@ At-Will (in any terrain)
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** `dice: 1d8` + Wisdom lightning damage, or 2d8 + Wisdom lightning damage against a creature that is flying.
+**Hit:** `dice: 1d8` + Wisdom lightning damage, or `dice: 2d8` + Wisdom lightning damage against a creature that is flying.
 
 **Miss:** Damage equal to your level.
 
@@ -1473,7 +1478,7 @@ Daily
 
 **Miss:** Damage equal to your level.
 
-9th level spell: 7d12 damage.
+9th level spell: `dice: 7d12` damage.
 
 ##### Plains, Overworld
 
@@ -1503,7 +1508,7 @@ At-Will (in any terrain)
 
 3rd level spell: 3d4 damage.
 
-5th level spell: 2d8 damage.
+5th level spell: `dice: 2d8` damage.
 
 7th level spell: `dice: 4d6`damage.
 
@@ -1597,9 +1602,9 @@ Once per battle (in any terrain)
 
 5th level spell: `dice: 6d6`damage.
 
-7th level spell: 9d6 damage.
+7th level spell: `dice: 9d6` damage.
 
-9th level spell: 6d12 damage.
+9th level spell: `dice: 6d12` damage.
 
 ###### Inevitable Collapse (1st level)
 
@@ -1727,7 +1732,7 @@ Daily
 
 **Miss:** Half damage.
 
-5th level spell: 6d8 damage.
+5th level spell: `dice: 6d8` damage.
 
 7th level spell: `dice: 10d8` damage.
 
@@ -1798,7 +1803,7 @@ Choose another Warrior Druid benefit you weren’t able to start with. Whether y
 | Level 8   | 4    |
 | Level 9   | 4    |
 | Level 10  | 4    |
-
+^13A-Class-Druid-Warrior-Druid-Initiate
 ##### Warrior Druid Adept Level Progression
 
 | Druid Level        | Druid Flexible Attacks |
@@ -1814,6 +1819,7 @@ Choose another Warrior Druid benefit you weren’t able to start with. Whether y
 | Level 8   | 6    |
 | Level 9   | 6    |
 | Level 10  | 6    |
+^13A-Class-Druid-Warrior-Druid-Adept
 
 ##### Flexible Attacks
 
@@ -2081,7 +2087,7 @@ One nearby ally also gains the same amount of healing that you do from this flex
 
 *Epic Feat*
 
-Add 4d10 instead of `dice: 1d6` to the healing provided by this flexible attack, and you can use *warrior’s blessing* twice per battle.
+Add `dice: 4d10` instead of `dice: 1d6` to the healing provided by this flexible attack, and you can use *warrior’s blessing* twice per battle.
 
 ###### Wild Harmony
 
@@ -2136,6 +2142,7 @@ Once per day as a free action when a target of one of your *regeneration* spells
 | Level 8   | 1   | 2       | —      | 1    |
 | Level 9   | 1   | 2       | —      | 2    |
 | Level 10  | 1   | 2       | —      | 2    |
+^13A-Class-Druid-Wild-Healer-Initiate
 
 ##### Wild Healer Adept Level Progression
 
@@ -2152,6 +2159,7 @@ Once per day as a free action when a target of one of your *regeneration* spells
 | Level 8   | 2   | 2       | 2      | 2    |
 | Level 9   | 2   | 3       | 2      | 2    |
 | Level 10  | 2   | 3       | 2      | 3    |
+^13A-Class-Druid-Wild-Healer-Adept
 
 ##### Regeneration
 
@@ -2311,8 +2319,8 @@ Use the following stats as the baseline for your animal companion. Remember that
 
 | Level | Attack     | Damage | AC  | PD (or MD) | MD (or PD) | HP        |
 | ----- | ---------- | ------ | --- | ---------- | ---------- | --------- |
-| 0     | +5 vs. AC  | d8     | 16  | 14| 10| 20 (10)   |
-| 1     | +6 vs. AC  | d10    | 17  | 15| 11| 27 (13)   |
+| 0     | +5 vs. AC  | `dice: 1d8`     | 16  | 14| 10| 20 (10)   |
+| 1     | +6 vs. AC  | `dice: 1d10`    | 17  | 15| 11| 27 (13)   |
 | 2     | +7 vs. AC  | `dice: 2d6`    | 18  | 16| 12| 36 (18)   |
 | 3     | +9 vs. AC  | `dice: 3d6`    | 19  | 17| 13| 45 (22)   |
 | 4     | +10 vs. AC | `dice: 4d6`   | 21  | 19| 15| 54 (27)   |
@@ -2320,8 +2328,9 @@ Use the following stats as the baseline for your animal companion. Remember that
 | 6     | +13 vs. AC | `dice: 6d6`   | 23  | 21| 17| 90 (45)   |
 | 7     | +14 vs. AC | `dice: 7d6`    | 25  | 23| 19| 108 (54)  |
 | 8     | +15 vs. AC | `dice: 8d6`    | 26  | 24| 20| 144 (72)  |
-| 9     | +17 vs. AC | 9d6    | 27  | 25| 21| 180 (90)  | 
-| 10    | +18 vs. AC | 10d6   | 28  | 26| 22| 216 (108) |
+| 9     | +17 vs. AC | `dice: 9d6`    | 27  | 25| 21| 180 (90)  | 
+| 10    | +18 vs. AC | `dice: 10d6`   | 28  | 26| 22| 216 (108) |
+^13A-Class-Druid-Wolf-Stats
 
 #### Animal Companion Feats
 
@@ -2359,6 +2368,7 @@ Druid animal companion feats are designed so that they do not build on each othe
 As an Animal Companion adept, you gain a number of spells to help your animal companion—or another’s—fight better. You don’t have to choose the spells you know ahead of time. You can cast any spell of your level or lower, limited only by the number of daily spells you get. Once you cast a particular daily spell, no matter its level, you can’t cast it again until you take your next full heal-up.
 
 Animal Companion spells are not available to Animal Companion initiates.  
+
 | Druid Level | Multiclass Level | Daily Spells | Spells are Cast At |
 |-------------|------------------|--------------|--------------------|
 | 1  | 1, 2    | 1   | 1st level |
@@ -2371,6 +2381,7 @@ Animal Companion spells are not available to Animal Companion initiates.
 | 8  | 9       | 4   | 7th level |
 | 9  | 10      | 4   | 9th level |
 | 10 | -       | 4   | 9th level |
+^13A-Class-Druid-Animal-Companion
 
 #### 1st Level Spells
 
