@@ -235,9 +235,9 @@ updated: 2023-05-29
 		- [[Cambion-Sickle]]
 		- [[Corpse-Dybbuk]]
 		- **Demonic-Icon-Cult**
-			- [[Demonic-Icon-Fantatic]]
-			- [[Demonic-Icon-Priest]]
-			- [[Demonic-Icon-Wiard]]
+			- [[Demoni-Icon-Priest]]
+			- [[Demonic-Icon-Fanatic]]
+			- [[Demonic-Icon-Wizard]]
 		- [[Despoiler-Mage]]
 		- [[Despoiler]]
 		- [[Dretch]]
