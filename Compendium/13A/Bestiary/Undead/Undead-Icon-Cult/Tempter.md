@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 statblock: inline
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Blocker"]
 type: undead
 updated: 2023-05-29
@@ -46,4 +46,3 @@ pd: "21"
 md: "21"
 hp: "204"
 ```
-

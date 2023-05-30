@@ -5,7 +5,7 @@ level: 4
 permalink: 
 publish: 
 role: troop
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Troop"]
 type: beast
 updated: 2023-05-29

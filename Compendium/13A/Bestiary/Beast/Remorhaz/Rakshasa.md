@@ -5,7 +5,7 @@ level: 8
 permalink: 
 publish: 
 role: caster
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster"]
 type: humanoid
 updated: 2023-05-29

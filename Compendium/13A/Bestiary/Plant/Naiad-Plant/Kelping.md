@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 statblock: inline
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Wrecker"]
 type: plant
 updated: 2023-05-29

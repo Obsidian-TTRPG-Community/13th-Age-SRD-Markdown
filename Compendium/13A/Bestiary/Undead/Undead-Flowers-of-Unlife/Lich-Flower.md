@@ -5,7 +5,7 @@ level: 6
 permalink: 
 publish: 
 role: blocker
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Blocker"]
 type: undead
 updated: 2023-05-29
@@ -37,4 +37,3 @@ pd: "17"
 md: "19"
 hp: "100"
 ```
-

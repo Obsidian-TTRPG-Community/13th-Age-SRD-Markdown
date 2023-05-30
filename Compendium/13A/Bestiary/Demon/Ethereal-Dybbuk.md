@@ -5,7 +5,7 @@ level: 7
 permalink: 
 publish: 
 role: wrecker
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Wrecker"]
 type: demon
 updated: 2023-05-29

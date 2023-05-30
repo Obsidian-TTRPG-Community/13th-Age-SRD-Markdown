@@ -7,7 +7,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Horned-Azinth", "13A/Monsters/Type/Wrecker"]
 type: beast
 updated: 2023-05-29
 ---

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 statblock: inline
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Leader"]
 type: aberration
 updated: 2023-05-29

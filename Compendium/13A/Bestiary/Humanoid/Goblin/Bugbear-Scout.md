@@ -5,7 +5,7 @@ level: 2
 permalink: 
 publish: 
 role: troop
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop"]
 type: humanoid
 updated: 2023-05-29
@@ -41,4 +41,3 @@ pd: "16"
 md: "15"
 hp: "88"
 ```
-

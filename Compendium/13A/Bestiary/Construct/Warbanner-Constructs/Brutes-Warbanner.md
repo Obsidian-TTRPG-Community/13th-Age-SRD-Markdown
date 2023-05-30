@@ -5,7 +5,7 @@ level: 3
 permalink: 
 publish: 
 role: caster
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Caster"]
 type: construct
 updated: 2023-05-29

@@ -5,7 +5,7 @@ level: 3
 permalink: 
 publish: 
 role: leader
-strength: 2×
+strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Leader"]
 type: plant
 updated: 2023-05-29
@@ -44,4 +44,3 @@ pd: "13"
 md: "16"
 hp: "40"
 ```
-
