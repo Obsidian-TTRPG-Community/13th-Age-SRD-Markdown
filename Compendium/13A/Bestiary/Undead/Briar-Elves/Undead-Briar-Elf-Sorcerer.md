@@ -1,24 +1,24 @@
 ---
-aliases: [Briar Elf Sorcerer]
+aliases: [Undead Briar Elf Sorcerer]
 created: 
 level: 10
 publish: 
 role: caster
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/caster"]
-type: humanoid
+tags: ["13A/Bestiary/undead", "13A/Monsters/Type/caster"]
+type: undead
 updated: 
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Briar Elf Sorcerer"
+name: "Undead Briar Elf Sorcerer"
 size: "normal"
 level: "10"
 levelOrdinal: "10th"
 role: "caster"
-type: "humanoid"
+type: "undead"
 initiative: "18"
 actions:
     - name: "Blood to sap +15 vs. PD"
@@ -41,8 +41,8 @@ actions:
           - name: "Forest-shape: The briar elf sorcerer can cause trees to reshape themselves or to spontaneously grow from the ground. Once per battle the briar elf sorcerer can use this ability as a free action"
             desc: "to stop another character mid-movement, to pop a creature free, or to block and cancel a ranged attack."
 traits:
-    - name: "Humanoid Nature"
-      desc: "Once per battle, for one turn; _storm of thorns_ becomes a quick action to use."
+    - name: "Undead Nature"
+      desc: "This monster’s type is [UNDEAD]. This monster can phase through solid objects and creatures, but cannot end its turn inside another object or creature. The monster automatically disengages when it moves, and cannot be intercepted (unless the creature intercepting it is also phasing)."
 nastier_traits:
     - name: "Fear aura"
       desc: "Enemies engaged with this briar elf who have fewer than 72 hp are dazed (–4 attack) and can’t use the escalation die."
@@ -53,3 +53,4 @@ pd: "24"
 md: "22"
 hp: "220"
 ```
+

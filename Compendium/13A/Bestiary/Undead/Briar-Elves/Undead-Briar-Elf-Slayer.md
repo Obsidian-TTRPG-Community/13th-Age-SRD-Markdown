@@ -1,24 +1,24 @@
 ---
-aliases: [Briar Elf Slayer]
+aliases: [Undead Briar Elf Slayer]
 created: 
 level: 6
 publish: 
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/troop"]
-type: humanoid
+tags: ["13A/Bestiary/undead", "13A/Monsters/Type/troop"]
+type: undead
 updated: 
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Briar Elf Slayer"
+name: "Undead Briar Elf Slayer"
 size: "normal"
 level: "6"
 levelOrdinal: "6th"
 role: "troop"
-type: "humanoid"
+type: "undead"
 initiative: "14"
 actions:
     - name: "Thorn claws +11 vs. AC"
@@ -31,8 +31,8 @@ actions:
 traits:
     - name: "Counterstrike"
       desc: "When the briar elf is targeted by an opportunity attack, it makes a thorn claws attack against the creature that is targeting it first."
-    - name: "Humanoid Nature"
-      desc: "The briar elf can make the Bramble Bow ranged attack."
+    - name: "Undead Nature"
+      desc: "This monster’s type is [UNDEAD]. Provided it is next to a tree, this monster can teleport to a different nearby tree as a move action."
 nastier_traits:
     - name: "Thorny carapace"
       desc: "When an attacker misses this monster with a melee attack, the attacker takes 12 damage."
@@ -48,3 +48,4 @@ pd: "20"
 md: "18"
 hp: "100"
 ```
+

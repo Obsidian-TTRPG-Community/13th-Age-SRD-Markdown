@@ -673,6 +673,13 @@ updated: 2023-05-29
 			- [[Bloody-Shade]]
 			- [[Broken-Shade]]
 			- [[Slaughter-Pit-Shade]]
+		- **[[Briar-Elves]]**
+			- [[Undead-Briar-Elf-Assassin]]
+			- [[Undead-Briar-Elf-Slayer]]
+			- [[Undead-Briar-Elf-Sorcerer]]
+			- [[Undead-Briar-Elf-Sovereign]]
+			- [[Undead-Briar-Elf-Stalker]]
+			- [[Undead-Briar-Elf-Warrior]]
 		- **[[Coin-Zombies]]**
 			- [[Coin-Collector-Zombie]]
 			- [[Coin-Zombie]]
@@ -725,13 +732,6 @@ updated: 2023-05-29
 		- **Sunder-Wraiths**
 			- [[Great-Sunder-Wraith]]
 			- [[Sunder-Wraith]]
-		- **[[Undead-Briar-Elves]]**
-			- [[Undead-Briar-Elf-Assassin]]
-			- [[Undead-Briar-Elf-Slayer]]
-			- [[Undead-Briar-Elf-Sorcerer]]
-			- [[Undead-Briar-Elf-Sovereign]]
-			- [[Undead-Briar-Elf-Stalker]]
-			- [[Undead-Briar-Elf-Warrior]]
 		- **Undead-Fallen-Icon**
 			- [[Fallen-Icons-Maw]]
 			- [[Fallen-Icons-Shadow]]

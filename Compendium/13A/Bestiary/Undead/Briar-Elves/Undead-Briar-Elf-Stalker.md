@@ -1,24 +1,24 @@
 ---
-aliases: [Briar Elf Stalker]
+aliases: [Undead Briar Elf Stalker]
 created: 
 level: 8
 publish: 
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/archer"]
-type: humanoid
+tags: ["13A/Bestiary/undead", "13A/Monsters/Type/archer"]
+type: undead
 updated: 
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Briar Elf Stalker"
+name: "Undead Briar Elf Stalker"
 size: "normal"
 level: "8"
 levelOrdinal: "8th"
 role: "archer"
-type: "humanoid"
+type: "undead"
 initiative: "16"
 actions:
     - name: "Whip of thorns +13 vs. AC"
@@ -38,8 +38,8 @@ actions:
 traits:
     - name: "Green walk"
       desc: "Provided the briar elf stalker is next to a tree, as a standard action they can step into the tree and disappear. At the start of their next turn they reappear next to another nearby tree, and hit or miss their attack does double damage."
-    - name: "Humanoid Nature"
-      desc: "Twice per battle, make a _barbed arrows_ attack as a quick action."
+    - name: "Undead Nature"
+      desc: "This monster’s type is [UNDEAD]. Once per battle when the escalation die is 4+, this monster green walks it immediately gets another turn."
 nastier_traits:
     - name: "Strength of the forest"
       desc: "When this monster green walks it heals 1d4 × 10 hit points."
@@ -50,3 +50,4 @@ pd: "21"
 md: "20"
 hp: "140"
 ```
+

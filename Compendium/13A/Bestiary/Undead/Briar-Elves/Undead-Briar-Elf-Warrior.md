@@ -1,24 +1,24 @@
 ---
-aliases: [Briar Elf-Warrior]
+aliases: [Undead Briar Elf Warrior]
 created: 
 level: 9
 publish: 
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/troop"]
-type: humanoid
+tags: ["13A/Bestiary/undead", "13A/Monsters/Type/troop"]
+type: undead
 updated: 
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Briar Elf Warrior"
+name: "Undead Briar Elf Warrior"
 size: "normal"
 level: "9"
 levelOrdinal: "9th"
 role: "troop"
-type: "humanoid"
+type: "undead"
 initiative: "18"
 actions:
     - name: "Thorn claws +14 vs. AC"
@@ -31,8 +31,8 @@ actions:
 traits:
     - name: "The poison builds"
       desc: "For each nearby enemy that is taking ongoing damage, the briar elf warrior’s attacks deal an additional 10 poison damage, hit or miss."
-    - name: "Humanoid"
-      desc: "The briar elf can make the Bramble Bow ranged attack"
+    - name: "Undead"
+      desc: "This monster’s type is [UNDEAD]. Provided it is next to a tree, this monster can teleport to a different nearby tree as a move action."
 nastier_traits:
     - name: "Thorny carapace"
       desc: "When an attacker misses this monster with a melee attack, the attacker takes 24 damage."
@@ -50,3 +50,4 @@ pd: "23"
 md: "21"
 hp: "200"
 ```
+

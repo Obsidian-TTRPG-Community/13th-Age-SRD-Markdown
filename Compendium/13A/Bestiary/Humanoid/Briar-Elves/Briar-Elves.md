@@ -23,13 +23,3 @@ In the unlikely event that PCs have managed to find or lure briar elves outside 
 **3. Blowdarts**—More briar elves are lurking on the edge of the fight, just out of sight. If a PC rolls lower than the escalation die value on any natural d20 roll they take poison damage equal to their level.
 
 **4. Gruesome display**—The whirl of battle has revealed some fresh corpses desecrated by the briar elves and impaled in the trees. Story consequences are best here: it can be someone the PCs cared about.
-
-## Undead Briar Elves
-
-**1. Whispers of the past**—PCs have a –2 penalty to MD and PD, as overlapping ghostly whispers cause pain and anxiety.
-
-**2. Ghostly terrain**—On rounds when the escalation die is odd the PCs are stuck, unable to move due to ghost trees that suddenly block their paths.
-
-**3. Spectral hands**—PCs take a –1 penalty to attack rolls, as ghostly thorn-pierced hands grab at them.
-
-**4. Fearful destiny**—PCs who could normally resist fear effects cannot do so for the duration of this battle. PCs who cannot normally resist fear take a –2 penalty to their saves whenever they are affected by fear.
