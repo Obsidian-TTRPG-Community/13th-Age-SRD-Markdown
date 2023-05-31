@@ -7,7 +7,7 @@ publish:
 role: leader
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kroma-Dragonic", "13A/Monsters/Type/Leader"]
 type: humanoid
 updated: 2023-05-29
 ---
@@ -54,4 +54,3 @@ pd: "22"
 md: "19"
 hp: "140"
 ```
-

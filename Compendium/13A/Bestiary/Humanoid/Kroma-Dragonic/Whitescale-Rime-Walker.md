@@ -7,7 +7,7 @@ publish:
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kroma-Dragonic", "13A/Monsters/Type/Troop"]
 type: humanoid
 updated: 2023-05-29
 ---
@@ -44,4 +44,3 @@ pd: "18"
 md: "13"
 hp: "65"
 ```
-

@@ -545,8 +545,7 @@ updated: 2023-05-29
 			- [[Kobold-Shadow-Warrior]]
 			- [[Kobold-Skyclaw]]
 			- [[Kobold-Warrior]]
-		- **Koruku-Humanoid**
-			- [[Koruku-Symbiont]]
+		- [[Koruku-Symbiont]]
 		- **[[Kroma-Dragonic]]**
 			- [[Blackscale-Light-Killer]]
 			- [[Bluescale-Lightning-Caller]]
@@ -557,14 +556,13 @@ updated: 2023-05-29
 			- [[Redscale-Flamewing]]
 			- [[Whitescale-Blighter]]
 			- [[Whitescale-Rime-Walker]]
-		- **Lizardman**
-			- [[Lizardman-Savage]]
+		- [[Lizardman-Savage]]
 		- **Medusa**
 			- [[Medusa-Noble]]
 			- [[Medusa-Outlaw]]
 		- [[Minotaur]]
 		- [[Mummy]]
-		- **Naiad-Humanoid**
+		- **Naiad**
 			- [[Melusine]]
 			- [[Nix]]
 			- [[Waterhorse]]
