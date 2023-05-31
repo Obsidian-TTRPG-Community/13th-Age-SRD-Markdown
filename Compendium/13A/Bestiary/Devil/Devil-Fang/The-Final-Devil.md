@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: huge
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Faction/Devil-Fang", "13A/Monsters/Type/Leader"]
 type: devil
 updated: 2023-05-29
 ---
@@ -60,4 +60,3 @@ pd: "28"
 md: "28"
 hp: "1300"
 ```
-

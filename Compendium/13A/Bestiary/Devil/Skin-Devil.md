@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: weakling
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: devil
 updated: 2023-05-29
 ---
@@ -38,4 +38,3 @@ pd: "16"
 md: "16"
 hp: "28"
 ```
-

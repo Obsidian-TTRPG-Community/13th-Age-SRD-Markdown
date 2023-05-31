@@ -7,7 +7,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Wrecker", "13A/Monster/Faction/Hellcats"]
 type: construct
 updated: 2023-05-29
 ---

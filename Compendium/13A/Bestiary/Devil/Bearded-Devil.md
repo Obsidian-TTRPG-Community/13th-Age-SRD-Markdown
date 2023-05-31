@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Blocker"]
 type: devil
 updated: 2023-05-29
 ---

@@ -181,6 +181,7 @@ updated: 2023-05-29
 		- **[[Construct-Underground-Fallen-Icon]]**
 			- [[Bronze-Errant]]
 			- [[Bronze-Kingsguard]]
+		- [[Ember-Imp]]
 		- [[Forge-Wolf]]
 		- [[Gargoyle]]
 		- **Golem**
@@ -261,9 +262,7 @@ updated: 2023-05-29
 			- [[The-Final-Devil]]
 		- [[Fury-Devil]]
 		- [[Hell-Imp]]
-		- **Hellcats**
-			- [[Ember-Imp]]
-			- [[Hellcat]]
+		- [[Hellcat]]
 		- [[Honey-Devil]]
 		- [[Hooded-Devil]]
 		- [[Horned-Devil]]

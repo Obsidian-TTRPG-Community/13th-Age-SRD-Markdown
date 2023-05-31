@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
 type: devil
 updated: 2023-05-29
 ---
