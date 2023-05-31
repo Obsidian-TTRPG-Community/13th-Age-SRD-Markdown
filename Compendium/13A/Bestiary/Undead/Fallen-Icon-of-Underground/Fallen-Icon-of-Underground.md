@@ -3,7 +3,7 @@ aliases: ["Fallen Icons: Underground"]
 created: 2023-05-29
 publish: 
 tags: [13A/Monsters/Factions/Fallen-Icon-Underground]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## Fallen Icon of Underground

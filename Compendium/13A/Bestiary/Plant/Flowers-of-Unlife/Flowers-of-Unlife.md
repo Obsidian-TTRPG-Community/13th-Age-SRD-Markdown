@@ -3,7 +3,7 @@ aliases: [Plant Flower of Unlife]
 created: 2023-05-23
 publish: 
 tags: [13A/Monsters/Factions/Flowers-of-unlife]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## Nastier Specials for All Flowers of Unlife

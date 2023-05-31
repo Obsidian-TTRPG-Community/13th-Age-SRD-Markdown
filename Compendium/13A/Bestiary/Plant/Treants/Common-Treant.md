@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 5
 publish: 
 role: spoiler
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Treants", "13A/Monsters/Type/Spoiler"]
 type: plant
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

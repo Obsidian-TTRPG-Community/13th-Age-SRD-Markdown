@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 5
 publish: 
 role: blocker
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Ooze", "13A/Monsters/Factions/None", "13A/Monsters/Type/Blocker"]
 type: ooze
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

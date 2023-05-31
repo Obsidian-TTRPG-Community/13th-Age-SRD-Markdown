@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 4
 publish: 
 role: spoiler
+statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Ogres", "13A/Monsters/Type/Spoiler"]
 type: giant
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -3,7 +3,7 @@ aliases: [Battle-Shade]
 created: 2023-05-18
 publish: 
 tags: [13A/Monsters/Factions/Battle-Shade]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## Battle Shade

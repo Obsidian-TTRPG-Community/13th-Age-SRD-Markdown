@@ -8,7 +8,7 @@ statblock: inline
 strength: elite
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Xorn", "13A/Monsters/Type/Troop"]
 type: elemental
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

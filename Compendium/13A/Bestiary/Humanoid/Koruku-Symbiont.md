@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Koruku"]
 type: humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

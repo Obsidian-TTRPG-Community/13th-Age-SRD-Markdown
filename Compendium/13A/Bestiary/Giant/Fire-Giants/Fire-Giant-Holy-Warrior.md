@@ -4,10 +4,11 @@ created: 2023-05-29
 level: 7
 publish: 
 role: troop
+statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Fire-Giant", "13A/Monsters/Type/Troop"]
 type: giant
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

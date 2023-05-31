@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 10
 publish: 
 role: archer
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Archer"]
 type: giant
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock
