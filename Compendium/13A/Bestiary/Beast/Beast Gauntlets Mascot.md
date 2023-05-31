@@ -8,7 +8,7 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
 type: beast
 updated: 
 ---
@@ -33,4 +33,3 @@ pd: "18"
 md: "22"
 hp: "70"
 ```
-
