@@ -71,7 +71,7 @@ updated: 2023-05-30
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Fire-Bat|Fire Bat]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Ant|Giant Ant]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Praying-Mantis|Giant Praying Mantis]]
-			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Scorpian|Giant Scorpian]]
+			- [[Giant-Scorpion|Giant Scorpian]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Web-Spider|Giant Web Spider]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Goblin-Bat-Mage|Goblin Bat Mage]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Hunting-Spider|Hunting Spider]]

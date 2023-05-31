@@ -30,7 +30,7 @@ traits:
     - name: "Springing attack"
       desc: "If the dire tiger is unengaged and moves to engage an enemy (with a springing leap), it can make a pounce attack as a standard action."
     - name: "One random dire feature"
-      desc: "Use the dire features table."
+      desc: "Use the [[Dire-Animals|dire features]] table."
 triggered_actions:
     - name: "Pounce +13 vs. AC"
       desc: "38 damage, and the target is hampered while it’s engaged with the tiger"

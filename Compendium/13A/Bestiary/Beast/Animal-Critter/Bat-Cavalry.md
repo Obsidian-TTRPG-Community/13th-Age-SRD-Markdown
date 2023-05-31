@@ -41,9 +41,16 @@ traits:
       desc: "When a ranged attack targets this creature while it’s flying, the attacker must roll a natural 16+ on the attack roll or it only deals half damage."
     - name: "Skittish"
       desc: "A bat cavalry engaged with a conscious enemy after attacking it will attempt to disengage and fly into the air if it has a move action remaining that turn."
+    - name: "Echolocation"
+      desc: "Bats rely on sound waves to sense their surroundings. A bat can “see” in total darkness, and can detect creatures using invisibility or visual illusions to hide."
+    - name: "Flight"
+      desc: "Small bats fly quickly and turn easily. Bigger bats fly more awkwardly."
+    - name: "Wall-crawler"
+      desc: "A bat can climb on ceilings and walls as easily as it moves on the ground."
 nastier_traits:
     - name: "Blood drinker"
       desc: "When the bat cavalry drops an enemy to 0 hp or below, it continues to attack that enemy (until it dies) instead of attacking other enemies."
+
 ac: "19"
 pd: "17"
 md: "14"

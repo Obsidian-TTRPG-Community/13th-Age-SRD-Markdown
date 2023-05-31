@@ -30,8 +30,13 @@ actions:
 traits:
     - name: "Blood frenzy"
       desc: "The deep bulette’s crit range expands by 4 while the escalation die is 4+."
-    - name: "Tunnel fighter: While fighting in a tunnel with nowhere for its enemies to move but ahead of it, the deep bulette gains the following abilities based on the escalation die: Escalation die is odd: When the bulette hits an enemy engaged with it with an attack, that target pops free from it and is hampered (save ends). Escalation die is even"
-      desc: "The deep bulette engages each nearby enemy in front of it as it pushes its bulk inexorably forward down the tunnel. Enemies pushed ahead of it this way don’t get to make opportunity attacks."
+    - name: "Tunnel fighter"
+      desc: "While fighting in a tunnel with nowhere for its enemies to move but ahead of it, the deep bulette gains the following abilities based on the escalation die"
+      traits: 
+          - name: "Escalation die is odd"
+            desc: "When the bulette hits an enemy engaged with it with an attack, that target pops free from it and is hampered (save ends)."
+          - name: "Escalation die is even"
+            desc: "The deep bulette engages each nearby enemy in front of it as it pushes its bulk inexorably forward down the tunnel. Enemies pushed ahead of it this way don’t get to make opportunity attacks."
 ac: "25"
 pd: "23"
 md: "19"

@@ -1,5 +1,5 @@
 ---
-aliases: [Giant Scorpian]
+aliases: [Giant Scorpion]
 created: 2023-05-23
 level: 1
 publish: 
@@ -14,7 +14,7 @@ updated: 2023-05-31
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Giant Scorpian"
+name: "Giant Scorpion"
 size: "normal"
 level: "1"
 levelOrdinal: "1st"

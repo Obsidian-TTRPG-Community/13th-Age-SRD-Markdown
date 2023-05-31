@@ -19,6 +19,7 @@ size: "normal"
 level: "3"
 levelOrdinal: "3rd"
 role: "mook"
+mook: yes
 type: "beast"
 initiative: "9"
 actions:
@@ -33,6 +34,10 @@ traits:
       desc: "When a fire attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage."
     - name: "Flight"
       desc: "Fire bats are agile fliers, especially when riding hot air currents. They slow down a bit away from warmth."
+    - name: "Echolocation"
+      desc: "Bats rely on sound waves to sense their surroundings. A bat can “see” in total darkness, and can detect creatures using invisibility or visual illusions to hide."
+    - name: "Wall-crawler"
+      desc: "A bat can climb on ceilings and walls as easily as it moves on the ground."
 triggered_actions:
     - name: "Burning contrail +7 vs. PD"
       desc: "5 fire damage"
