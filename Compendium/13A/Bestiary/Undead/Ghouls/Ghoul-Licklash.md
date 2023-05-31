@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghouls", "13A/Monsters/Type/Blocker"]
 type: undead
 updated: 2023-05-29
 ---
@@ -43,4 +43,3 @@ pd: "17"
 md: "13"
 hp: "48"
 ```
-

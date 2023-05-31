@@ -679,7 +679,7 @@ updated: 2023-05-29
 			- [[Undead-Briar-Elf-Sovereign]]
 			- [[Undead-Briar-Elf-Stalker]]
 			- [[Undead-Briar-Elf-Warrior]]
-		- **[[Coin-Zombies]]**
+		- **Coin-Zombies**
 			- [[Coin-Collector-Zombie]]
 			- [[Coin-Zombie]]
 			- [[Jackpot-Zombie]]
