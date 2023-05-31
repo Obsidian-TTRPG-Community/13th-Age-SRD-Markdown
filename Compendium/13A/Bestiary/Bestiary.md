@@ -603,7 +603,6 @@ updated: 2023-05-29
 			- [[Ebon-Gauntlet-Eye]]
 			- [[Ebon-Gauntlet-Inquisitor]]
 			- [[Ebon-Gauntlet-Sword]]
-			- [[Gauntlets-Humanoid-Mascot]]
 			- [[Greater-Ebon-Gauntlet-Sword]]
 		- **The-Saved**
 			- [[Avenging-Orb]]

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/The-Saved"]
 type: humanoid
 updated: 2023-05-29
 ---
