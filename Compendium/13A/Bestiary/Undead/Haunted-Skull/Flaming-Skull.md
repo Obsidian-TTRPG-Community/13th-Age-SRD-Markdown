@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Haunted-Skull", "13A/Monsters/Type/Caster"]
 type: undead
 updated: 2023-05-29
 ---

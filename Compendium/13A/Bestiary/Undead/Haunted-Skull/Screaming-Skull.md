@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Haunted-Skull", "13A/Monsters/Type/Troop"]
 type: undead
 updated: 2023-05-29
 ---
@@ -33,4 +33,3 @@ pd: "11"
 md: "19"
 hp: "45"
 ```
-
