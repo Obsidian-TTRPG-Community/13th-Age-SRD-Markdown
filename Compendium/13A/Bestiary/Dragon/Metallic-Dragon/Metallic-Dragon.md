@@ -3,7 +3,7 @@ aliases: ["Dragons, Metallic", "Metallic Dragons"]
 created: 2023-05-23
 permalink: 
 publish: 
-tags: [13A/Monsters/Factions/Dragon]
+tags: [13A/Monsters/Factions/Dragon-Metallic]
 updated: 2023-05-29
 ---
 

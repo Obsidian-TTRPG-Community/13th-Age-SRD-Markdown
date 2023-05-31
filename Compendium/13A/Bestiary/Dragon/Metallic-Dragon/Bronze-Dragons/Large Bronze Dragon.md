@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic", "13A/Monsters/Type/Wrecker"]
 type: dragon
 updated: 2023-05-29
 ---

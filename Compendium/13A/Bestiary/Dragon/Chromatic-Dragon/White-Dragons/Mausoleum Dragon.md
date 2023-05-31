@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic", "13A/Monsters/Type/Troop"]
 type: dragon
 updated: 2023-05-29
 ---
@@ -45,4 +45,3 @@ pd: "20"
 md: "16"
 hp: "140"
 ```
-
