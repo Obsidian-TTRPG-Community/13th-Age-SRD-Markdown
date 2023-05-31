@@ -3,7 +3,7 @@ aliases: [Frogfolk]
 created: 2023-05-28
 permalink: 
 publish: 
-tags: []
+tags: [13A/Monsters/Factions/Frogfolk]
 updated: 2023-05-29
 ---
 

@@ -7,7 +7,7 @@ publish:
 role: leader
 statblock: inline
 strength: elite
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Type/Leader"]
 type: humanoid
 updated: 2023-05-29
 ---
@@ -49,4 +49,3 @@ pd: "21"
 md: "24"
 hp: "160"
 ```
-
