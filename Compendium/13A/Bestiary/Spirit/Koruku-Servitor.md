@@ -7,7 +7,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Spirit", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Spirit", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Koruku"]
 type: spirit
 updated: 2023-05-29
 ---

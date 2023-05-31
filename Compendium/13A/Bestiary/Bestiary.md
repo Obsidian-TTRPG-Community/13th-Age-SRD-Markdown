@@ -660,8 +660,7 @@ updated: 2023-05-29
 			- [[Eidolon-in-Humanoid-Form]]
 			- [[Eidolon-in-Hunting-Form]]
 			- [[Eidolon-in-War-Form]]
-		- **Koruku-Spirit**
-			- [[Koruku-Servitor]]
+		- [[Koruku-Servitor]]
 		- **Shadow-Mongoose**
 			- [[Shadow-Mongoose-Destroyer-of-Fate]]
 			- [[Shadow-Mongoose-Subverter-of-Fate]]
