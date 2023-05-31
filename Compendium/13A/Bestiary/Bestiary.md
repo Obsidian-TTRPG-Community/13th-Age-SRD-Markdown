@@ -620,6 +620,18 @@ updated: 2023-05-29
 		- [[Gelatinous-Cube]]
 		- [[Ochre-Jelly]]
 	- **Plant**
+		- **[[Briar-Elves]]**
+			- [[Barbed-Vines]]
+			- [[Briar-Tree]]
+			- [[Plant-Briar-Elf-Assassin]]
+			- [[Plant-Briar-Elf-Slayer]]
+			- [[Plant-Briar-Elf-Sorcerer]]
+			- [[Plant-Briar-Elf-Sovereign]]
+			- [[Plant-Briar-Elf-Stalker]]
+			- [[Plant-Briar-Elf-Warrior]]
+		- **[[Flowers-of-Unlife]]**
+			- [[Blood-Rose]]
+			- [[Poison-Dandelion]]
 		- **[[Fungaloid]]**
 			- [[Aerial-Spore]]
 			- [[Braincap]]
@@ -632,24 +644,11 @@ updated: 2023-05-29
 		- **Naiad-Plant**
 			- [[Kelping]]
 			- [[Kelplet]]
-		- **[[Plant-Briar-Elves]]**
-			- [[Barbed-Vines]]
-			- [[Briar-Tree]]
-			- [[Plant-Briar-Elf-Assassin]]
-			- [[Plant-Briar-Elf-Slayer]]
-			- [[Plant-Briar-Elf-Sorcerer]]
-			- [[Plant-Briar-Elf-Sovereign]]
-			- [[Plant-Briar-Elf-Stalker]]
-			- [[Plant-Briar-Elf-Warrior]]
-		- **[[Plant-Flowers-of-Unlife]]**
-			- [[Blood-Rose]]
-			- [[Poison-Dandelion]]
-		- **Plant-Nature-Fallen-Icon**
-			- [[Treant-Avenger]]
 		- **Predatory-Plant**
 			- [[Claw-Flower]]
 			- [[Pixie-Pod]]
 			- [[Podling]]
+		- [[Treant-Avenger]]
 		- **[[Treants]]**
 			- [[Awakened-Trees]]
 			- [[Common-Treant]]
