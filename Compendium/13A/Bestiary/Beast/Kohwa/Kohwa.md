@@ -3,7 +3,7 @@ aliases: [Kohwa]
 created: 2023-05-28
 permalink: 
 publish: 
-tags: []
+tags: [13A/Monsters/Faction/Kohwa]
 updated: 2023-05-29
 ---
 

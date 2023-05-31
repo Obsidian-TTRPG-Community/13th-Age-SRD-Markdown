@@ -7,7 +7,7 @@ publish:
 role: leader
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Type/Leader"]
 type: beast
 updated: 2023-05-29
 ---
