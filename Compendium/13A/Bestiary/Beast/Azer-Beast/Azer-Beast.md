@@ -3,7 +3,7 @@ aliases: [Azer Beast]
 created: 2023-05-24
 permalink: 
 publish: 
-tags: [13A/Faction/Azer]
+tags: [13A/Monsters/Factions/Azer]
 updated: 2023-05-29
 ---
 

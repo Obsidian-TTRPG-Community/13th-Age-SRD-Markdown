@@ -156,7 +156,6 @@ updated: 2023-05-29
 			- [[Adult-Remorhaz]]
 			- [[Barbellite]]
 			- [[Frost-Würm]]
-			- [[Rakshasa]]
 			- [[Remorhaz-Queen]]
 			- [[Squib-Swarm]]
 		- **Sahuagin-Beasts**
@@ -593,6 +592,7 @@ updated: 2023-05-29
 			- [[Pit-Spawn-Orc]]
 		- **[[Pixies]]**
 			- [[Pixie-Warrior]]
+		- [[Rakshasa]]
 		- **[[Redcaps]]**
 			- [[Crimsoncap]]
 			- [[Crustycap]]
