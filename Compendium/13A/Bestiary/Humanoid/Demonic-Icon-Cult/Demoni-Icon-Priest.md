@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Demonic-Icon-Cult", "13A/Monsters/Type/leader"]
 type: humanoid
 updated: 
 ---
@@ -48,4 +48,3 @@ pd: "14"
 md: "17"
 hp: "45"
 ```
-

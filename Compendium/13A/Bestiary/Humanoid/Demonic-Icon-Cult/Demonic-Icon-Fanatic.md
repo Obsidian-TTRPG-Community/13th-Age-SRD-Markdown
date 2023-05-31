@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Demonic-Icon-Cult", "13A/Monsters/Type/mook"]
 type: humanoid
 updated: 
 ---
@@ -41,4 +41,3 @@ pd: "16"
 md: "13"
 hp: "10"
 ```
-

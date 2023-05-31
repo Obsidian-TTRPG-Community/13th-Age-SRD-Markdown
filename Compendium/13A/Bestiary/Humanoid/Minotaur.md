@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop", "13A/Monsters/Factions/None"]
 type: humanoid
 updated: 2023-05-29
 ---

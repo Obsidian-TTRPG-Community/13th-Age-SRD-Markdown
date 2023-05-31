@@ -98,6 +98,9 @@ updated: 2023-05-29
 		- **[[Couatls]]**
 			- [[Couatl]]
 			- [[Elder-Couatl]]
+		- **[[Drow-Beasts]]**
+			- [[Lokkris]]
+			- [[Spider-Mount]]
 		- **[[Elemental-Beasts]]**
 			- [[Badger]]
 			- [[Giant-Bird-of-Prey]]
@@ -423,7 +426,7 @@ updated: 2023-05-29
 		- [[Troll]]
 		- [[Winter-Beast]]
 	- **Humanoid**
-		- [[Beast-Gauntlets-Mascot 1 1]]
+		- [[Azer-Soldier]]
 		- **[[Briar-Elves]]**
 			- [[Briar-Elf-Assassin]]
 			- [[Briar-Elf-Slayer]]
@@ -450,11 +453,8 @@ updated: 2023-05-29
 			- [[Drow-Spider-Mage]]
 			- [[Drow-Spider-Sorceress]]
 			- [[Drow-Sword-Maiden]]
-			- [[Lokkris]]
-			- [[Spider-Mount]]
 		- **Dwarf**
 			- **[[Azer-Humanoid]]**
-				- [[Azer-Soldier]]
 		- **Ettercap**
 			- [[Ettercap-Acolyte]]
 			- [[Ettercap-Hunter]]
@@ -525,6 +525,8 @@ updated: 2023-05-29
 			- [[Blue-Sorcerer]]
 			- [[Demon-Touched-Human-Ranger]]
 			- [[Human-Thug]]
+		- [[Human-Rabble]]
+		- [[Humanoid-Gauntlets-Mascot]]
 		- **Jorogumo**
 			- [[Binding-Bride]]
 			- [[Lethal-Lothario]]
@@ -586,6 +588,7 @@ updated: 2023-05-29
 		- **[[Pixies]]**
 			- [[Pixie-Warrior]]
 		- [[Rakshasa]]
+		- [[Ravenous-Cannibal]]
 		- **[[Redcaps]]**
 			- [[Crimsoncap]]
 			- [[Crustycap]]
@@ -610,12 +613,7 @@ updated: 2023-05-29
 			- [[Trog-Chanter]]
 			- [[Trog-Underling]]
 			- [[Trog]]
-		- **Undead-Icon-Cult-Humanoid**
-			- [[Undead-Icon-Cultist]]
-		- **Warbanner-Humans**
-			- [[Human-Rabble]]
-		- **Wendigo**
-			- [[Ravenous-Cannibal]]
+		- [[Undead-Icon-Cultist]]
 	- **[[Ooze]]**
 		- [[Black-Pudding]]
 		- **Gelahedron**

@@ -1,5 +1,5 @@
 ---
-aliases: [Beast Gauntlet's Mascot]
+aliases: [Humanoid Gauntlet's Mascot]
 created: 
 description: 
 image: 
@@ -8,19 +8,19 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
-type: beast
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
+type: Humanoid
 updated: 
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Beast Gauntlet's Mascot"
+name: "Humanoid Gauntlet's Mascot"
 size: "normal"
 level: "6"
 levelOrdinal: "6th"
 role: "blocker"
-type: "beast?"
+type: "humanoid"
 initiative: "9"
 actions:
     - name: "Raking claws +11 vs. AC (2 attacks)"
