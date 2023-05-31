@@ -354,7 +354,7 @@ updated: 2023-05-30
 		- [[Epic-Water-Elemental]]
 		- [[Fire-Elemental]]
 		- **Flux-Elementals**
-		- **[[Nymph-Elemental]]**
+		- **[[Compendium/13A/Bestiary/Elemental/Nymph-Elemental/Nymph]]**
 			- [[Wild-Dryad]]
 			- [[Wild-Naiad]]
 			- [[Wild-Nereid]]
@@ -562,7 +562,7 @@ updated: 2023-05-30
 			- [[Melusine]]
 			- [[Nix]]
 			- [[Waterhorse]]
-		- **[[Nymph]]**
+		- **[[Compendium/13A/Bestiary/Humanoid/Nymph/Nymph]]**
 			- [[Hill-Nymph]]
 			- [[River-Nymph]]
 			- [[Sea-Nymph]]

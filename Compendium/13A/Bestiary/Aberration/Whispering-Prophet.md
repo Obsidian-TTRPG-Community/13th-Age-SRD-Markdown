@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 5
 publish: 
 role: leader
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Leader", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

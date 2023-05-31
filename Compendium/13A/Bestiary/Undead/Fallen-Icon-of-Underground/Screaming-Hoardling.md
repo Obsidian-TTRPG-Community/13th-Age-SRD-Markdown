@@ -4,10 +4,11 @@ created: 2023-05-29
 level: 7
 publish: 
 role: troop
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Type/Troop"]
 type: undead
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -2,9 +2,8 @@
 aliases: [Plant Briar Elves]
 created: 2023-05-25
 publish: 
-statblock: inline
 tags: [13A/Monsters/Factions/Briar-Elves]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## Environmental Effects

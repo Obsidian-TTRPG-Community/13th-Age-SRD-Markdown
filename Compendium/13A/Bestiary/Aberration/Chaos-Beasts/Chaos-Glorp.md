@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 4
 publish: 
 role: mook
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chaos-Beasts", "13A/Monsters/Type/Mook"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

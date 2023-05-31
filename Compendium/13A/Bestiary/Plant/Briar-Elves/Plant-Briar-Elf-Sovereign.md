@@ -8,7 +8,7 @@ statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/leader"]
 type: plant
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

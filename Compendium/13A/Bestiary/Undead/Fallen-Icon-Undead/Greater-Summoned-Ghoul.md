@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Mook"]
 type: undead
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

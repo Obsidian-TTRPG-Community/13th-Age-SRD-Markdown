@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 2
 publish: 
 role: troop
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/White", "13A/Monsters/Type/Troop"]
 type: dragon
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

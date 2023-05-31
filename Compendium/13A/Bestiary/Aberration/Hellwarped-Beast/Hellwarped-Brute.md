@@ -8,7 +8,7 @@ statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Hellwarped-Beasts", "13A/Monsters/Type/Wrecker"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

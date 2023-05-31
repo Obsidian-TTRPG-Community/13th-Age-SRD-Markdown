@@ -6,7 +6,7 @@ role: caster
 strength: huge
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragon-Purple", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple", "13A'Monsters/Factions/Dragon-Purple"]
 type: dragon
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## The Purple Dragon, Abilities Common to Each Form and Tier

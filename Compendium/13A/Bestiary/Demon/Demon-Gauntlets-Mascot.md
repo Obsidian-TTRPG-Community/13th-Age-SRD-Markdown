@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
 type: Demon
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

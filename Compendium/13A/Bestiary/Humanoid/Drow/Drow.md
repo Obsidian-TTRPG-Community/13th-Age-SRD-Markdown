@@ -3,7 +3,7 @@ aliases: [Drow]
 created: 2023-05-23
 publish: 
 tags: [13A/Monsters/Factions/Drow]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 Drow may optionally include one of these abilities as nastier specials: *Drow Cruelty* or *Poisons and Potions*.

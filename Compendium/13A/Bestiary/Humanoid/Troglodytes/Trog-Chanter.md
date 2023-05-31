@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 3
 publish: 
 role: leader
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Leader", "13A/Monsters/Factions/Troglodytes"]
 type: humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

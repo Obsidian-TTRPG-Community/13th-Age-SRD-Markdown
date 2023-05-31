@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 4
 publish: 
 role: troop
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid/Dwarf", "13A/Monsters/Type/Troop", "13A/Monsters/Factions/Azer"]
 type: dwarf
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

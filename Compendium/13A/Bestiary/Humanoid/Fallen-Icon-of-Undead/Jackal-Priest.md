@@ -8,7 +8,7 @@ statblock: inline
 strength: elite
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Wrecker"]
 type: humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

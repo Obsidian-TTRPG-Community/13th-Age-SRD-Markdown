@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Taranar", "13A/Monsters/Type/Mook"]
 type: elemental
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

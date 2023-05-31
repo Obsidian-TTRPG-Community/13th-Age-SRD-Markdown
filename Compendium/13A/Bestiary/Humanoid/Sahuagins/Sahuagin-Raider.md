@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 2
 publish: 
 role: troop
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop", "13A/Monsters/Factions/Sahuagins"]
 type: humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Gibbering-Mouthers", "13A/Monsters/Type/Spoiler"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

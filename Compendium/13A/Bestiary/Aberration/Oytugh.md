@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 3
 publish: 
 role: blocker
+statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

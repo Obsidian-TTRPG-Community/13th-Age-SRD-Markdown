@@ -4,10 +4,11 @@ created: 2023-05-24
 level: 2
 publish: 
 role: troop
+statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Goblins", "13A/Monsters/Type/Troop"]
 type: humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

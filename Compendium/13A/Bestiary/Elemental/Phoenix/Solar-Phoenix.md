@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Phoenix", "13A/Monsters/Type/Caster"]
 type: elemental
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock
