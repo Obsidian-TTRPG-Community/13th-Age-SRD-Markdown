@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: archer
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Archer", "13A/Monsters/Factions/Redcaps"]
 type: humanoid
 updated: 2023-05-29
 ---
