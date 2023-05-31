@@ -7,7 +7,7 @@ publish:
 role: troop
 statblock: inline
 strength: elite
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Xorn", "13A/Monsters/Type/Troop"]
 type: elemental
 updated: 2023-05-29
 ---
@@ -45,4 +45,3 @@ pd: "21"
 md: "22"
 hp: "200"
 ```
-

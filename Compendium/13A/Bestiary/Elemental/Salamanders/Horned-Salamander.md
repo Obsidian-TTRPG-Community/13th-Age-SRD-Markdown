@@ -7,7 +7,7 @@ publish:
 role: troop
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Salamanders", "13A/Monsters/Type/Troop"]
 type: elemental
 updated: 2023-05-29
 ---
@@ -41,4 +41,3 @@ pd: "23"
 md: "19"
 hp: "440"
 ```
-
