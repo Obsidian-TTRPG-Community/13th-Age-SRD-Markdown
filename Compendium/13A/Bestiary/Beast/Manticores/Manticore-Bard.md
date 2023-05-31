@@ -1,19 +1,19 @@
 ---
-aliases: [Mantikumhar]
+aliases: [Manticore Bard]
 created: 2023-05-28
 level: 5
 permalink: 
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Manticores", "13A/Monsters/Type/Caster"]
 type: beast
 updated: 2023-05-29
 ---
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Mantikumhar"
+name: "Manticore Bard"
 size: "large"
 level: "5"
 levelOrdinal: "5th"

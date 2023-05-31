@@ -134,9 +134,10 @@ updated: 2023-05-29
 			- [[Lammasu-Priest]]
 			- [[Lammasu-Warrior]]
 			- [[Lammasu-Wizard]]
-		- **[[Manticore]]**
+		- **Manticores**
 			- [[Coursing-Manticore]]
 			- [[Manticore-Bard]]
+			- [[Manticore]]
 			- [[Mantikumhar]]
 		- **[[Nagas]]**
 			- [[Elder-Manafang-Naga]]
