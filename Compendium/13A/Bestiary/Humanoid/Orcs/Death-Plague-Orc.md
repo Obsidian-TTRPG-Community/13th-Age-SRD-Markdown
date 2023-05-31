@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: large
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Orcs", "13A/Monsters/Type/Spoiler"]
 type: humanoid
 updated: 2023-05-29
 ---

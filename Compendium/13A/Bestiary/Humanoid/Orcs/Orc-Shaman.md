@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: leader
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Orcs", "13A/Monsters/Type/Leader"]
 type: humanoid
 updated: 2023-05-29
 ---
@@ -33,4 +33,3 @@ pd: "12"
 md: "16"
 hp: "36"
 ```
-
