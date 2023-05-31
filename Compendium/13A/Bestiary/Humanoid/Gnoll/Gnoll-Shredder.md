@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Gnolls", "13A/Monsters/Type/Blocker"]
 type: humanoid
 updated: 2023-05-29
 ---
@@ -41,4 +41,3 @@ pd: "19"
 md: "15"
 hp: "95"
 ```
-

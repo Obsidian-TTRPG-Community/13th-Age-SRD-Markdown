@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Goblins", "13A/Monsters/Type/Troop"]
 type: humanoid
 updated: 2023-05-29
 ---
@@ -33,4 +33,3 @@ pd: "17"
 md: "12"
 hp: "55"
 ```
-

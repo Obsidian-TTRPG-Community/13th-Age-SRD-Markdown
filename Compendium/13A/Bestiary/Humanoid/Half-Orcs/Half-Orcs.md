@@ -3,7 +3,7 @@ aliases: [Half Orcs]
 created: 2023-05-24
 permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Half-Orc]
+tags: [13A/Monsters/Factions/Half-Orc]
 updated: 2023-05-29
 ---
 
