@@ -60,7 +60,6 @@ updated: 2023-05-29
 			- [[Xombie-Egg-Swarm]]
 			- [[Xombie-Spiders]]
 		- [[Whispering-Prophet]]
-	- [[Azer-Fire-Bat]]
 	- **Beast**
 		- **[[Animal-Critter]]**
 			- [[Bat-Cavalry]]
@@ -83,6 +82,7 @@ updated: 2023-05-29
 			- [[Wolf]]
 			- [[Wraith-Bat]]
 		- [[Ankheg]]
+		- [[Azer-Fire-Bat]]
 		- [[Barrier-Beast]]
 		- [[Basilisk]]
 		- [[Beast-Gauntlets-Mascot]]
@@ -777,9 +777,5 @@ updated: 2023-05-29
 			- [[Zombie-Beast]]
 			- [[Zombie-of-the-Silver-Rose]]
 			- [[Zombie-Shuffler]]
-	- **Zorigami**
-		- [[Apex-Zorigami]]
-		- [[Dawn-Zorigami]]
-		- [[Dusk-Zorigami]]
 
 %% End Waypoint %%
