@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Troop"]
 type: plant
 updated: 2023-05-29
 ---
@@ -41,4 +41,3 @@ pd: "15"
 md: "10"
 hp: "30"
 ```
-

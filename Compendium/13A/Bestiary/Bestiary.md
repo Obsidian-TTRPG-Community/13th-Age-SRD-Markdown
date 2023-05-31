@@ -641,7 +641,7 @@ updated: 2023-05-29
 			- [[Fungaloid-Empress]]
 			- [[Fungaloid-Monarch]]
 			- [[Sporrior]]
-		- **Naiad-Plant**
+		- **Naiad**
 			- [[Kelping]]
 			- [[Kelplet]]
 		- **Predatory-Plant**

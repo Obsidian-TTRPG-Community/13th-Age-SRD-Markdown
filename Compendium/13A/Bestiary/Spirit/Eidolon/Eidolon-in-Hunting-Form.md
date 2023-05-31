@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: 3×
-tags: ["13A/Bestiary/Spirit", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Eidolon", "13A/Monsters/Type/Troop"]
 type: spirit
 updated: 2023-05-29
 ---
@@ -31,4 +31,3 @@ pd: "22"
 md: "14"
 hp: "270"
 ```
-
