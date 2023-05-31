@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Golem", "13A/Monsters/Type/Blocker"]
 type: construct
 updated: 2023-05-29
 ---
@@ -47,4 +47,3 @@ pd: "21"
 md: "17"
 hp: "190"
 ```
-

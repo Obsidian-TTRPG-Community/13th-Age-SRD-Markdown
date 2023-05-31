@@ -7,7 +7,7 @@ publish:
 role: archer
 statblock: inline
 strength: 3×
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Archer"]
 type: construct
 updated: 2023-05-29
 ---
@@ -39,4 +39,3 @@ pd: "19"
 md: "19"
 hp: "310"
 ```
-
