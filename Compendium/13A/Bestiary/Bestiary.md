@@ -568,7 +568,7 @@ updated: 2023-05-29
 			- [[Melusine]]
 			- [[Nix]]
 			- [[Waterhorse]]
-		- **[[Nymph-Humanoid]]**
+		- **[[Nymph]]**
 			- [[Hill-Nymph]]
 			- [[River-Nymph]]
 			- [[Sea-Nymph]]
