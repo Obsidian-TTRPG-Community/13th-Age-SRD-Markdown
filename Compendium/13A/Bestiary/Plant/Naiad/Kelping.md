@@ -5,7 +5,7 @@ level: 5
 publish: 
 role: wrecker
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Naiad", "13A/Monsters/Type/Wrecker"]
 type: plant
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Kelping"
-size: "2×"
+size: "double-strength"
 level: "5"
 levelOrdinal: "5th"
 role: "wrecker"

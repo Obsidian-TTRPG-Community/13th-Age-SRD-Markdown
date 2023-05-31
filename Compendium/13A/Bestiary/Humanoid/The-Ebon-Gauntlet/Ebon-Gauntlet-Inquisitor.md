@@ -5,7 +5,7 @@ level: 7
 publish: 
 role: leader
 statblock: inline
-strength: 2×
+strength: double-strength
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/leader"]
 type: humanoid
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Ebon Gauntlet Inquisitor"
-size: "2×"
+size: "double-strength"
 level: "7"
 levelOrdinal: "7th"
 role: "leader"

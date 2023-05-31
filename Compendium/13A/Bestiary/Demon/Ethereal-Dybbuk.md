@@ -5,7 +5,7 @@ level: 7
 publish: 
 role: wrecker
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: demon
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Ethereal Dybbuk"
-size: "2×"
+size: "double-strength"
 level: "7"
 levelOrdinal: "7th"
 role: "wrecker"

@@ -5,7 +5,7 @@ level: 9
 publish: 
 role: wrecker
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Type/Wrecker"]
 type: humanoid
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Drow Cavalry"
-size: "2×"
+size: "double-strength"
 level: "9"
 levelOrdinal: "9th"
 role: "wrecker"

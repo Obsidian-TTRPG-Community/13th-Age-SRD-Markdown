@@ -5,7 +5,7 @@ level: 4
 publish: 
 role: caster
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kobolds", "13A/Monsters/Type/Caster"]
 type: humanoid
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Kobold Dungeon-Shaman"
-size: "2×"
+size: "double-strength"
 level: "4"
 levelOrdinal: "4th"
 role: "caster"

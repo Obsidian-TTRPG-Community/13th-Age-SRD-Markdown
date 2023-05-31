@@ -5,7 +5,7 @@ level: 6
 publish: 
 role: troop
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: demon
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Corpse Dybbuk"
-size: "2×"
+size: "double-strength"
 level: "6"
 levelOrdinal: "6th"
 role: "troop"

@@ -4,7 +4,7 @@ created: 2023-05-29
 level: 7
 publish: 
 role: blocker
-strength: 3×
+strength: "triple-strength"
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Type/Blocker"]
 type: construct
 updated: 2023-05-30
@@ -14,7 +14,7 @@ updated: 2023-05-30
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Bronze Errant"
-size: "3×"
+size: "triple-strength"
 level: "7"
 levelOrdinal: "7th"
 role: "blocker"

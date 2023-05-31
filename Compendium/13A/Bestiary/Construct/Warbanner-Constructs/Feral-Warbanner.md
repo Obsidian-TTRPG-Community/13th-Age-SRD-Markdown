@@ -4,7 +4,7 @@ created: 2023-05-28
 level: 2
 publish: 
 role: caster
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Warbanners", "13A/Monsters/Type/Caster"]
 type: construct
 updated: 2023-05-30
@@ -14,7 +14,7 @@ updated: 2023-05-30
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Feral Warbanner"
-size: "2×"
+size: "double-strength"
 level: "2"
 levelOrdinal: "2nd"
 role: "caster"

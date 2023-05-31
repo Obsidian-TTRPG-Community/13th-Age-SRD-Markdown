@@ -5,7 +5,7 @@ level: 5
 publish: 
 role: caster
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghosts", "13A/Monsters/Type/Caster"]
 type: undead
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Petulant Never-Was"
-size: "2×"
+size: "double-strength"
 level: "5"
 levelOrdinal: "5th"
 role: "caster"

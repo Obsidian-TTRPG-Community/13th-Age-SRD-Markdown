@@ -5,7 +5,7 @@ level: 9
 publish: 
 role: wrecker
 statblock: inline
-strength: 3×
+strength: "triple-strength"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Specter", "13A/Monsters/Type/Wrecker"]
 type: undead
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Dread Specter"
-size: "3×"
+size: "triple-strength"
 level: "9"
 levelOrdinal: "9th"
 role: "wrecker"

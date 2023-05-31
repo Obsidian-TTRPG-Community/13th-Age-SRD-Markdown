@@ -5,7 +5,7 @@ level: 8
 publish: 
 role: caster
 statblock: inline
-strength: 3×
+strength: triple-strength
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Caster"]
 type: undead
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Golden Eye Necromancer"
-size: "3×"
+size: "triple-strength"
 level: "8"
 levelOrdinal: "8th"
 role: "caster"

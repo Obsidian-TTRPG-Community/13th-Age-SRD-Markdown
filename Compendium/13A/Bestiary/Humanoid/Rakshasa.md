@@ -5,7 +5,7 @@ level: 8
 publish: 
 role: caster
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/None"]
 type: humanoid
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Rakshasa"
-size: "2×"
+size: "double-strength"
 level: "8"
 levelOrdinal: "8th"
 role: "caster"

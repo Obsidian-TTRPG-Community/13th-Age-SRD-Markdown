@@ -5,7 +5,7 @@ level: 1
 publish: 
 role: troop
 statblock: inline
-strength: 3×
+strength: "triple-strength"
 tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Eidolon", "13A/Monsters/Type/Troop"]
 type: spirit
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Eidolon in Humanoid Form"
-size: "3×"
+size: "triple-strength"
 level: "1"
 levelOrdinal: "1st"
 role: "troop"

@@ -5,7 +5,7 @@ level: 6
 publish: 
 role: leader
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Leader"]
 type: aberration
 updated: 2023-05-30
@@ -15,7 +15,7 @@ updated: 2023-05-30
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Star-Mask Cult Leader"
-size: "2×"
+size: "double-strength"
 level: "6"
 levelOrdinal: "6th"
 role: "leader"

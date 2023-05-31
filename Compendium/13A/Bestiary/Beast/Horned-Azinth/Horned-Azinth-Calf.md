@@ -5,7 +5,7 @@ level: 3
 publish: 
 role: wrecker
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Horned-Azinth", "13A/Monsters/Type/Wrecker"]
 type: beast
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Horned Azinth Calf"
-size: "2×"
+size: "double-strength"
 level: "3"
 levelOrdinal: "3rd"
 role: "wrecker"

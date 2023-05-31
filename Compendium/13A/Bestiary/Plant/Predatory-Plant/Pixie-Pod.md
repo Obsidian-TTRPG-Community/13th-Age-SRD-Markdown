@@ -5,7 +5,7 @@ level: 3
 publish: 
 role: leader
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Predatory-Plant", "13A/Monsters/Type/Leader"]
 type: plant
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Pixie Pod"
-size: "2×"
+size: "double-strength"
 level: "3"
 levelOrdinal: "3rd"
 role: "leader"

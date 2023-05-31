@@ -5,7 +5,7 @@ level: 7
 publish: 
 role: blocker
 statblock: inline
-strength: "2×"
+strength: "double-strength"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Blocker"]
 type: undead
 updated: 2023-05-31
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Tempter"
-size: "2×"
+size: "double-strength"
 level: "7"
 levelOrdinal: "7th"
 role: "blocker"
