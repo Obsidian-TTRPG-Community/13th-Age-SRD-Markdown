@@ -1,5 +1,5 @@
 ---
-aliases: [13th Age Artifacts]
+aliases: [Artifacts, 13th Age Artifacts]
 created: 2023-02-07
 permalink: 
 publish: 
@@ -15,9 +15,7 @@ Each artifact functions like a normal true magic item of its type, possessing th
 
 Unlike other true magic items, artifacts have more than one power, each with its associated quirk. When you first attune an artifact, choose one of its powers from your tier or lower. Each time you gain a level after that, you can choose to learn another of the artifact’s powers from your tier or lower.
 
-The artifact’s default bonus depends on the highest tier power you have chosen from the artifact. 
-- If you have an artifact magic weapon but have only attuned one of its adventurer-tier powers, it functions as an adventurer-tier weapon, granting only a +1 bonus to attack and damage. 
-- Attune one of its champion-tier powers and the weapon will blossom into its champion-tier potential, granting a +2 bonus to attack and damage.
+The artifact’s default bonus depends on the highest tier power you have chosen from the artifact. - If you have an artifact magic weapon but have only attuned one of its adventurer-tier powers, it functions as an adventurer-tier weapon, granting only a +1 bonus to attack and damage. - Attune one of its champion-tier powers and the weapon will blossom into its champion-tier potential, granting a +2 bonus to attack and damage.
 
 On the other hand, you don’t have to attune all of an artifact’s powers and you don’t have to take them in order.
 

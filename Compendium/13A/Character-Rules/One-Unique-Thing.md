@@ -7,7 +7,7 @@ tags: [13A/Characters/OneThing]
 updated: 2023-05-29
 ---
 
-Navigation Links
+
 
 ## One Unique Thing
 

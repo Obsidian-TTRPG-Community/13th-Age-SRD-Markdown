@@ -1,17 +1,16 @@
 ---
 aliases: [Damage-and-Healing]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Damage]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Damage and Healing
 
-Damage and healing affect hit points. Healing also involves *recoveries*.
+Damage and healing affect [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]]. Healing also involves *[[Compendium/13A/Combat-Rules/Damage-and-Healing/Recoveries|recoveries]]*.
 
-### Map of Content
+## Index
 
 - [Damage](Compendium/13A/Combat-Rules/Damage-and-Healing/Damage.md)
 - [Recoveries](Compendium/13A/Combat-Rules/Damage-and-Healing/Recoveries.md)

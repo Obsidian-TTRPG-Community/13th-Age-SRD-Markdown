@@ -13,7 +13,7 @@ Every character has a set of gear. Each class lists the type of gear a member of
 
 As a guide to what costs what, use the [Equipment Price Guide](Compendium/13A/Character-Rules/Gear/Equipment-Price-Guide.md).
 
-### Map of Content
+## Index
 
 %% Begin Waypoint %%
 - [Armor Categories](Compendium/13A/Character-Rules/Gear/Armor-Categories.md)

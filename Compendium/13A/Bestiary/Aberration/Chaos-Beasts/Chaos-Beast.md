@@ -5,7 +5,7 @@ level: 4
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chaos-Beasts", "13A/Monsters/Type/Troop"]
 type: aberration
 updated: 2023-05-30
 ---

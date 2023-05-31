@@ -7,7 +7,7 @@ tags: [13A/Characters/Classes]
 updated: 2023-05-29
 ---
 
-Navigation Links 
+ 
 
 ## Class
 

@@ -1,17 +1,16 @@
 ---
 aliases: [Disengaging]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Movement/Disengaging]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Disengaging
 
 You can move away from the foes that engage you, but you draw an opportunity attack from each of those enemies when you do.
 
-If you don’t want to risk an opportunity attack, you can use your [[Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Standard-Move-and-Quick-Actions|move action]] to attempt to disengage (a disengage check). If you choose to disengage, roll a normal save (11+). You can disengage from more than one foe with a single successful check, but your roll takes a –1 penalty for each foe beyond the first that you are disengaging from.
+If you don’t want to risk an opportunity attack, you can use your [[Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Standard-Move-and-Quick-Actions|move action]] to attempt to disengage (a disengage check). If you choose to disengage, roll a normal [[Compendium/13A/Combat-Rules/Special-Attacks-and-Effects/Saves|save]] (11+). You can disengage from more than one foe with a single successful check, but your roll takes a –1 penalty for each foe beyond the first that you are disengaging from.
 
 If the disengage check succeeds, you can move without drawing opportunity attacks from the foes you were [[Compendium/13A/Combat-Rules/Combat-Actions/Movement-and-Melee/Engaged|engaged]] with. Use your move normally.
 

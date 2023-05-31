@@ -1,10 +1,9 @@
 ---
 aliases: [Faraway]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Positions/Faraway]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Faraway

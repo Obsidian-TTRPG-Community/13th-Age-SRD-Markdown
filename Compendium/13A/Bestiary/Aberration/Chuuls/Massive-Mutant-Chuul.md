@@ -5,7 +5,7 @@ level: 10
 publish: 
 role: wrecker
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chuuls", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chuuls", "13A/Monsters/Type/Wrecker"]
 type: aberration
 updated: 2023-05-30
 ---

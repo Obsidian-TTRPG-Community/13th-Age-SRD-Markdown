@@ -1,19 +1,18 @@
 ---
 aliases: [Standard Action, Move Action, Quick Action, "Standard, Move, and Quick Actions"]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Sequence/Actions/Standard]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Standard, Move, and Quick Actions
 
 Each turn you can take one of each action, in any order.
 
-See [Combat Actions](Compendium/13A/Combat-Rules/Combat-Actions/Combat-Actions.md).
+See [[Compendium/13A/Combat-Rules/Combat-Actions/Combat-Actions.md|Combat Actions]].
 
-### Map of Contents
+## Index
 
-- [Free Actions](Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Free-Actions.md)
-- [Make Saves Last](Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Make-Saves-Last.md)
+- [[Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Free-Actions.md|Free Actions]]
+- [[Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Make-Saves-Last.md|Make Saves Last]]

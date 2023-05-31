@@ -1,15 +1,14 @@
 ---
 aliases: [Damage]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Stats]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Damage
 
-Each attack indicates a specified amount of damage it does; subtract that amount from the target’s hit points. If the attack targets multiple enemies, you make a separate attack roll for each one, but only roll damage once.
+Each attack indicates a specified amount of damage it does; subtract that amount from the target’s [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]]. If the attack targets multiple enemies, you make a separate attack roll for each one, but only roll damage once.
 
 Damage totals for your attacks are calculated by adding one ability score modifier to the attack’s damage roll, normally represented by saying “+ Ability.”
 

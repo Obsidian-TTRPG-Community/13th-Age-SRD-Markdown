@@ -40,7 +40,7 @@ Each race also provides the character a special power that can be used once per 
 >
 > You may delete them if you do not need them.
 
-### Map of Contents
+## Index
 
 %% Begin Waypoint %%
 - [Dark-Elf](Compendium/13A/Races/Dark-Elf.md)

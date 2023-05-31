@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Hellwarped-Beasts", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Hellwarped-Beasts", "13A/Monsters/Type/Wrecker"]
 type: aberration
 updated: 2023-05-30
 ---

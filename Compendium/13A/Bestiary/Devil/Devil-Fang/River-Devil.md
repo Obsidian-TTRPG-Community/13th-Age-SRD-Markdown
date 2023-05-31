@@ -5,7 +5,7 @@ level: 10
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Faction/Devil-Fang", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Wrecker"]
 type: devil
 updated: 2023-05-30
 ---

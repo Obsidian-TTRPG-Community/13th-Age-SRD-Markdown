@@ -5,7 +5,7 @@ level: 6
 publish: 
 role: troop
 strength: "2×"
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: demon
 updated: 2023-05-30
 ---

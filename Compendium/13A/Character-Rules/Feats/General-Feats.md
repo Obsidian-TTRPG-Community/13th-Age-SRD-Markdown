@@ -1,17 +1,14 @@
 ---
 aliases: ["General Feats"]
 created: 2023-02-07
-permalink: 
 publish: 
 tags: [13A/Characters/Feats/General]
-updated: 2023-05-29
+updated: 2023-05-31
 ---
-
-Navigation Links
 
 ## General Feats
 
-These are general feats available to any character. A character can’t take a specific feat more than once. A few general feats only have adventurer-tier versions; others also have champion- and epic-tier versions that can be added later in your career.
+These are general [[Compendium/13A/Character-Rules/Feats/Feats|feats]] available to any character. A character can’t take a specific feat more than once. A few general feats only have adventurer-tier versions; others also have champion- and epic-tier versions that can be added later in your career.
 
 > [!hint] **13th Age SRD Markdown Hint**  
 > An all-in-one list is maintained here, and the Feats are also kept in individual files in the `Standard-Feats` folder for character sheets and other linking purposes if needed.
@@ -42,13 +39,13 @@ Add a total of 2 points to backgrounds you already have, or choose 2 points of n
 
 **Adventurer Tier**
 
-Gain a +4 bonus to Initiative checks.
+Gain a +4 bonus to [[Compendium/13A/Monsters/Monster-Creation/Initiative|Initiative]] checks.
 
 ### Linguist
 
 **Adventurer Tier**
 
-This feat allows you to speak enough arcana, dwarven, elven, gnomish, gnoll, goblin, orcish, and other standard humanoid languages to comprehend enough of what most other humanoids are saying or screaming during battle.
+This feat allows you to speak enough arcana, dwarven, elven, gnomish, [[Compendium/13A/Bestiary/Humanoid/Gnoll/Gnoll|gnoll]], goblin, orcish, and other standard humanoid languages to comprehend enough of what most other humanoids are saying or screaming during battle.
 
 You are not fluent in all these languages, no one will mistake you for a native speaker, and your vocabulary is adventurer-centric (heavy on words connected to danger rather than philosophy or emotions).
 
@@ -62,13 +59,13 @@ You can speak, read, and write all the humanoid languages fluently. Stranger lan
 
 **Adventurer Tier**
 
-When your ranged attack targets an enemy who is engaged with an ally, you have no chance of hitting that ally.
+When your ranged attack targets an enemy who is [[Compendium/13A/Combat-Rules/Combat-Actions/Movement-and-Melee/Engaged|engaged]] with an ally, you have no chance of hitting that ally.
 
 ### Rapid Reload
 
 **Adventurer Tier**
 
-Reloading a heavy crossbow now takes only a quick action. Reloading a hand or light crossbow is a free action.
+Reloading a heavy crossbow now takes only a [[Compendium/13A/Combat-Rules/Combat-Sequence/Actions-on-Your-Turn/Standard-Move-and-Quick-Actions/Standard-Move-and-Quick-Actions|quick action]]. Reloading a hand or light crossbow is a free action.
 
 ### Reach Tricks
 
@@ -80,15 +77,15 @@ To use the stunt, you must roll a 6+ on a d20 (`dice: 1d20`)
 
 **Adventurer Tier**
 
-You can cast any spells you know as rituals. Classes that are already ritual casters (cleric, wizard) don’t need this feat.
+You can cast any spells you know as [[Compendium/13A/Running-the-Game/Rituals|rituals]]. Classes that are already ritual casters ([[Compendium/13A/Classes/Cleric|cleric]], [[Compendium/13A/Classes/Wizard|wizard]]) don’t need this feat.
 
-(See **Rituals** for ritual casting rules.)
+(See **Rituals** for [[Compendium/13A/Character-Rules/Feats/General-Feats/Ritual-Casting|ritual casting]] rules.)
 
 ### Skill Escalation
 
 **Adventurer Tier**
 
-Twice per day, you can add the escalation die to one of your skill checks.
+Twice per day, you can add the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die|escalation die]] to one of your skill checks.
 
 > Choose after you roll the check.
 
@@ -106,7 +103,7 @@ At 8th level, reroll three.
 
 **Adventurer Tier**
 
-You get additional hit points equal to half your baseline class hit points (rounded down).
+You get additional [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]] equal to half your baseline class hit points (rounded down).
 
 At 5th level, the total hp bonus increases to your baseline hp value.
 

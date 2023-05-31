@@ -11,7 +11,7 @@ updated: 2023-05-29
 
 **Adventurer Tier**
 
-This feat allows you to speak enough arcana, dwarven, elven, gnomish, gnoll, goblin, orcish, and other standard humanoid languages to comprehend enough of what most other humanoids are saying or screaming during battle.
+This feat allows you to speak enough arcana, dwarven, elven, gnomish, [[Compendium/13A/Bestiary/Humanoid/Gnoll/Gnoll|gnoll]], goblin, orcish, and other standard humanoid languages to comprehend enough of what most other humanoids are saying or screaming during battle.
 
 You are not fluent in all these languages, no one will mistake you for a native speaker, and your vocabulary is adventurer-centric (heavy on words connected to danger rather than philosophy or emotions).
 

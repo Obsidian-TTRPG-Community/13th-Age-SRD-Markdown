@@ -5,7 +5,7 @@ level: 9
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Soul-Flensers", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Soul-Flensers", "13A/Monsters/Type/Mook"]
 type: aberration
 updated: 2023-05-30
 ---

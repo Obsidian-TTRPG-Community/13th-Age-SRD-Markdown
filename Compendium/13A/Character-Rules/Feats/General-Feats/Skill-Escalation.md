@@ -11,6 +11,6 @@ updated: 2023-05-29
 
 **Adventurer Tier**
 
-Twice per day, you can add the escalation die to one of your skill checks.
+Twice per day, you can add the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die|escalation die]] to one of your skill checks.
 
 > Choose after you roll the check.

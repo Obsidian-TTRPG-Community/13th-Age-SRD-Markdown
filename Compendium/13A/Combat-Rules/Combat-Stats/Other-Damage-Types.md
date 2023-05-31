@@ -1,15 +1,14 @@
 ---
 aliases: [Other Damage Types]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Stats]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Other Damage Types
 
-Different monsters and characters may be resistant or vulnerable to  
+Different [[Compendium/13A/Monsters/Monsters|monsters]] and characters may be resistant or [[Compendium/13A/Combat-Rules/Special-Attacks-and-Effects/Conditions/Vulnerable|vulnerable]] to  
 various types of damage, including:
 
 - Acid

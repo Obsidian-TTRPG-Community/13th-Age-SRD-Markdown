@@ -7,7 +7,7 @@ tags: [13A/Characters/Backgrounds, 13A/Characters/SkillChecks]
 updated: 2023-05-29
 ---
 
-Navigation Links
+
 
 ## Backgrounds and Skill Checks
 
