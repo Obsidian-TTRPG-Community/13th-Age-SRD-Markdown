@@ -2,14 +2,14 @@
 aliases: [Great Fang Cadre]
 created: 2023-05-28
 level: 10
-permalink: 
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Orcs", "13A/Monsters/Type/Mook"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -41,4 +41,3 @@ pd: "25"
 md: "21"
 hp: "50"
 ```
-

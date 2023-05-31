@@ -1,10 +1,9 @@
 ---
 aliases: [Frogfolk]
 created: 2023-05-28
-permalink: 
 publish: 
-tags: []
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Frogfolk]
+updated: 2023-05-30
 ---
 
 ## Special Abilities for All Frogspawn

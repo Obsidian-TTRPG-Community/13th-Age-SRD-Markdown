@@ -3,7 +3,7 @@ aliases: [Strike Damage]
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation]
+tags: [13A/Monsters/Creation/Damage]
 updated: 2023-05-29
 ---
 

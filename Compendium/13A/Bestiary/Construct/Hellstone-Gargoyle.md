@@ -2,15 +2,15 @@
 aliases: [Hellstone Gargoyle]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: construct
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -52,4 +52,3 @@ pd: "24"
 md: "18"
 hp: "97"
 ```
-

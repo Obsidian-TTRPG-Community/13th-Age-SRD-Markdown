@@ -2,14 +2,14 @@
 aliases: [Barbarous Bugbear]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Goblins", "13A/Monsters/Type/Wrecker"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -39,4 +39,3 @@ pd: "17"
 md: "16"
 hp: "51"
 ```
-

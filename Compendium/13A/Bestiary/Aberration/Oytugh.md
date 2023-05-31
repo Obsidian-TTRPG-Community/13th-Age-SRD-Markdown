@@ -2,14 +2,14 @@
 aliases: [Oytugh]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

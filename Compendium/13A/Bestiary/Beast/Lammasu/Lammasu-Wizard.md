@@ -2,14 +2,14 @@
 aliases: [Lammasu Wizard]
 created: 2023-05-28
 level: 8
-permalink: 
 publish: 
 role: spoiler
 strength: large
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Lammasu", "13A/Monsters/Type/Spoiler"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "18"
 md: "23"
 hp: "275"
 ```
-

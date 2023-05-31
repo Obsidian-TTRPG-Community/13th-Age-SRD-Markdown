@@ -2,15 +2,15 @@
 aliases: [Bonded Arcane Archer]
 created: 2023-05-25
 level: 7
-permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: 3×
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Archer"]
 type: construct
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -39,4 +39,3 @@ pd: "19"
 md: "19"
 hp: "310"
 ```
-

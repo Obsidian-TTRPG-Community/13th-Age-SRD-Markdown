@@ -2,14 +2,14 @@
 aliases: [Djinn]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: spoiler
 strength: large
-tags: ["13A/Bestiary/giant", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Genie", "13A/Monsters/Type/Spoiler"]
 type: giant
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

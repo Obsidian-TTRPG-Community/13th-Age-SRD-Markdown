@@ -3,7 +3,7 @@ aliases: [Mental Defense, MD]
 created: 2023-05-13
 permalink: 
 publish: 
-tags: [13A/Combat/Rules/Stats/defences/MD]
+tags: [13A/Combat/Rules/Stats/Defences/MD]
 updated: 2023-05-29
 ---
 

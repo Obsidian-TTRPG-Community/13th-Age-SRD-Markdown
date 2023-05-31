@@ -2,14 +2,14 @@
 aliases: [Bronze Golem]
 created: 2023-05-24
 level: 7
-permalink: 
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Golem", "13A/Monsters/Type/Blocker"]
 type: construct
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "21"
 md: "17"
 hp: "190"
 ```
-

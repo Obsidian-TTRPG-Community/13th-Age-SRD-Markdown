@@ -2,14 +2,14 @@
 aliases: [Fungaloid Monarch]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: leader
-strength: 2×
-tags: ["13A/Bestiary/plant", "13A/Monsters/Type/leader"]
+strength: "2×"
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Leader"]
 type: plant
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -40,4 +40,3 @@ pd: "14"
 md: "18"
 hp: "98"
 ```
-

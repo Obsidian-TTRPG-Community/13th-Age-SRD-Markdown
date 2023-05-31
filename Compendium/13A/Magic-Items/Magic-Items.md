@@ -14,3 +14,14 @@ There are two types of magic item.
 - One-use items (mainly potions, oils, and runes) are magical treasure on which to spend hard-won gold. (See Loot: Treasure Rewards for notes on the wealth successful characters earn each adventure.)
 
 ### Map of Contents
+
+%% Begin Waypoint %%
+- **[[Magic-Items]]**
+	- [[Artifacts]]
+	- [[Chakras]]
+	- [[Magic-Item-Basics]]
+	- **[[Magic-Item-Descriptions]]**
+	- [[One-Use-Items]]
+	- [[True-Magic-Items]]
+
+%% End Waypoint %%

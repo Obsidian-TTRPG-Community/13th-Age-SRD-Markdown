@@ -2,14 +2,14 @@
 aliases: [Epic Fire Elemental]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Type/Wrecker"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -44,4 +44,3 @@ pd: "24"
 md: "21"
 hp: "166"
 ```
-

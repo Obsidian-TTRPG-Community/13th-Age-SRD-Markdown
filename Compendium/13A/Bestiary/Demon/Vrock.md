@@ -2,14 +2,14 @@
 aliases: [Vrock (Vulture Demon)]
 created: 2023-05-23
 level: 6
-permalink: 
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Spoiler"]
 type: demon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -37,4 +37,3 @@ pd: "18"
 md: "18"
 hp: "88"
 ```
-

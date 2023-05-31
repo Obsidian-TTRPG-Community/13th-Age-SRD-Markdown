@@ -2,14 +2,14 @@
 aliases: [Zombie Beast]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Type/Troop"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -40,4 +40,3 @@ pd: "12"
 md: "8"
 hp: "110"
 ```
-

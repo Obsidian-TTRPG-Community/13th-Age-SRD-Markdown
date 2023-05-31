@@ -2,14 +2,14 @@
 aliases: [The Final Devil]
 created: 2023-05-23
 level: 13
-permalink: 
 publish: 
 role: leader
 strength: huge
-tags: ["13A/Bestiary/devil", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Faction/Devil-Fang", "13A/Monsters/Type/Leader"]
 type: devil
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -60,4 +60,3 @@ pd: "28"
 md: "28"
 hp: "1300"
 ```
-

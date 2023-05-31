@@ -2,15 +2,15 @@
 aliases: [Frogspawn Champion]
 created: 2023-05-29
 level: 6
-permalink: 
 publish: 
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Type/Troop"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -45,4 +45,3 @@ pd: "20"
 md: "16"
 hp: "90"
 ```
-

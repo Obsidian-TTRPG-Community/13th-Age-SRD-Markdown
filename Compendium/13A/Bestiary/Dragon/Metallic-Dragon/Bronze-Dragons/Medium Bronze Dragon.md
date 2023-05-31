@@ -2,14 +2,14 @@
 aliases: [Medium Bronze Dragon]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic/Bronze", "13A/Monsters/Type/Wrecker"]
 type: dragon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

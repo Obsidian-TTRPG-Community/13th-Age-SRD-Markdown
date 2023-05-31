@@ -1,9 +1,9 @@
 ---
-aliases: [Monster Creation Attack Bomus]
+aliases: [Monster Creation Attack Bonus]
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation]
+tags: [13A/Monsters/Creation/Attack-Bonus]
 updated: 2023-05-29
 ---
 

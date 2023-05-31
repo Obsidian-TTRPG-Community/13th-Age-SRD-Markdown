@@ -2,15 +2,15 @@
 aliases: [Archer Shade]
 created: 2023-05-25
 level: 3
-permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Battle-Shade", "13A/Monsters/Type/Archer"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -42,4 +42,3 @@ pd: "16"
 md: "14"
 hp: "40"
 ```
-

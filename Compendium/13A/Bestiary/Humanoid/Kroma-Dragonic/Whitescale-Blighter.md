@@ -2,15 +2,15 @@
 aliases: [Whitescale Blighter]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: leader
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kroma-Dragonic", "13A/Monsters/Type/Leader"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -54,4 +54,3 @@ pd: "22"
 md: "19"
 hp: "140"
 ```
-

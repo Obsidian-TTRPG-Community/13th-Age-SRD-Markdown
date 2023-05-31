@@ -1,10 +1,9 @@
 ---
 aliases: []
 created: 2023-05-29
-permalink: 
 publish: 
 tags: []
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 ---
 aliases: [Meteorite Xombie]  
@@ -16,10 +15,11 @@ publish:
 role: mook  
 statblock: inline  
 strength: normal  
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/mook"]  
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", "13A/Monsters/Type/mook"]  
 type: aberration  
 updated:  
 ---''
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "11"
 md: "15"
 hp: "7"
 ```
-

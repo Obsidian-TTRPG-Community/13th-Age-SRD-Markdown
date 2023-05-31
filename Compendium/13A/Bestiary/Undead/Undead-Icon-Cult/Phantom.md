@@ -2,15 +2,15 @@
 aliases: [Phantom]
 created: 2023-05-29
 level: 6
-permalink: 
 publish: 
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Spoiler"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

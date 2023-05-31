@@ -2,15 +2,15 @@
 aliases: [Blackscale Light Killer]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kroma-Dragonic", "13A/Monsters/Type/Archer"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -53,4 +53,3 @@ pd: "25"
 md: "19"
 hp: "206"
 ```
-

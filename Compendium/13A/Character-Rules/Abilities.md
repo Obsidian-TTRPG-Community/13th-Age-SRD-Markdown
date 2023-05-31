@@ -3,11 +3,9 @@ aliases: ["Abilities", "Ability Scores"]
 created: 2023-02-07
 permalink: 
 publish: 
-tags: [13A/Characters/AbilityScores, navtodo]
+tags: [13A/Characters/AbilityScores]
 updated: 2023-05-29
 ---
-
-Navigation Links 
 
 ## Abilities
 
@@ -15,7 +13,7 @@ Your character can be assigned ability scores in various ways. Here are two ways
 
 ### Roll ’em
 
-Roll 4d6 for each of the six ability scores (Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma). 
+Roll `dice: 4d6` for each of the six ability scores (Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma). 
 
 Drop the low die in each roll. Put the scores into any order to best fit the character you want to play.
 

@@ -2,15 +2,15 @@
 aliases: [Death Shade]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Reavers", "13A/Monsters/Type/Mook"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -40,4 +40,3 @@ pd: "21"
 md: "13"
 hp: "25"
 ```
-

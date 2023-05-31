@@ -2,14 +2,14 @@
 aliases: [Huge Black Dragon]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: wrecker
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Black", "13A/Monsters/Type/Wrecker"]
 type: dragon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "23"
 md: "21"
 hp: "510"
 ```
-

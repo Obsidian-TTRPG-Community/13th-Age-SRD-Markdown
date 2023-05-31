@@ -3,7 +3,7 @@ aliases: [Physical Defense, PD]
 created: 2023-05-13
 permalink: 
 publish: 
-tags: [13A/Combat/Rules/Stats/defences/PD]
+tags: [13A/Combat/Rules/Stats/Defences/PD]
 updated: 2023-05-29
 ---
 

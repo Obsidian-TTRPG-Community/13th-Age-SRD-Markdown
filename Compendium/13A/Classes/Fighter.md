@@ -35,20 +35,20 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 
 ### Melee Weapons
 
-|| One-Handed      | Two-Handed       |
-| ---------------- | ------------------------ | ------------------------- |
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
-| Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear        |
-| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |  
+|                  | One-Handed                       | Two-Handed                       |
+| ---------------- | -------------------------------- | -------------------------------- |
+| Small            | `dice: 1d4` dagger               | `dice: 1d6` club                 |
+| Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear                |
+| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |
 ^13A-Class-Fighter-Melee
 
 ### Ranged Weapons
 
-|| Thrown  | Crossbow  | Bow |
-| ---------------- | ---------------- | ------------------ | ------------ |
-| Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
+|                  | Thrown                   | Crossbow                   | Bow                  |
+| ---------------- | ------------------------ | -------------------------- | -------------------- |
+| Small            | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —                    |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |  
+| Heavy or Martial | —                        | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
 ^13A-Class-Fighter-Ranged
 
 ## Level Progression
@@ -66,7 +66,8 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (8 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 7 | 7th level | 4    |        | 3 x ability modifier   |
 | Level 9   | (8 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 7 | 9th level | 4    |        | 3 x ability modifier   |
 | Level 10  | (8 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 8 | 9th level | 4    | +1 to 3 abilities        | 3 x ability modifier   |  
-^13A-Class-Fighter-Progression  
+^13a-Class-Fighter-Progression
+
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
 Fighter weapon attack maneuvers deal damage based on the fighter’s level. You also don’t have to keep track of upgrading a 1st level maneuver into a 3rd level maneuver, because all the maneuvers function at your level. You can change which maneuvers you know and have ready whenever you gain a level.

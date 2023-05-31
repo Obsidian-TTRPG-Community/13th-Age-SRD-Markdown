@@ -2,15 +2,15 @@
 aliases: [Stalker]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Thunder-Lizards", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -43,4 +43,3 @@ pd: "20"
 md: "16"
 hp: "160"
 ```
-

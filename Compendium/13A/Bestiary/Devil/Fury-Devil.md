@@ -2,13 +2,12 @@
 aliases: [Fury Devil, Erinyes]
 created: 2023-05-23
 level: 8
-permalink: 
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/devil", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: devil
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 *Hellbent*
@@ -56,4 +55,3 @@ pd: "22"
 md: "22"
 hp: "120"
 ```
-

@@ -2,14 +2,14 @@
 aliases: [Giant Bird of Prey]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Spoiler"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -44,4 +44,3 @@ pd: "18"
 md: "14"
 hp: "50"
 ```
-

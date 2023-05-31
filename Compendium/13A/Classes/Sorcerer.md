@@ -33,22 +33,25 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 | Light      | 10      | —  |
 | Heavy      | 11      | –2 |
 | Shield     | 1       | -2 |
+^13A-Class-Sorcerer-Armor
 
 #### Melee Weapons
 
-| 0       | One-Handed    | Two-Handed       |
+|        | One-Handed    | Two-Handed       |
 |------------------|------------------------|---------------------------|
 | Small   | `dice: 1d4` dagger    | `dice: 1d6` staff        |
 | Light or Simple  | `dice: 1d6` shortsword| `dice: 1d8` spear        |
 | Heavy or Martial | `dice: 1d8` (-2 atk) longsword | `dice: 1d10`(-2 atk) greatsword* |
+^13A-Class-Sorcerer-Melee
 
 #### Ranged Weapons
 
-| 0       | Thrown      | Crossbow   | Bow  |
+|        | Thrown      | Crossbow   | Bow  |
 |------------------|-------------|------------------------------|------------------------|
 | Small   | `dice: 1d4` dagger  | `dice: 1d4` hand crossbow   | —    |
 | Light or Simple  | `dice: 1d6` javelin | `dice: 1d6` (–1 atk) light crossbow* | `dice: 1d6` (-2 atk) shortbow* |
 | Heavy or Martial | —  | `dice: 1d8` (–3 atk) heavy crossbow* | `dice: 1d8` (-4 atk) longbow*  |
+^13A-Class-Sorcerer-Ranged
   
 - A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
@@ -67,6 +70,7 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | — | — | — | 8 | — |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | — | — | — | 3 | 6 |        | 3 x ability modifier   |
 | Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | — | — | — | — | 9 | +1 to 3 abilities        | 3 x ability modifier   |
+^13A-Class-Sorcerer-Progression
 
 > [!info] Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
@@ -89,6 +93,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Icon Relationships        | 3 points        |
 | Talents | 3      |
 | Feats   | 1 per Level     |
+^13A-Class-Sorcerer-Stats
 
 ### Basic Attacks
 
@@ -152,27 +157,30 @@ If you get a benefit that deals damage to enemies, you can choose the type of da
 
 ##### Chaotic Benefit, Adventurer Tier (levels 1–4)
 
-| Roll (d6) | Effect     |
+| `dice: 1d6` | Effect     |
 | --------- | ---------------------------------------------------------------- |
 | 1-2       | You gain a +1 bonus to AC until the start of your next turn.     |
 | 3-4       | Deal damage equal to your level to all nearby staggered enemies. |
 | 5-6       | Deal damage equal to your level to one nearby enemy.    |
+^13A-Class-Sorcerer-Chaotic-Benefit-Adventure
 
 ##### Chaotic Benefit, Champion Tier (levels 5–7)
 
-| Roll (d6) | Effect   |
+| `dice: 1d6` | Effect   |
 | --------- | ----------------------------------------------------------------------------------------- |
 | 1-2       | You gain a +1 bonus to AC and Physical Defense until the start of your next turn.|
 | 3-4       | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. |
 | 5-6       | Deal damage equal to your level + your Charisma modifier to one nearby enemy.    |
+^13A-Class-Sorcerer-Chaotic-Benefit-Champion
 
 ##### Chaotic Benefit, Epic Tier (levels 8–10)
 
-| Roll (d6) | Effect|
+| `dice: 1d6` | Effect|
 | --------- | ----------------------------------------------------------------------------------------------- |
 | 1-2       | You gain a +1 bonus to all defences until the start of your next turn.        |
 | 3-4       | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
 | 5-6       | Deal damage equal to your level + twice your Charisma modifier to one nearby enemy.    |
+^13A-Class-Sorcerer-Chaotic-Benefit-Epic
 
 After you have gathered power, you can use your next standard action to cast an empowered sorcerer spell. Empowered sorcerer spells deal double the damage of a normal sorcerer spell. This means that you double the damage results of the hit or a miss from the single spell. Non-attack spells generally don’t improve when cast empowered; use empowered casting for attacks.
 
@@ -200,12 +208,13 @@ When you gather power, if the escalation die is 2+, you can roll two chaotic ben
 
 Some sorcerer spells deal damage of a random type. If it matters for the situation, use a d4 to determine which type of damage the spell deals.
 
-| Roll (d4) | Energy Type |
+| `dice: 1d4` | Energy Type |
 |-----------|-------------|
 | 1| Cold        |
 | 2| Fire        |
 | 3| Lightning   |
 | 4| Thunder     |
+^13A-Class-Sorcerer-Random-Energy
 
 ### Class Talents
 
@@ -257,11 +266,12 @@ One battle per day, gain resist dragon attack 16+ (all attacks made by dragons; 
 
 One battle per day, when you roll initiative, you can choose to invoke your Fey Heritage and gain the racial power of one the elven races in addition to your own racial power. Roll on the table below. If you roll your own race’s power, you gain the half-elf’s *surprising* racial power instead.
 
-| Roll (d6) | Racial Power|
+| `dice: 1d6` | Racial Power|
 |-----------|-------------------------------|
 | 1-2n      | Cruel (drow)|
 | 3-4n      | Highblood teleport (high elf) |
 | 5-6n      | Elven grace (wood elf)        |
+^13A-Class-Sorcerer-Fey-Heritage
 
 ##### Adventurer Feat
 
@@ -383,9 +393,9 @@ Daily
 
 3rd level spell: `dice: 5d6` damage.
 
-5th level spell: 4d10 damage.
+5th level spell: `dice: 4d10` damage.
 
-7th level spell: 6d12 damage.
+7th level spell: `dice: 6d12` damage.
 
 9th level spell: `dice: 10d12` damage.
 
@@ -405,7 +415,7 @@ Targets: Up to two nearby enemies in a group
 
 3rd level spell: `dice: 1d8` damage.
 
-5th level spell: 2d8 damage.
+5th level spell: `dice: 2d8` damage.
 
 7th level spell: `dice: 3d8`damage.
 
@@ -533,7 +543,7 @@ At-Will
 
 7th level spell: `dice: 6d6`damage; `dice: 3d6` ongoing.
 
-9th level spell: 10d6 damage; `dice: 5d6` ongoing.
+9th level spell: `dice: 10d6` damage; `dice: 5d6` ongoing.
 
 ##### Adventurer Feat
 
@@ -631,7 +641,7 @@ At-Will
 
 7th level spell: `dice: 7d6` damage; `dice: 3d6` aftershock damage.
 
-9th level spell: 9d6 damage; `dice: 4d6`aftershock damage.
+9th level spell: `dice: 9d6` damage; `dice: 4d6`aftershock damage.
 
 ##### Champion Feat
 
@@ -649,7 +659,7 @@ Daily
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 10d6 + Charisma acid damage, and 20 ongoing acid damage.
+**Hit:** `dice: 10d6` + Charisma acid damage, and 20 ongoing acid damage.
 
 **Miss:** 10 ongoing acid damage.
 
@@ -697,7 +707,7 @@ Recharge 16+ after battle
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** `dice: 2d4` x 10 random energy damage, and you take damage of the same type equal to the unmodified dice roll (2d4, 2d8, or 2d12). (Note that there’s no Charisma bonus to damage.)
+**Hit:** `dice: 2d4` x 10 random energy damage, and you take damage of the same type equal to the unmodified dice roll (`dice: 2d4`, `dice: 2d8`, or `dice: 2d12`). (Note that there’s no Charisma bonus to damage.)
 
 **Miss:** Half damage, and you still take random energy damage equal to the unmodified dice roll.
 
@@ -777,12 +787,12 @@ Quick action to cast
 
 Roll a d8 to see which power you gain:
 
-| Roll (d8) | Power   | Description     |
+| `dice: 1d8` | Power   | Description     |
 |-----------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1| Resist energy 16+| When an attack that deals energy damage targets you, the attacker must roll a natural 16+ on the attack roll or it only deals half damage.    |
 | 2| Infernal battery | Until the end of the battle, you can use a quick action once each round to make recharge rolls for your expended recharge spells. Each time you do so, you take damage equal to half the natural result of your recharge roll. |
 | 3| Backlash| The first time you are staggered this battle, the enemy who staggered you becomes confused (save ends).   |
-| 4| Spell frenzy     | You enter a spell frenzy (see Infernal Heritage talent). If you were already in a spell frenzy, you now roll 3d20 for each attack and take damage equal to triple the target’s level for each roll that misses.       |
+| 4| Spell frenzy     | You enter a spell frenzy (see Infernal Heritage talent). If you were already in a spell frenzy, you now roll `dice: 3d20` for each attack and take damage equal to triple the target’s level for each roll that misses.       |
 | 5| Fear aura        | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die.        |
 | 6| Teleport `dice: 1d3` + 1 times this battle | As a move action, you can teleport anywhere you can see nearby.       |
 | 7| Demonic speed    | You can take an extra standard action each turn that the escalation die is even. You lose `dice: 2d10` hit points each time you use the extra action. |

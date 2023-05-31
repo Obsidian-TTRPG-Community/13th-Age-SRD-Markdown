@@ -2,15 +2,15 @@
 aliases: [Doomlantern Salamander]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: blocker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Salamanders", "13A/Monsters/Type/Blocker"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -48,4 +48,3 @@ pd: "19"
 md: "15"
 hp: "160"
 ```
-

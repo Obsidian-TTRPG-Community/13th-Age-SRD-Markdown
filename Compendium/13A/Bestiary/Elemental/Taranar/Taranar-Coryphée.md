@@ -2,15 +2,15 @@
 aliases: [Taranar Coryphée]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: blocker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Taranar", "13A/Monsters/Type/Blocker"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -40,4 +40,3 @@ pd: "18"
 md: "13"
 hp: "66"
 ```
-

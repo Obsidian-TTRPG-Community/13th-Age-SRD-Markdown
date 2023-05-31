@@ -2,14 +2,14 @@
 aliases: [Ochre Jelly]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/ooze", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Ooze", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: ooze
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -34,4 +34,3 @@ pd: "17"
 md: "16"
 hp: "90"
 ```
-

@@ -2,14 +2,14 @@
 aliases: [Fire Bat]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Mook"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -40,4 +40,3 @@ pd: "16"
 md: "11"
 hp: "10"
 ```
-

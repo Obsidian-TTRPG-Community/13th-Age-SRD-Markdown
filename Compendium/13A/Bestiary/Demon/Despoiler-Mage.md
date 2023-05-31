@@ -2,14 +2,14 @@
 aliases: [Despoiler Mage]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Caster"]
 type: demon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -46,4 +46,3 @@ pd: "19"
 md: "23"
 hp: "170"
 ```
-

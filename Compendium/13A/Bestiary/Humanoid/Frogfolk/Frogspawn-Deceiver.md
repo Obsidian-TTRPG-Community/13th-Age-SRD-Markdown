@@ -2,15 +2,15 @@
 aliases: [Frogspawn Deceiver]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Type/Spoiler"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -41,4 +41,3 @@ pd: "19"
 md: "16"
 hp: "72"
 ```
-

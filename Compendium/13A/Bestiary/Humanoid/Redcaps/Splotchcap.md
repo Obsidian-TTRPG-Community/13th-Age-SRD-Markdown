@@ -2,14 +2,14 @@
 aliases: [Splotchcap]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: archer
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Archer", "13A/Monsters/Factions/Redcaps"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -43,4 +43,3 @@ pd: "17"
 md: "14"
 hp: "32"
 ```
-

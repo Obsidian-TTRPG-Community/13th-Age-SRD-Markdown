@@ -2,15 +2,15 @@
 aliases: [Star Mask Cult Puppet]
 created: 2023-05-29
 level: 6
-permalink: 
 publish: 
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", "13A/Monsters/Type/Troop"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -38,4 +38,3 @@ pd: "16"
 md: "21"
 hp: "80"
 ```
-

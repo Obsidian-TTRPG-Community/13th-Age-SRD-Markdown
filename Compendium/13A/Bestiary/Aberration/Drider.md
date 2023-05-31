@@ -2,14 +2,14 @@
 aliases: [Drider]
 created: 2023-05-23
 level: 6
-permalink: 
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -44,4 +44,3 @@ pd: "15"
 md: "20"
 hp: "170"
 ```
-

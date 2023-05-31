@@ -2,15 +2,15 @@
 aliases: [Petulant Never Was]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: caster
 statblock: inline
-strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/caster"]
+strength: "2×"
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghosts", "13A/Monsters/Type/Caster"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

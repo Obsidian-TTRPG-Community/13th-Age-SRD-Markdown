@@ -1,10 +1,9 @@
 ---
 aliases: [Warbanner Constructs]
 created: 2023-05-24
-permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Warbanner]
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Warbanner]
+updated: 2023-05-30
 ---
 
 Warbanners have a number of abilities in common. The feral warbanner has the full version of these abilities. You may customize the feral warbanner by giving it icon-associated abilities.

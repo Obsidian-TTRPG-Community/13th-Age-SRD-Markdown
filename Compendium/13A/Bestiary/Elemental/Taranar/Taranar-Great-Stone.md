@@ -2,15 +2,15 @@
 aliases: [Taranar Great Stone]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: wrecker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Taranar", "13A/Monsters/Type/Wrecker"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -54,4 +54,3 @@ pd: "21"
 md: "20"
 hp: "400"
 ```
-

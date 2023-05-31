@@ -3,7 +3,7 @@ aliases: [13th Age Rituals, Rituals in 13th Age]
 created: 2316-02-07
 permalink: 
 publish: 
-tags: [13A/Playing/Rituals]
+tags: [13A/Gamemastery/Rituals]
 updated: 2023-05-29
 ---
 

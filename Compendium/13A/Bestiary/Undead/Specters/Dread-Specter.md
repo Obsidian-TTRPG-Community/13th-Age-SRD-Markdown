@@ -2,14 +2,14 @@
 aliases: [Dread Specter]
 created: 2023-05-28
 level: 9
-permalink: 
 publish: 
 role: wrecker
 strength: 3×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Specter", "13A/Monsters/Type/Wrecker"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -46,4 +46,3 @@ pd: "18"
 md: "22"
 hp: "550"
 ```
-

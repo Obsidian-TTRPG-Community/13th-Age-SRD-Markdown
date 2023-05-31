@@ -1,10 +1,9 @@
 ---
 aliases: [Kroma Dragonic]
 created: 2023-05-29
-permalink: 
 publish: 
-tags: []
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Kroma-Dragonic]
+updated: 2023-05-30
 ---
 
 ## Nastier Specials for All Kroma Dragonics

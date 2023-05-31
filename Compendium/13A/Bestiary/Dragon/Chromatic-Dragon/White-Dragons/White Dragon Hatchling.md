@@ -2,14 +2,14 @@
 aliases: [White Dragon Hatchling]
 created: 2023-05-23
 level: 1
-permalink: 
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/White", "13A/Monsters/Type/Troop"]
 type: dragon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -43,4 +43,3 @@ pd: "12"
 md: "8"
 hp: "28"
 ```
-

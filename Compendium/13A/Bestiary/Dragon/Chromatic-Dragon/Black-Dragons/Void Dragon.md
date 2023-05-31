@@ -2,14 +2,14 @@
 aliases: [Void Dragon (Black)]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: caster
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Black", "13A/Monsters/Type/Caster"]
 type: dragon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -51,4 +51,3 @@ pd: "21"
 md: "19"
 hp: "290"
 ```
-

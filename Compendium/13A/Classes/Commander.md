@@ -4,7 +4,7 @@ created: 2023-05-04
 permalink: 
 publish: 
 tags: [13A/Characters/Classes/Commander]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Commander
@@ -32,8 +32,10 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 12      | —  |
 | Heavy      | 14      | -2 |
-| Shield     | 1       | —  |
+| Shield     | 1       | —  |    
+
 ^13A-Class-Commander-Armor
+
 #### Melee Weapons
 
 |                  | One-Handed                                | Two-Handed                      |
@@ -41,8 +43,9 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | Small            | `dice: 1d4` dagger                        | `dice: 1d6` club                |
 | Light or Simple  | `dice: 1d6` mace, shortsword              | `dice: 1d8` spear               |
 | Heavy or Martial | `dice: 1d8` (-2 atk) longsword, warhammer | `dice: 1d10`(–2 atk) greatsword |
-| Shield           | 1                                         | —                               |
+| Shield           | 1                                         | —                               |    
 ^13A-Class-Commander-Melee
+
 #### Ranged Weapons
 
 |                  | Thrown                   | Crossbow                            | Bow                          |
@@ -50,8 +53,9 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ------------------------ | ----------------------------------- | ---------------------------- |
 | Small            | `dice: 1d4` dagger, star | `dice: 1d4` hand crossbow           | —                            |
 | Light or Simple  | `dice: 1d6` javelin      | `dice: 1d6` light crossbow          | `dice: 1d6` shortbow         |
-| Heavy or Martial | —                        | `dice: 1d8` (–2 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow |
+| Heavy or Martial | —                        | `dice: 1d8` (–2 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow 
 ^13A-Class-Commander-Ranged
+
 #### Level Progression
 
 | Commander Level    | Total Hit Points  | Total Feats  | Class Talents (M) | Commands & Tactics (m) | Pool available (M) | Level-up Ability  | Damage Bonus From Ability Score |
@@ -68,6 +72,7 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 4        | 9    | 9th level | | 3 x ability modifier   |
 | Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 4        | 10   | 9th level | +1 to 3 abilities | 3 x ability modifier   |      
 ^13A-Class-Commander-Progression
+
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
 ### Stats
@@ -86,6 +91,7 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | Talents | 3 (see level progression chart)   |
 | Feats   | 1 per Level     |
 ^13A-Class-Commander-Stats
+
 ### Basic Attacks
 
 #### Melee Attack

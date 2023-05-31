@@ -2,15 +2,15 @@
 aliases: [Bloody Shade]
 created: 2023-05-25
 level: 2
-permalink: 
 publish: 
 role: mook
 statblock: inline
-strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/mook"]
+strength: "2×"
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Battle-Shade", "13A/Monsters/Type/Mook"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -42,4 +42,3 @@ pd: "16"
 md: "12"
 hp: "18"
 ```
-

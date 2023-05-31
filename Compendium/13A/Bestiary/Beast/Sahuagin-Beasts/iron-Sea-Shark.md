@@ -2,14 +2,14 @@
 aliases: [iron Sea Shark]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: mook
-strength: 2×
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/mook", "13A/Faction/Sahuagin"]
+strength: "2×"
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Sahuagin"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -38,4 +38,3 @@ pd: "19"
 md: "14"
 hp: "32"
 ```
-

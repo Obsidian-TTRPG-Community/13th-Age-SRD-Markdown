@@ -2,14 +2,14 @@
 aliases: [Stone Giant]
 created: 2023-05-23
 level: 8
-permalink: 
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/giant", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: giant
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -41,4 +41,3 @@ pd: "22"
 md: "18"
 hp: "270"
 ```
-

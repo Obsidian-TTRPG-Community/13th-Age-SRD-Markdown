@@ -2,15 +2,15 @@
 aliases: [Tempter]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: blocker
 statblock: inline
-strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/blocker"]
+strength: "2×"
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Blocker"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -46,4 +46,3 @@ pd: "21"
 md: "21"
 hp: "204"
 ```
-

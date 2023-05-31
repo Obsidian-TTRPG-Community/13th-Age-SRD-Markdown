@@ -2,14 +2,14 @@
 aliases: [Large Green Dragon]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: spoiler
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Green", "13A/Monsters/Type/Spoiler"]
 type: dragon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "21"
 md: "16"
 hp: "230"
 ```
-

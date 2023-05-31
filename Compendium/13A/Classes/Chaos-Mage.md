@@ -248,13 +248,23 @@ When your random spell choice indicates an attack spell, roll a d6 to determine 
 | 5  | Metal: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
 | 6  | Void: During your next turn, you can use a move action to teleport to a nearby location you can see.     |
 ^13A-Class-Chaos-Mage-Attacking-Warp
+
 **Adventurer Feat**  
+
 When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level).
 
 **Champion Feat**  
+
 While you are flying due to any effect, you gain a bonus to disengage checks equal to your Dexterity modifier.
 
-**Epic Feat**  
+Calendarium
+Dice Roller
+Initiative
+Statblocks
+
+
+**Epic Feat**
+
 When one of your spells or powers lets you teleport to a nearby location, you can instead teleport to a faraway location you can see.
 
 #### Defensive Warp
@@ -566,7 +576,7 @@ The damage dice for the spell increase by one size (for example, d6s to d8s).
 
 7th level spell: `dice: 5d8`damage.
 
-9th level spell: `dice: 6d12`damage.
+9th level spell: `dice: `dice: 6d12` damage.
 
 **Epic Feat**
 

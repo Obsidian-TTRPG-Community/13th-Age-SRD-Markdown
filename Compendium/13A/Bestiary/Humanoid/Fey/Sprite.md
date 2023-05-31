@@ -2,14 +2,14 @@
 aliases: [Sprite]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Caster"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -39,4 +39,3 @@ pd: "15"
 md: "17"
 hp: "46"
 ```
-

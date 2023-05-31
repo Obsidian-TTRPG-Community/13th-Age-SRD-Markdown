@@ -2,14 +2,14 @@
 aliases: [Venomous Snake]
 created: 2023-05-29
 level: 1
-permalink: 
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -44,4 +44,3 @@ pd: "15"
 md: "11"
 hp: "25"
 ```
-

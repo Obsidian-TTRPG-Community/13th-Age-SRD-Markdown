@@ -1,10 +1,9 @@
 ---
 aliases: [Hallowed Gargoyles]
 created: 2023-05-28
-permalink: 
 publish: 
 tags: []
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Nastier Specials for All Hallowed Gargoyles

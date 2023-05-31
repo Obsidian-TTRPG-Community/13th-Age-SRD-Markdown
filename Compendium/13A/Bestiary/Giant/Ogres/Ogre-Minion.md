@@ -2,14 +2,14 @@
 aliases: [Ogre Minion]
 created: 2023-05-28
 level: 9
-permalink: 
 publish: 
 role: mook
 strength: large
-tags: ["13A/Bestiary/giant", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Ogres", "13A/Monsters/Type/Mook"]
 type: giant
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -41,4 +41,3 @@ pd: "23"
 md: "19"
 hp: "80"
 ```
-

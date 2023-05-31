@@ -2,14 +2,14 @@
 aliases: [Swaysong Naga]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: leader
 strength: large
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Nagas", "13A/Monsters/Type/Leader"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -49,4 +49,3 @@ pd: "16"
 md: "18"
 hp: "144"
 ```
-

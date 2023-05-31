@@ -2,14 +2,14 @@
 aliases: [Big Earth Elemental]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: blocker
 strength: normal
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Type/Blocker"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -41,4 +41,3 @@ pd: "22"
 md: "17"
 hp: "94"
 ```
-

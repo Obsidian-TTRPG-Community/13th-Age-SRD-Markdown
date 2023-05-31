@@ -3,7 +3,7 @@ aliases: [13th Age Icons]
 created: 2023-02-07
 permalink: 
 publish: 
-tags: [13A/Icons, navtodo]
+tags: [13A/Icons]
 updated: 2023-05-29
 ---
 
@@ -14,3 +14,22 @@ The 13th Age Archmage Engine supports the concept of icons. An icon is a powerfu
 Icons have their own story, alignment, and personality. The general knowledge and history about them may vary in depth and accuracy; they may be well-known or mysterious. They have their own relationships with other icons, too, which may be friendly, tolerable, or acrimonious.
 
 Your character may have relationships with certain icons. This relationship, if it exists, can be positive, conflicted, or negative. See **[Icon Relationships](Compendium/13A/Character-Rules/Icon-Relationships.md)**.
+
+## Map of Content
+
+%% Begin Waypoint %%
+- **[[Icons]]**
+	- [[Crusader]]
+	- [[Diabolist]]
+	- [[Dwarf-King]]
+	- [[Elf-Queen]]
+	- [[Emperor]]
+	- [[Great-Gold-Wyrm]]
+	- [[High-Druid]]
+	- [[Lich-King]]
+	- [[Orc-Lord]]
+	- [[Priestess]]
+	- [[Prince-of-Shadows]]
+	- [[The-Three]]
+
+%% End Waypoint %%

@@ -471,7 +471,7 @@ Daily
 
 **Hit by 4+:** `dice: 1d10`x your level holy damage, and the target is dazed until end of your next turn.
 
-**Hit by 8+:** Against non-mooks, holy damage equal to half the target’s maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals 4d10 x your level holy damage.
+**Hit by 8+:** Against non-mooks, holy damage equal to half the target’s maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals `dice: 4d10` x your level holy damage.
 
 **Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals `dice: 4d20` x your level holy damage
 

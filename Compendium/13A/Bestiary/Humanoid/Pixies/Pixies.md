@@ -1,10 +1,9 @@
 ---
 aliases: [Pixies]
 created: 2023-05-24
-permalink: 
 publish: 
-tags: []
-updated: 2023-05-29
+tags: [13A/]
+updated: 2023-05-30
 ---
 All pixies have the *glamour* ability.
 

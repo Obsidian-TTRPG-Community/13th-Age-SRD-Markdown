@@ -2,14 +2,14 @@
 aliases: [Purple Worm]
 created: 2023-05-28
 level: 8
-permalink: 
 publish: 
 role: wrecker
 strength: huge
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Purple-Worm", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -54,4 +54,3 @@ pd: "22"
 md: "17"
 hp: "440"
 ```
-

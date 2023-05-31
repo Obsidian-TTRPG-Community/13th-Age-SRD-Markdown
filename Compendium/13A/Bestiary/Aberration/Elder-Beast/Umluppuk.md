@@ -2,14 +2,14 @@
 aliases: [Umluppuk]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/aberration", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Elder-Beasts", "13A/Monsters/Type/Spoiler"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "21"
 md: "20"
 hp: "310"
 ```
-

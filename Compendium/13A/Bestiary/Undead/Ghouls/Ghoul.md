@@ -2,14 +2,14 @@
 aliases: [Ghoul]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghouls", "13A/Monsters/Type/Spoiler"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -40,4 +40,3 @@ pd: "16"
 md: "12"
 hp: "36"
 ```
-

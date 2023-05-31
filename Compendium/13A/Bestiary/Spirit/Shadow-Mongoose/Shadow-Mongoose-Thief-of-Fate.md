@@ -2,15 +2,15 @@
 aliases: [Shadow Mongoose Thief of Fate]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/spirit", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Shadow-Mongoose", "13A/Monsters/Type/Spoiler"]
 type: spirit
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -53,4 +53,3 @@ pd: "18"
 md: "22"
 hp: "188"
 ```
-

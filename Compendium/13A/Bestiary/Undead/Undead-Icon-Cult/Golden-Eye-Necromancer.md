@@ -2,15 +2,15 @@
 aliases: [Golden Eye Necromancer]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: caster
 statblock: inline
 strength: 3×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Caster"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -49,4 +49,3 @@ pd: "16"
 md: "22"
 hp: "452"
 ```
-

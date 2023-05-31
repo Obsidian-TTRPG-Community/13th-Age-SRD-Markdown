@@ -2,14 +2,14 @@
 aliases: [Lammasu Priest]
 created: 2023-05-28
 level: 9
-permalink: 
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Lammasu", "13A/Monsters/Type/Caster"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -53,4 +53,3 @@ pd: "17"
 md: "23"
 hp: "330"
 ```
-

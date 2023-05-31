@@ -2,15 +2,15 @@
 aliases: [Most Hungry Ghost]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghosts", "13A/Monsters/Type/Blocker"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -51,4 +51,3 @@ pd: "22"
 md: "22"
 hp: "160"
 ```
-

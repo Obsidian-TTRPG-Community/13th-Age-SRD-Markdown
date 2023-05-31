@@ -2,15 +2,15 @@
 aliases: [Death Knight]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: wrecker
 statblock: inline
-strength: 2×
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/wrecker"]
+strength: "2×"
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Wrecker"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -57,4 +57,3 @@ pd: "22"
 md: "18"
 hp: "260"
 ```
-

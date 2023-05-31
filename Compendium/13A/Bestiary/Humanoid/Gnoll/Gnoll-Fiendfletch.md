@@ -2,14 +2,14 @@
 aliases: [Gnoll Fiendfletch]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: archer
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Gnolls", "13A/Monsters/Type/Archer"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

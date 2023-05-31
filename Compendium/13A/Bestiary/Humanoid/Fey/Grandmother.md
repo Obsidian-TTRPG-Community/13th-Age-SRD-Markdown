@@ -2,14 +2,14 @@
 aliases: [Grandmother]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: caster
 strength: 3×
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Caster"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -47,4 +47,3 @@ pd: "21"
 md: "25"
 hp: "600"
 ```
-

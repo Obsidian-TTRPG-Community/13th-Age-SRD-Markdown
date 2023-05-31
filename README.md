@@ -2,18 +2,15 @@
 
 You did not ask for it, but here it is. The **[13th Age](https://pelgranepress.com/13th-age/)** System Resource Document now in Markdown and **[Obsidian](https://obsidian.md)** ready.
 
-**Note**: This Vault is Still in Progress and expected completion date is 05/31/2023.
-
 ## Features
 
-**1.0.0 Release**
+**0.1.0 Release**
 - Folder Note Ready
 - Dice Roller Ready
-- Fantasy Statblocks support and Layout for all Monsters, which allows Day one Initiative Tracker work
-- Expanded Frontmatter
+- Fantasy Statblocks support and Layout for all Monsters, which allows day one Initiative Tracker work
+- Expanded Frontmatter for Monsters
 - Comprehensive Tags
 - Tables with BlockIDs ready
-
 
 ## Quick Start
 
@@ -21,13 +18,14 @@ You did not ask for it, but here it is. The **[13th Age](https://pelgranepress.c
 2. Download Fantasy Statblocks from the Community Store. Optionally, Install the other Plugins Mentioned.
 3. Explore!
 
-
 ### Obsidian Plugins
 
 #### Required
 
 **[Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks)**  
+
 This plugin makes statblocks go from simple tables in the SRD, to fabulous interactive codeblocks. 
+
 Check out the 13th Age Layout **[included within the Plugin](https://plugins.javalent.com/statblock/layouts/integrated/13a-monster)**.
 
 #### Optional
@@ -35,21 +33,30 @@ Check out the 13th Age Layout **[included within the Plugin](https://plugins.jav
 We have designed this vault to work with the following plugins:
 
 **[Alx-Folder-Note](https://github.com/aidenlx/alx-folder-note)** or **[Obsidian Folder Notes](https://github.com/LostPaul/obsidian-folder-notes)**  
+
 These plugins enable your folders to not only hold files, but to become notes themselves.
+
 The vault will integrate the correct files if you use these plugins. It is fully functional even without them.
 
 **[Dice Roller](https://github.com/valentine195/obsidian-dice-roller)**  
+
 This plugin turns dice syntax inside Obsidian into rolled results. 
+
 The vault will show the results of any d20 if installed.
+
 **Example**: d10 `dice: d10` will render into `d10 (1d10 -> [3] -> 3)`
 
+> **Important**: We recommend enabling the "Display Formula in Parenthesis After" setting to enable your dice rolls to display as `6 (1d8)` versus just `6`.
+
+
 **[Initiative Tracker](https://github.com/javalent/initiative-tracker)**
-This plugin takes the data from Fantasy Statblocks and not only allows an initiative tracker with those entities,
-but integrates with the built-in encounter builder.
+
+This plugin takes the data from Fantasy Statblocks and not only allows an initiative tracker with those entities, but integrates with the built-in encounter builder.
 
 ## After the SRD
 
-This vault is meant to be a download and gp vault, but what if you wanted to expand upon it?
+This vault is meant to be a download-and-go vault, but what if you wanted to expand upon it?
+
 Here are some suggested avenues:
 
 - **More Monsters**: Need to add monsters from your PDF files to Fantasy Statblocks? Use the **[Obsidian 13A Parser](https://github.com/freohr/obsidian-13A-monster-parser)**.

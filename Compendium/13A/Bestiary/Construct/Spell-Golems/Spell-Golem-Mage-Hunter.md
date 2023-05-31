@@ -2,15 +2,15 @@
 aliases: [Spell Golem Mage Hunter]
 created: 2023-05-29
 level: 9
-permalink: 
 publish: 
 role: spoiler
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Spell-Golems", "13A/Monsters/Type/Spoiler"]
 type: construct
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

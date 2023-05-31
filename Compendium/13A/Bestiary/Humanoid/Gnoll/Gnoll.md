@@ -1,10 +1,9 @@
 ---
 aliases: [Gnoll]
 created: 2023-05-23
-permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Gnoll]
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Gnolls]
+updated: 2023-05-30
 ---
 
 Nastier Specials for all gnolls.

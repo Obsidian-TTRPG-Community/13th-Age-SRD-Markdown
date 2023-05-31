@@ -4,7 +4,7 @@ created: 2023-05-07
 permalink: 
 publish: 
 tags: [13A/Characters/Classes/Monk]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Ability Scores
@@ -30,7 +30,8 @@ Monks may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 11      | —  |
 | Light      | 11      | —  |
 | Heavy      | 12      | -4 |
-| Shield     | 1       | -2 |
+| Shield     | 1       | -2 |  
+^13a-Class-Monk-Armor
 
 ### Melee Weapons
 
@@ -38,11 +39,12 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 
 ### Ranged Weapons
 
-|| Thrown  | Crossbow  | Bow |
-| ---------------- | ---------------- | --------------------------- | --------------------- |
-| Small   | `dice: 1d4` dagger, star | `dice: 1d4` (-2 atk) hand crossbow  | —   |
+|                  | Thrown                   | Crossbow                            | Bow                           |
+| ---------------- | ------------------------ | ----------------------------------- | ----------------------------- |
+| Small            | `dice: 1d4` dagger, star | `dice: 1d4` (-2 atk) hand crossbow  | —                             |
 | Light or Simple  | `dice: 1d6` javelin      | `dice: 1d6` (-3 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —       | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-3 atk) longbow  |
+| Heavy or Martial | —                        | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-3 atk) longbow  |  
+^13a-Class-Monk-Ranged
 
 ## Level Progression
 
@@ -58,7 +60,8 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 | Level 7   | (7 + CON mod) x 12| 4 adventurer 3 champion        | 3 adventurer 1 champion        | 2 adventurer 2 champion        | 3 + Wis mod | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (7 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 3 adventurer 1 champion        | 2 adventurer 2 champion 1 epic | 3 + Wis mod |        | 3 x ability modifier   |
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 3 adventurer 1 champion 1 epic | 2 adventurer 2 champion 1 epic | 3 + Wis mod |        | 3 x ability modifier   |
-| Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 3 adventurer 1 champion epic   | 2 adventurer 2 champion 2 epic | 3 + Wis mod | +1 to 3 abilities        | 3 x ability modifier   |
+| Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 3 adventurer 1 champion epic   | 2 adventurer 2 champion 2 epic | 3 + Wis mod | +1 to 3 abilities        | 3 x ability modifier   |  
+^13a-Class-Monk-Progression
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
@@ -80,9 +83,8 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Talents    | 3 (see level progression chart)  |
 | Feats      | 1 per Level    |
 | Feats      | 1 per Level    |
-| Ability Bonus       | +2 Strength or Constitution (different from racial bonus)   |
-
-  
+| Ability Bonus       | +2 Strength or Constitution (different from racial bonus)   |  
+^13a-Class-Monk-Stats
 
 ## Basic Attacks
 
@@ -111,11 +113,8 @@ All monks have attacks dealing JAB, PUNCH, and KICK damage, use forms as the bas
 Under normal circumstances, melee weapons that are traditional in a monk’s style function like special effects for monks. Most monk attacks are rated as JAB, PUNCH, or KICK attacks, in the same sense that most fighter attacks are WEAPON attacks.
 
 -   JAB attacks deal `dice: 1d6` damage per level.
-    
 -   PUNCH attacks deal `dice: 1d8` damage per level.
-    
 -   KICK attacks deal `dice: 1d10`damage per level.
-    
 
 Monks don’t use weapon damage dice unless they are using a non-traditional weapon or a basic ranged attack that is not part of one of their monk forms.
 
@@ -209,13 +208,13 @@ The first time you make a melee attack against each enemy during a battle (inclu
 
 2nd level monk: `dice: 2d6` extra damage.
 
-4th level monk: 2d8 extra damage.
+4th level monk: `dice: 2d8` extra damage.
 
 6th level monk: `dice: 4d6`extra damage.
 
-8th level monk: 4d10 extra damage.
+8th level monk: `dice: 4d10` extra damage.
 
-10th level monk: 6d12 extra damage.
+10th level monk: `dice: 6d12` extra damage.
 
 #### *Adventurer Feat*
 
@@ -451,7 +450,7 @@ Melee attack
 
 **Hit:** PUNCH + Strength damage.
 
-**Natural Even Hit:** As a hit, plus each enemy engaged with you takes `dice: 1d6` damage (2d6 damage at 5th level; `dice: 4d6`damage at 8th level).
+**Natural Even Hit:** As a hit, plus each enemy engaged with you takes `dice: 1d6` damage (`dice: 2d6` damage at 5th level; `dice: 4d6`damage at 8th level).
 
 **Natural Even Miss:** Half damage.
 
@@ -1034,7 +1033,7 @@ Melee attack
 
 #### Epic Feat Ki Power
 
-*(Quivering Palm)__**:*** Once per day when you hit a target with a finishing attack, you can spend 1 point of ki to create a link with the target. Until the next full heal-up, regardless of how faraway the target is, you can spend 1 point of ki and two consecutive quick actions to deal PUNCH + Wisdom damage to the target. You can keep spending quick actions and ki to deal this damage once per round until you run out of ki for the day.
+**(Quivering Palm)**: Once per day when you hit a target with a finishing attack, you can spend 1 point of ki to create a link with the target. Until the next full heal-up, regardless of how faraway the target is, you can spend 1 point of ki and two consecutive quick actions to deal PUNCH + Wisdom damage to the target. You can keep spending quick actions and ki to deal this damage once per round until you run out of ki for the day.
 
 ### Feathered Serpent
 

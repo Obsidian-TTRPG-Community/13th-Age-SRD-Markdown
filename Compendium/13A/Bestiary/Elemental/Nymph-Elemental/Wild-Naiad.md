@@ -2,15 +2,15 @@
 aliases: [Wild Naiad]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: spoiler
 statblock: inline
-strength: 2×
-tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/spoiler"]
+strength: "2×"
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Nymph", "13A/Monsters/Type/Spoiler"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -44,4 +44,3 @@ pd: "20"
 md: "16"
 hp: "130"
 ```
-

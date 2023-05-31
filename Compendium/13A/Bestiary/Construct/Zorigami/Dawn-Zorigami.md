@@ -2,14 +2,14 @@
 aliases: [Dawn Zorigami]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/construct", "13A/Monsters/Type/spoiler"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Zorigami", "13A/Monsters/Type/Spoiler"]
 type: construct
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -38,4 +38,3 @@ pd: "13"
 md: "17"
 hp: "30"
 ```
-

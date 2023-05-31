@@ -2,14 +2,14 @@
 aliases: [Redcap]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/Redcaps"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -43,4 +43,3 @@ pd: "18"
 md: "15"
 hp: "42"
 ```
-

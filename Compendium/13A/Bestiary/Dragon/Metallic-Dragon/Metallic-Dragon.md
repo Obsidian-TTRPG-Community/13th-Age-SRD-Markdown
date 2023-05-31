@@ -1,10 +1,9 @@
 ---
 aliases: ["Dragons, Metallic", "Metallic Dragons"]
 created: 2023-05-23
-permalink: 
 publish: 
-tags: [13A/Monsters/Rules/Dragon]
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Dragon-Metallic]
+updated: 2023-05-30
 ---
 
 **Standard dragon abilities**: All dragons have the following two abilities:
@@ -46,5 +45,5 @@ updated: 2023-05-29
 | 17           | Denial                      | If a PC or other creature uses an attack against the dragon that is related to an icon that the dragon also has a relationship with, the dragon gains a +5 bonus to all defences against that attack, and it only takes damage from the attack without suffering any of its effects.                                                                                                                                                                                                                                                         |
 | 18           | Survivor                    | Each time the dragon drops to 0 hit points, it can roll a save. The first save in a battle is easy (6+), the second normal, the third and subsequent saves are hard (16+). If it succeeds, the dragon stays conscious and takes no damage from the attack or effect that would have dropped it.                                                                                                                                                                                                                                              |
 | 19           | Humanoid form               | The dragon is capable of shapechanging into a humanoid form, usually of a warrior or spellcaster appropriate to its nature and usually not obviously draconic, registering as a normal human or elf or whatever. This ability is best used for long-term dragon characters that make it worth the GM’s time to create a double- or triple-strength humanoid monster to represent the shapechanged form. The dragon has the PC-style racial power of their humanoid form, but only while in shapechaged form. Shapechanging is a move action. |
-| 20           | Some unique thing           | The dragon has an entirely unique characteristic, something akin to a player character’s one unique thing except that the dragon’s version may be relevant in combat. GM, if you don’t feel like making something up, choose an ability from the list above.                                                                                                                                                                                                                                                                                 |      
+| 20           | Some unique thing           | The dragon has an entirely unique characteristic, something akin to a player character’s one unique thing except that the dragon’s version may be relevant in combat. GM, if you don’t feel like making something up, choose an ability from the list above.                                                                                                                                                                                                                                                                                 |            
 ^13A-Dragon-Metallic-Ability

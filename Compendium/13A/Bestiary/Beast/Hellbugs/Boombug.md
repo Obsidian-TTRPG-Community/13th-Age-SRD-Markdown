@@ -2,14 +2,14 @@
 aliases: [Boombug]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/beast", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Hellbugs", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -43,4 +43,3 @@ pd: "15"
 md: "11"
 hp: "36"
 ```
-

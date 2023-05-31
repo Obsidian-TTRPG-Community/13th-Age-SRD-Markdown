@@ -2,14 +2,14 @@
 aliases: [Black Skull]
 created: 2023-05-28
 level: 8
-permalink: 
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/undead", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Haunted-Skull", "13A/Monsters/Type/Caster"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -38,4 +38,3 @@ pd: "15"
 md: "23"
 hp: "110"
 ```
-
