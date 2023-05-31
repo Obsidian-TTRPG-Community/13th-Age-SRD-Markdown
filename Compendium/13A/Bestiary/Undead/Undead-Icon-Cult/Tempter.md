@@ -7,10 +7,11 @@ publish:
 role: blocker
 statblock: inline
 strength: "2×"
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Blocker"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

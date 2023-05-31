@@ -4,7 +4,7 @@ created: 2023-05-29
 permalink: 
 publish: 
 tags: []
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 ---
 aliases: [Meteorite Xombie]  
@@ -20,6 +20,7 @@ tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Mons
 type: aberration  
 updated:  
 ---''
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

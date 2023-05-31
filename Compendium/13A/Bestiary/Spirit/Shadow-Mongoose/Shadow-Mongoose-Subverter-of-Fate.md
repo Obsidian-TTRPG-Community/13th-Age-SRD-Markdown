@@ -9,8 +9,9 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Shadow-Mongoose", "13A/Monsters/Type/Spoiler"]
 type: spirit
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

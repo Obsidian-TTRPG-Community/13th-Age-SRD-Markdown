@@ -1,15 +1,17 @@
 ---
 aliases: [Bone Imp Tormenter]
-created: 
+created: 2023-05-30
 level: 3
+permalink: 
 publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/spoiler", "13A/Monsters/Factions/Bone-Imp"]
 type: demon
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -38,4 +40,3 @@ pd: "13"
 md: "16"
 hp: "38"
 ```
-

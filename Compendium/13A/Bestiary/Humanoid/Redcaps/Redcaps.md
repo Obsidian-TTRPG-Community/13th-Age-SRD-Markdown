@@ -4,7 +4,7 @@ created: 2023-05-24
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Redcaps]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 All redcaps have special abilities based on *The Bad Word*. 

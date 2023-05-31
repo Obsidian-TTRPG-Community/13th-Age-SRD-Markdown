@@ -1,15 +1,17 @@
 ---
 aliases: [Bone Imp Skullbiter]
-created: 
+created: 2023-05-30
 level: 4
+permalink: 
 publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/troop", "13A/Monsters/Factions/Bone-Imp"]
 type: demon
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -36,4 +38,3 @@ pd: "15"
 md: "18"
 hp: "60"
 ```
-

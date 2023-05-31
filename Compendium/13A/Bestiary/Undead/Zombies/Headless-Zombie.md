@@ -6,10 +6,11 @@ permalink:
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Type/Troop"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -46,4 +47,3 @@ pd: "20"
 md: "17"
 hp: "270"
 ```
-

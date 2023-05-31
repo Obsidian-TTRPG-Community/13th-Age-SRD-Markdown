@@ -4,10 +4,10 @@ created: 2023-05-29
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Fauns]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
-## Ability for all fauns - destiny
+## Ability for All Fauns - Destiny
 
 Fauns who are likely to end up in a fight choose one of two paths. The paths determine which of their defenses will be higher, and in some cases determine an additional ability or two.
 

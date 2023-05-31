@@ -8,8 +8,9 @@ role: wrecker
 strength: large
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/Wendigo"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -52,4 +53,3 @@ pd: "15"
 md: "19"
 hp: "100"
 ```
-

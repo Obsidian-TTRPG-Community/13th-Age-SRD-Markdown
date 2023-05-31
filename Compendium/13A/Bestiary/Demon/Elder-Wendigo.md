@@ -6,10 +6,11 @@ permalink:
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Wendigo","13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Wendigo", "13A/Monsters/Type/Spoiler"]
 type: demon
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

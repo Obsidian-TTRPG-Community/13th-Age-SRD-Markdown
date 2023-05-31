@@ -1,15 +1,17 @@
 ---
 aliases: [Ebon Gauntlet-Adjudicator]
-created: 
+created: 2023-05-30
 level: 5
+permalink: 
 publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/wrecker"]
 type: humanoid
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -39,4 +41,3 @@ pd: "18"
 md: "18"
 hp: "130"
 ```
-

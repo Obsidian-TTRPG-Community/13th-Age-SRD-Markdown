@@ -3,8 +3,8 @@ aliases: [Star-Masks]
 created: 2023-05-29
 permalink: 
 publish: 
-tags: []
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Star-Masks]
+updated: 2023-05-30
 ---
 
 ## Champion Tier - Star-Masks & Cultists

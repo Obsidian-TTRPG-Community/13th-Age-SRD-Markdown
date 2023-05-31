@@ -1,15 +1,17 @@
 ---
 aliases: [Plant Briar Elf Sovereign]
-created: 
+created: 2023-05-30
 level: 12
+permalink: 
 publish: 
 role: leader
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/leader"]
 type: plant
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Factions/Wendigos",Mook"]
+["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Mook"]
 type: demon
 updated: 2023-05-29
 ---

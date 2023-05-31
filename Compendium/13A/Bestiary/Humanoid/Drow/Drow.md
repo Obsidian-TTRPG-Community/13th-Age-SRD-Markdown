@@ -4,7 +4,7 @@ created: 2023-05-23
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Drow]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 Drow may optionally include one of these abilities as nastier specials: *Drow Cruelty* or *Poisons and Potions*.

@@ -4,7 +4,7 @@ created: 2023-05-27
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Elemental-Beasts]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Making Elemental Beasts
@@ -23,9 +23,7 @@ All elemental beasts with an affinity for air gain the following three
 abilities:
 
 - *Flight:* This creature can fly.
-
 - *Resist thunder 16+*
-
 - *Resist lightning 16+*
 
 All air elemental beasts have *vulnerability: force*.
@@ -37,7 +35,6 @@ abilities from the following list.
   attacker must roll 2d20 and take the lowest result.
 
 - *Dust devil*: Make the following attack as a standard action.
-
   - **C: Swirling dust devil +5 + level vs. PD (1d3 nearby enemies in a  
     group)**—The target is dazed (save ends)
 
@@ -59,7 +56,6 @@ abilities.
   save. On a success, the creature doesn’t move.
 
 - *Resist force 16+*
-
 - *Resist poison 16+*
 
 All earth elemental beasts have *vulnerability: thunder*.
@@ -68,7 +64,6 @@ In addition, choose at least one and no more than three additional
 abilities from the following list.
 
 - *Indomitable:* This creature gains a +2 bonus to MD.
-
 - *Skin of stone:* This creature takes normal damage from critical hits.  
   In addition, once per battle as a free action, it can take only half  
   damage from an attack that hits.
@@ -93,7 +88,6 @@ abilities.
   until the end of the battle (max: +4)
 
 - *Resist fire 16+*
-
 - *Resist lightning 16+*
 
 All fire elemental beasts have *vulnerability: cold*.
@@ -125,9 +119,7 @@ All elemental beasts with an affinity for water gain the following
 abilities.
 
 - *Fluid motion:* This creature rerolls all natural 2 attack rolls.
-
 - *Resist cold 16+*
-
 - *Resist acid 16+*
 
 All water elemental beasts have *vulnerability: fire*.

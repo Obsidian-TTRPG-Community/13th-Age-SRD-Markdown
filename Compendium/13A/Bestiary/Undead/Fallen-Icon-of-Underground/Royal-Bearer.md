@@ -6,10 +6,11 @@ permalink:
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Type/Caster"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

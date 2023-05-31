@@ -1,15 +1,17 @@
 ---
 aliases: [Demonic Icon-Fanatic]
-created: 
+created: 2023-05-30
 level: 2
+permalink: 
 publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Demonic-Icon-Cult", "13A/Monsters/Type/mook"]
 type: humanoid
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

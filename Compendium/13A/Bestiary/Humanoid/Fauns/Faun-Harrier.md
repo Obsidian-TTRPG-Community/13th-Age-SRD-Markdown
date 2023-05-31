@@ -1,15 +1,17 @@
 ---
 aliases: [Faun Harrier]
-created: 
+created: 2023-05-30
 level: 4
+permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fauns", "13A/Monsters/Type/archer"]
 type: humanoid
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

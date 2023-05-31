@@ -8,7 +8,7 @@ role: troop
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ```statblock

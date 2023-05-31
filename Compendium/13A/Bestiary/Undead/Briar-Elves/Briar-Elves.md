@@ -5,7 +5,7 @@ permalink:
 publish: 
 statblock: inline
 tags: [13A/Monsters/Factions/Briar-Elves]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Environmental Effects

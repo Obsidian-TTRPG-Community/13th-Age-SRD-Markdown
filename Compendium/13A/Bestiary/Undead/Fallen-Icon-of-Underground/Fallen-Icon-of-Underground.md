@@ -1,11 +1,14 @@
 ---
-aliases: []
+aliases: ["Fallen Icons: Underground"]
 created: 2023-05-29
 permalink: 
 publish: 
-tags: []
-updated: 2023-05-29
+tags: [13A/Monsters/Factions/Fallen-Icon-Underground]
+updated: 2023-05-30
 ---
+
+## Fallen Icon of Underground
+
 **First PC campaign victory**: Remove the Fallen Icon’s *eternal kingdom*  
 ability.
 

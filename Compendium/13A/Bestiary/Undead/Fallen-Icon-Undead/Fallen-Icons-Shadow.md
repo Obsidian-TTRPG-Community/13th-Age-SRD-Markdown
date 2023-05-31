@@ -7,10 +7,11 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Troop"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -45,4 +46,3 @@ pd: "26"
 md: "26"
 hp: "800"
 ```
-

@@ -4,7 +4,7 @@ created: 2023-05-27
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Eidolon]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Eidolon Specific Rules
@@ -41,7 +41,6 @@ Eidolons who act in the interests of an icon have unusual weaknesses and strengt
 Eidolons usually go out of their way to reveal any weaknesses they have as part of their ‘test’ of mortals. 
 
 **Magic Icon**—Wizard spells do double damage against the eidolon (crits do triple). Wizard spells used creatively against the eidolon have additional effects depending on the whim of the GM. 
-
 
 **Zealous Icon**—The eidolons’ attacks do double damage against those who have positive relationships with the Demonic Icon and sorcerers with the infernal heritage talent.
 

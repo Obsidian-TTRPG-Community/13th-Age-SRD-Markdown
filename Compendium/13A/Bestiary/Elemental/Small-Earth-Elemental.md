@@ -8,8 +8,9 @@ role: troop
 strength: normal
 tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/Troop"]
 type: elemental
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -37,4 +38,3 @@ pd: "18"
 md: "13"
 hp: "40"
 ```
-

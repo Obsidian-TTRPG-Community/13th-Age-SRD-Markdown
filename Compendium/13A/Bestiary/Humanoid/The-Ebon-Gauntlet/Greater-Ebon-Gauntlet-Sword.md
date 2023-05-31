@@ -1,15 +1,17 @@
 ---
 aliases: [Greater Ebon Gauntlet Sword]
-created: 
+created: 2023-05-30
 level: 7
+permalink: 
 publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/troop"]
 type: humanoid
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -31,4 +33,3 @@ pd: "20"
 md: "20"
 hp: "102"
 ```
-

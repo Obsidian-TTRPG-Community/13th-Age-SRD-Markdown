@@ -8,7 +8,7 @@ role: wrecker
 strength: normal
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/Azer"]
 type: construct
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ```statblock
@@ -43,7 +43,6 @@ pd: "18"
 md: "12"
 hp: "46"
 ```
-
 
 ## Azer
 

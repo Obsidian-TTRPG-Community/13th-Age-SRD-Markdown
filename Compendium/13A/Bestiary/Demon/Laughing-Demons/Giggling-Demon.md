@@ -1,15 +1,17 @@
 ---
 aliases: [Giggling Demon]
-created: 
+created: 2023-05-30
 level: 6
+permalink: 
 publish: 
 role: mook
 statblock: inline
 strength: weakling
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing","13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing", "13A/Monsters/Type/mook"]
 type: demon
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

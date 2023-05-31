@@ -4,7 +4,7 @@ created: 2023-05-24
 permalink: 
 publish: 
 tags: []
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 Each werebeast can take one of three forms as a quick action once per round: A humanoid form, a beast form, or a hybrid form that combines the two. The hybrid form is the most powerful in combat, but the humanoid and beast forms are useful for various activities outside of combat as well.
 

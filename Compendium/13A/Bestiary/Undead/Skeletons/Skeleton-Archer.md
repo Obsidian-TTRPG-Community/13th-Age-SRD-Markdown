@@ -6,10 +6,11 @@ permalink:
 publish: 
 role: archer
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Skeletons", "13A/Monsters/Type/Archer"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -31,4 +32,3 @@ pd: "14"
 md: "11"
 hp: "26"
 ```
-

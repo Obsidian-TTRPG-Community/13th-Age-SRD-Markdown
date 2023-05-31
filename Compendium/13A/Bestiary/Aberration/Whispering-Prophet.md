@@ -6,10 +6,11 @@ permalink:
 publish: 
 role: leader
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Leader", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

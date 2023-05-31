@@ -1,15 +1,17 @@
 ---
 aliases: [Coin Collector Zombie]
-created: 
+created: 2023-05-30
 level: 6
+permalink: 
 publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Coin-Zombies", "13A/Monsters/Type/spoiler"]
 type: undead
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

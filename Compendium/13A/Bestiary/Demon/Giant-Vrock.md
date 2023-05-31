@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: large
-["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Factions/Wendigos",Spoiler"]
+["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Spoiler"]
 type: demon
 updated: 2023-05-29
 ---

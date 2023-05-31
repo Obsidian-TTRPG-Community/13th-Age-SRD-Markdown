@@ -8,8 +8,9 @@ role: mook
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Wendigo"]
 type: humanoid
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

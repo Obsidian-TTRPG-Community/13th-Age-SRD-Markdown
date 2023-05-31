@@ -7,10 +7,11 @@ publish:
 role: wrecker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Wrecker"]
 type: undead
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

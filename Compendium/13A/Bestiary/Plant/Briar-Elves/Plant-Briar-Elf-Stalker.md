@@ -1,15 +1,17 @@
 ---
 aliases: [Plant Briar Elf Striker]
-created: 
+created: 2023-05-30
 level: 8
+permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/archer"]
 type: plant
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

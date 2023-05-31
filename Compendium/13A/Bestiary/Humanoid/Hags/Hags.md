@@ -4,7 +4,7 @@ created: 2023-05-24
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Hags]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 Hags get two of the following abilities, and a single death curse.

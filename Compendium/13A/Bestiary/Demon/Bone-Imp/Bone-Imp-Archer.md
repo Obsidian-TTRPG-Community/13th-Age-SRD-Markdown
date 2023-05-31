@@ -1,15 +1,17 @@
 ---
 aliases: [Bone Imp Archer]
-created: 
+created: 2023-05-30
 level: 3
+permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/archer", "13A/Monsters/Factions/Bone-Imp"]
 type: demon
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -36,4 +38,3 @@ pd: "13"
 md: "17"
 hp: "45"
 ```
-

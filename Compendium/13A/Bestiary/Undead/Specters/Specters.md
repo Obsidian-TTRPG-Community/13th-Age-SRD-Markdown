@@ -4,7 +4,7 @@ created: 2023-05-24
 permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Specter]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Nastier Specials for All Specters

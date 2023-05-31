@@ -1,15 +1,17 @@
 ---
 aliases: [Ebon Gauntlet Inquisitor]
-created: 
+created: 2023-05-30
 level: 7
+permalink: 
 publish: 
 role: leader
 statblock: inline
 strength: 2×
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/leader"]
 type: humanoid
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
@@ -44,4 +46,3 @@ pd: "18"
 md: "21"
 hp: "190"
 ```
-

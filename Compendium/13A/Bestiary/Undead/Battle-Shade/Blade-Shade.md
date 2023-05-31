@@ -1,15 +1,17 @@
 ---
 aliases: [Blade Shade]
-created: 
+created: 2023-05-30
 level: 3
+permalink: 
 publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Battle-Shade", "13A/Monsters/Type/troop"]
 type: undead
-updated: 
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
