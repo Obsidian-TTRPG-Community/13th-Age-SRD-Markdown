@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Treants", "13A/Monsters/Type/Mook"]
 type: plant
 updated: 2023-05-29
 ---
