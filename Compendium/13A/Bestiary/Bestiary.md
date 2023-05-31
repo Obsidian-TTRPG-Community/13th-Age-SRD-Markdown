@@ -454,8 +454,6 @@ updated: 2023-05-29
 			- [[Drow-Spider-Mage]]
 			- [[Drow-Spider-Sorceress]]
 			- [[Drow-Sword-Maiden]]
-		- **Dwarf**
-			- **[[Azer-Humanoid]]**
 		- **Ettercap**
 			- [[Ettercap-Acolyte]]
 			- [[Ettercap-Hunter]]
@@ -466,7 +464,7 @@ updated: 2023-05-29
 			- [[Fanatical-Druid-Circle]]
 			- [[Militant-Ranger-Squad]]
 			- [[Oppurtunistic-Orc-Band]]
-		- **[[Fallen-Icons-of-Undead]]**
+		- **[[Fallen-Icon-of-Undead]]**
 			- [[Jackal-Bearer]]
 			- [[Jackal-Gravewrecker]]
 			- [[Jackal-High-Mage]]

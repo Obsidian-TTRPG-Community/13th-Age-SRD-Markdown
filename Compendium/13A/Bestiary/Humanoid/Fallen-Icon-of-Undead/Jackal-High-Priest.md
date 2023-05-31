@@ -7,7 +7,7 @@ publish:
 role: leader
 statblock: inline
 strength: "2×"
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Leader"]
 type: humanoid
 updated: 2023-05-29
 ---
