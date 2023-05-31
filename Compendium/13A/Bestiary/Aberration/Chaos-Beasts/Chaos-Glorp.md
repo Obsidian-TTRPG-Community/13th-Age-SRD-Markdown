@@ -30,7 +30,7 @@ actions:
             desc: "The chaos glorp pops free from all enemies and moves as a free action to engage a nearby enemy taking ongoing damage."
 traits:
     - name: "Spontaneous chaos"
-      desc: "When the escalation die reaches 6, the chaos glorp rolls a normal save. If it succeeds, it transforms into a chaos beast with full hit points."
+      desc: "When the escalation die reaches 6, the chaos glorp rolls a normal save. If it succeeds, it transforms into a [[Chaos-Beast|chaos beast]] with full hit points."
 ac: "17"
 pd: "16"
 md: "13"
