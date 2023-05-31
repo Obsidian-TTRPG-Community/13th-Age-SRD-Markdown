@@ -27,6 +27,9 @@ actions:
       traits:
           - name: "Natural even hit"
             desc: "Target takes a cumulative –2 penalty to disengage checks until the end of the battle."
+traits:
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "24"
 pd: "18"
 md: "22"

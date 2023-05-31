@@ -34,6 +34,9 @@ actions:
       traits:
           - name: "Limited use"
             desc: "1/day, as a quick action."
+traits:
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "19"
 pd: "14"
 md: "18"

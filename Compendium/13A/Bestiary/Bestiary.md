@@ -241,7 +241,7 @@ updated: 2023-05-30
 		- [[Frenzy-Demon]]
 		- [[Giant-Vrock]]
 		- [[Glabrezou]]
-		- [[Hedzou]]
+		- [[Hezrou]]
 		- [[Hooked-Demon]]
 		- [[Imp]]
 		- **Laughing-Demons**

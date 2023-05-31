@@ -14,7 +14,7 @@ updated: 2023-05-31
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Giggling-Demon"
+name: "Giggling Demon"
 size: "weakling"
 level: "6"
 levelOrdinal: "6th"

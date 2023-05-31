@@ -32,6 +32,8 @@ actions:
 traits:
     - name: "Terrible swift swords"
       desc: "The marilith’s crit range with melee attacks expands by a number equal to the escalation die."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "28"
 pd: "21"
 md: "25"

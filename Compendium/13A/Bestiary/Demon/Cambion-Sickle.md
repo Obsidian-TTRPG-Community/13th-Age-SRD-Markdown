@@ -35,6 +35,8 @@ actions:
 traits:
     - name: "Improved dark step"
       desc: "While cloaked, the cambion sickle automatically succeeds on all disengage checks and gains a +2 bonus to all defences against ranged attacks."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "21"
 pd: "19"
 md: "15"

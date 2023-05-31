@@ -1,5 +1,5 @@
 ---
-aliases: [Hedzou (Toad Demon)]
+aliases: [Hezrou (Toad Demon)]
 created: 2023-05-28
 level: 7
 publish: 
@@ -14,7 +14,7 @@ updated: 2023-05-31
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Hedzou (Toad Demon)"
+name: "Hezrou (Toad Demon)"
 size: "large"
 level: "7"
 levelOrdinal: "7th"
@@ -30,6 +30,8 @@ actions:
 traits:
     - name: "Demonic stench"
       desc: "While engaged with this creature, enemies with 84 hp or fewer are dazed (–4 attack) and do not add the escalation die to their attacks."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 nastier_traits:
     - name: "Abyssal sergeant"
       desc: "Lower-level non-mook demons nearby the hezrou deal damage equal to their level when they miss with an attack."

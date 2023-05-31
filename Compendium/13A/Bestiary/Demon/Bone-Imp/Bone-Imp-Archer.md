@@ -29,6 +29,8 @@ actions:
 traits:
     - name: "Freakish speed"
       desc: "On rounds when the escalation die is odd the imp may move as a quick action once on its turn, flapping its wings madly as it dashes about."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 nastier_traits:
     - name: "Resist magic 13+"
       desc: "This creature has _resist damage 13+_ to all damage from magic sources (even magic weapons). When a magic attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."

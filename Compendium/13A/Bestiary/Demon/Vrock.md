@@ -26,10 +26,13 @@ actions:
       desc: "7 damage, and 5 ongoing poison damage"
       traits:
           - name: "Natural even hit"
-            desc: "The vrock can make a demonic screech attack as a free action."
+            desc: "The vrock can make a _demonic screech_ attack as a free action."
+traits:
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 nastier_traits:
     - name: "Predation"
-      desc: "Creatures hit by the vrock’s demonic screech attack that are already vulnerable are also hampered (save ends)."
+      desc: "Creatures hit by the vrock’s _demonic screech_ attack that are already vulnerable are also hampered (save ends)."
 triggered_actions:
     - name: "C: Demonic screech +11 vs. MD (1d3 nearby enemies)"
       desc: "5 psychic damage, and the target is vulnerable (attacks vs. it have crit range expanded by 2) until the end of the battle"

@@ -26,7 +26,7 @@ actions:
       desc: "30 damage, and 15 ongoing poison damage"
       traits:
           - name: "Natural even hit"
-            desc: "The vrock can make a demonic screech attack as a free action."
+            desc: "The vrock can make a _demonic screech_ attack as a free action."
     - name: "C: Sporeburst +14 vs. PD (all nearby enemies)"
       desc: "30 damage, and 30 ongoing damage; while the target is taking ongoing damage, it is hampered"
       traits:
@@ -34,7 +34,9 @@ actions:
             desc: "1/battle, when the escalation die is 4+."
 traits:
     - name: "Predation"
-      desc: "Creatures hit by the vrock’s demonic screech attack that are already vulnerable are also hampered (save ends)."
+      desc: "Creatures hit by the vrock’s _demonic screech_ attack that are already vulnerable are also hampered (save ends)."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 triggered_actions:
     - name: "C: Demonic screech +14 vs. MD (1d3 nearby enemies)"
       desc: "15 psychic damage, and the target is vulnerable (attacks vs. it have crit range expanded by 2) until the end of the battle"

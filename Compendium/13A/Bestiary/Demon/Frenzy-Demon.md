@@ -27,6 +27,8 @@ actions:
 traits:
     - name: "Raging frenzy"
       desc: "Whenever the frenzy demon misses with a melee attack, it gains a +1 attack bonus and deals +1d4 damage until the end of the battle (maximum bonus +4, +4d4)."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "21"
 pd: "17"
 md: "17"
