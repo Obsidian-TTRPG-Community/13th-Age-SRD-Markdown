@@ -1,10 +1,11 @@
 ---
-aliases: []
+aliases: [Werebeasts]
 created: 2023-05-24
 publish: 
-tags: []
-updated: 2023-05-30
+tags: [13A/Monsters/Factions/Werebeasts]
+updated: 2023-05-31
 ---
+
 Each werebeast can take one of three forms as a quick action once per round: A humanoid form, a beast form, or a hybrid form that combines the two. The hybrid form is the most powerful in combat, but the humanoid and beast forms are useful for various activities outside of combat as well.
 
 The stats below work for the beast and hybrid forms. If a werebeast ends up fighting in humanoid form, subtract 2 from all its defences and halve its normal attack damage.

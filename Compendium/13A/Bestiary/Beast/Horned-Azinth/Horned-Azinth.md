@@ -3,8 +3,10 @@ aliases: [Horned Azinth]
 created: 2023-05-28
 publish: 
 tags: [13A/Monsters/Factions/Horned-Azinth]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
+
+## Horned Azinth 
 
 Due to the horned azinth’s ability to move about undetected, it’s likely that the adventurers are going to run into trouble with them by accidentally wandering into the midst of a herd. If that happens, the horned azinth will ambush the heroes. Use this variant on the standard ambush and surprise rules.
 

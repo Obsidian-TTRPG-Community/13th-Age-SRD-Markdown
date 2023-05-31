@@ -4,10 +4,11 @@ created: 2023-05-24
 level: 8
 publish: 
 role: Wrecker
+statblock: inline
 strength: Large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Chimeras", "13A/Monsters/Type/Wrecker"]
 type: Beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

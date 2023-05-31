@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 6
 publish: 
 role: troop
+statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

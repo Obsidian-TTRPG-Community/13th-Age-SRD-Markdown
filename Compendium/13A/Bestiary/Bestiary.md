@@ -96,7 +96,7 @@ updated: 2023-05-30
 		- **[[Couatls]]**
 			- [[Couatl]]
 			- [[Elder-Couatl]]
-		- **[[Drow-Beasts]]**
+		- **[[Compendium/13A/Bestiary/Beast/Drow-Beasts/Drow]]**
 			- [[Lokkris]]
 			- [[Spider-Mount]]
 		- **[[Elemental-Beasts]]**
@@ -147,9 +147,9 @@ updated: 2023-05-30
 		- [[Owlbear]]
 		- [[Phase-Spider]]
 		- **[[Purple-Worm]]**
-			- [[Ancient-Purple-Worm]]
-			- [[Parasitic-Lightning-Beetle]]
-			- [[Purple-Larva]]
+			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Ancient-Purple-Worm]]
+			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Parasitic-Lightning-Beetle]]
+			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Purple-Larva]]
 		- **Remorhaz**
 			- [[Adult-Remorhaz]]
 			- [[Barbellite]]
@@ -445,7 +445,7 @@ updated: 2023-05-30
 		- **[[Derro]]**
 			- [[Derro-Maniac]]
 			- [[Derro-Sage]]
-		- **[[Drow]]**
+		- **[[Compendium/13A/Bestiary/Humanoid/Drow/Drow]]**
 			- [[Drow-Cavalry]]
 			- [[Drow-Darkbolt]]
 			- [[Drow-Soldier]]
