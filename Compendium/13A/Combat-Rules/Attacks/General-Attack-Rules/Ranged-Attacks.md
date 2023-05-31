@@ -1,10 +1,9 @@
 ---
 aliases: [Ranged Attacks]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Attacks/General/Ranged]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Ranged Attacks

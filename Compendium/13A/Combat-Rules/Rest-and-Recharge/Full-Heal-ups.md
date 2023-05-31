@@ -1,10 +1,9 @@
 ---
 aliases: [Full Heal-ups]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Rest/Heal-Ups]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Full Heal-ups

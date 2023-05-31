@@ -1,10 +1,9 @@
 ---
 aliases: [General Attack Rules]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Attacks/General]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## General Attack Rules
@@ -20,6 +19,4 @@ When you use an attack, you declare which attack you are using and pick its targ
 	- [[Target-Hit-Points]]
 
 %% End Waypoint %%
-
-
 

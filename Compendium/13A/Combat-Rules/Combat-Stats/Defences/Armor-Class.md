@@ -1,10 +1,9 @@
 ---
 aliases: [Armor Class, AC]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Stats/Defences/AC]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Armor Class (AC)

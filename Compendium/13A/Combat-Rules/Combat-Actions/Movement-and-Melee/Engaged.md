@@ -1,10 +1,9 @@
 ---
 aliases: [Engaged]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Movement/Engaged]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Engaged
@@ -21,5 +20,5 @@ Unengaged creatures have no particular limits on how they move. They can’t use
 | Your spells draw opportunity attacks (except close-quarters spells)                              | You can cast spells freely                                                                         |
 | You can disengage safely as a move action by making a normal save (11+)                          | You can engage enemies by moving into melee with them                                              |
 | You can’t intercept enemies                                                                      | You can engage an enemy moving past you                                                            |
-| You’re considered nearby other combatants by default                                             | You’re considered nearby other combatants by default, but you can usually move faraway if you want |    
+| You’re considered nearby other combatants by default                                             | You’re considered nearby other combatants by default, but you can usually move faraway if you want |      
 ^13A-Combat-Engaged

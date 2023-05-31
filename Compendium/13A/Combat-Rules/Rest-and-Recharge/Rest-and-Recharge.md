@@ -1,10 +1,9 @@
 ---
 aliases: [Rest-and-Recharge]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Rest]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Rest and Recharge

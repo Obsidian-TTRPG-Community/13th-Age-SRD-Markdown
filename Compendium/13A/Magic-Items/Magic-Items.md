@@ -15,13 +15,11 @@ There are two types of magic item.
 
 ### Map of Contents
 
-%% Begin Waypoint %%
-- **[[Magic-Items]]**
-	- [[Artifacts]]
-	- [[Chakras]]
-	- [[Magic-Item-Basics]]
-	- **[[Magic-Item-Descriptions]]**
-	- [[One-Use-Items]]
-	- [[True-Magic-Items]]
+- **[[Compendium/13A/Magic-Items/Magic-Items|Magic Items]]**
+	- [[Compendium/13A/Magic-Items/Artifacts|Artifacts]]
+	- [[Compendium/13A/Magic-Items/Chakras|Chakras]]
+	- [[Compendium/13A/Magic-Items/Magic-Item-Basics|Magic Item Basics]]
+	- **[[Compendium/13A/Magic-Items/Magic-Item-Descriptions/Magic-Item-Descriptions|Magic Item Descriptions]]**
+	- [[Compendium/13A/Magic-Items/One-Use-Items|One Use Items]]
+	- [[Compendium/13A/Magic-Items/True-Magic-Items|True Magic Items]]
 
-%% End Waypoint %%

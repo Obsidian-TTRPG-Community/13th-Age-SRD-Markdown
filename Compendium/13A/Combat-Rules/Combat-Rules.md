@@ -1,10 +1,9 @@
 ---
 aliases: ["Combat Rules"]
 created: 2023-05-07
-permalink: 
 publish: 
 tags: [13A/Combat/Rules]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Combat Rules

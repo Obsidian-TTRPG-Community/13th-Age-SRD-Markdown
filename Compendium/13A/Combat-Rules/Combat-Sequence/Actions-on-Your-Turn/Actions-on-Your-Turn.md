@@ -1,10 +1,9 @@
 ---
 aliases: [Actions on Your Turn]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Sequence/Actions]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Actions on Your Turn

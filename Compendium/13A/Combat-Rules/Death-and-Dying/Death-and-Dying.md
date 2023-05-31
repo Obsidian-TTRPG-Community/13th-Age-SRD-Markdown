@@ -1,10 +1,9 @@
 ---
 aliases: [Death-and-Dying]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Death]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Death and Dying
@@ -22,6 +21,4 @@ If one of your allies is unconscious and you don’t have magic to heal them, yo
 A stabilized character is still unconscious, rolling death saves on their turn, but failed death saves no longer take them a step closer to death. Ignore failed death saves while stabilized.
 
 Feeding a dying character a healing potion gets them conscious and back on their feet, but always takes a standard action.
-
-
 

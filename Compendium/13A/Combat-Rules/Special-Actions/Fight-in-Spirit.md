@@ -1,10 +1,9 @@
 ---
 aliases: [Fight in Spirit]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Special-Actions/Fight]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Fight in Spirit

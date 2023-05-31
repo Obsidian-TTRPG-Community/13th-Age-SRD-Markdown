@@ -1,10 +1,9 @@
 ---
 aliases: [Shooting into Melee]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Modifiers/Shooting]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Shooting into Melee

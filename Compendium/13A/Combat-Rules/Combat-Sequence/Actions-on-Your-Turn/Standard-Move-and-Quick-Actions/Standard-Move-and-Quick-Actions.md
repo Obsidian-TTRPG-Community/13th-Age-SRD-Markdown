@@ -1,10 +1,9 @@
 ---
 aliases: [Standard Action, Move Action, Quick Action, "Standard, Move, and Quick Actions"]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Sequence/Actions/Standard]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Standard, Move, and Quick Actions

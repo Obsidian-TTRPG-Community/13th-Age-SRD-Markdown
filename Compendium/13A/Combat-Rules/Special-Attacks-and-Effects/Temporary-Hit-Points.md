@@ -1,10 +1,9 @@
 ---
 aliases: [Temporary Hit Points]
 created: 2023-05-13
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Special-Attacks/Temp-Hit-Points]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Temporary Hit Points

@@ -1,5 +1,5 @@
 ---
-aliases: [Magic-Item-Descriptions]
+aliases: [Magic Item Descriptions]
 created: 2023-02-07
 permalink: 
 publish: 

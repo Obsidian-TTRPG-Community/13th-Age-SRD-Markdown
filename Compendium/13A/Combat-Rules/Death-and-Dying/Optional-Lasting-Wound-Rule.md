@@ -1,10 +1,9 @@
 ---
 aliases: ["Optional Lasting Wound Rule"]
 created: 2023-05-14
-permalink: 
 publish: 
 tags: [13A/Combat/Rules/Death/Lasting-Wound]
-updated: 2023-05-29
+updated: 2023-05-30
 ---
 
 ## Optional Lasting-Wound Rule
