@@ -3,8 +3,10 @@ aliases: [Fungaloid]
 created: 2023-05-23
 publish: 
 tags: [13A/Monsters/Factions/Fungaloid]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
+
+## Fungaloid Specials
 
 Some fungaloids can make special attacks. For those, add the fungaloid creature’s level to attacks and damage, as indicated.
 

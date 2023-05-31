@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 14
 publish: 
 role: wrecker
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: devil
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

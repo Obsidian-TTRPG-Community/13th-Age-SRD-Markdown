@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
 type: Humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

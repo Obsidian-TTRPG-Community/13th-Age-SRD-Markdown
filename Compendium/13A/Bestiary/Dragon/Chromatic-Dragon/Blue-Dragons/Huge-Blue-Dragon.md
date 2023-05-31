@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 12
 publish: 
 role: caster
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Blue", "13A/Monsters/Type/Caster"]
 type: dragon
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

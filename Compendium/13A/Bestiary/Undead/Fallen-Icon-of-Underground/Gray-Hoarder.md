@@ -4,10 +4,11 @@ created: 2023-05-29
 level: 3
 publish: 
 role: wrecker
+statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Type/Wrecker"]
 type: undead
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

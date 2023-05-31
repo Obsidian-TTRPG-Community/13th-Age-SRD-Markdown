@@ -24,9 +24,9 @@ You did not ask for it, but here it is. The **[13th Age](https://pelgranepress.c
 
 **[Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks)**  
 
-This plugin makes statblocks go from simple tables in the SRD, to fabulous interactive codeblocks. 
+This plugin makes statblocks go from simple tables in the SRD, to fabulous interactive codeblocks.  Check out the 13th Age Layout **[included within the Plugin](https://plugins.javalent.com/statblock/layouts/integrated/13a-monster)**.
 
-Check out the 13th Age Layout **[included within the Plugin](https://plugins.javalent.com/statblock/layouts/integrated/13a-monster)**.
+> **Important**: We recommend you enable the `Parse Frontmatter for Creatures` setting for maximum benefit. This will keep your bestiary up-to-date as changes are made. 
 
 #### Optional
 

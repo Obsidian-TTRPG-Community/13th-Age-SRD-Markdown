@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 9
 publish: 
 role: blocker
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Type/Blocker"]
 type: elemental
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 6
 publish: 
 role: wrecker
+statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Wrecker"]
 type: plant
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 7
 publish: 
 role: spoiler
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Spoiler"]
 type: devil
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

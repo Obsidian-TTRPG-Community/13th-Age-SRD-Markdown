@@ -3,7 +3,7 @@ aliases: [Ghosts]
 created: 2023-05-28
 publish: 
 tags: [13A/Monsters/Factions/Ghosts]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## Abilities for Most Ghosts

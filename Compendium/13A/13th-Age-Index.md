@@ -15,12 +15,12 @@ updated: +002023-04-30 1238
 
 ### Table of Contents
 
-1. [13th Age SRD Map of Contents](../..//13thAgeShare/Map-of-Contents.md)
-2. [13th Age Legal Notice](LICENSE.md)
-	1. [Product Identity](LICENSE.md#Product%20Identity)
-	2. [Open Content](LICENSE.md#Open%20Content)
-	3. [Open Game License](LICENSE.md#Open%20Game%20License)
-	4. [*13th Age* Archmage Engine](LICENSE.md#*13th%20Age*%20Archmage%20Engine)
+1. [[../..//13thAgeShare/Map-of-Contents.md|13th Age SRD Map of Contents]]
+2. [[LICENSE.md|13th Age Legal Notice]]
+	1. [[LICENSE.md#Product Identity|Product Identity]]
+	2. [[LICENSE.md#Open Content|Open Content]]
+	3. [[LICENSE.md#Open Game License|Open Game License]]
+	4. [[LICENSE.md#*13th Age* Archmage Engine|*13th Age* Archmage Engine]]
 3. [Icons](Compendium/13A/Icons/Icons.md) 
 4. [Character Rules](Compendium/13A/Character-Rules/Character-Rules.md)
 	1. [Race](Compendium/13A/Character-Rules/Race.md)
@@ -28,9 +28,9 @@ updated: +002023-04-30 1238
 	3. [Abilities](Compendium/13A/Character-Rules/Abilities.md)
 	4. [Combat Stats](Compendium/13A/Character-Rules/Combat-Stats.md)
 	5. [One Unique Thing](Compendium/13A/Character-Rules/One-Unique-Thing.md)
-	6. [Icon Relationships](Compendium/13A/Character-Rules/Icon-Relationships.md)
-	7. [Backgrounds and Skill Checks](Compendium/13A/Character-Rules/Backgrounds-and-Skill-Checks.md)
-	8. [Feats](Compendium/13A/Character-Rules/Feats/Feats.md)
+	6. [[Compendium/13A/Character-Rules/Icon-Relationships.md|Icon Relationships]]
+	7. [[Compendium/13A/Character-Rules/Backgrounds-and-Skill-Checks.md|Backgrounds and Skill Checks]]
+	8. [[Compendium/13A/Character-Rules/Feats/Feats.md|Feats]]
 	9. [Gear](Compendium/13A/Character-Rules/Gear/Gear.md)
 5. [Races](Compendium/13A/Races/Races.md)
 	1. [Human](Compendium/13A/Races/Human.md)

@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/wrecker"]
 type: humanoid
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

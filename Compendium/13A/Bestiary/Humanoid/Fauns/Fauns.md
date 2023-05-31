@@ -3,7 +3,7 @@ aliases: [Fauns]
 created: 2023-05-29
 publish: 
 tags: [13A/Monsters/Factions/Fauns]
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ## Ability for All Fauns - Destiny

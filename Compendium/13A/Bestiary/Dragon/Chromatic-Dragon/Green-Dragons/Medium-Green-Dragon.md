@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 4
 publish: 
 role: spoiler
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Green", "13A/Monsters/Type/Spoiler"]
 type: dragon
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

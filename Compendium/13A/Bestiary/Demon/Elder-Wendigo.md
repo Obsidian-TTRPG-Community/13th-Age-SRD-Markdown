@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 9
 publish: 
 role: spoiler
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Wendigo", "13A/Monsters/Type/Spoiler"]
 type: demon
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

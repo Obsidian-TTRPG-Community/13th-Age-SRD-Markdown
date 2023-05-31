@@ -212,7 +212,7 @@ Once per battle, reroll an attack that was meant to trigger a battle cry but did
 
 #### Jack of Spells
 
-Choose another spell-casting character class. You can choose one spell from the spell list (but not the talent list) of that class, of your own level or lower, as an extra spell you know how to cast. You can even take its [[Compendium/13A/Character-Rules/Feats/Feats|feats]] up to your tier, if it has any. You may only choose from the spell list—not from talents.
+Choose another spell-casting character class. You can choose one spell from the spell list (but not the feature or talent list) of that class, of your own level or lower, as an extra spell you know how to cast. You can even take its [[Compendium/13A/Character-Rules/Feats/Feats|feats]] up to your tier, if it has any. You may only choose from the spell list—not from talents or features.
 
 This spell is a bonus spell, not included in your bard class count.
 
