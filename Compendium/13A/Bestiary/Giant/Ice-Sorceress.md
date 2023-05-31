@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
 type: giant
 updated: 2023-05-29
 ---

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: archer
 strength: huge
-tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Archer"]
 type: giant
 updated: 2023-05-29
 ---
@@ -56,4 +56,3 @@ pd: "24"
 md: "22"
 hp: "650"
 ```
-

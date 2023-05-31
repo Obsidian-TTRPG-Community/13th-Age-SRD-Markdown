@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: blocker
 strength: large
-tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Ogres", "13A/Monsters/Type/Blocker"]
 type: giant
 updated: 2023-05-29
 ---
@@ -41,4 +41,3 @@ pd: "16"
 md: "14"
 hp: "100"
 ```
-

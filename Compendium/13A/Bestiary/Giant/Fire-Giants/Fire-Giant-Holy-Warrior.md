@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Fire-Giant", "13A/Monsters/Type/Troop"]
 type: giant
 updated: 2023-05-29
 ---
@@ -42,4 +42,3 @@ pd: "21"
 md: "18"
 hp: "190"
 ```
-

@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: large
-tags: ["13A/Bestiary/Giant", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Ogres", "13A/Monsters/Type/Mook"]
 type: giant
 updated: 2023-05-29
 ---
