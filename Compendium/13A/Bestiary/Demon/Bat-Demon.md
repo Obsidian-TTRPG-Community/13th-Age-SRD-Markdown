@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/mook"]
+["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Factions/Wendigos",mook"]
 type: demon
 updated: 
 ---
@@ -38,4 +38,3 @@ pd: "19"
 md: "16"
 hp: "22"
 ```
-

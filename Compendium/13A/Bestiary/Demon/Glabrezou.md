@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Caster"]
+["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Factions/Wendigos",Caster"]
 type: demon
 updated: 2023-05-29
 ---

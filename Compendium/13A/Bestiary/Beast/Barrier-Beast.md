@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: beast
 updated: 2023-05-29
 ---

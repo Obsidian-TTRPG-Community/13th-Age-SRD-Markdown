@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing","13A/Monsters/Type/leader"]
 type: demon
 updated: 
 ---
@@ -35,4 +35,3 @@ pd: "16"
 md: "20"
 hp: "90"
 ```
-

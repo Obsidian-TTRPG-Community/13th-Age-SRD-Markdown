@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: humanoid
 updated: 2023-05-29
 ---

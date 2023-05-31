@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: weakling
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing","13A/Monsters/Type/mook"]
 type: demon
 updated: 
 ---
@@ -36,4 +36,3 @@ pd: "13"
 md: "17"
 hp: "11"
 ```
-

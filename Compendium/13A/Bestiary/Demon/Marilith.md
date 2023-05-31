@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: troop
 strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Troop"]
+["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Factions/Wendigos",Troop"]
 type: demon
 updated: 2023-05-29
 ---
@@ -36,4 +36,3 @@ pd: "21"
 md: "25"
 hp: "666"
 ```
-

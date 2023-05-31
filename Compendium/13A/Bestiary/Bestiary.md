@@ -60,6 +60,7 @@ updated: 2023-05-29
 			- [[Xombie-Egg-Swarm]]
 			- [[Xombie-Spiders]]
 		- [[Whispering-Prophet]]
+	- [[Azer-Fire-Bat]]
 	- **Beast**
 		- **[[Animal-Critter]]**
 			- [[Bat-Cavalry]]
@@ -82,12 +83,9 @@ updated: 2023-05-29
 			- [[Wolf]]
 			- [[Wraith-Bat]]
 		- [[Ankheg]]
-		- **[[Azer-Beast]]**
-			- [[Azer-Fire-Bat]]
+		- [[Barrier-Beast]]
 		- [[Basilisk]]
-		- [[Beast Gauntlets Mascot]]
-		- **Beast-Nature-Fallen-Icon**
-			- [[Frenzied-Wolf-Pack]]
+		- [[Beast-Gauntlets-Mascot]]
 		- **Bulettes**
 			- [[Bulette]]
 			- [[Deep-Bulette]]
@@ -100,16 +98,13 @@ updated: 2023-05-29
 		- **[[Couatls]]**
 			- [[Couatl]]
 			- [[Elder-Couatl]]
-		- **Drow-Beast**
-			- [[Weaver-Swarm]]
 		- **[[Elemental-Beasts]]**
 			- [[Badger]]
 			- [[Giant-Bird-of-Prey]]
 			- [[Great-Cat]]
 			- [[Rat-Swarm]]
 			- [[Venomous-Snake]]
-		- **Frogfolk-Beasts**
-			- [[Mutant-Bullfrog]]
+		- [[Frenzied-Wolf-Pack]]
 		- **Hellbugs**
 			- [[Boombug]]
 			- [[Hellwasp]]
@@ -139,6 +134,7 @@ updated: 2023-05-29
 			- [[Manticore-Bard]]
 			- [[Manticore]]
 			- [[Mantikumhar]]
+		- [[Mutant-Bullfrog]]
 		- **[[Nagas]]**
 			- [[Elder-Manafang-Naga]]
 			- [[Elder-Sparkscale-Naga]]
@@ -173,6 +169,7 @@ updated: 2023-05-29
 			- [[Stalker]]
 			- [[Trihorn]]
 			- [[Tyrant-Lizard]]
+		- [[Weaver-Swarm]]
 		- **[[Werebeasts]]**
 			- [[Werebear]]
 			- [[Wereboar]]
@@ -181,13 +178,10 @@ updated: 2023-05-29
 			- [[Werewolf]]
 		- [[Wyvern]]
 	- **Construct**
-		- **[[Azer-Constructs]]**
-			- [[Magma-Brute]]
 		- **[[Construct-Underground-Fallen-Icon]]**
 			- [[Bronze-Errant]]
 			- [[Bronze-Kingsguard]]
-		- **Fire-Giant-Constructs**
-			- [[Forge-Wolf]]
+		- [[Forge-Wolf]]
 		- [[Gargoyle]]
 		- **Golem**
 			- [[Bronze-Golem]]
@@ -201,6 +195,7 @@ updated: 2023-05-29
 			- [[Hallowed-Gargoyle]]
 			- [[Temple-Lion]]
 		- [[Hellstone-Gargoyle]]
+		- [[Magma-Brute]]
 		- **Spell-Golems**
 			- [[Spell-Golem-Mage-Hunter]]
 			- [[Spell-Golem-Warder]]
@@ -234,12 +229,13 @@ updated: 2023-05-29
 		- [[Cambion-Katar]]
 		- [[Cambion-Sickle]]
 		- [[Corpse-Dybbuk]]
+		- [[Demon-Gauntlets-Mascot]]
 		- [[Despoiler-Mage]]
 		- [[Despoiler]]
 		- [[Dretch]]
+		- [[Elder-Wendigo]]
 		- [[Ethereal-Dybbuk]]
 		- [[Frenzy-Demon]]
-		- [[Gauntlets-Demon-Mascot]]
 		- [[Giant-Vrock]]
 		- [[Glabrezou]]
 		- [[Hedzou]]
@@ -254,8 +250,6 @@ updated: 2023-05-29
 		- [[Parasitic-Dybbuk]]
 		- [[Rust-Monster-Obliterator]]
 		- [[Vrock]]
-		- **Wendigo**
-			- [[Elder-Wendigo]]
 	- **[[Devil]]**
 		- [[Barbed-Devil]]
 		- [[Bearded-Devil]]
@@ -430,6 +424,7 @@ updated: 2023-05-29
 		- [[Troll]]
 		- [[Winter-Beast]]
 	- **Humanoid**
+		- [[Beast-Gauntlets-Mascot 1 1]]
 		- **[[Briar-Elves]]**
 			- [[Briar-Elf-Assassin]]
 			- [[Briar-Elf-Slayer]]
@@ -468,7 +463,6 @@ updated: 2023-05-29
 			- [[Ettercap-Supplicant]]
 			- [[Ettercap-Warrior]]
 		- **Fallen-Icon-of-Nature**
-			- [[Barrier-Beast]]
 			- [[Fanatical-Druid-Circle]]
 			- [[Militant-Ranger-Squad]]
 			- [[Oppurtunistic-Orc-Band]]
