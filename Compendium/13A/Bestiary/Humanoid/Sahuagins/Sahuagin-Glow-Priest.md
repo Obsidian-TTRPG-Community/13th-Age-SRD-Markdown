@@ -6,7 +6,7 @@ permalink:
 publish: 
 role: caster
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/Sahuagins"]
 type: humanoid
 updated: 2023-05-29
 ---

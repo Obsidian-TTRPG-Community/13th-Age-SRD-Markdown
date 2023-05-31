@@ -594,10 +594,11 @@ updated: 2023-05-29
 			- [[Crustycap]]
 			- [[Redcap]]
 			- [[Splotchcap]]
-		- **[[Sahuagin]]**
+		- **Sahuagins**
 			- [[Sahuagin-Glow-Priest]]
 			- [[Sahuagin-Mutant]]
 			- [[Sahuagin-Raider]]
+			- [[Sahuagin]]
 		- **The-Ebon-Gauntlet**
 			- [[Ebon-Gauntlet-Adjudicator]]
 			- [[Ebon-Gauntlet-Eye]]
