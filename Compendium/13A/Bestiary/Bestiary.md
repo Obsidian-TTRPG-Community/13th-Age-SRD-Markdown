@@ -234,10 +234,6 @@ updated: 2023-05-29
 		- [[Cambion-Katar]]
 		- [[Cambion-Sickle]]
 		- [[Corpse-Dybbuk]]
-		- **Demonic-Icon-Cult**
-			- [[Demoni-Icon-Priest]]
-			- [[Demonic-Icon-Fanatic]]
-			- [[Demonic-Icon-Wizard]]
 		- [[Despoiler-Mage]]
 		- [[Despoiler]]
 		- [[Dretch]]
@@ -446,6 +442,10 @@ updated: 2023-05-29
 			- [[Centaur-Lancer]]
 			- [[Centaur-Raider]]
 			- [[Centaur-Ranger]]
+		- **Demonic-Icon-Cult**
+			- [[Demoni-Icon-Priest]]
+			- [[Demonic-Icon-Fanatic]]
+			- [[Demonic-Icon-Wizard]]
 		- **[[Derro]]**
 			- [[Derro-Maniac]]
 			- [[Derro-Sage]]
