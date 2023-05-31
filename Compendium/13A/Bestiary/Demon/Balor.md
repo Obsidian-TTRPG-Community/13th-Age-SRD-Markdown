@@ -5,7 +5,7 @@ level: 13
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: demon
 updated: 2023-05-30
 ---

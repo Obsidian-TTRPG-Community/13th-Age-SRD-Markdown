@@ -5,7 +5,7 @@ level: 7
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Faction/Devil-Fang", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Spoiler"]
 type: devil
 updated: 2023-05-30
 ---

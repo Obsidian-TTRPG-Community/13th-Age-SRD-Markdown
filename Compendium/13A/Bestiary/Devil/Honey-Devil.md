@@ -5,7 +5,7 @@ level: 4
 publish: 
 role: troop
 strength: weakling 
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Faction/None", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: Devil
 updated: 2023-05-30
 ---

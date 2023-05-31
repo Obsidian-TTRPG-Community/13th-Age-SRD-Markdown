@@ -5,7 +5,7 @@ level: 4
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chaos-Beasts", "13A/Monsters/Type/Spoiler"]
 type: aberration
 updated: 2023-05-30
 ---

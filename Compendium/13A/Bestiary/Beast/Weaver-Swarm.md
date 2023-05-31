@@ -5,7 +5,7 @@ level: 3
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook", "13A/Factions/Drow"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Drow/Drow"]
 type: beast
 updated: 2023-05-30
 ---

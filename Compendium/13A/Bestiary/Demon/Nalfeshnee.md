@@ -5,7 +5,7 @@ level: 10
 publish: 
 role: caster
 strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Faction/None", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
 type: demon
 updated: 2023-05-30
 ---
