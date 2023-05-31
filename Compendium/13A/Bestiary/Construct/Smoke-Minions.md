@@ -18,6 +18,7 @@ size: "normal"
 level: "12"
 levelOrdinal: "12th"
 role: "mook"
+mook: "yes"
 type: "construct"
 initiative: "13"
 actions:

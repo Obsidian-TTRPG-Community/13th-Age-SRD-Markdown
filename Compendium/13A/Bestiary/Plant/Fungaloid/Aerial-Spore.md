@@ -19,6 +19,7 @@ size: "normal"
 level: "2"
 levelOrdinal: "2nd"
 role: "mook"
+mook: "yes"
 type: "plant"
 initiative: "1"
 actions:

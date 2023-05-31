@@ -19,6 +19,7 @@ size: "normal"
 level: "10"
 levelOrdinal: "10th"
 role: "mook"
+mook: "yes"
 type: "undead"
 initiative: "15"
 actions:

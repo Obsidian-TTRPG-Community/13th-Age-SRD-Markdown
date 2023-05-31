@@ -19,6 +19,7 @@ size: "normal"
 level: "5"
 levelOrdinal: "5th"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "8 (+6 when physically carrying a corpse)"
 actions:

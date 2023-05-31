@@ -18,6 +18,7 @@ size: "normal"
 level: "1"
 levelOrdinal: "1st"
 role: "mook"
+mook: "yes"
 type: "construct"
 initiative: "1"
 actions:

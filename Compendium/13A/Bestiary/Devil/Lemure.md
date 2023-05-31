@@ -19,6 +19,7 @@ size: "normal"
 level: "3"
 levelOrdinal: "3rd"
 role: "mook"
+mook: "yes"
 type: "devil"
 initiative: "3"
 actions:

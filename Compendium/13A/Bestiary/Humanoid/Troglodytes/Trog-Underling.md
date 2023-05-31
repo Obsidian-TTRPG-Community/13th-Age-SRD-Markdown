@@ -19,6 +19,7 @@ size: "normal"
 level: "8"
 levelOrdinal: "8th"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "10"
 actions:

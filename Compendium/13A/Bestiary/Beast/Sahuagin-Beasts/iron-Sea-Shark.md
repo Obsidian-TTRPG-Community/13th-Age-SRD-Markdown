@@ -19,6 +19,7 @@ size: "2×"
 level: "5"
 levelOrdinal: "5th"
 role: "mook"
+mook: "yes"
 type: "beast"
 initiative: "6"
 actions:

@@ -19,6 +19,7 @@ size: "normal"
 level: "6"
 levelOrdinal: "6th"
 role: "mook"
+mook: "yes"
 type: "demon"
 initiative: "14"
 actions:

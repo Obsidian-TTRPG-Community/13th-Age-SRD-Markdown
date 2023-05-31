@@ -19,6 +19,7 @@ size: "normal"
 level: "4"
 levelOrdinal: "4th"
 role: "mook"
+mook: "yes"
 type: "aberration"
 initiative: "5"
 actions:

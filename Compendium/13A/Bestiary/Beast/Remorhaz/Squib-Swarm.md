@@ -19,6 +19,7 @@ size: "normal"
 level: "0"
 levelOrdinal: "0th"
 role: "mook"
+mook: "yes"
 type: "beast"
 initiative: "0"
 actions:

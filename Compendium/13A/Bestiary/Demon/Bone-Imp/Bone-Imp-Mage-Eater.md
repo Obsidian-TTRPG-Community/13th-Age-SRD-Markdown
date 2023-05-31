@@ -19,6 +19,7 @@ size: "weakling"
 level: "2"
 levelOrdinal: "2nd"
 role: "mook"
+mook: "yes"
 type: "demon"
 initiative: "10"
 actions:

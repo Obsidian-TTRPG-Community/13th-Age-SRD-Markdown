@@ -19,6 +19,7 @@ size: "normal"
 level: "4"
 levelOrdinal: "4th"
 role: "mook"
+mook: "yes"
 type: "plant"
 initiative: "7 (keeps same initiative if created by a dying kelpling)"
 actions:

@@ -19,6 +19,7 @@ size: "normal"
 level: "1"
 levelOrdinal: "1st"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "2"
 actions:
