@@ -4,10 +4,11 @@ created: 2023-05-23
 level: 3
 publish: 
 role: troop
+statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

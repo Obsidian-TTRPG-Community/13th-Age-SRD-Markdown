@@ -4,10 +4,11 @@ created: 2023-05-28
 level: 2
 publish: 
 role: spoiler
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Hellbugs", "13A/Monsters/Type/Spoiler"]
 type: beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

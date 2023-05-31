@@ -8,7 +8,7 @@ statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Type/Leader"]
 type: beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

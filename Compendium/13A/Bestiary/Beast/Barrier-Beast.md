@@ -4,10 +4,11 @@ created: 2023-05-29
 level: 11
 publish: 
 role: spoiler
+statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock

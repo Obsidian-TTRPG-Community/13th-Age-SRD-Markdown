@@ -4,10 +4,11 @@ created: 2023-05-29
 level: 1
 publish: 
 role: spoiler
+statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Spoiler"]
 type: beast
-updated: 2023-05-30
+updated: 2023-05-31
 ---
 
 ```statblock
