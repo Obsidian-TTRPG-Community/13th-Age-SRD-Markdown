@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/caster"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/caster"]
 type: humanoid
 updated: 
 ---
@@ -57,4 +57,3 @@ pd: "24"
 md: "22"
 hp: "220"
 ```
-

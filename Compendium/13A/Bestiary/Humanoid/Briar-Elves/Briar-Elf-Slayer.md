@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/troop"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/troop"]
 type: humanoid
 updated: 
 ---
@@ -52,4 +52,3 @@ pd: "20"
 md: "18"
 hp: "100"
 ```
-
