@@ -11,7 +11,7 @@ updated: 2023-05-29
 
 **Adventurer Tier**
 
-You get additional hit points equal to half your baseline class hit points (rounded down).
+You get additional [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]] equal to half your baseline [[Compendium/13A/Character-Rules/Class|class]] [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]] (rounded down).
 
 At 5th level, the total hp bonus increases to your baseline hp value.
 

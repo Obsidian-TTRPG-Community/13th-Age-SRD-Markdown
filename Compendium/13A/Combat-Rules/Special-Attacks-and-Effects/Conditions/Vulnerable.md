@@ -8,4 +8,4 @@ updated: 2023-05-30
 
 ## Vulnerable
 
-Attacks against you have their crit range expanded by 2 (normally 18+).
+[[Compendium/13A/Combat-Rules/Attacks/Attacks|Attacks]] against you have their [[Compendium/13A/Combat-Rules/Attacks/Crits/Crit-Range|crit range]] expanded by 2 (normally 18+).

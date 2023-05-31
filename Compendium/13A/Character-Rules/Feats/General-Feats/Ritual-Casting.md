@@ -11,6 +11,6 @@ updated: 2023-05-29
 
 **Adventurer Tier**
 
-You can cast any spells you know as rituals. Classes that are already ritual casters (Cleric, Wizard) don’t need this feat.
+You can cast any spells you know as [[Compendium/13A/Running-the-Game/Rituals|rituals]]. Classes that are already ritual casters ([[Compendium/13A/Classes/Cleric|Cleric]], [[Compendium/13A/Classes/Wizard|Wizard]]) don’t need this feat.
 
-(See **Rituals** for ritual casting rules.)
+(See **[[Compendium/13A/Running-the-Game/Rituals|Rituals]]** for ritual casting rules.)

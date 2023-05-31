@@ -10,7 +10,7 @@ updated: 2023-05-30
 
 Combat is played with various sided dice. You make attack rolls against defence numbers and deal damage against [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]].
 
-## Map of Contents
+## Index
 
 %% Begin Waypoint %%
 - **[[Combat-Rules]]**
@@ -40,12 +40,6 @@ Combat is played with various sided dice. You make attack rolls against defence 
 				- [[Dicey-Moves]]
 			- [[Targeting]]
 		- **[[Position]]**
-			- [[Behind]]
-			- [[Engaged-or-Next-To]]
-			- [[Faraway]]
-			- [[Intercepting]]
-			- [[Nearby]]
-			- [[Whereabouts]]
 	- **[[Combat-Modifiers]]**
 		- [[Invisibility]]
 		- [[Shooting-into-Melee]]

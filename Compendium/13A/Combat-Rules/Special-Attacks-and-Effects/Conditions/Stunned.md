@@ -8,4 +8,4 @@ updated: 2023-05-30
 
 ## Stunned
 
-You suffer a –4 penalty to defences and can’t take any actions.
+You suffer a –4 penalty to [[Compendium/13A/Combat-Rules/Combat-Stats/Defences/Defences|defences]] and can’t take any [[Compendium/13A/Combat-Rules/Combat-Actions/Actions/Actions|actions]].

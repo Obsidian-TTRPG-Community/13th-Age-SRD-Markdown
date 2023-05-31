@@ -8,7 +8,7 @@ updated: 2023-05-30
 
 ## Cyclic Initiative
 
-### Map of Contents
+## Index
 
 - [Delay](Compendium/13A/Combat-Rules/Combat-Sequence/Cyclic-Initiative/Delay.md)
 - [Readying an Action](Compendium/13A/Combat-Rules/Combat-Sequence/Cyclic-Initiative/Readying-an-Action.md)

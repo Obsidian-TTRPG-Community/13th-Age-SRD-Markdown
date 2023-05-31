@@ -11,4 +11,4 @@ updated: 2023-05-29
 
 **Adventurer Tier**
 
-Gain a +4 bonus to Initiative checks.
+Gain a +4 bonus to [[Compendium/13A/Monsters/Monster-Creation/Initiative|Initiative]] checks.

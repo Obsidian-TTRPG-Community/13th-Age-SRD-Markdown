@@ -23,7 +23,7 @@ updated: 2023-05-29
 | 10    | 4 Adventurer, 3 Champion, and 3 Epic                                     |    
 ^13A-Player-Feats-Level
 
->[!info] Since humans start with an additional feat at 1st level, add one to the number of adventurer feats humans possess all the way up the chart.
+>[!info] Since humans start with an additional feat at 1st level, add one to the number of adventurer [[Compendium/13A/Character-Rules/Feats/Feats|feats]] humans possess all the way up the chart.
 
 Most of the feats in the game are attached to specific class talents, attacks, and spells.
 

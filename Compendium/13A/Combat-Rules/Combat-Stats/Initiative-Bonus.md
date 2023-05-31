@@ -8,4 +8,4 @@ updated: 2023-05-30
 
 ## Initiative Bonus
 
-Your initiative bonus is your Dexterity modifier + your level.
+Your [[Compendium/13A/Monsters/Monster-Creation/Initiative|initiative]] bonus is your Dexterity modifier + your level.

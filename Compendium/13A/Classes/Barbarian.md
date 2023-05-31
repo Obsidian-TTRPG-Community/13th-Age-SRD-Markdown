@@ -169,7 +169,7 @@ You can use Building Frenzy twice a day.
 
 #### Slayer
 
-During your turn, when you attack a staggered enemy you were not engaged with at the start of your turn, deal +`dice: 1d6` damage per level to that creature if you hit.
+During your turn, when you attack a [[Compendium/13A/Combat-Rules/Damage-and-Healing/Staggered|staggered]] enemy you were not engaged with at the start of your turn, deal +`dice: 1d6` damage per level to that creature if you hit.
 
 **Adventurer Feat**  
 You gain a +2 bonus to Slayer attacks.

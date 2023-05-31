@@ -11,4 +11,4 @@ updated: 2023-05-29
 
 **Adventurer Tier**
 
-When your ranged attack targets an enemy who is engaged with an ally, you have no chance of hitting that ally.
+When your ranged attack targets an enemy who is [[Compendium/13A/Combat-Rules/Combat-Actions/Movement-and-Melee/Engaged|engaged]] with an ally, you have no chance of hitting that ally.

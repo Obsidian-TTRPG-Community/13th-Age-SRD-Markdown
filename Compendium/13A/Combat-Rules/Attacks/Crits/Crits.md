@@ -10,7 +10,7 @@ updated: 2023-05-30
 
 Every attack roll that is natural 20 is a crit (“critical hit”) for double damage.
 
-### Map of Contents
+## Index
 
 - [Crit Effects](Compendium/13A/Combat-Rules/Attacks/Crits/Crit-Effects.md)
 - [Crit Range](Compendium/13A/Combat-Rules/Attacks/Crits/Crit-Range.md)

@@ -8,4 +8,4 @@ updated: 2023-05-30
 
 ## Fear
 
-Fear dazes you and prevents you from using the escalation die.
+Fear dazes you and prevents you from using the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die|escalation die]].
