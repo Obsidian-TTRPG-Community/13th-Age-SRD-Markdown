@@ -2,7 +2,6 @@
 aliases: [Ebon Gauntlet Eye]
 created: 2023-05-30
 level: 6
-permalink: 
 publish: 
 role: caster
 statblock: inline

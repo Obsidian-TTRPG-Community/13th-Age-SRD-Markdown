@@ -2,7 +2,6 @@
 aliases: ["Brute's Warbanner"]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: caster
 strength: "2×"

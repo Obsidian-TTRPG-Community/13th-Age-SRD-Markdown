@@ -2,7 +2,6 @@
 aliases: [Ebon Gauntlet-Adjudicator]
 created: 2023-05-30
 level: 5
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

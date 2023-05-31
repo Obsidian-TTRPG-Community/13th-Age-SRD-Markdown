@@ -1,12 +1,11 @@
 ---
-aliases: ["Purple Dragon", "The Purple Dragon"]
+aliases: ["Human Champion Purple Dragon", "The Purple Dragon (Champion, Human Form)"]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: caster
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragon-Purple", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
 type: dragon
 updated: 2023-05-30
 ---
@@ -14,29 +13,15 @@ updated: 2023-05-30
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "The Purple Dragon (Champion, Dragon Form)"
-size: "huge"
+name: "The Purple Dragon (Champion, Human Form)"
+size: "normal"
 level: "8"
 levelOrdinal: "8th"
 role: "caster"
 type: "dragon"
 initiative: "16"
 actions:
-    - name: "Gilded claws +13 vs. AC (2 attacks)"
-      desc: "50 damage"
-      traits:
-          - name: "Miss"
-            desc: "28 damage."
-    - name: "C: Psychoactive breath +13 vs. MD (1d4 nearby enemies, or 1d3 faraway enemies in a group)"
-      desc: "40 psychic damage and 10 ongoing psychic damage"
-      traits:
-          - name: "Natural even hit, once per target per battle"
-            desc: "The target is also dazed and stuck (save once for both effects and the ongoing damage)."
-          - name: "Aftereffect"
-            desc: "Once the target saves against the ongoing damage if the save was a natural odd roll the target is dazed (save ends)."
-          - name: "Intermittent breath"
-            desc: "The Purple Dragon can use their _psychoactive breath_ 2d4 times each combat but never two turns in a row. They can choose to make their targets confused (save ends) on a hit or miss with their _psychoactive breath_, but that uses up their breath for the rest of the battle."
-    - name: "Bladed fan +13 vs. AC"
+    - name: "Bladed fan +14 vs. AC"
       desc: "68 damage"
       traits:
           - name: "Natural even hit or miss"
@@ -45,24 +30,25 @@ actions:
             desc: "The target is blown back from the Purple Dragon."
           - name: "Natural odd miss"
             desc: "The Purple Dragon pops free and moves away from the target (blown by the wind of the fan)."
-          - name: "Wing buffet"
-            desc: "Just like adventurer tier, the _bladed fan_ attack translates in dragon form to wing buffet but with only +13 to attack."
-    - name: "Cloak of illusion"
-      desc: "As a quick action the Purple Dragon fills the battlefield with illusions that give enemies attacking them a -2 penalty to their attacks. This lasts until they next attack."
+    - name: "C: Mirrorball burst +13 vs. MD (1d4 nearby or faraway enemies)"
+      desc: "35 damage and 30 ongoing psychic damage"
+      traits:
+          - name: "Target fails a save against the ongoing damage"
+            desc: "The target is dazzled by light and takes a cumulative -1 penalty to attacks (up to a maximum of -4) until the end of the battle."
+    - name: "“No, they’re the real Purple Dragon, shoot them!”"
+      desc: As a quick action at the end of one of their turns, the __Purple Dragon__ uses their powers of illusion and mind-control to make one of their attackers (usually the closest one to them) look and sound like them; the next attack against the __Purple Dragon__ has a 50% chance of being targeted against the wrong target. Once the next attack is made, the illusion vanishes.
       traits:
           - name: Limited Use
             desc: 1/battle
     - name: Shape-shifter supreme
-      desc: As a move action, the Purple Dragon can change from their _dragon form_ to their _[[The Purple Dragon (Champion, Human Form)|human form]]_.
+      desc: As a move action, the Purple Dragon can change from their _humand form_ to their _[[The Purple Dragon (Champion, Dragon Form)|dragon form]]_.
 traits:
     - name: Escalator
       desc: The Purple Dragon adds the escalation die to their attacks.
     - name: Shape-shifter supreme
-      desc: The Purple Dragon can choose to be in its _[[The Purple Dragon (Champion, Human Form)|human form]]_ or its _dragon form_. Switching forms is a move action. Though their _dragon form_ is huge, their _human form_ is regular size, and other forms are whatever size is appropriate to that form. By epic tier, the Purple Dragon can conceivably take any form, but regardless of tier their vanity limits her to forms that feature purple and magenta (purple clothes and magenta hair, purple scales and magenta wing membranes, etc.).
+      desc: The Purple Dragon can choose to be in its _human form_ or its _[[The Purple Dragon (Champion, Dragon Form)|dragon form]]_. Switching forms is a _move action_. Though their _dragon form_ is huge, their _human form_ is regular size, and other forms are whatever size is appropriate to that form. By epic tier, the Purple Dragon can conceivably take any form, but regardless of tier their vanity limits her to forms that feature purple and magenta (purple clothes and magenta hair, purple scales and magenta wing membranes, etc.).
     - name: Flight
       desc: In their _dragon form_ the __Purple Dragon__ can fly. They can also fly using magic, but prefers to not do so unless they need to fight a flying enemy.
-    - name: "Intermittent breath"
-      desc: "The Purple Dragon can use their _psychoactive breath_ 2d4 times each combat but never two turns in a row. They can choose to make their targets confused (save ends) on a hit or miss with their _psychoactive breath_, but that uses up their breath for the rest of the battle."
     - name: Illusionary soirée
       desc: Each round roll a d6 (or a d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.
       traits:

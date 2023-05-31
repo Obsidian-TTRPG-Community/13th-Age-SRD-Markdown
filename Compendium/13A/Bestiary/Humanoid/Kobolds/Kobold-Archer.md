@@ -2,7 +2,6 @@
 aliases: [Kobold Archer]
 created: 2023-05-28
 level: 1
-permalink: 
 publish: 
 role: mook
 strength: normal

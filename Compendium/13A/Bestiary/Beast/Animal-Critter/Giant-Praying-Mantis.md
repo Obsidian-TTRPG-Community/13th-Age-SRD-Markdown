@@ -2,7 +2,6 @@
 aliases: [Giant Praying Mantis]
 created: 2023-05-23
 level: 8
-permalink: 
 publish: 
 role: blocker
 strength: large

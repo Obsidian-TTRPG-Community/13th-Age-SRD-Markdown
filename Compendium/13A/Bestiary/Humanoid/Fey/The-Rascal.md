@@ -2,7 +2,6 @@
 aliases: [The Rascal]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: mook
 strength: normal

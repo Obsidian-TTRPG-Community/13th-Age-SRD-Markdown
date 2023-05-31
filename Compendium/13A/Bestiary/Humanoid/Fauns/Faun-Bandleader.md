@@ -2,7 +2,6 @@
 aliases: [Faun Bandleader]
 created: 2023-05-30
 level: 5
-permalink: 
 publish: 
 role: leader
 statblock: inline

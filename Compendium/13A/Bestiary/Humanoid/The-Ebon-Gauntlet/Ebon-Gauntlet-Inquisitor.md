@@ -2,7 +2,6 @@
 aliases: [Ebon Gauntlet Inquisitor]
 created: 2023-05-30
 level: 7
-permalink: 
 publish: 
 role: leader
 statblock: inline

@@ -2,7 +2,6 @@
 aliases: [Drow Darkbolt]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: archer
 strength: normal

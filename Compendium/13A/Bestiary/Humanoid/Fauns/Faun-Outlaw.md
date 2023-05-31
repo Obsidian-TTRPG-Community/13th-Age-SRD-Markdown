@@ -2,7 +2,6 @@
 aliases: [Faun Outlaw]
 created: 2023-05-30
 level: 7
-permalink: 
 publish: 
 role: troop
 statblock: inline

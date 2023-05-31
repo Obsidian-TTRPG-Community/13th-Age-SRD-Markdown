@@ -2,7 +2,6 @@
 aliases: [Elder Manafang Naga]
 created: 2023-05-28
 level: 10
-permalink: 
 publish: 
 role: leader
 strength: normal

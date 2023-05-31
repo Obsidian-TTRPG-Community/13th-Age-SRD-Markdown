@@ -1,7 +1,6 @@
 ---
 aliases: [Undead Briar Elves]
 created: 2023-05-25
-permalink: 
 publish: 
 statblock: inline
 tags: [13A/Monsters/Factions/Briar-Elves]

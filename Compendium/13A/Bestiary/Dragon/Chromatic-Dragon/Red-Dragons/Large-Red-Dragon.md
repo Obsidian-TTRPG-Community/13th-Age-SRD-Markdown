@@ -2,11 +2,10 @@
 aliases: [Large Red Dragon]
 created: 2023-05-23
 level: 10
-permalink: 
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Red", "13A/Monsters/Type/Wrecker"]
 type: dragon
 updated: 2023-05-30
 ---

@@ -1,7 +1,6 @@
 ---
 aliases: [Horned Azinth]
 created: 2023-05-28
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Horned-Azinth]
 updated: 2023-05-30

@@ -1,7 +1,6 @@
 ---
 aliases: [Fauns]
 created: 2023-05-29
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Fauns]
 updated: 2023-05-30

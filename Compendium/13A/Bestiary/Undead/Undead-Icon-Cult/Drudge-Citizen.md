@@ -2,7 +2,6 @@
 aliases: [Drudge Citizen]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: troop
 statblock: inline

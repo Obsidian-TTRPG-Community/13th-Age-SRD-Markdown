@@ -2,7 +2,6 @@
 aliases: [Coin Zombie]
 created: 2023-05-30
 level: 2
-permalink: 
 publish: 
 role: mook
 statblock: inline

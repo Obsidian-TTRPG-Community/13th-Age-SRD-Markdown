@@ -1,12 +1,11 @@
 ---
-aliases: ["Purple Dragon", "The Purple Dragon"]
+aliases: ["Epic Purple Dragon", "The Purple Dragon (Epic, Dragon Form)"]
 created: 2023-05-29
 level: 12
-permalink: 
 publish: 
 role: caster
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragon-Purple", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
 type: dragon
 updated: 2023-05-30
 ---

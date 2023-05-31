@@ -2,7 +2,6 @@
 aliases: [Redscale Flamewing]
 created: 2023-05-29
 level: 12
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

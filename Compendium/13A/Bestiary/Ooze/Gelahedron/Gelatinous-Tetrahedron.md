@@ -2,7 +2,6 @@
 aliases: [Gelatinous Tetrahedron]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: blocker
 strength: huge

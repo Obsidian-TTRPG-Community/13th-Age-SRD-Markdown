@@ -2,7 +2,6 @@
 aliases: [Bonded Hero]
 created: 2023-05-25
 level: 3
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

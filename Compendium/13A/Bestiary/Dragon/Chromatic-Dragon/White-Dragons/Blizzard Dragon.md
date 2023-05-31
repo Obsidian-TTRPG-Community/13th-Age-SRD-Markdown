@@ -2,11 +2,10 @@
 aliases: [Blizzard Dragon (White)]
 created: 2023-05-23
 level: 6
-permalink: 
 publish: 
 role: wrecker
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/White", "13A/Monsters/Type/Wrecker"]
 type: dragon
 updated: 2023-05-30
 ---

@@ -2,7 +2,6 @@
 aliases: [Epic Haunting]
 created: 2023-05-29
 level: 9
-permalink: 
 publish: 
 role: mook
 statblock: inline

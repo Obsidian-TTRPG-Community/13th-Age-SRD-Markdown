@@ -2,7 +2,6 @@
 aliases: [Death Shade]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: mook
 statblock: inline

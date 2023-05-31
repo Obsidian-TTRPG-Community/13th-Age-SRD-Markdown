@@ -2,7 +2,6 @@
 aliases: [Blackscale Light Killer]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: archer
 statblock: inline

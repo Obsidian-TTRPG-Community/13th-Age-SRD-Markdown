@@ -2,7 +2,6 @@
 aliases: [Gnoll Ranger]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: archer
 strength: normal

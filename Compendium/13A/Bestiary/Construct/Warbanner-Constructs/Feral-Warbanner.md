@@ -2,7 +2,6 @@
 aliases: [Feral Warbanner]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: caster
 strength: "2×"

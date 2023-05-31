@@ -2,7 +2,6 @@
 aliases: [Gnoll Shredder]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: blocker
 strength: normal

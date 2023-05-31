@@ -2,7 +2,6 @@
 aliases: [Fire Giant-Warlord]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: leader
 strength: large

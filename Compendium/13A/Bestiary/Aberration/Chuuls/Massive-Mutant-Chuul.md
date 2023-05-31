@@ -2,14 +2,14 @@
 aliases: [Massive Mutant Chuul]
 created: 2023-05-23
 level: 10
-permalink: 
 publish: 
 role: wrecker
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chuuls", , "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chuuls", "13A/Monsters/Type/Wrecker"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

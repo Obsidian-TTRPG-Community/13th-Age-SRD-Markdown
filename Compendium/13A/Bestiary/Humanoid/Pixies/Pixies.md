@@ -1,7 +1,6 @@
 ---
 aliases: [Pixies]
 created: 2023-05-24
-permalink: 
 publish: 
 tags: [13A/]
 updated: 2023-05-30

@@ -2,7 +2,6 @@
 aliases: [Troll]
 created: 2023-05-28
 level: 4
-permalink: 
 publish: 
 role: troop
 strength: large

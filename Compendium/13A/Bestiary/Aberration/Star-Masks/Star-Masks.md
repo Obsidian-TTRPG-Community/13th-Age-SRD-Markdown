@@ -1,7 +1,6 @@
 ---
 aliases: [Star-Masks]
 created: 2023-05-29
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Star-Masks]
 updated: 2023-05-30

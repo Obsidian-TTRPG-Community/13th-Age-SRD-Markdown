@@ -2,7 +2,6 @@
 aliases: [Cloud Giant-Thane]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: wrecker
 strength: huge

@@ -2,7 +2,6 @@
 aliases: [Eidolon in Guardian Form]
 created: 2023-05-29
 level: 9
-permalink: 
 publish: 
 role: troop
 strength: 3×

@@ -2,7 +2,6 @@
 aliases: [Solar Phoenix]
 created: 2023-05-29
 level: 12
-permalink: 
 publish: 
 role: caster
 statblock: inline

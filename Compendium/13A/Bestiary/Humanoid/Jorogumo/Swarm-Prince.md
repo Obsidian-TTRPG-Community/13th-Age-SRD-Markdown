@@ -2,7 +2,6 @@
 aliases: [Swarm Prince]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: spoiler
 strength: normal

@@ -2,7 +2,6 @@
 aliases: [Fungaloid Monarch]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: leader
 strength: "2×"

@@ -2,7 +2,6 @@
 aliases: [Storm Giant]
 created: 2023-05-23
 level: 10
-permalink: 
 publish: 
 role: archer
 strength: huge

@@ -2,7 +2,6 @@
 aliases: [Undead Briar Elf Assassin]
 created: 2023-05-30
 level: 11
-permalink: 
 publish: 
 role: archer
 statblock: inline

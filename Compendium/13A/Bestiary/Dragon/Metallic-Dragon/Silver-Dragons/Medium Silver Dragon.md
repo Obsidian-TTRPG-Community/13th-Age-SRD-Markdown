@@ -2,11 +2,10 @@
 aliases: [Medium Silver Dragon]
 created: 2023-05-23
 level: 6
-permalink: 
 publish: 
 role: spoiler
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic/Silver", "13A/Monsters/Type/Spoiler"]
 type: dragon
 updated: 2023-05-30
 ---

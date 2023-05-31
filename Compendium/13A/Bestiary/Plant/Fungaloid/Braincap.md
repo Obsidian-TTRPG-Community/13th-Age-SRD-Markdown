@@ -2,7 +2,6 @@
 aliases: [Braincap]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: wrecker
 strength: "2×"

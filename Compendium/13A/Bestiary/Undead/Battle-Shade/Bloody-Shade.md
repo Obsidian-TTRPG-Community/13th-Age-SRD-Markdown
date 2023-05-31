@@ -2,7 +2,6 @@
 aliases: [Bloody Shade]
 created: 2023-05-25
 level: 2
-permalink: 
 publish: 
 role: mook
 statblock: inline

@@ -2,7 +2,6 @@
 aliases: [Orc Rager]
 created: 2023-05-28
 level: 7
-permalink: 
 publish: 
 role: mook
 strength: normal

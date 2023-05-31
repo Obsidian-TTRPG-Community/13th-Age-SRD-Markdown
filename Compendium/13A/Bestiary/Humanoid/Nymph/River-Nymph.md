@@ -2,7 +2,6 @@
 aliases: [River Nymph (Naiad)]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

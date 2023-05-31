@@ -2,7 +2,6 @@
 aliases: [Goblin Shaman]
 created: 2023-05-24
 level: 2
-permalink: 
 publish: 
 role: caster
 strength: normal

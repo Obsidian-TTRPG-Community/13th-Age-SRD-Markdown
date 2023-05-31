@@ -2,7 +2,6 @@
 aliases: [Trog Underling]
 created: 2023-05-28
 level: 8
-permalink: 
 publish: 
 role: mook
 strength: normal

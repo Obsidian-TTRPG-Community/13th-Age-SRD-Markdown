@@ -2,7 +2,6 @@
 aliases: [Medusa Noble]
 created: 2023-05-28
 level: 11
-permalink: 
 publish: 
 role: caster
 strength: "2×"

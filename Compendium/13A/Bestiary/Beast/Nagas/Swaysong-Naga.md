@@ -2,7 +2,6 @@
 aliases: [Swaysong Naga]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: leader
 strength: large

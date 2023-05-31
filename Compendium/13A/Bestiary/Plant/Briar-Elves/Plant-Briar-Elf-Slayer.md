@@ -2,7 +2,6 @@
 aliases: [Plant Briar Elf Slayer]
 created: 2023-05-30
 level: 6
-permalink: 
 publish: 
 role: troop
 statblock: inline

@@ -2,7 +2,6 @@
 aliases: [Fire Giant]
 created: 2023-05-23
 level: 8
-permalink: 
 publish: 
 role: wrecker
 strength: large

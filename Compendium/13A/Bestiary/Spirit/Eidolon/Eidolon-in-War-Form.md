@@ -2,7 +2,6 @@
 aliases: [Eidolon in War Form]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: troop
 strength: 3×

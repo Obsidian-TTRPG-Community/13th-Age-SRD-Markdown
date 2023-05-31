@@ -2,14 +2,14 @@
 aliases: [Warped Beast]
 created: 2023-05-23
 level: 5
-permalink: 
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Elder-Beasts", , "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Elder-Beasts", "13A/Monsters/Type/Wrecker"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

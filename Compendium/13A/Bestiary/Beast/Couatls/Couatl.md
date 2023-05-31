@@ -2,7 +2,6 @@
 aliases: [Couatl]
 created: 2023-05-23
 level: 8
-permalink: 
 publish: 
 role: spoiler
 strength: large

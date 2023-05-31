@@ -2,11 +2,10 @@
 aliases: [Huge Bronze Dragon]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: wrecker
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic/Bronze", "13A/Monsters/Type/Wrecker"]
 type: dragon
 updated: 2023-05-30
 ---

@@ -2,11 +2,10 @@
 aliases: [Smoke Minions]
 created: 2023-05-23
 level: 12
-permalink: 
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Dragons-Chromatic", "13A/Monsters/Type/Mook"]
 type: construct
 updated: 2023-05-30
 ---

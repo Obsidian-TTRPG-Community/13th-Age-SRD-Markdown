@@ -2,7 +2,6 @@
 aliases: [Taranar Coryphée]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: blocker
 statblock: inline

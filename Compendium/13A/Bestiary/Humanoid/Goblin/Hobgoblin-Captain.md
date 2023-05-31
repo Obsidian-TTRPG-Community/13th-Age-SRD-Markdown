@@ -2,7 +2,6 @@
 aliases: [Hobgoblin Captain]
 created: 2023-05-24
 level: 4
-permalink: 
 publish: 
 role: leader
 strength: normal

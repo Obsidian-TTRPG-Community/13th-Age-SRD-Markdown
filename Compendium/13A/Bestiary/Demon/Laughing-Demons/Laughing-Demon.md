@@ -2,7 +2,6 @@
 aliases: [Laughing Demon]
 created: 2023-05-30
 level: 8
-permalink: 
 publish: 
 role: troop
 statblock: inline

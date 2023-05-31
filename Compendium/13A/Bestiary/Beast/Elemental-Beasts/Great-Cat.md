@@ -2,7 +2,6 @@
 aliases: [Great Cat]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: wrecker
 strength: normal

@@ -2,7 +2,6 @@
 aliases: [Treant Avenger]
 created: 2023-05-29
 level: 12
-permalink: 
 publish: 
 role: mook
 strength: normal

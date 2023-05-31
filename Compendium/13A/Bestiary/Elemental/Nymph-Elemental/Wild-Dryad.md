@@ -2,7 +2,6 @@
 aliases: [Wild Dryad]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

@@ -2,7 +2,6 @@
 aliases: [Fallen Icons Shadow]
 created: 2023-05-29
 level: 13
-permalink: 
 publish: 
 role: troop
 statblock: inline

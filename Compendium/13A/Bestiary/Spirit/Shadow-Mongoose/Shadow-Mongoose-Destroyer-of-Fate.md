@@ -2,7 +2,6 @@
 aliases: [Shadow Mongoose Destroyer of Fate]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

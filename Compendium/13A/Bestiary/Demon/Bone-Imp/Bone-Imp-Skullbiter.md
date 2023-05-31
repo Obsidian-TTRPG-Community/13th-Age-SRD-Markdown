@@ -2,7 +2,6 @@
 aliases: [Bone Imp Skullbiter]
 created: 2023-05-30
 level: 4
-permalink: 
 publish: 
 role: troop
 statblock: inline

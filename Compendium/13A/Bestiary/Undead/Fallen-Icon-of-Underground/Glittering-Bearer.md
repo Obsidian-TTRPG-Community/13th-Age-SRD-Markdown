@@ -2,7 +2,6 @@
 aliases: [Glittering Bearer]
 created: 2023-05-29
 level: 6
-permalink: 
 publish: 
 role: caster
 strength: normal

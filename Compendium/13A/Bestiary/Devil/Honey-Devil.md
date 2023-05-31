@@ -2,7 +2,6 @@
 aliases: [Honey Devil, Slime Devil]
 created: 2023-05-24
 level: 4
-permalink: 
 publish: 
 role: troop
 strength: weakling 

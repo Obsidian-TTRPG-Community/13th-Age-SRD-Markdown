@@ -2,7 +2,6 @@
 aliases: [Faun Harrier]
 created: 2023-05-30
 level: 4
-permalink: 
 publish: 
 role: archer
 statblock: inline

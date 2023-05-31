@@ -1,7 +1,6 @@
 ---
 aliases: [Fungaloid]
 created: 2023-05-23
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Fungaloid]
 updated: 2023-05-30

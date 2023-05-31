@@ -2,7 +2,6 @@
 aliases: [Sahuagin Glow Priest]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: caster
 strength: normal

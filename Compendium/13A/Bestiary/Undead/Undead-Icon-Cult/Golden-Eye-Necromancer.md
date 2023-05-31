@@ -2,7 +2,6 @@
 aliases: [Golden Eye Necromancer]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: caster
 statblock: inline

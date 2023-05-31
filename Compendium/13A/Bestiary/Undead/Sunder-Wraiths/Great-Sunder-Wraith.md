@@ -2,7 +2,6 @@
 aliases: [Great Sunder Wraith]
 created: 2023-05-29
 level: 11
-permalink: 
 publish: 
 role: blocker
 statblock: inline

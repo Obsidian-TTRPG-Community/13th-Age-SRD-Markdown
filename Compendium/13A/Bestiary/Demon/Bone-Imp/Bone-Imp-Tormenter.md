@@ -2,7 +2,6 @@
 aliases: [Bone Imp Tormenter]
 created: 2023-05-30
 level: 3
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

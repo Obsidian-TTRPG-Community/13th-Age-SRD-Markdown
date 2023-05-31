@@ -2,7 +2,6 @@
 aliases: [Void Phoenix]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

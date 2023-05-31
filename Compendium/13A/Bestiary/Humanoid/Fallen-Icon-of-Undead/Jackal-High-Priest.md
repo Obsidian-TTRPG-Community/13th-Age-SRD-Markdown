@@ -2,7 +2,6 @@
 aliases: [Jackal High Priest]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: leader
 statblock: inline

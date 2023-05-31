@@ -2,7 +2,6 @@
 aliases: [Fallen Lammasu]
 created: 2023-05-28
 level: 7
-permalink: 
 publish: 
 role: wrecker
 strength: large

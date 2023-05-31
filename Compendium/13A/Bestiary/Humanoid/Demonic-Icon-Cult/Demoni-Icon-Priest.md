@@ -2,7 +2,6 @@
 aliases: [Demoni Icon-Priest]
 created: 2023-05-30
 level: 3
-permalink: 
 publish: 
 role: leader
 statblock: inline

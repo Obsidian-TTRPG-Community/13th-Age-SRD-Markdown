@@ -2,7 +2,6 @@
 aliases: [Bugbear Scout]
 created: 2023-05-24
 level: 2
-permalink: 
 publish: 
 role: troop
 strength: "2×"

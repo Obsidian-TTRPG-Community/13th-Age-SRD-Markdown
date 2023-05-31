@@ -1,7 +1,6 @@
 ---
 aliases: [Nymph Humanoid]
 created: 2023-05-29
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Nymph]
 updated: 2023-05-30

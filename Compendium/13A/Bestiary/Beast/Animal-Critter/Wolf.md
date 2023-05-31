@@ -2,7 +2,6 @@
 aliases: [Wolf]
 created: 2023-05-23
 level: 1
-permalink: 
 publish: 
 role: troop
 strength: normal

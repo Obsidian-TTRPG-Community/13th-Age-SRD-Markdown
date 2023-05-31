@@ -2,7 +2,6 @@
 aliases: [Slaughter Pit Shade]
 created: 2023-05-25
 level: 4
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

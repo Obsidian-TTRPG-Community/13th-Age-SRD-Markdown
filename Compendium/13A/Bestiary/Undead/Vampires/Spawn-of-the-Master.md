@@ -2,7 +2,6 @@
 aliases: [Spawn of the Master]
 created: 2023-05-28
 level: 10
-permalink: 
 publish: 
 role: mook
 strength: normal

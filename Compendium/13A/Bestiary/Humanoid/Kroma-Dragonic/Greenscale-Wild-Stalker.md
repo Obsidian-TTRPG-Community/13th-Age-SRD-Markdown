@@ -2,7 +2,6 @@
 aliases: [Greenscale Wild Stalker]
 created: 2023-05-29
 level: 3
-permalink: 
 publish: 
 role: archer
 statblock: inline

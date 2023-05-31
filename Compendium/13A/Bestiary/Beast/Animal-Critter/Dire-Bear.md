@@ -2,7 +2,6 @@
 aliases: [Dire Bear]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: troop
 strength: large

@@ -2,7 +2,6 @@
 aliases: [Elder Couatl]
 created: 2023-05-23
 level: 11
-permalink: 
 publish: 
 role: spoiler
 strength: large

@@ -2,7 +2,6 @@
 aliases: [Fallen Icon's Maw]
 created: 2023-05-29
 level: 12
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

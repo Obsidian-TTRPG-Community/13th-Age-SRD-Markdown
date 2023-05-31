@@ -2,7 +2,6 @@
 aliases: [Demon Touched Human Ranger]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: archer
 strength: normal

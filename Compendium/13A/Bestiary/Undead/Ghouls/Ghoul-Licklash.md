@@ -2,7 +2,6 @@
 aliases: [Ghoul Licklash]
 created: 2023-05-28
 level: 4
-permalink: 
 publish: 
 role: blocker
 strength: normal

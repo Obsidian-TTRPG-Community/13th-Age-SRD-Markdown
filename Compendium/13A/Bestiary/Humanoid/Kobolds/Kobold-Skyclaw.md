@@ -2,7 +2,6 @@
 aliases: [Kobold Skyclaw]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: mook
 strength: normal

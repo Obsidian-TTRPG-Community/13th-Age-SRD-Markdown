@@ -2,7 +2,6 @@
 aliases: [Hobgoblin Warmage]
 created: 2023-05-24
 level: 5
-permalink: 
 publish: 
 role: caster
 strength: normal

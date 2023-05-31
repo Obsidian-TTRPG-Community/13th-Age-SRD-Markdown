@@ -2,7 +2,6 @@
 aliases: [Bone Imp Archer]
 created: 2023-05-30
 level: 3
-permalink: 
 publish: 
 role: archer
 statblock: inline

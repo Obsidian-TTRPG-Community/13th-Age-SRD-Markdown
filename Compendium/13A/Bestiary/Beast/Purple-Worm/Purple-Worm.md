@@ -2,7 +2,6 @@
 aliases: [Purple Worm]
 created: 2023-05-28
 level: 8
-permalink: 
 publish: 
 role: wrecker
 strength: huge

@@ -2,7 +2,6 @@
 aliases: [Major Haunting]
 created: 2023-05-29
 level: 6
-permalink: 
 publish: 
 role: mook
 statblock: inline

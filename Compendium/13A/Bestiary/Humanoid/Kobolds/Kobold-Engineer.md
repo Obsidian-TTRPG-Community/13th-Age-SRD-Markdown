@@ -2,7 +2,6 @@
 aliases: [Kobold Engineer]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: leader
 strength: normal

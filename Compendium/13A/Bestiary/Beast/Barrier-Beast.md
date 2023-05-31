@@ -2,7 +2,6 @@
 aliases: [Barrier Beast]
 created: 2023-05-29
 level: 11
-permalink: 
 publish: 
 role: spoiler
 strength: huge

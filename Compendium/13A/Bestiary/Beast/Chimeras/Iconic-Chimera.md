@@ -2,7 +2,6 @@
 aliases: [Iconic Chimera]
 created: 2023-05-24
 level: 8
-permalink: 
 publish: 
 role: Wrecker
 strength: Large

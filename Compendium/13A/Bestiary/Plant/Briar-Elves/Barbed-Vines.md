@@ -2,7 +2,6 @@
 aliases: [Barbed Vines]
 created: 2023-05-30
 level: 7
-permalink: 
 publish: 
 role: mook
 statblock: inline

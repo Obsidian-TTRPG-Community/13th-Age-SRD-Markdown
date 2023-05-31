@@ -1,7 +1,6 @@
 ---
 aliases: [Hags]
 created: 2023-05-24
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Hags]
 updated: 2023-05-30

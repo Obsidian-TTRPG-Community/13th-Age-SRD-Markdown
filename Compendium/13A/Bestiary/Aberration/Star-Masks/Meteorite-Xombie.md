@@ -1,7 +1,6 @@
 ---
 aliases: []
 created: 2023-05-29
-permalink: 
 publish: 
 tags: []
 updated: 2023-05-30
@@ -16,7 +15,7 @@ publish:
 role: mook  
 statblock: inline  
 strength: normal  
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/mook"]  
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", "13A/Monsters/Type/mook"]  
 type: aberration  
 updated:  
 ---''

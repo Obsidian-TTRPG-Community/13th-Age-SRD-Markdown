@@ -2,7 +2,6 @@
 aliases: [Lich Prince]
 created: 2023-05-28
 level: 12
-permalink: 
 publish: 
 role: spoiler
 strength: "2×"

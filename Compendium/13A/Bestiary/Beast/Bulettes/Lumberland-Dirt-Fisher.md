@@ -2,7 +2,6 @@
 aliases: [Lumberland Dirt-Fisher]
 created: 2023-05-23
 level: 5
-permalink: 
 publish: 
 role: wrecker
 strength: huge

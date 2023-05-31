@@ -2,7 +2,6 @@
 aliases: [Hungry Mouth Ghost]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: blocker
 statblock: inline

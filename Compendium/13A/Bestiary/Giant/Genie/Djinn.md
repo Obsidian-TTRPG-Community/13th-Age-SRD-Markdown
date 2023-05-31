@@ -2,7 +2,6 @@
 aliases: [Djinn]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: spoiler
 strength: large

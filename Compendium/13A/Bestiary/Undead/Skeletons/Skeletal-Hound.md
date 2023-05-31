@@ -2,7 +2,6 @@
 aliases: [Skeletal Hound]
 created: 2023-05-28
 level: 1
-permalink: 
 publish: 
 role: blocker
 strength: normal

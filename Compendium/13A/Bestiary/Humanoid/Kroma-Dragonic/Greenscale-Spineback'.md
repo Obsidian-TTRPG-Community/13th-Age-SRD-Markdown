@@ -2,7 +2,6 @@
 aliases: [Greenscale Spineback']
 created: 2023-05-29
 level: 9
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

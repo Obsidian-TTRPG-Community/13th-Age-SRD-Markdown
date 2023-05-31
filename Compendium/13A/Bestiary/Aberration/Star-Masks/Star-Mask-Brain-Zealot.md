@@ -2,15 +2,15 @@
 aliases: [Star Mask Brain Zealot]
 created: 2023-05-29
 level: 12
-permalink: 
 publish: 
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", , "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", "13A/Monsters/Type/Archer"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

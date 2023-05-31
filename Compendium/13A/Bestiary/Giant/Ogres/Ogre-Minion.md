@@ -2,7 +2,6 @@
 aliases: [Ogre Minion]
 created: 2023-05-28
 level: 9
-permalink: 
 publish: 
 role: mook
 strength: large

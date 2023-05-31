@@ -2,7 +2,6 @@
 aliases: [Ogre Mage]
 created: 2023-05-28
 level: 8
-permalink: 
 publish: 
 role: caster
 strength: large

@@ -2,7 +2,6 @@
 aliases: [Ice Devil, Gelugon]
 created: 2023-05-23
 level: 11
-permalink: 
 publish: 
 role: leader
 strength: normal

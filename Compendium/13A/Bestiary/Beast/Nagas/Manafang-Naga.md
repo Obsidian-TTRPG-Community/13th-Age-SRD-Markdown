@@ -2,7 +2,6 @@
 aliases: [Manafang Naga]
 created: 2023-05-28
 level: 7
-permalink: 
 publish: 
 role: leader
 strength: large

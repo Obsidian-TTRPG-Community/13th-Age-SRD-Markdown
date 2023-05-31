@@ -2,7 +2,6 @@
 aliases: [Orc Shaman]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: leader
 strength: normal

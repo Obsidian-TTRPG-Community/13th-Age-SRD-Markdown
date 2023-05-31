@@ -2,7 +2,6 @@
 aliases: [Horned Devil, Cornugon]
 created: 2023-05-23
 level: 12
-permalink: 
 publish: 
 role: troop
 strength: large

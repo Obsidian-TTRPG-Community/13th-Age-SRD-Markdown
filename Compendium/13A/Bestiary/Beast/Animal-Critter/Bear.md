@@ -2,7 +2,6 @@
 aliases: [Bear]
 created: 2023-05-23
 level: 2
-permalink: 
 publish: 
 role: troop
 strength: normal

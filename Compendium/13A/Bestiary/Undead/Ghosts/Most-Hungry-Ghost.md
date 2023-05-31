@@ -2,7 +2,6 @@
 aliases: [Most Hungry Ghost]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: blocker
 statblock: inline

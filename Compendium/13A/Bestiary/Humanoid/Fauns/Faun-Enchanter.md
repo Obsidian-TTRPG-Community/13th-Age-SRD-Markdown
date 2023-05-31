@@ -2,7 +2,6 @@
 aliases: [Faun Enchanter]
 created: 2023-05-30
 level: 6
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

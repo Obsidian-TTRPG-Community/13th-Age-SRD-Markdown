@@ -1,7 +1,6 @@
 ---
 aliases: [Kobolds]
 created: 2023-05-24
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Kobolds]
 updated: 2023-05-30

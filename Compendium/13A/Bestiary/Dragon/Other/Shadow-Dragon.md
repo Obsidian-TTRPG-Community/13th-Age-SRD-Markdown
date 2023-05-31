@@ -2,12 +2,11 @@
 aliases: [Shadow Dragon]
 created: 2023-05-23
 level: 8
-permalink: 
 publish: 
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Dragon-Other"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Dragon-Other/Shadow"]
 type: dragon
 updated: 2023-05-30
 ---

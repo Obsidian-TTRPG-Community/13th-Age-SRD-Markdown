@@ -1,7 +1,6 @@
 ---
 aliases: [Lammasu]
 created: 2023-05-24
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Lammasu]
 updated: 2023-05-30

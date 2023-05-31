@@ -2,7 +2,6 @@
 aliases: [Remorhaz Queen]
 created: 2023-05-28
 level: 11
-permalink: 
 publish: 
 role: wrecker
 strength: large

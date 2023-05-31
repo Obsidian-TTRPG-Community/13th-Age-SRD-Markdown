@@ -1,7 +1,6 @@
 ---
 aliases: [Gibbering Mouthers]
 created: 2023-05-28
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Gibbering-Mouthers]
 updated: 2023-05-30

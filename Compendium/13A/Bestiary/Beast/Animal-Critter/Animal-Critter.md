@@ -1,7 +1,6 @@
 ---
 aliases: [Animal Critter]
 created: 2023-05-12
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Animal-Critter]
 updated: 2023-05-30

@@ -2,7 +2,6 @@
 aliases: [Clay Golem]
 created: 2023-05-24
 level: 6
-permalink: 
 publish: 
 role: spoiler
 strength: large

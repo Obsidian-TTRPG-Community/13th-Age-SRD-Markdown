@@ -2,7 +2,6 @@
 aliases: [Swarm of Bats]
 created: 2023-05-23
 level: 1
-permalink: 
 publish: 
 role: spoiler
 strength: normal

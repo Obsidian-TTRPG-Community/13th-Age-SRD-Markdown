@@ -2,7 +2,6 @@
 aliases: [Eidolon in Humanoid Form]
 created: 2023-05-29
 level: 1
-permalink: 
 publish: 
 role: troop
 strength: 3×

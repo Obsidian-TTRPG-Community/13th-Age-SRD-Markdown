@@ -2,7 +2,6 @@
 aliases: [Lammasu Warrior]
 created: 2023-05-28
 level: 9
-permalink: 
 publish: 
 role: caster
 strength: large

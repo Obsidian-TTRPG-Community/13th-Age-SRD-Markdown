@@ -2,7 +2,6 @@
 aliases: [Jackal Priest]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: wrecker
 statblock: inline

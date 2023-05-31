@@ -2,14 +2,14 @@
 aliases: [The Flenses]
 created: 2023-05-28
 level: 9
-permalink: 
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Soul-Flensers", , "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Soul-Flensers", "13A/Monsters/Type/Mook"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

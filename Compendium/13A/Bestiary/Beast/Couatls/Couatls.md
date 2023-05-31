@@ -1,7 +1,6 @@
 ---
 aliases: [Couatls]
 created: 2023-05-23
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Couatls]
 updated: 2023-05-30
@@ -24,5 +23,5 @@ Here are some Icon-centered abilities:
 | Undead Icon                                                                                                       | The couatl gains a +2 bonus to attacks and to all defences against each PC who has one or more icon relationship points with the Leader Icon. In addition, all PCs take a –4 penalty to death saves this battle.                                                                                                         |
 | Brute Icon                                                                                                        | The couatl gains a +4 bonus to PD. It also gains a +2 bonus to attacks and to all defences against each PC who has one or more icon relationship points with the Underground or Graceful Icon.                                                             |
 | Religious Icon                                                                                                    | - 8th level<br>C: Visions of a higher plane +13 vs. MD (1d3 nearby enemies) — 30 psychic damage<br> Natural even hit: The target is confused (save ends).<br> Natural odd hit: The target treats the escalation die as if it was 0 (not in effect) for its attacks and effects (save ends).<br>- 11th level<br>C: Visions of a higher plane +17 vs. MD (1d4 nearby enemies) — 50 psychic damage<br> Natural even hit: The target is confused (save ends).<br> Natural odd hit: The target treats the escalation die as if it was 0 (not in effect) for its attacks and effects (save ends). |
-| Draconic Icon                                                                                                     | Intermittent dragon breath: A couatl can use dragon breath 1d3 times per battle, but never two turns in a row. The couatl’s personal relationship with the Draconic Icon determines whether the damage is acid, fire, or lightning.<br>- 8th level<br>C: Dragon breath +13 vs. PD (2d3 nearby enemies) — 36 [energy] damage<br> Miss: Half damage.<br>- 11th level<br>C: Dragon breath +17 vs. PD (2d3 nearby enemies) — 70 [energy] damage<br> Miss: Half damage.                                                       |  
+| Draconic Icon                                                                                                     | Intermittent dragon breath: A couatl can use dragon breath 1d3 times per battle, but never two turns in a row. The couatl’s personal relationship with the Draconic Icon determines whether the damage is acid, fire, or lightning.<br>- 8th level<br>C: Dragon breath +13 vs. PD (2d3 nearby enemies) — 36 [energy] damage<br> Miss: Half damage.<br>- 11th level<br>C: Dragon breath +17 vs. PD (2d3 nearby enemies) — 70 [energy] damage<br> Miss: Half damage.                                                       |      
 ^13thAge-Coutls-Table

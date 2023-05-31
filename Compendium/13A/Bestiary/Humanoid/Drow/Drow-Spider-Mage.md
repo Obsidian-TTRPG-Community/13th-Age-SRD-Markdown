@@ -2,7 +2,6 @@
 aliases: [Drow Spider Mage]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: caster
 strength: normal

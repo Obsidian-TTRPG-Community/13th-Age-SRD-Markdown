@@ -2,7 +2,6 @@
 aliases: [Cloud Giant-Warrior]
 created: 2023-05-23
 level: 7
-permalink: 
 publish: 
 role: troop
 strength: huge

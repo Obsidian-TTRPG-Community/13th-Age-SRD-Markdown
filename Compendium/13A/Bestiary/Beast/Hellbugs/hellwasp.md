@@ -2,7 +2,6 @@
 aliases: [hellwasp]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: spoiler
 strength: normal

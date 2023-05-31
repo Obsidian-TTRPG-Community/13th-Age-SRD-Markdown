@@ -2,7 +2,6 @@
 aliases: [Ettin]
 created: 2023-05-23
 level: 5
-permalink: 
 publish: 
 role: troop
 strength: large

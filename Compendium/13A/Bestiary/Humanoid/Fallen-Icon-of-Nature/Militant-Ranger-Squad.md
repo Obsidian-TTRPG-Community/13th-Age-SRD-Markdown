@@ -2,7 +2,6 @@
 aliases: [Militant Ranger Squad]
 created: 2023-05-29
 level: 11
-permalink: 
 publish: 
 role: mook
 strength: normal

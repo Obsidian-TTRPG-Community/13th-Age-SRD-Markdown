@@ -2,7 +2,6 @@
 aliases: [Faun Troubadour]
 created: 2023-05-30
 level: 2
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

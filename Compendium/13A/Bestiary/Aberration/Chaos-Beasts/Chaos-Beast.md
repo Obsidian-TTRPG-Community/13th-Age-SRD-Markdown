@@ -2,14 +2,14 @@
 aliases: [Chaos Beast]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", , "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Chaos-Beasts", "13A/Monsters/Type/Troop"]
 type: aberration
-updated: 2023-05-29
+updated: 2023-05-30
 ---
+
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1

@@ -2,7 +2,6 @@
 aliases: [Fire Giant Priest General]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: leader
 strength: large

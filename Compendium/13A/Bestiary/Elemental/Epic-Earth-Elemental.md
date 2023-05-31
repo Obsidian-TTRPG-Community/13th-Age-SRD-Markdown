@@ -2,7 +2,6 @@
 aliases: [Epic Earth Elemental]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: blocker
 strength: normal

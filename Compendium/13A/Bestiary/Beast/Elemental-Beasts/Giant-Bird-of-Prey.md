@@ -2,7 +2,6 @@
 aliases: [Giant Bird of Prey]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: spoiler
 strength: normal

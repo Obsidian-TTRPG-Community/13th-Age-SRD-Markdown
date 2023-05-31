@@ -2,7 +2,6 @@
 aliases: [Chimera]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: wrecker
 strength: large

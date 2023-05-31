@@ -2,7 +2,6 @@
 aliases: [Petulant Never Was]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: caster
 statblock: inline

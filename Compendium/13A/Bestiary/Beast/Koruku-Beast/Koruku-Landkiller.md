@@ -2,7 +2,6 @@
 aliases: [Koruku Landkiller]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: leader
 statblock: inline

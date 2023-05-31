@@ -2,7 +2,6 @@
 aliases: [Fire Giant Holy Warrior]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: troop
 strength: large

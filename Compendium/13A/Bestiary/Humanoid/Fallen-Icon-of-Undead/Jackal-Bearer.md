@@ -2,7 +2,6 @@
 aliases: [Jackal Bearer]
 created: 2023-05-29
 level: 5
-permalink: 
 publish: 
 role: mook
 statblock: inline

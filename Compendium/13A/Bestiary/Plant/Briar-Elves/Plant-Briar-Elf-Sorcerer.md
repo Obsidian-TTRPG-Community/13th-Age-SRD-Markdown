@@ -2,7 +2,6 @@
 aliases: [Plant Briar Elf Sorcerer]
 created: 2023-05-30
 level: 10
-permalink: 
 publish: 
 role: caster
 statblock: inline

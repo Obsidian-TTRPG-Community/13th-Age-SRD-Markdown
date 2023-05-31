@@ -1,7 +1,6 @@
 ---
 aliases: [13th Age Bestiary, Monsters Reference]
 created: 2023-05-29
-permalink: 
 publish: 
 tags: [13a/Bestiary]
 updated: 2023-05-30
@@ -301,7 +300,7 @@ updated: 2023-05-30
 				- [[Large-Red-Dragon]]
 				- [[Medium-Red-Dragon]]
 				- [[Volcanic-Dragon]]
-			- [[Smoke-Minions]]
+			- [[Compendium/13A/Bestiary/Construct/Smoke-Minions]]
 			- **White-Dragons**
 				- [[Blizzard Dragon]]
 				- [[Cenotaph-Dragon]]
@@ -336,12 +335,12 @@ updated: 2023-05-30
 			- [[Shadow-Dragon]]
 			- [[Shadow-Thief]]
 		- **[[The-Purple-Dragon]]**
-			- [[The-Purple-Dragon-(Adventurer,-Dragon-form)]]
-			- [[The-Purple-Dragon-(Adventurer,-Human-form)]]
-			- [[The-Purple-Dragon-(Champion,-Dragon-Form)]]
-			- [[The-Purple-Dragon-(Champion,-Human-Form)]]
-			- [[The-Purple-Dragon-(Epic,-Dragon-Form)]]
-			- [[The-Purple-Dragon-(Epic,-Human-Form)]]
+			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Adventurer-Dragon-Form]]
+			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Adventurer-Human-Form]]
+			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Champion-Dragon-Form]]
+			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Champion-Human-Form]]
+			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Epic-Dragon-Form]]
+			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Epic-Human-Form]]
 	- **Elemental**
 		- [[Air-Elemental]]
 		- [[Big-Air-Elemental]]

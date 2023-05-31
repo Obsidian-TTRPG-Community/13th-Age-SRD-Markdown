@@ -2,7 +2,6 @@
 aliases: [Badger]
 created: 2023-05-29
 level: 1
-permalink: 
 publish: 
 role: wrecker
 strength: normal

@@ -2,7 +2,6 @@
 aliases: [Basilisk]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: wrecker
 strength: large

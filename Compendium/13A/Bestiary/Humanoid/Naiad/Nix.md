@@ -2,7 +2,6 @@
 aliases: [Nix]
 created: 2023-05-29
 level: 7
-permalink: 
 publish: 
 role: spoiler
 statblock: inline

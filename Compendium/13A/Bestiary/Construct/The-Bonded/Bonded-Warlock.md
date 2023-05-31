@@ -2,7 +2,6 @@
 aliases: [Bonded Warlock]
 created: 2023-05-25
 level: 8
-permalink: 
 publish: 
 role: caster
 statblock: inline

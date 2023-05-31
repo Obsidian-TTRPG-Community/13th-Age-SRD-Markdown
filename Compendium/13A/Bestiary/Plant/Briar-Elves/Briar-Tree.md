@@ -2,7 +2,6 @@
 aliases: [Briar Tree]
 created: 2023-05-30
 level: 9
-permalink: 
 publish: 
 role: leader
 statblock: inline

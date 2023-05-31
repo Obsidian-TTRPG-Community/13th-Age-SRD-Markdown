@@ -1,12 +1,11 @@
 ---
-aliases: ["Purple Dragon", "The Purple Dragon"]
+aliases: ["Adventurer Purple Dragon", "The Purple Dragon (Adventurer, Dragon Form)"]
 created: 2023-05-28
 level: 4
-permalink: 
 publish: 
 role: caster
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragon-Purple", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
 type: dragon
 updated: 2023-05-30
 ---

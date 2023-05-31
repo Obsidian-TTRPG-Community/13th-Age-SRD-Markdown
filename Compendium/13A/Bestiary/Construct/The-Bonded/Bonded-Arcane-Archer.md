@@ -2,7 +2,6 @@
 aliases: [Bonded Arcane Archer]
 created: 2023-05-25
 level: 7
-permalink: 
 publish: 
 role: archer
 statblock: inline

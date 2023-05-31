@@ -2,7 +2,6 @@
 aliases: [Kelplet]
 created: 2023-05-29
 level: 4
-permalink: 
 publish: 
 role: mook
 statblock: inline

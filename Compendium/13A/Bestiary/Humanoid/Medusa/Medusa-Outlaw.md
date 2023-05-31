@@ -2,7 +2,6 @@
 aliases: [Medusa Outlaw]
 created: 2023-05-28
 level: 6
-permalink: 
 publish: 
 role: wrecker
 strength: "2×"

@@ -2,7 +2,6 @@
 aliases: [Bonded Hexknight]
 created: 2023-05-25
 level: 7
-permalink: 
 publish: 
 role: troop
 statblock: inline

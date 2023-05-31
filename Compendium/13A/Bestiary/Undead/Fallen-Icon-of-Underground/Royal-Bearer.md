@@ -2,7 +2,6 @@
 aliases: [Royal Bearer]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: caster
 strength: normal

@@ -2,7 +2,6 @@
 aliases: [Coursing Manticore]
 created: 2023-05-28
 level: 6
-permalink: 
 publish: 
 role: spoiler
 strength: large

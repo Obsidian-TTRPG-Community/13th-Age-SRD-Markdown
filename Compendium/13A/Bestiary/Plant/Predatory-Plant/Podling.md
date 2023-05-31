@@ -2,7 +2,6 @@
 aliases: [Podling]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: mook
 strength: normal

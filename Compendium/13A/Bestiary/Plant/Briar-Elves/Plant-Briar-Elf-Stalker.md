@@ -2,7 +2,6 @@
 aliases: [Plant Briar Elf Striker]
 created: 2023-05-30
 level: 8
-permalink: 
 publish: 
 role: archer
 statblock: inline

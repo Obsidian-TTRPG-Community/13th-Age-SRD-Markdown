@@ -2,7 +2,6 @@
 aliases: [Giant Ant]
 created: 2023-05-24
 level: 0
-permalink: 
 publish: 
 role: troop
 strength: normal

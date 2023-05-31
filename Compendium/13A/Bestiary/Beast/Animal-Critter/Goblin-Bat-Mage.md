@@ -2,7 +2,6 @@
 aliases: [Goblin Bat Mage]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: spoiler
 strength: normal

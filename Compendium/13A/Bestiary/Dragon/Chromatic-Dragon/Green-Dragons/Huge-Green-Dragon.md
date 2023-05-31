@@ -2,11 +2,10 @@
 aliases: [Huge Green Dragon]
 created: 2023-05-23
 level: 11
-permalink: 
 publish: 
 role: spoiler
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Green", "13A/Monsters/Type/Spoiler"]
 type: dragon
 updated: 2023-05-30
 ---

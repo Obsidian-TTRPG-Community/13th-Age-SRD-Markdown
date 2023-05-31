@@ -2,7 +2,6 @@
 aliases: [Pixie Knight]
 created: 2023-05-29
 level: 6
-permalink: 
 publish: 
 role: troop
 strength: normal

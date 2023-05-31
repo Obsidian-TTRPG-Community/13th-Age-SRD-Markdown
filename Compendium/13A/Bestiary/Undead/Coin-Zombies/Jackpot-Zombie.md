@@ -2,7 +2,6 @@
 aliases: [Jackpot Zombie]
 created: 2023-05-30
 level: 5
-permalink: 
 publish: 
 role: mook
 statblock: inline

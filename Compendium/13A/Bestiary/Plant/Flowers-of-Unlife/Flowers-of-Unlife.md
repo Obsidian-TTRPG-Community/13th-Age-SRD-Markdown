@@ -1,7 +1,6 @@
 ---
 aliases: [Plant Flower of Unlife]
 created: 2023-05-23
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Flowers-of-unlife]
 updated: 2023-05-30

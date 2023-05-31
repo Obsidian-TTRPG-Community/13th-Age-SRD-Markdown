@@ -2,7 +2,6 @@
 aliases: [Lich Flower]
 created: 2023-05-23
 level: 6
-permalink: 
 publish: 
 role: blocker
 strength: "2×"

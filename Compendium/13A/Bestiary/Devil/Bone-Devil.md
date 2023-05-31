@@ -2,7 +2,6 @@
 aliases: [Bone Devil, Osyluth]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: troop
 strength: large

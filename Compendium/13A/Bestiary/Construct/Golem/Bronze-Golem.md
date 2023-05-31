@@ -2,7 +2,6 @@
 aliases: [Bronze Golem]
 created: 2023-05-24
 level: 7
-permalink: 
 publish: 
 role: blocker
 strength: large

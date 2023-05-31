@@ -2,7 +2,6 @@
 aliases: [Wrath Bat]
 created: 2023-05-23
 level: 9
-permalink: 
 publish: 
 role: mook
 strength: normal

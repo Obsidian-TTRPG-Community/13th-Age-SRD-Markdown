@@ -2,7 +2,6 @@
 aliases: [Plant Briar Elf Sovereign]
 created: 2023-05-30
 level: 12
-permalink: 
 publish: 
 role: leader
 statblock: inline

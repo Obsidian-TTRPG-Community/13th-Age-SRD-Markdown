@@ -2,7 +2,6 @@
 aliases: [Derro Sage]
 created: 2023-05-23
 level: 4
-permalink: 
 publish: 
 role: caster
 strength: normal

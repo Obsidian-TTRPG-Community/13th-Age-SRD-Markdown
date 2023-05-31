@@ -2,7 +2,6 @@
 aliases: [Great Xorn]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: troop
 statblock: inline

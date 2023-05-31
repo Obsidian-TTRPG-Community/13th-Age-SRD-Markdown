@@ -2,7 +2,6 @@
 aliases: [The Final Devil]
 created: 2023-05-23
 level: 13
-permalink: 
 publish: 
 role: leader
 strength: huge

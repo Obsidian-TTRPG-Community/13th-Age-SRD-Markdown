@@ -1,7 +1,6 @@
 ---
 aliases: [Kroma Dragonic]
 created: 2023-05-29
-permalink: 
 publish: 
 tags: [13A/Monsters/Factions/Kroma-Dragonic]
 updated: 2023-05-30

@@ -2,7 +2,6 @@
 aliases: [Koruku Servitor]
 created: 2023-05-29
 level: 8
-permalink: 
 publish: 
 role: mook
 statblock: inline

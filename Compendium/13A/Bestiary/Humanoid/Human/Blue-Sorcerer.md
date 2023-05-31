@@ -2,7 +2,6 @@
 aliases: [Blue Sorcerer]
 created: 2023-05-28
 level: 3
-permalink: 
 publish: 
 role: caster
 strength: normal

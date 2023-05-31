@@ -2,7 +2,6 @@
 aliases: [Gruesome Death Shade]
 created: 2023-05-29
 level: 10
-permalink: 
 publish: 
 role: mook
 statblock: inline

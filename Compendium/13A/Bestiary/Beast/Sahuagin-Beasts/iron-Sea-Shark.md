@@ -2,7 +2,6 @@
 aliases: [iron Sea Shark]
 created: 2023-05-28
 level: 5
-permalink: 
 publish: 
 role: mook
 strength: "2×"

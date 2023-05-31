@@ -2,11 +2,10 @@
 aliases: [Medium White Dragon]
 created: 2023-05-23
 level: 2
-permalink: 
 publish: 
 role: troop
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/White", "13A/Monsters/Type/Troop"]
 type: dragon
 updated: 2023-05-30
 ---

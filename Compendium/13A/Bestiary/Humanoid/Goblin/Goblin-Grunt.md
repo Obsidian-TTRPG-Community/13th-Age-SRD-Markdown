@@ -2,7 +2,6 @@
 aliases: [Goblin Grunt]
 created: 2023-05-24
 level: 1
-permalink: 
 publish: 
 role: troop
 strength: normal

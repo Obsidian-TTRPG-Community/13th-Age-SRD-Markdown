@@ -2,7 +2,6 @@
 aliases: [Small Water Elemental]
 created: 2023-05-23
 level: 3
-permalink: 
 publish: 
 role: blocker
 strength: normal

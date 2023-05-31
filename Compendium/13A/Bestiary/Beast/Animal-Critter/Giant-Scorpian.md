@@ -2,7 +2,6 @@
 aliases: [Giant Scorpian]
 created: 2023-05-23
 level: 1
-permalink: 
 publish: 
 role: wrecker
 strength: normal

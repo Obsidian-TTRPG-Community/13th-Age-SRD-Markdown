@@ -2,7 +2,6 @@
 aliases: [Archer Shade]
 created: 2023-05-25
 level: 3
-permalink: 
 publish: 
 role: archer
 statblock: inline

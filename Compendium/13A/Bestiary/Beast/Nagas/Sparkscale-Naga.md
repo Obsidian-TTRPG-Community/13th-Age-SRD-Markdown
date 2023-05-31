@@ -2,7 +2,6 @@
 aliases: [Sparkscale Naga]
 created: 2023-05-28
 level: 6
-permalink: 
 publish: 
 role: leader
 strength: large

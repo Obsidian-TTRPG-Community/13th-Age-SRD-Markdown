@@ -2,7 +2,6 @@
 aliases: [Orc Berserker]
 created: 2023-05-28
 level: 2
-permalink: 
 publish: 
 role: troop
 strength: normal

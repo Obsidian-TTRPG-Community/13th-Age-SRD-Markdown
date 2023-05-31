@@ -2,7 +2,6 @@
 aliases: [Squib Swarm]
 created: 2023-05-28
 level: 0
-permalink: 
 publish: 
 role: mook
 strength: normal

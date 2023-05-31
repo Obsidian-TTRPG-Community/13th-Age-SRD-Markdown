@@ -2,7 +2,6 @@
 aliases: [Blade Shade]
 created: 2023-05-30
 level: 3
-permalink: 
 publish: 
 role: troop
 statblock: inline

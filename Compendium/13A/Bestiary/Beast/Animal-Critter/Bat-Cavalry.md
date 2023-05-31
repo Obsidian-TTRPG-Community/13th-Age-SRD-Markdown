@@ -2,7 +2,6 @@
 aliases: [Bat Cavalry]
 created: 2023-05-23
 level: 2
-permalink: 
 publish: 
 role: wrecker
 strength: large
