@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/plant", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/leader"]
 type: plant
 updated: 
 ---
@@ -42,4 +42,3 @@ pd: "23"
 md: "20"
 hp: "180"
 ```
-

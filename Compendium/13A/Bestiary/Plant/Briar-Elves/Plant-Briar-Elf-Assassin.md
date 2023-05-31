@@ -6,7 +6,7 @@ publish:
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/archer"]
 type: plant
 updated: 
 ---
@@ -54,4 +54,3 @@ pd: "24"
 md: "23"
 hp: "280"
 ```
-
