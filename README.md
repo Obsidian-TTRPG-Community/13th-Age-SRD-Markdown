@@ -48,7 +48,6 @@ The vault will show the results of any d20 if installed.
 
 > **Important**: We recommend enabling the "Display Formula in Parenthesis After" setting to enable your dice rolls to display as `6 (1d8)` versus just `6`.
 
-
 **[Initiative Tracker](https://github.com/javalent/initiative-tracker)**
 
 This plugin takes the data from Fantasy Statblocks and not only allows an initiative tracker with those entities, but integrates with the built-in encounter builder.
@@ -62,3 +61,5 @@ Here are some suggested avenues:
 - **More Monsters**: Need to add monsters from your PDF files to Fantasy Statblocks? Use the **[Obsidian 13A Parser](https://github.com/freohr/obsidian-13A-monster-parser)**.
 - **13 Vaults**: Looking for additional third-party resources, or materials that we do not yet or will not host within this vault? Take a look at the **[13 Vaults Repo](https://github.com/13vaults/13vaults.com)** and **[www.13vaults.com](https://www.13vaults.com)**.
 - **PDF Text Extraction**: Either **[Text Extractor](https://github.com/scambier/obsidian-text-extractor)** or **[Text Format](https://github.com/Benature/obsidian-text-format)** make taking text from PDF's to Obsidian much, much easier.
+
+> Additionally, check out the [FAQ in our issue forum](https://github.com/Obsidian-TTRPG-Community/13th-Age-SRD-Markdown/issues/37).
