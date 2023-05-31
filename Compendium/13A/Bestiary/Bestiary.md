@@ -108,6 +108,7 @@ updated: 2023-05-29
 			- [[Rat-Swarm]]
 			- [[Venomous-Snake]]
 		- [[Frenzied-Wolf-Pack]]
+		- [[Great-Hound]]
 		- **Hellbugs**
 			- [[Boombug]]
 			- [[Hellwasp]]
@@ -483,7 +484,6 @@ updated: 2023-05-29
 			- [[Faun-Troubadour]]
 		- **Fey**
 			- [[Grandmother]]
-			- [[Great-Hound]]
 			- [[Pixie-Knight]]
 			- [[River-Spirit]]
 			- [[Spriggan]]
