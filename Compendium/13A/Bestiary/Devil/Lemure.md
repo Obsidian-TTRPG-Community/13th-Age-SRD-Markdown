@@ -34,12 +34,13 @@ traits:
       desc: "When a lemure is targeted by an attack against MD, it ignores any effects of the attack and only takes damage from it. In addition, lemures fight in a straightforward way, without tactics. They never disengage willingly, and they’re not coordinated enough to concentrate attacks on a vulnerable target."
     - name: "Resist fire 13+"
       desc: "When a fire attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Free-form ability — Mass"
+      desc: "Heedless of each other’s safety or their own, lemures use sheer numbers to press through locked doors, climb walls, or dog pile on defenders."
 nastier_traits:
     - name: "Too dumb to die"
       desc: "At the start of the lemure mob’s turn, roll a d6 for each lemure in the mob that’s dropped this battle. For each 6, one of them reassembles its horrid self and stumbles back into the melee that turn (add 13 hit points to the mob’s hp total). To make sure a downed lemure is truly dead, an attacker can spend an additional 7 damage of the total dealt to finish the job instead of carrying that damage over to another lemure in the mob. Expending the right sort of limited-use power, such as a daily spell, might also keep a number of downed lemures totally dead. Once the last member of the mob drops, stop rolling to see if lemures rise up."
-triggered_actions:
-    - name: "Free-form ability"
-      desc: "Mass: Heedless of each other’s safety or their own, lemures use sheer numbers to press through locked doors, climb walls, or dog pile on defenders."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 ac: "17"
 pd: "15"
 md: "17"

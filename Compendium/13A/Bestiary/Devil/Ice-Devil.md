@@ -38,6 +38,8 @@ traits:
       desc: "When a lower level nearby ally of the ice devil attacks a creature that’s stuck, the crit range of that attack expands by the escalation die."
     - name: "Resist cold 13+"
       desc: "When a cold attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 ac: "26"
 pd: "24"
 md: "24"

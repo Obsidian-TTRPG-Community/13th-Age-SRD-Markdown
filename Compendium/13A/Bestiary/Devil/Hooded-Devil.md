@@ -39,9 +39,10 @@ traits:
       desc: "When a fire attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
     - name: "Restoration"
       desc: "At the start of a hooded devil’s turn, it can roll a save against each save ends effect affecting it if it doesn’t attack that turn (so it could successfully save against confused or stunned conditions and still move that turn, for example)."
-triggered_actions:
-    - name: "Free-form covert ability"
-      desc: "Master: A hooded devil instinctively masters everything around it: the furniture, terrain, conversations, and people. If the PCs attempt to overcome a hooded devil through skill checks, the check is DC 30. Good luck if you need to win an argument, get to an exit first, use terrain to your advantage, or pressure one of the devil’s thugs to rat it out. The name of this ability is a verb."
+    - name: "Free-form covert ability — Master"
+      desc: "A hooded devil instinctively masters everything around it: the furniture, terrain, conversations, and people. If the PCs attempt to overcome a hooded devil through skill checks, the check is DC 30. Good luck if you need to win an argument, get to an exit first, use terrain to your advantage, or pressure one of the devil’s thugs to rat it out. The name of this ability is a verb."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 ac: "23"
 pd: "22"
 md: "22"

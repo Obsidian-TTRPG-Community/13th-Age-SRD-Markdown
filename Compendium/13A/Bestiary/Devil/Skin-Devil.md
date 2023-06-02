@@ -31,9 +31,10 @@ traits:
       desc: "While the skin devil is staggered, when an enemy damages it, it loses an additional 4 hp as the hapless thing fails to hold its boneless, bulky mass together."
     - name: "Weakling"
       desc: "When building battles using this monster, it only counts as half a normal monster."
-triggered_actions:
-    - name: "Free-form covert ability"
-      desc: "Unnoticed: The skin devil is routinely able to pass through civilized areas without alerting dogs, bouncers, city guards, or passersby. If the thing attacks, that’s when you notice that it’s not a human but a monstrous pile of flesh. In addition to passing unnoticed in crowds, it uses its fluid shape to sneak through hidden places, and it doesn’t make much noise unless it wants to. PCs looking for the devil won’t find it unless they have some special information or advantage, and even then it’s a ridiculously hard check (DC 25). Normally when PCs think they have the devil cornered, it escapes through a tight exit that it had previously identified."
+    - name: "Free-form covert ability — Unnoticed"
+      desc: "The skin devil is routinely able to pass through civilized areas without alerting dogs, bouncers, city guards, or passersby. If the thing attacks, that’s when you notice that it’s not a human but a monstrous pile of flesh. In addition to passing unnoticed in crowds, it uses its fluid shape to sneak through hidden places, and it doesn’t make much noise unless it wants to. PCs looking for the devil won’t find it unless they have some special information or advantage, and even then it’s a ridiculously hard check (DC 25). Normally when PCs think they have the devil cornered, it escapes through a tight exit that it had previously identified."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 ac: "17"
 pd: "16"
 md: "16"
