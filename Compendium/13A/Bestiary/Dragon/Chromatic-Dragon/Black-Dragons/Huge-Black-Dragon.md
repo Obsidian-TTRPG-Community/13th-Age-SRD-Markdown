@@ -8,7 +8,7 @@ statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Black", "13A/Monsters/Type/Wrecker"]
 type: dragon
-updated: 2023-05-31
+updated: 2023-06-02
 ---
 
 ```statblock
@@ -38,11 +38,13 @@ traits:
     - name: "Draconic grace"
       desc: "At the start of each of the huge black dragon’s turns, roll a d4 to see if it gets an extra standard action. If the roll is equal to or less than the escalation die, the black dragon can take an extra standard action that turn.<br/>After the first success, the grace die bumps up to a d6. After the second success, it’s a d8, then a d10 after the third success. The fourth success is a d12, and finally a d20 after the fifth one."
     - name: "Intermittent breath"
-      desc: "A huge black dragon can use acid breath 2d3 times per battle, but never two turns in a row."
+      desc: "A huge black dragon can use _acid breath_ `dice: 2d3` times per battle, but never two turns in a row."
     - name: "Water-breathing"
       desc: "Black dragons swim well and can breathe underwater."
     - name: "Resist acid 18+"
       desc: "When an acid attack targets this creature, the attacker must roll a natural 18+ on the attack roll or it only deals half damage."
+    - name: "Additional Chromatic Dragon Abilty"
+      desc: "As per the [[Chromatic-Dragon|Chromatic Dragon Abilities]]"
 ac: "25"
 pd: "23"
 md: "21"

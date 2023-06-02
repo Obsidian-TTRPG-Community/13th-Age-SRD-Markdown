@@ -278,11 +278,11 @@ updated: 2023-05-30
 			- **Black-Dragons**
 				- [[Catacomb-Dragon]]
 				- [[Empyrean-Dragon]]
-				- [[Gorge Dragon]]
-				- [[Huge Black Dragon]]
-				- [[Large Black Dragon]]
-				- [[Medium Black Dragon]]
-				- [[Void Dragon]]
+				- [[Gorge-Dragon]]
+				- [[Huge-Black-Dragon]]
+				- [[Large-Black-Dragon]]
+				- [[Medium-Black-Dragon]]
+				- [[Void-Dragon]]
 			- **Blue-Dragons**
 				- [[Huge-Blue-Dragon]]
 				- [[Large-Blue-Dragon]]
