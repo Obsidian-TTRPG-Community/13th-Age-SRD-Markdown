@@ -26,7 +26,7 @@ actions:
       desc: "15 damage"
       traits:
           - name: "Dual hit"
-            desc: "If both claws hit during the same turn, the bulette can make a terrible bite attack during its next turn as a standard action."
+            desc: "If both claws hit during the same turn, the bulette can make a _terrible bite_ attack during its next turn as a standard action."
 traits:
     - name: "Blood frenzy"
       desc: "The bulette’s crit range expands to 16+ while the escalation die is 4+."
@@ -34,7 +34,7 @@ traits:
       desc: "A bulette can burrow incredibly quickly for short distances. They’re renowned for the mounds of dirt and rock they push above them as they surge through the ground like land torpedoes."
 nastier_traits:
     - name: "Savage response"
-      desc: "When an attacker scores a critical hit against the bulette and it survives, the bulette can make a terrible bite attack as a free action against one target engaged with it."
+      desc: "When an attacker scores a critical hit against the bulette and it survives, the bulette can make a _terrible bite_ attack as a free action against one target engaged with it."
 triggered_actions:
     - name: "Terrible bite +14 vs. AC"
       desc: "45 damage"

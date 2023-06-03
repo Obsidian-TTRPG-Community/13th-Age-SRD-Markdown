@@ -33,19 +33,19 @@ actions:
       desc: "90 damage of the following type (couatl’s choice): fire, holy, or lightning"
       traits:
           - name: "Natural even hit or miss"
-            desc: "The couatl can make a forked devastation attack against a different enemy as a free action."
+            desc: "The couatl can make a _forked devastation_ attack against a different enemy as a free action."
 traits:
     - name: "Cyclic salvation escalator"
       desc: "When the escalation die is even, the couatl adds the escalation die to its attack rolls and saves."
     - name: "Flight"
       desc: "Couatls fly and hover so smoothly on their multi-colored wings that other flyers get jealous."
     - name: "One or two icon-centric abilities"
-      desc: "Choose each appropriate ability from the couatl’s Icon-centered Abilities list."
+      desc: "Choose each appropriate ability from the couatl’s [[Couatls#^13thAge-Couatls-Table|Icon-centered abilities]] list."
     - name: "Resist holy and poison 16+"
       desc: "When a holy or poison attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage."
 nastier_traits:
     - name: "Ever-rippling"
-      desc: "The couatl can use more than one rippling scales attack during its turn."
+      desc: "The couatl can use more than one _rippling scales_ attack during its turn."
     - name: "Flee"
       desc: "Once per campaign, the couatl can take a “campaign loss” similar to the PC-oriented flee special action to escape from certain death, along with its allies."
 ac: "27"
