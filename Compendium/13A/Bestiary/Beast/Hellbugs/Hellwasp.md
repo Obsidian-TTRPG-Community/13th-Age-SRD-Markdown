@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Hellbugs", "13A/Monsters/Type/Spoiler"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -28,13 +28,13 @@ actions:
           - name: "Natural even hit"
             desc: "5 ongoing acid damage (easy save ends, 6+), and the hellwasp can pop free from the target."
 traits:
-    - name: "Virulent injection: When a creature fails a save against the hellwasp’s ongoing acid damage, it gains a random condition until it saves against that damage. Have the player roll a d4 to determine the condition"
-      desc: "1. confused; 2. weakened; 3. dazed; 4. vulnerable."
+    - name: "Virulent injection"
+      desc: "When a creature fails a save against the hellwasp’s ongoing acid damage, it gains a random condition until it saves against that damage. Have the player roll a d4 to determine the condition: 1. confused; 2. weakened; 3. dazed; 4. vulnerable."
     - name: "Flight"
       desc: "Hellwasps are adroit fliers that can hover and even fly backward."
 nastier_traits:
     - name: "Lethal injection"
-      desc: "The save versus the stinger’s ongoing acid damage is a normal save (11+) instead of an easy save."
+      desc: "The save versus the _stinger_’s ongoing acid damage is a normal save (11+) instead of an easy save."
 ac: "18"
 pd: "16"
 md: "12"

@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Hellbugs", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -26,12 +26,12 @@ actions:
       desc: "6 damage"
       traits:
           - name: "Natural even hit"
-            desc: "The swarming maw can teleport to engage a nearby enemy it can see that is already engaged by at least one other hellbug."
-          - name: "Miss"
-            desc: "The first time each battle the serrated maw misses, the target takes 1d4 damage for each hellbug engaged with it."
+            desc: "The swarming maw can teleport to engage a nearby enemy it can see that is already engaged by at least one other hellbug ( #13A/Monsters/Factions/Hellbugs )."
+          - name: "Fist miss each battle"
+            desc: "The first time each battle the _serrated maw_ misses, the target takes `dice: 1d4` damage for each hellbug ( #13A/Monsters/Factions/Hellbugs ) engaged with it."
 nastier_traits:
     - name: "Ongoing swarm"
-      desc: "The serrated maw also deals miss damage the second time it misses with a serrated maw attack each battle."
+      desc: "The swarming maw also deals miss damage the second time it misses with a _serrated maw_ attack each battle."
 ac: "17"
 pd: "15"
 md: "14"
