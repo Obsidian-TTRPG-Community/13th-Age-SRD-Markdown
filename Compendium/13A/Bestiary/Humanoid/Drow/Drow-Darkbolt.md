@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Type/Archer"]
 type: humanoid
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -31,7 +31,7 @@ actions:
       desc: "20 damage, and 6 ongoing damage"
       traits:
           - name: "Natural even hit"
-            desc: "As a free action, the darkbolt can make a second barbed arrows attack against a different enemy with a –2 attack penalty. If it gets another natural even hit, it can make a third (and final) barbed arrows attack against a different enemy with a –4 attack penalty as a free action."
+            desc: "As a free action, the darkbolt can make a second _barbed arrows_ attack against a different enemy with a –2 attack penalty. If it gets another natural even hit, it can make a third (and final) _barbed arrows_ attack against a different enemy with a –4 attack penalty as a free action."
 traits:
     - name: "Darkbolt vanish!"
       desc: "If unengaged, when the darkbolt attacks and rolls a natural even miss, it can step into a shadow-dimension that turn as a move action. While in the shadows, it can’t be seen or targeted with attacks, and it reappears anywhere nearby at the start of its next turn."
@@ -39,7 +39,7 @@ traits:
       desc: "A darkbolt can climb on ceilings and walls as easily as it moves on the ground thanks to its rope-dagger and spiked bracers."
 nastier_traits:
     - name: "Well equipped"
-      desc: "The drow has a potion or poison that it can use as a quick action twice this battle (see Drow Abilities)."
+      desc: "The drow has a potion or poison that it can use as a quick action twice this battle (see [[Drow|Drow Abilities]])."
 ac: "23"
 pd: "21"
 md: "17"

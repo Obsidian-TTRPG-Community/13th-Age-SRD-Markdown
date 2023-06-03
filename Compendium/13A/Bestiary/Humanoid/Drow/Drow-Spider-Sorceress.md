@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Type/Caster"]
 type: humanoid
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -28,7 +28,7 @@ actions:
       desc: "20 damage, and the target is weakened (save ends)"
       traits:
           - name: "Limited use"
-            desc: "Once the sorceress hits with darkfire, she can’t use it again until the target saves."
+            desc: "Once the sorceress hits with _darkfire_, she can’t use it again until the target saves."
     - name: "C: Greater malediction of webs +11 vs. PD (up to 2 nearby enemies in a group)"
       desc: "10 damage, and the target is stuck (save ends) and takes 10 damage each time it fails the save"
 traits:
@@ -39,6 +39,8 @@ traits:
 nastier_traits:
     - name: "Arcane arachnids"
       desc: "The spider-sorceress has a true magic item (probably an implement) and uses it to her benefit (adjust stats accordingly)."
+    - name: "Well equipped"
+      desc: "The drow has a potion or poison that it can use as a quick action twice this battle (see [[Drow|Drow Abilities]])."
 ac: "22"
 pd: "16"
 md: "20"

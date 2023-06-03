@@ -8,7 +8,7 @@ statblock: inline
 strength: "double-strength"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Type/Wrecker"]
 type: humanoid
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -35,14 +35,17 @@ traits:
     - name: "Mounted combatant"
       desc: "Reduce the drow cavalry’s attack damage by 50 when it’s not riding a spider."
     - name: "Spider mount"
-      desc: "Whenever the drow cavalry rolls a natural 1–10 on an attack roll, its spider mount acts independently, choosing one of the following options:"
+      desc: "Whenever the drow cavalry rolls a natural 1–10 on an attack roll, its spider mount acts independently (See [[Spider-Mount|Spider Mount]] for its stats), choosing one of the following options:"
 triggered_actions:
     - name: "Bite"
-      desc: "The spider makes a bite attack."
+      desc: "The spider makes a _bite_ attack."
     - name: "Jump & Scuttle"
       desc: "The spider and its rider pop free from all enemies and can move somewhere nearby."
     - name: "Web"
-      desc: "The spider makes a web attack."
+      desc: "The spider makes a _web_ attack."
+nastier_traits:
+    - name: "Well equipped"
+      desc: "The drow has a potion or poison that it can use as a quick action twice this battle (see [[Drow|Drow Abilities]])."
 ac: "25"
 pd: "23"
 md: "18"
