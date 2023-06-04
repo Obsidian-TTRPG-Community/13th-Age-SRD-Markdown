@@ -27,7 +27,7 @@ actions:
       desc: "4 damage from rows of small, very sharp teeth"
 nastier_traits:
     - name: "Sweet dreams"
-      desc: "Some dainty lizards have a soporific bite that allows them to inject a powerful anesthetic into the wound from a gland located in the roof of its mouth. Make this triggered attack as a follow-up when the _nasty nip_ attack hits with a natural even roll."
+      desc: "Some dainty lizards have a _soporific bite_ that allows them to inject a powerful anesthetic into the wound from a gland located in the roof of its mouth. Make this triggered attack as a follow-up when the _nasty nip_ attack hits with a _natural even roll_."
 triggered_actions:
     - name: "Soporific bite +6 vs. PD"
       desc: "The target rolls a save. If it fails, the target is helpless (–4 to all defences) as it falls unconscious (save ends, or taking 10 damage ends). When a creature falls unconscious this way, each other nearby dainty lizard that is not already engaged will move and attack the target during its next turn."
