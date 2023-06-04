@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Purple-Worm", "13A/Monsters/Type/Mook"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ```statblock
@@ -27,12 +27,13 @@ actions:
       desc: "20 damage"
       traits:
           - name: "Natural even hit or miss"
-            desc: "The larvae can make a tail sting attack against a random enemy engaged with it as a free action."
-    - name: "[Special trigger] Tail sting +13 vs. AC"
-      desc: "5 damage, and 10 ongoing poison damage"
+            desc: "The larvae can make a _tail sting_ attack against a random enemy engaged with it as a free action."
 traits:
     - name: "Merge with worm"
       desc: "Purple larvae can dig quickly in and out of the skin of the purple worm as if they were burrowing but without needing die rolls to succeed."
+triggered_actions:
+    - name: "Tail sting +13 vs. AC"
+      desc: "5 damage, and 10 ongoing poison damage"
 ac: "22"
 pd: "20"
 md: "16"

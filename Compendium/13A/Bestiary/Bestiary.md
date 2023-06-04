@@ -146,7 +146,8 @@ updated: 2023-05-30
 			- [[Swaysong-Naga]]
 		- [[Owlbear]]
 		- [[Phase-Spider]]
-		- **[[Purple-Worm]]**
+		- **Purple-Worm**
+			- [[Purple-Worm]]
 			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Ancient-Purple-Worm]]
 			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Parasitic-Lightning-Beetle]]
 			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Purple-Larva]]
