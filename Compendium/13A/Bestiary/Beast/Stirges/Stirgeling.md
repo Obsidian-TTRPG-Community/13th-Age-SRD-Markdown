@@ -1,5 +1,5 @@
 ---
-aliases: [Stirgelings]
+aliases: [Stirgeling]
 created: 2023-05-28
 level: 0
 publish: 
@@ -8,13 +8,13 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Stirges", "13A/Monsters/Type/Mook"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Stirgelings"
+name: "Stirgeling"
 size: "normal"
 level: "0"
 levelOrdinal: "0th"

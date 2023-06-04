@@ -161,8 +161,10 @@ updated: 2023-05-30
 			- [[iron-Sea-Shark]]
 			- [[Razor-Shark]]
 		- **Stirges**
+			- [[Archer-Stirge]]
+			- [[Cobbler-Stirge]]
 			- [[Stirge]]
-			- [[Stirgelings]]
+			- [[Stirgeling]]
 		- [[Tarrasque]]
 		- **Thunder-Lizard**
 			- [[Clubtail]]
