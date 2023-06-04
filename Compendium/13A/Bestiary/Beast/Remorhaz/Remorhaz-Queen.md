@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -40,8 +40,8 @@ traits:
     - name: "Sluggish initiative"
       desc: "The queen may be sluggish after eating unsuccessful suitors, laying eggs, or moving across the ice like a rushing avalanche. Roll 2d10 to determine her current initiative."
 nastier_traits:
-    - name: "Bejeweled remorhaz: The remorhaz has glowing “jewels” on its armored plates. When a nearby or far away enemy misses with an attack against the remorhaz, that enemy chooses one"
-      desc: "It takes 25 fire damage; OR one piece of its non-magical equipment (something useful, GM’s choice) melts or burns up. Adjust skill checks or stats accordingly."
+    - name: "Bejeweled remorhaz"
+      desc: "The remorhaz has glowing “jewels” on its armored plates. When a nearby or far away enemy misses with an attack against the remorhaz, that enemy chooses one: It takes 25 fire damage; OR one piece of its non-magical equipment (something useful, GM’s choice) melts or burns up. Adjust skill checks or stats accordingly."
     - name: "Remorhaz steamer"
       desc: "The remorhaz is melting the ice/snow all the time and obscuring steam rises into the air. Ranged attacks against the remorhaz take a –2 penalty, or a –4 penalty if the attacker is far away."
     - name: "Spiney remorhaz"
