@@ -3,7 +3,7 @@ aliases: [Naga]
 created: 2023-05-24
 publish: 
 tags: [13A/Monsters/Rules/Naga]
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ## Nastier Special for all Naga
