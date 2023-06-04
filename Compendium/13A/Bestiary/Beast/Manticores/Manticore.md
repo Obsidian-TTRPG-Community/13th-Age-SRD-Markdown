@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Manticores", "13A/Monsters/Type/Archer"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ```statblock
@@ -26,7 +26,7 @@ actions:
       desc: "20 damage"
       traits:
           - name: "Natural 16+"
-            desc: "The manticore can make a single volley of tail spikes attack (one attack roll) against a different target as a free action."
+            desc: "The manticore can make a single _volley of tail spikes_ attack (one attack roll) against a different target as a free action."
     - name: "Crushing leonine jaws +11 vs. AC"
       desc: "30 damage; OR 50 damage against a creature taking ongoing poison damage"
     - name: "C: Volley of tail spikes +13 vs. AC (1d3 nearby or far away enemies in a group)"
@@ -35,7 +35,7 @@ traits:
     - name: "Flight"
       desc: "As the standard monster ability."
     - name: "Poison reservoirs"
-      desc: "Each time the manticore uses its volley of tail spikes attack, it takes 1d6 damage, or 2d6 damage if it is staggered."
+      desc: "Each time the manticore uses its _volley of tail spikes_ attack, it takes 1d6 damage, or 2d6 damage if it is staggered."
 ac: "22"
 pd: "20"
 md: "16"
