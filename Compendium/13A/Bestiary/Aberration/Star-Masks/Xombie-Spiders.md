@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Blocker"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-06-06
 ---
 
 ```statblock
@@ -32,7 +32,7 @@ actions:
       traits:
           - name: "Limited use"
             desc: "1/round, as a quick action. In addition, once a creature has saved against the effect, it can’t be targeted by _chittering call_ attacks again this battle."
-    - name: "[Group ability]Tendril web +7 vs. PD (1d3 enemies engaged with it)"
+    - name: "[Group ability] Tendril web +7 vs. PD (1d3 enemies engaged with it)"
       desc: "The target is stuck (save ends); until the target saves, the xombie spider gains a +1 attack bonus against it"
 traits:
     - name: "Group ability"
