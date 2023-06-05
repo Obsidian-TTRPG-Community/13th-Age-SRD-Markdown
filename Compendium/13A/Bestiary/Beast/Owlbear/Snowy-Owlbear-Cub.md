@@ -1,5 +1,5 @@
 ---
-aliases: [Snowy-Owlbear-Cub]
+aliases: [Snowy Owlbear Cub]
 created: 2023-06-05
 level: 3
 publish: 
@@ -14,7 +14,7 @@ updated: 2023-06-05
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Snowy-Owlbear-Cub"
+name: "Snowy Owlbear Cub"
 size: "weakling"
 level: "3"
 levelOrdinal: "3rd"
