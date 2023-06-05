@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chuuls", "13A/Monsters/Type/Troop"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -28,7 +28,7 @@ actions:
           - name: "Natural even miss"
             desc: "The swarm can pop free from all enemies, and as a quick action this turn, it can move normally even if it has already moved this turn."
           - name: "Natural odd hit or miss"
-            desc: "The swarm can make a sharp claws attack this turn as a quick action instead of a standard action."
+            desc: "The swarm can make a _sharp claws_ attack this turn as a quick action instead of a standard action."
     - name: "Sharp claws +11 vs. AC"
       desc: "10 damage, and 5 ongoing poison damage"
 traits:

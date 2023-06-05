@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chuuls", "13A/Monsters/Type/Spoiler"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -45,7 +45,7 @@ nastier_traits:
     - name: "Bite it off"
       desc: "When the chuul scores a critical hit against a weakened or helpless foe, it bites off one of that enemy’s hands. An adventurer with no hands might have trouble casting spells or holding weapons. (A cleric might be able to restore the missing appendage with a ritual.)"
     - name: "Fueled by hate"
-      desc: "Once per round when the chuul misses with an attack, its next attack that battle deals 4d6 extra poison damage on a hit."
+      desc: "Once per round when the chuul misses with an attack, its next attack that battle deals `dice: 4d6` extra poison damage on a hit."
 ac: "25"
 pd: "18"
 md: "18"
