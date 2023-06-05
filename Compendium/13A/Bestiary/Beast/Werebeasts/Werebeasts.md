@@ -3,10 +3,15 @@ aliases: [Werebeasts]
 created: 2023-05-24
 publish: 
 tags: [13A/Monsters/Factions/Werebeasts]
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 Each werebeast can take one of three forms as a quick action once per round: A humanoid form, a beast form, or a hybrid form that combines the two. The hybrid form is the most powerful in combat, but the humanoid and beast forms are useful for various activities outside of combat as well.
+
+```
+    - name: "Cursed Shapeshifter"
+      desc: "A werebeast can take one of three forms as a quick action once per round: A humanoid form, a beast form, or a hybrid form that combines the two. The hybrid form is the most powerful in combat, but the humanoid and beast forms are useful for various activities outside of combat as well."
+```
 
 The stats below work for the beast and hybrid forms. If a werebeast ends up fighting in humanoid form, subtract 2 from all its defences and halve its normal attack damage.
 
@@ -22,4 +27,4 @@ The stats below work for the beast and hybrid forms. If a werebeast ends up figh
 
 The following ability is extremely nasty when combined with the *bestial fury* most werebeasts have. It’s possibly better used as a story option, a consequence of a problem with a skill check or an icon relationship, or a situation that should have been avoided and may require sacrifices to deal with:
 
-*Moon fury (hybrid form only):_ While fighting in moonlight, a werebeast gains a bonus to damage equal to its level (champion: double its level; epic: triple it).
+*Moon fury (hybrid form only):* While fighting in moonlight, a werebeast gains a bonus to damage equal to its level (champion: double its level; epic: triple it).
