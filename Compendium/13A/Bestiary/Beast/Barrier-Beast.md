@@ -8,7 +8,7 @@ statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -23,7 +23,7 @@ type: "beast"
 initiative: "14"
 vulnerability: "varies (see _if it bleeds_)"
 actions:
-    - name: "Barrier breaker (1 target, or adjusted targets equal to the escalation die; see _melee breaker_ ability below) +16 vs. AC"
+    - name: "Barrier breaker (1 target, or adjusted targets equal to the escalation die; see melee breaker ability below) +16 vs. AC"
       desc: "125 damage"
       traits:
           - name: "Natural even hit or miss"
@@ -41,18 +41,19 @@ traits:
       desc: "The barrier beast’s _barrier breaker_ attack can target 1 engaged enemy, or engaged enemies equal to the escalation die; or the attack can target a nearby enemy for a ‘cost’ of two points on the escalation die. For example, if the escalation die is 6, the attack could target two engaged enemies and two nearby enemies."
     - name: "Wild Ability"
       desc: "Each barrier beasts has one of the following wild abilities."
-    - name: "Amphibious"
-      desc: "The barrier beast can swim underwater swiftly and indefinitely."
-    - name: "Burrowing"
-      desc: "As amphibious, but instead of travelling underwater the barrier beast can “swim” through the earth."
-    - name: "Flight"
-      desc: "The barrier beast can fly very quickly, if not very gracefully."
-    - name: "Mountain Shell"
-      desc: "Twice per battle as a standard action, the barrier beast can gain a +4 to all defences until it makes an attack."
-    - name: "Regrowth"
-      desc: "Twice per battle as a standard action, the barrier beast can regain 100 hit points."
-    - name: "Beast surge: Once per round when a barrier beast takes more than 100 damage from an attack, all enemy-caused conditions affecting the barrier beast end. Then the barrier beast rolls a normal save; if the save succeeds, the barrier beast gets an additional free action that depends on its _wild ability_ (see below)"
-      desc: "<br/>If the barrier beast has _amphibious, burrowing, or flight_, it can choose to swim/burrow/ or fly someplace faraway without taking opportunity attacks as a free action. At the start of its next turn, the barrier beast gains a free move action.<br/>If the barrier beasts has _mountain shell_, it uses it as a free action that does not count against its uses of the ability.<br/>If the barrier beast has _regrowth_, it can use that ability as a free action as a free action that does not count against its uses of the ability."
+      traits:
+          - name: "Amphibious"
+            desc: "The barrier beast can swim underwater swiftly and indefinitely."
+          - name: "Burrowing"
+            desc: "As amphibious, but instead of travelling underwater the barrier beast can “swim” through the earth."
+          - name: "Flight"
+            desc: "The barrier beast can fly very quickly, if not very gracefully."
+          - name: "Mountain Shell"
+            desc: "Twice per battle as a standard action, the barrier beast can gain a +4 to all defenses until it makes an attack."
+          - name: "Regrowth"
+            desc: "Twice per battle as a standard action, the barrier beast can regain 100 hit points."
+    - name: "Beast surge"
+      desc: "Once per round when a barrier beast takes more than 100 damage from an attack, all enemy-caused conditions affecting the barrier beast end. Then the barrier beast rolls a normal save; if the save succeeds, the barrier beast gets an additional free action that depends on its _wild ability_ (see below):<br/>If the barrier beast has _amphibious_, _burrowing_, or _flight_, it can choose to swim/burrow/ or fly someplace faraway without taking opportunity attacks as a free action. At the start of its next turn, the barrier beast gains a free move action.<br/>If the barrier beasts has _mountain shell_, it uses it as a free action that does not count against its uses of the ability.<br/>If the barrier beast has _regrowth_, it can use that ability as a free action as a free action that does not count against its uses of the ability."
     - name: "Beast resilience"
       desc: "At-will and basic attacks do not deal miss damage to a barrier beast, and when an attack against AC or PD targets this creature it deals half damage unless the natural attack roll is 16+.<br/>This ability does not work against attacks it is vulnerable to, and ends when the escalation die is 6+."
     - name: "Shrug"
@@ -65,15 +66,15 @@ nastier_traits:
     - name: "Wilder beast"
       desc: "The barrier beast has two (or even three!) _wild abilities_ instead of one. Choose which additional effect is used each time beast surge is triggered."
     - name: "Breath weapon"
-      desc: "When the escalation die is even the barrier beast can make a _breath weapon_ attack as a quick action once per round, or use it as the additional effect when _beast surge_ is triggered. Pick or roll a random energy type that is different from the vulnerability of the barrier beast. _Breath weapon_ does that type of damage"
+      desc: "When the escalation die is even the barrier beast can make a _breath weapon_ attack as a quick action once per round, or use it as the additional effect when _beast surge_ is triggered. Pick or roll a random energy type that is different from the vulnerability of the barrier beast. _Breath weapon_ does that type of damage."
 triggered_actions:
     - name: "C: Breath weapon +16 vs. PD (1d4 nearby or faraway enemies in a group)"
-      desc: "40 damage"
+      desc: "40 damage of the chosen type"
       traits:
           - name: "Natural 16+"
-            desc: "20 ongoing damage"
+            desc: "20 ongoing damage of the chosen type"
           - name: "Miss"
-            desc: "20 damage"
+            desc: "20 damage of the chosen type"
 ac: "26"
 pd: "24"
 md: "20"

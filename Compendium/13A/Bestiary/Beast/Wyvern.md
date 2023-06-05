@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/None"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -26,15 +26,16 @@ actions:
       desc: "35 damage"
       traits:
           - name: "Natural even hit"
-            desc: "The wyvern can make a deadly tail stinger attack during its next turn."
-    - name: "[Special trigger] Deadly tail stinger +10 vs. PD"
-      desc: "15 damage, and the target takes 10 ongoing poison damage (difficult save ends, 16+)"
+            desc: "The wyvern can make a _deadly tail stinger_ attack during its next turn."
 traits:
     - name: "Flight"
       desc: "As the standard monster ability."
 nastier_traits:
     - name: "Escalating poison"
       desc: "Add the escalation die to the wyvern’s ongoing poison damage whenever that damage is dealt."
+triggered_actions:
+    - name: "Deadly tail stinger +10 vs. PD"
+      desc: "15 damage, and the target takes 10 ongoing poison damage (difficult save ends, 16+)"
 ac: "20"
 pd: "19"
 md: "14"

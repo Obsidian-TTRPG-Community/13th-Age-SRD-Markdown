@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -41,18 +41,19 @@ traits:
 nastier_traits:
     - name: "Dire Feature"
       desc: "Add a dire feature. Roll a d6."
-    - name: "1"
-      desc: "_Armor plates_—Add +2 to the dire animal’s AC, and add +1 to its PD."
-    - name: "2"
-      desc: "_Spiky bits_—Whenever an enemy hits the hound with a melee attack, deal 10 damage to that attacker."
-    - name: "3"
-      desc: "_Carnage_—The hound’s attacks that miss deal 5 damage. When staggered, its missed attacks deal 10 damage."
-    - name: "4"
-      desc: "_Poison_—Savage bite also deals 10 ongoing poison."
-    - name: "5"
-      desc: "_Dire regeneration_—When the escalation die is even, the hound heals 15 hp."
-    - name: "6"
-      desc: "_Fury_—While staggered, the hound gains a +2 attack bonus and deals +4 damage, but at the end of each of its turns it takes 2d6 damage."
+      traits:
+          - name: "1. Armor plates"
+            desc: "Add +2 to the dire animal’s AC, and add +1 to its PD."
+          - name: "2. Spiky bits"
+            desc: "Whenever an enemy hits the hound with a melee attack, deal 10 damage to that attacker."
+          - name: "3. Carnage"
+            desc: "The hound’s attacks that miss deal 5 damage. When staggered, its missed attacks deal 10 damage."
+          - name: "4. Poison"
+            desc: "Savage bite also deals 10 ongoing poison."
+          - name: "5. Dire regeneration"
+            desc: "When the escalation die is even, the hound heals 15 hp."
+          - name: "6. Fury"
+            desc: "While staggered, the hound gains a +2 attack bonus and deals +4 damage, but at the end of each of its turns it takes 2d6 damage."
 ac: "18"
 pd: "17"
 md: "12"
