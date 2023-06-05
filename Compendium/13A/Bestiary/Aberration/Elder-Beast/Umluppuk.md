@@ -8,7 +8,7 @@ statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Elder-Beasts", "13A/Monsters/Type/Spoiler"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-06
 ---
 
 ```statblock
@@ -39,10 +39,10 @@ traits:
       desc: "When a psychic attack targets this creature, the attacker must roll a natural 18+ on the attack roll or it only deals half damage."
 nastier_traits:
     - name: "Consume"
-      desc: "Once per round during its turn, the umluppuk can make a consume attack against a stuck enemy as a quick action. The umluppuk can only have one target consumed at a time."
+      desc: "Once per round during its turn, the umluppuk can make a _consume_ attack against a stuck enemy as a quick action. The umluppuk can only have one target consumed at a time."
 triggered_actions:
     - name: "Consume +12 vs. PD (one stuck enemy)"
-      desc: "50 damage, and the target takes 10 ongoing acid damage and is absorbed into the umluppuk (hard save ends both, 16+); while inside the umluppuk, the target is vulnerable to the umluppuk’s pods of mouths and eyes attacks (attacks vs. it have crit range expanded by 2), and it’s stuck."
+      desc: "50 damage, and the target takes 10 ongoing acid damage and is absorbed into the umluppuk (hard save ends both, 16+); while inside the umluppuk, the target is vulnerable to the umluppuk’s pods of mouths and eyes attacks _(attacks vs. it have crit range expanded by 2)_, and it’s stuck."
 ac: "23"
 pd: "21"
 md: "20"
