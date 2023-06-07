@@ -8,7 +8,7 @@ statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-07
 ---
 
 ```statblock
@@ -28,14 +28,14 @@ actions:
           - name: "Natural even hit"
             desc: "The otyugh can grab the target."
           - name: "Natural 18 or 20"
-            desc: "The otyugh can grab the target and make a big toothy maw attack against it as a free action."
+            desc: "The otyugh can grab the target and make a _big toothy maw_ attack against it as a free action."
     - name: "Big toothy maw +12 vs. AC (one enemy it’s grabbing; includes +4 grab bonus)"
       desc: "16 damage"
 traits:
     - name: "Trash nest defense"
       desc: "The otyugh gains a +2 bonus to all defences while fighting in its nest or in similar piles of excrement and trash."
     - name: "Tentacle flail"
-      desc: "Once per round, an otyugh can make a grasping tentacles attack as a free action against a moving nearby creature it is not engaged with; on a natural even hit, the target is grabbed and its movement stops."
+      desc: "Once per round, an otyugh can make a _grasping tentacles_ attack as a free action against a moving nearby creature it is not engaged with; on a natural even hit, the target is grabbed and its movement stops."
 ac: "19"
 pd: "17"
 md: "13"

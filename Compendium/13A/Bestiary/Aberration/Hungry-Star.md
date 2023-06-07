@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-07
 ---
 
 ```statblock
@@ -36,7 +36,7 @@ actions:
             desc: "While the target is taking the ongoing psychic damage, it is confused instead of dazed."
 traits:
     - name: "Group ability"
-      desc: "For every two hungry stars in the battle (round up), one of them can use warp-pulse once during the battle."
+      desc: "For every two hungry stars in the battle (round up), one of them can use _warp-pulse_ once during the battle."
     - name: "Limited flight"
       desc: "Hungry stars flap and glide and hover, always within seven or eight feet of the ground."
 ac: "16"
