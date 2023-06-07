@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Blocker"]
 type: devil
 updated: 2023-05-31
 ---

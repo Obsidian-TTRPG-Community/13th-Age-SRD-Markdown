@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Leader"]
 type: devil
 updated: 2023-05-31
 ---

@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Spoiler"]
 type: devil
 updated: 2023-05-31
 ---

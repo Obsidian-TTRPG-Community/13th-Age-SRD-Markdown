@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: weakling 
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Troop"]
 type: Devil
 updated: 2023-05-31
 ---
