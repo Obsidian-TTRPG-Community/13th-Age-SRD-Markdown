@@ -3,7 +3,7 @@ aliases: [Baseline Stats for Huge or Triple-Strength Monsters]
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Huge]
+tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Strength/Huge]
 updated: 2023-05-29
 ---
 

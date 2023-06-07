@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Stirges", "13A/Monsters/Type/blocker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Stirges", "13A/Monsters/Role/Blocker"]
 type: beast
 updated: 2023-06-05
 ---

@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: elite
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Xorn", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Xorn", "13A/Monsters/Role/Troop"]
 type: elemental
 updated: 2023-05-31
 ---

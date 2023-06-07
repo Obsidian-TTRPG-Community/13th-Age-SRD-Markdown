@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Role/Caster"]
 type: aberration
 updated: 2023-06-06
 ---

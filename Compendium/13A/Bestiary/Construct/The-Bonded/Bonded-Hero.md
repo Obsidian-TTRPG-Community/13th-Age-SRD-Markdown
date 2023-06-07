@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: "triple-strength"
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Role/Wrecker"]
 type: construct
 updated: 2023-05-30
 ---

@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: "double-strength"
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Sahuagin"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Sahuagin"]
 type: beast
 updated: 2023-05-31
 ---

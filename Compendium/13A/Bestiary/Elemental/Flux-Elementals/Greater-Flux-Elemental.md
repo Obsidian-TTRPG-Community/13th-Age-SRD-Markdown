@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: Normal
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Flux-Elemental", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Flux-Elemental", "13A/Monsters/Role/Troop"]
 type: elemental
 updated: 2023-06-06
 ---

@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/The-Saved"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Caster", "13A/Monsters/Factions/The-Saved"]
 type: humanoid
 updated: 2023-05-31
 ---

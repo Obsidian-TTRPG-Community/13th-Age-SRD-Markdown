@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: "triple-strength"
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Role/Troop"]
 type: construct
 updated: 2023-05-30
 ---

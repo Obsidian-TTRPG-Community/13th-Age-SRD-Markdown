@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: "triple-strength"
-tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Eidolon", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Eidolon", "13A/Monsters/Role/Troop"]
 type: spirit
 updated: 2023-05-31
 ---

@@ -5,7 +5,7 @@ level: 3
 publish: 
 statblock: inline
 strength: normal
-tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Mook, 13A/Monsters/Factions/Azer]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Azer"]
 updated: 2023-06-05
 ---
 

@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Role/Leader"]
 type: giant
 updated: 2023-05-31
 ---

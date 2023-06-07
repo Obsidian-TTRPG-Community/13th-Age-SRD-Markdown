@@ -5,7 +5,7 @@ level: 10
 publish: 
 role: blocker
 strength: normal
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Role/Blocker"]
 type: construct
 updated: 2023-05-30
 ---

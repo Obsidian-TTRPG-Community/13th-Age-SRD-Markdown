@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: "double-strength"
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Role/Caster"]
 type: undead
 updated: 2023-05-31
 ---

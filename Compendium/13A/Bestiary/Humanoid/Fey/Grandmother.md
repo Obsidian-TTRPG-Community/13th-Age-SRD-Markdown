@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: "triple-strength"
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Role/Caster"]
 type: humanoid
 updated: 2023-05-31
 ---

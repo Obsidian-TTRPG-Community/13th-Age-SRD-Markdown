@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: "double-strength"
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghosts", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghosts", "13A/Monsters/Role/Wrecker"]
 type: undead
 updated: 2023-05-31
 ---

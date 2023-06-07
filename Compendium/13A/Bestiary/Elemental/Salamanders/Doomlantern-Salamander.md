@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Salamanders", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Salamanders", "13A/Monsters/Role/Blocker"]
 type: elemental
 updated: 2023-05-31
 ---

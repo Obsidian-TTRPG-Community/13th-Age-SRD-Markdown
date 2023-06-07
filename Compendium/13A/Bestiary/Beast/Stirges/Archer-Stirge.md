@@ -6,7 +6,7 @@ publish:
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Stirges", "13A/Monsters/Type/archer"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Stirges", "13A/Monsters/Role/Archer"]
 type: beast
 updated: 2023-06-05
 ---

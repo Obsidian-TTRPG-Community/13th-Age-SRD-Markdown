@@ -6,7 +6,7 @@ publish:
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Archer", "13A/Monsters/Factions/Redcaps"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Archer", "13A/Monsters/Factions/Redcaps"]
 type: humanoid
 updated: 2023-05-31
 ---

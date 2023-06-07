@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Role/Wrecker"]
 type: beast
 updated: 2023-06-04
 ---

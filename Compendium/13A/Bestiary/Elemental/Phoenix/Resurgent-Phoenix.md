@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Phoenix", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Phoenix", "13A/Monsters/Role/Leader"]
 type: elemental
 updated: 2023-05-31
 ---

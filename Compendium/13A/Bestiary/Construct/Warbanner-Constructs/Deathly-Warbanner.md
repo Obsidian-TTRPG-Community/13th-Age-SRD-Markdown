@@ -5,7 +5,7 @@ level: 4
 publish: 
 role: caster
 strength: "double-strength"
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Warbanners", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Warbanners", "13A/Monsters/Role/Caster"]
 type: construct
 updated: 2023-05-30
 ---

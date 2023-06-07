@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Intellect-Devourers", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Intellect-Devourers", "13A/Monsters/Role/Spoiler"]
 type: aberration
 updated: 2023-06-06
 ---

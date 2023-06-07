@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/spoiler", "13A/Monsters/Factions/Owlbears"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Spoiler", "13A/Monsters/Factions/Owlbears"]
 type: beast
 updated: 2023-06-05
 ---

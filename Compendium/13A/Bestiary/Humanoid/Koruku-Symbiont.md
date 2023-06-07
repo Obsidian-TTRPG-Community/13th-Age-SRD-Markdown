@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Koruku"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Spoiler", "13A/Monsters/Factions/Koruku"]
 type: humanoid
 updated: 2023-06-04
 ---

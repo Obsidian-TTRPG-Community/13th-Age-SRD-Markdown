@@ -6,7 +6,7 @@ publish:
 role: archer
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Manticores", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Manticores", "13A/Monsters/Role/Archer"]
 type: beast
 updated: 2023-06-04
 ---

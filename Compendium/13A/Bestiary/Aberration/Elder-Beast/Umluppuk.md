@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Elder-Beasts", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Elder-Beasts", "13A/Monsters/Role/Spoiler"]
 type: aberration
 updated: 2023-06-06
 ---

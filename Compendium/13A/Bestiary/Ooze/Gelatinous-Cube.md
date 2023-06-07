@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Ooze", "13A/Monsters/Factions/None", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Ooze", "13A/Monsters/Factions/None", "13A/Monsters/Role/Blocker"]
 type: ooze
 updated: 2023-05-31
 ---

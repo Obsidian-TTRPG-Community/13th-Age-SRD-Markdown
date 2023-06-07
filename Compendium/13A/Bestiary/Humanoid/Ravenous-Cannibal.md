@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Wendigo"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Wendigo"]
 type: humanoid
 updated: 2023-05-31
 ---

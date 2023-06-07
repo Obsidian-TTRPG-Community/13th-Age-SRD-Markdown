@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Fallen-Icon-Nature"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Spoiler", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: beast
 updated: 2023-06-05
 ---

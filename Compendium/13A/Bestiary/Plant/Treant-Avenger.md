@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Fallen-Icon-Nature"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: plant
 updated: 2023-05-31
 ---

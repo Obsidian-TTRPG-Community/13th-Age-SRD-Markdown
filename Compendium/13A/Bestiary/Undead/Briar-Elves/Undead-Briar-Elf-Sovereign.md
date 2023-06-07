@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: double-strength
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/leader"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Role/Leader"]
 type: undead
 updated: 2023-05-31
 ---

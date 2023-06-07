@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Phoenix", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Phoenix", "13A/Monsters/Role/Spoiler"]
 type: elemental
 updated: 2023-05-31
 ---

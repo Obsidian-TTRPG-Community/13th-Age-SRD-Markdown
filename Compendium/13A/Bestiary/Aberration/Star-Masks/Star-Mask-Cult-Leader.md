@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: "double-strength"
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Role/Leader"]
 type: aberration
 updated: 2023-06-07
 ---

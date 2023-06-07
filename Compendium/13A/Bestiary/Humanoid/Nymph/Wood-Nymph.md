@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: "double-strength"
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Nymph"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Spoiler", "13A/Monsters/Factions/Nymph"]
 type: humanoid
 updated: 2023-05-31
 ---

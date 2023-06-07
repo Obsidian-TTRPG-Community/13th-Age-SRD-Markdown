@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: "double-strength"
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Role/Spoiler"]
 type: plant
 updated: 2023-05-31
 ---

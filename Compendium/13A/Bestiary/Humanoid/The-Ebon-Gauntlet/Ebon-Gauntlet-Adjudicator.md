@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/humanoid", "13A/Monsters/Type/wrecker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Wrecker"]
 type: humanoid
 updated: 2023-05-31
 ---
