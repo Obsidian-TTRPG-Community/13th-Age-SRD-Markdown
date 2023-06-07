@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Dragon-Other/Shadow"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Dragons/Other/Shadow"]
 type: dragon
 updated: 2023-05-31
 ---

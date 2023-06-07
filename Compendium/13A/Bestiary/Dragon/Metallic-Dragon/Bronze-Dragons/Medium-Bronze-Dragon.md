@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic/Bronze", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons/Metallic/Bronze", "13A/Monsters/Role/Wrecker"]
 type: dragon
 updated: 2023-05-31
 ---

@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Black", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons/Chromatic/Black", "13A/Monsters/Role/Caster"]
 type: dragon
 updated: 2023-06-02
 ---

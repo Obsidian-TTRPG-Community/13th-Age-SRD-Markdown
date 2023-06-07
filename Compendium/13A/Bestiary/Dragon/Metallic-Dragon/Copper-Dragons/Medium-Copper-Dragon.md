@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Metallic/Copper", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons/Metallic/Copper", "13A/Monsters/Role/Spoiler"]
 type: dragon
 updated: 2023-05-31
 ---
