@@ -2,7 +2,7 @@
 aliases: [13th Age Bestiary, Monsters Reference]
 created: 2023-05-29
 publish: 
-tags: [13a/Bestiary]
+tags: [13A/Bestiary]
 updated: 2023-05-30
 ---
 
@@ -96,7 +96,7 @@ updated: 2023-05-30
 		- **[[Couatls]]**
 			- [[Couatl]]
 			- [[Elder-Couatl]]
-		- **[[Compendium/13A/Bestiary/Beast/Drow-Beasts/Drow]]**
+		- **[[Compendium/13A/Bestiary/Beast/Drow/Drow|Beast/Drow]]**
 			- [[Lokkris]]
 			- [[Spider-Mount]]
 		- **[[Elemental-Beasts]]**
@@ -148,9 +148,9 @@ updated: 2023-05-30
 		- [[Phase-Spider]]
 		- **Purple-Worm**
 			- [[Purple-Worm]]
-			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Ancient-Purple-Worm]]
-			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Parasitic-Lightning-Beetle]]
-			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Purple-Larva]]
+			- [[Ancient-Purple-Worm|Ancient Purple Worm]]
+			- [[Parasitic-Lightning-Beetle|Parasitic Lightning Beetle]]
+			- [[Purple-Larva|Purple Larva]]
 		- **Remorhaz**
 			- [[Adult-Remorhaz]]
 			- [[Barbellite]]
@@ -357,7 +357,7 @@ updated: 2023-05-30
 		- [[Epic-Water-Elemental]]
 		- [[Fire-Elemental]]
 		- **Flux-Elementals**
-		- **[[Compendium/13A/Bestiary/Elemental/Nymph-Elemental/Nymph]]**
+		- **[[Compendium/13A/Bestiary/Elemental/Nymph/Nymph|Nymph]]**
 			- [[Wild-Dryad]]
 			- [[Wild-Naiad]]
 			- [[Wild-Nereid]]
