@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Mook"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-06-07
 ---
 
 ```statblock
@@ -31,7 +31,7 @@ actions:
 traits:
     - name: "Group ability"
       desc: "For every three star-mask floating brains in the battle (round up), one of them can use _psychic puppetry_ once during the battle."
-    - name: "Psychic puppetry (group)"
+    - name: "[Group ability] Psychic puppetry"
       desc: "When a star-mask floating brain scores a critical hit with _psychic pulse_, instead of dealing extra damage, the target becomes confused (save ends) instead of hampered."
     - name: "Hovering brain"
       desc: "The brain uses telepathic energy to float in the air at about head height."

@@ -54,7 +54,7 @@ updated: 2023-05-30
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Cult-Puppet|Star Mask Cult Puppet]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Cultist|Star Mask Cultist]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Floating-Brain|Star Mask Floating Brain]]
-			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Omnipotent|Star Mask Omnipotent]]
+			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Omnipotent-Brain|Star Mask Omnipotent Brain]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Xombie-Egg-Swarm|Xombie Egg Swarm]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Xombie-Spiders|Xombie Spiders]]
 		- [[Compendium/13A/Bestiary/Aberration/Whispering-Prophet|Whispering Prophet]]

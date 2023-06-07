@@ -8,7 +8,7 @@ statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Troop"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-06-06
 ---
 
 ```statblock

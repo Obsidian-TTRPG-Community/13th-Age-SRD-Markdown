@@ -1,5 +1,5 @@
 ---
-aliases: [Star Mask Omnipotent]
+aliases: [Star Mask Omnipotent Brain]
 created: 2023-05-29
 level: 12
 publish: 
@@ -8,13 +8,13 @@ statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Caster"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-06-07
 ---
 
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Star-Mask Omnipotent"
+name: "Star Mask Omnipotent Brain"
 size: "huge"
 level: "12"
 levelOrdinal: "12th"
@@ -30,8 +30,8 @@ actions:
     - name: "C: Psionic supremacy +17 vs. MD (one nearby or faraway enemy)"
       desc: "35 ongoing psychic damage"
       traits:
-          - name: "Aftereffect: When the target saves against the ongoing damage, it must choose one"
-            desc: "it makes a basic attack against itself or an ally with its next standard action, OR it becomes weakened (–4 to attacks and defences) until the end of its next turn."
+          - name: "Aftereffect"
+            desc: "When the target saves against the ongoing damage, it must choose one: it makes a basic attack against itself or an ally with its next standard action, OR it becomes weakened (–4 to attacks and defences) until the end of its next turn."
           - name: "Limited use"
             desc: "2/round, as separate quick actions."
           - name: "Miss"
