@@ -39,7 +39,7 @@ updated: 2023-05-30
 		- [[Compendium/13A/Bestiary/Aberration/Rust-Monster|Rust Monster]]
 		- **Soul-Flensers**
 			- [[Compendium/13A/Bestiary/Aberration/Soul-Flensers/Soul-Flenser|Soul Flenser]]
-			- [[Compendium/13A/Bestiary/Aberration/Soul-Flensers/The-Flenses|The Flenses]]
+			- [[The-Flensed|The Flenses]]
 		- **[[Star-Masks]]**
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Brain-Absorber-Xombie|Brain Absorber Xombie]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Fast-Xombie|Fast Xombie]]

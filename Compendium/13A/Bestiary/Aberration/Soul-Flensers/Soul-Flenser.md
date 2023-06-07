@@ -44,7 +44,7 @@ traits:
     - name: "Intellect fortress"
       desc: "When an enemy misses the soul flenser with an attack against MD, that attacker takes half the miss damage, if any."
     - name: "Underkraken teleport"
-      desc: "A soul flenser that has successfully flensed at least once can (and usually will, provided some of its enemies are confused, weakened, or stunned) use a standard action to prepare itself to teleport. Once it does this, during its next turn it can use a move action to teleport back to its home underkraken, no matter how distant, leaving the battle behind. Soul flensers fighting beside or within their underkraken can’t use this ability; they’re already home."
+      desc: "A soul flenser that has successfully flensed at least once can (and usually will, provided some of its enemies are confused, weakened, or stunned) use a standard action to prepare itself to teleport. Once it does this, during its next turn it can use a move action to teleport back to its home underkraken, no matter how distant, leaving the battle behind. Soul flensers fighting beside or within their [[Underkrakens|underkraken]] can’t use this ability; they’re already home."
 nastier_traits:
     - name: "Flensing escalator"
       desc: "The soul flenser gains an attack bonus equal to the escalation die against creatures that have had one or more powers flensed away."

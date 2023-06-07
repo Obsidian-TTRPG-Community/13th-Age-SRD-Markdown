@@ -1,5 +1,5 @@
 ---
-aliases: [The Flenses]
+aliases: [The Flensed]
 created: 2023-05-28
 level: 9
 publish: 
@@ -14,7 +14,7 @@ updated: 2023-05-31
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "The Flenses"
+name: "The Flensed"
 size: "normal"
 level: "9"
 levelOrdinal: "9th"
