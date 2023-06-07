@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: weakling
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Demons"]
 type: demon
 updated: 2023-05-31
 ---

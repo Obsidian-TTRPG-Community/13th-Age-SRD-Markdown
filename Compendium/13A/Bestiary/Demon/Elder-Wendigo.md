@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Wendigo", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Wendigo", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Spoiler"]
 type: demon
 updated: 2023-05-31
 ---

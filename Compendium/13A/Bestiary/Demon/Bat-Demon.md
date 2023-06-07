@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Mook"]
 type: demon
 updated: 2023-05-31
 ---
@@ -14,7 +14,7 @@ updated: 2023-05-31
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Bat-Demon"
+name: "Bat Demon"
 size: "normal"
 level: "6"
 levelOrdinal: "6th"

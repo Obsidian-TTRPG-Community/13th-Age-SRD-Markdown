@@ -6,7 +6,7 @@ publish:
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/archer", "13A/Monsters/Factions/Bone-Imp"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Role/Archer", "13A/Monsters/Factions/Bone-Imp", "13A/Monsters/Factions/Demons"]
 type: demon
 updated: 2023-05-31
 ---

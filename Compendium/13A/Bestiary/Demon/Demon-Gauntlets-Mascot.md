@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Role/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets", "13A/Monsters/Factions/Demons"]
 type: Demon
 updated: 2023-05-31
 ---
