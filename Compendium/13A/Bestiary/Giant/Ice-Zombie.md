@@ -1,14 +1,11 @@
 ---
 aliases: [Ice Zombie]
-created: 2023-05-23
 level: 6
-publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Mook"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

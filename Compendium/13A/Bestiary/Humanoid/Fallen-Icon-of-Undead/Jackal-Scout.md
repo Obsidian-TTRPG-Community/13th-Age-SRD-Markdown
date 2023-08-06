@@ -1,14 +1,11 @@
 ---
 aliases: [Jackal Scout]
-created: 2023-05-29
 level: 5
-publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Archer"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

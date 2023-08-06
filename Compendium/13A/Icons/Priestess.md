@@ -1,9 +1,6 @@
 ---
 aliases: ["Priestess"]
-created: 2023-05-18
-publish: 
 tags: [13A/Icons/Priestess]
-updated: 2023-05-30
 ---
 
 ## The Priestess

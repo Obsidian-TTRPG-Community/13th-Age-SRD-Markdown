@@ -1,9 +1,6 @@
 ---
 aliases: [Fallen Icons of Undead]
-created: 2023-05-28
-publish: 
 tags: [13A/Monsters/Factions/Fallen-Icon-Undead]
-updated: 2023-05-31
 ---
 
 ## PC Victories

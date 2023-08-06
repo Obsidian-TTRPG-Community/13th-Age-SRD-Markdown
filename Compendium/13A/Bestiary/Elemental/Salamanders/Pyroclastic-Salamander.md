@@ -1,14 +1,11 @@
 ---
 aliases: [Pyroclastic Salamander]
-created: 2023-05-29
 level: 12
-publish: 
 role: troop
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Salamanders", "13A/Monsters/Type/Troop"]
 type: elemental
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,14 +1,11 @@
 ---
 aliases: [Undead Briar Elf Sovereign]
-created: 2023-05-30
 level: 12
-publish: 
 role: leader
 statblock: inline
 strength: 2×
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/leader"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

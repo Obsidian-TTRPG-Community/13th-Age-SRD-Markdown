@@ -1,14 +1,11 @@
 ---
 aliases: [Frogspawn Grunt]
-created: 2023-05-29
 level: 2
-publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Type/Mook"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

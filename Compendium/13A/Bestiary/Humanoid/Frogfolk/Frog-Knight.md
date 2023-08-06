@@ -1,14 +1,11 @@
 ---
 aliases: [Frog Knight]
-created: 2023-05-29
 level: 5
-publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Type/Blocker"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

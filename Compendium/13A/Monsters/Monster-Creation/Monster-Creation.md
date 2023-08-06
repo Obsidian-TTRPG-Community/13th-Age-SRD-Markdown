@@ -1,10 +1,6 @@
 ---
 aliases: [Monster Creation]
-created: 2023-05-30
-permalink: 
-publish: 
 tags: [13A/Monsters/Creation]
-updated: 2023-05-30
 ---
 
 ## Index

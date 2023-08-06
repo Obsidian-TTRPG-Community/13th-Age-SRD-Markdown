@@ -1,10 +1,6 @@
 ---
 aliases: [13th AgeMonster Key]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Monsters/Rules/Key]
-updated: 2023-05-29
 ---
 
 ## Monster Key
@@ -79,10 +75,9 @@ effects are save ends.</p></td>
 </tbody>
 </table>
 
-
 ### Fantasy Statblock Version
 
-> [!info]- Image of a Complete Statblock
+> [!info]- Image of a Complete Statblock  
 > ![[Compendium/13A/Monsters/Monster-Key-image-1.png]]
 
 ## Explanation

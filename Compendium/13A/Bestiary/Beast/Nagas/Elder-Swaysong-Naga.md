@@ -1,14 +1,11 @@
 ---
 aliases: [Elder Swaysong Naga]
-created: 2023-05-28
 level: 8
-publish: 
 role: leader
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Nagas", "13A/Monsters/Type/Leader"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

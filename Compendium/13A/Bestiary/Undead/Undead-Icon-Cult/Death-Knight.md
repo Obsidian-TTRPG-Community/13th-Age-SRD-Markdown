@@ -1,14 +1,11 @@
 ---
 aliases: [Death Knight]
-created: 2023-05-29
 level: 8
-publish: 
 role: wrecker
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Wrecker"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

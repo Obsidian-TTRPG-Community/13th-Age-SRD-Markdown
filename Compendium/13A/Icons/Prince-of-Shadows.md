@@ -1,9 +1,6 @@
 ---
 aliases: [Prince of Shadows]
-created: 2023-05-18
-publish: 
 tags: [13A/Icons/Prince-of-Shadows]
-updated: 2023-05-30
 ---
 
 ## Prince of Shadows

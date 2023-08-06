@@ -1,10 +1,6 @@
 ---
 aliases: [Highblood Teleport]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/High-Elf/Power]
-updated: 2023-05-29
 ---
 
 ## Highblood Teleport

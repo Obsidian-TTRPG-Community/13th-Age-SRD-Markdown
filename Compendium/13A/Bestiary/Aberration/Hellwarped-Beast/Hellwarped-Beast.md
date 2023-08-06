@@ -1,9 +1,6 @@
 ---
 aliases: [Hellwarped Beast]
-created: 2023-05-28
-publish: 
 tags: [13A/Monsters/Factions/Hellwarped-Beast]
-updated: 2023-05-31
 ---
 
 ## Aberrant Attack Table

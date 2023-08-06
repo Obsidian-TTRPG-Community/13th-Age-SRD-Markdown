@@ -1,10 +1,7 @@
 ---
 aliases: ["13th Age and Eberron"]
-created: 2316-02-07
-publish: 
 source: [https://keith-baker.com/eberron-and-13th-age/]
 tags: [13A/Settings/Eberron]
-updated: 2023-05-31
 ---
 
 > [!summary] 13th Age and Eberron  

@@ -1,10 +1,6 @@
 ---
 aliases: ["Group Abilities"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Monsters/Rules/Groups]
-updated: 2023-05-29
 ---
 
 ## Group Abilities

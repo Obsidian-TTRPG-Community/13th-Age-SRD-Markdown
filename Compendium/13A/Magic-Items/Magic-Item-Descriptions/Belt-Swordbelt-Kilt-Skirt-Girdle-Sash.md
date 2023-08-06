@@ -1,10 +1,6 @@
 ---
 aliases: ["Belt, Swordbelt, Kilt, Skirt, Girdle, Sash"]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Belt, 13A/Items/Magic/Descriptions/Swordbelt, 13A/Items/Magic/Descriptions/Kilt, 13A/Items/Magic/Descriptions/Skirt, 13A/Items/Magic/Descriptions/Girdle, 13A/Items/Magic/Descriptions/Sash]
-updated: 2023-05-29
 ---
 
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash

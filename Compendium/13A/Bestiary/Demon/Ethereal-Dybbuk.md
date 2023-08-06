@@ -1,14 +1,11 @@
 ---
 aliases: [Ethereal Dybbuk]
-created: 2023-05-23
 level: 7
-publish: 
 role: wrecker
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: demon
-updated: 2023-05-31
 ---
 
 ```statblock

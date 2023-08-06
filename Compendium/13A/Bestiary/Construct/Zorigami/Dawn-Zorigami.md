@@ -1,13 +1,10 @@
 ---
 aliases: [Dawn Zorigami]
-created: 2023-05-23
 level: 3
-publish: 
 role: spoiler
 strength: normal
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Zorigami", "13A/Monsters/Type/Spoiler"]
 type: construct
-updated: 2023-05-30
 ---
 
 ```statblock

@@ -1,10 +1,6 @@
 ---
 aliases: ["Armor, Robe, Shirt, Tunic"]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Armor, 13A/Items/Magic/Descriptions/Robe, 13A/Items/Magic/Descriptions/Shirt, 13A/Items/Magic/Descriptions/Tunic]
-updated: 2023-05-29
 ---
 
 ## Armor, Robe, Shirt, Tunic

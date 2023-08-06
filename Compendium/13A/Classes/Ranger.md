@@ -1,9 +1,6 @@
 ---
 aliases: [Ranger]
-created: 2023-05-07
-publish: 
 tags: [13A/Characters/Classes/Ranger]
-updated: 2023-05-31
 ---
 
 ## Ranger
@@ -31,7 +28,7 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 14      | —  |
 | Heavy      | 15      | -2 |
-| Shield     | 1       | -2 |  
+| Shield     | 1       | -2 |      
 ^13A-Class-Ranger-Armor
 
 #### Melee Weapons
@@ -40,7 +37,7 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------------------- | -------------------------------- |
 | Small            | `dice: 1d4` dagger               | `dice: 1d6` club                 |
 | Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear                |
-| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |  
+| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |      
 ^13A-Class-Ranger-Melee
 
 #### Ranged Weapons
@@ -49,7 +46,7 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ------------------------ | -------------------------- | -------------------- |
 | Small            | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —                    |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —                        | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |  
+| Heavy or Martial | —                        | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |      
 ^13A-Class-Ranger-Ranged
 
 ### Level Progression
@@ -66,7 +63,7 @@ Rangers may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (7 + CON mod) x 12| 4 adventurer 3 champion| 4        | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (7 + CON mod) x 16| 4 adventurer 3 champion 1 epic  | 5        |        | 3 x ability modifier   |
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic  | 5        |        | 3 x ability modifier   |
-| Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic  | 5        | +1 to 3 abilities        | 3 x ability modifier   |  
+| Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic  | 5        | +1 to 3 abilities        | 3 x ability modifier   |      
 ^13A-Class-Ranger-Progression
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
@@ -87,7 +84,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Backgrounds      | 8 points, max 5 in any one background|
 | Icon Relationships        | 3 points  |
 | Talents | 3 (see level progression chart)      |
-| Feats   | 1 per Level        |  
+| Feats   | 1 per Level        |      
 ^13A-Class-Ranger-Stats
 
 ### Basic Attacks
@@ -427,7 +424,7 @@ Use the following stats as the baseline for your animal companion. Remember that
 | 7     | +14 vs. AC | `dice: 7d6`    | 25 | 23| 19| 108 (54)  |
 | 8     | +15 vs. AC | `dice: 8d6`    | 26 | 24| 20| 144 (72)  |
 | 9     | +17 vs. AC | `dice: 9d6`    | 27 | 25| 21| 180 (90)  |
-| 10    | +18 vs. AC | `dice: 10d6`   | 28 | 26| 22| 216 (108) |  
+| 10    | +18 vs. AC | `dice: 10d6`   | 28 | 26| 22| 216 (108) |      
 ^13A-Class-Ranger-Companion-Stats
 
 #### Animal Companion Feats
@@ -469,7 +466,7 @@ Animal Companion spells are not available to Animal Companion initiates.
 | 7   | 8       | 3   | 7th level |
 | 8   | 9       | 4   | 7th level |
 | 9   | 10      | 4   | 9th level |
-| 10  | -       | 4   | 9th level |  
+| 10  | -       | 4   | 9th level |      
 ^13A-Class-Ranger-Animal-Companion-Spells
 
 #### 1st Level Spells

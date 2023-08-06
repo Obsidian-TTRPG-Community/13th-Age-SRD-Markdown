@@ -1,14 +1,11 @@
 ---
 aliases: [Archer Shade]
-created: 2023-05-25
 level: 3
-publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Battle-Shade", "13A/Monsters/Type/Archer"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

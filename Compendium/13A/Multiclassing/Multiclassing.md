@@ -1,10 +1,6 @@
 ---
 aliases: ["Multiclassing"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Multiclass]
-updated: 2023-05-29
 ---
 
 ## Multiclassing
@@ -43,7 +39,6 @@ A multiclass character belongs to two [classes](Compendium/13A/Classes/Classes.m
 	- [[Wizard-Multiclass]]
 
 %% End Waypoint %%
-
 
 ## Rules
 
@@ -168,7 +163,6 @@ The important things to remember in keeping track of the key ability for a multi
 - a) the key modifier table itself is not affected by any ability score swaps pulled off within class talents
 - b) the talents are class elements that are affected by the key ability modifiers
 
-
 |             | Barbarian | Bard           | Chaos mage     | Cleric    | Commander |
 |-------------|-----------|----------------|----------------|-----------|-----------|
 | Barbarian   | X         | **Str/Cha**        | Str/Cha        | Str/Wis   | **Str/Cha**   |
@@ -185,9 +179,8 @@ The important things to remember in keeping track of the key ability for a multi
 | Ranger      | **Str/Dex**   | **Str OR Dex/Cha** | Str OR Dex/Cha | Str/Wis   | **Str/Cha**   |
 | Rogue       | **Str/Dex**   | **Dex/Cha**        | Dex/Cha        | Dex/Wis   | **Dex/Cha**   |
 | Sorcerer    | Str/Cha   | Dex/Cha        | Con/Cha        | Wis/Cha   | Str/Cha   |
-| Wizard      | Str/Int   | Int/Cha        | Int/Cha        | Int//Wis  | Int/Cha   |    
+| Wizard      | Str/Int   | Int/Cha        | Int/Cha        | Int//Wis  | Int/Cha   |        
 ^13A-Multiclassing-Table-I
-
 
 |             | Druid          | Fighter | Monk    | Necromancer    | Occultist      |
 |-------------|----------------|---------|---------|----------------|----------------|
@@ -205,9 +198,8 @@ The important things to remember in keeping track of the key ability for a multi
 | Ranger      | Str OR Dex/Wis | **Str/Dex** | Str/Dex | Str OR Dex/Int | Str OR Dex/Int |
 | Rogue       | Dex/Wis        | **Str/Dex** | Str/Dex | Dex/Int        | Dex/Int        |
 | Sorcerer    | Wis/Cha        | Dex/Cha | Dex/Cha | Int/Cha        | Int/Cha        |
-| Wizard      | Int/Wis        | Dex/Int | Dex/Int | Int/Cha        | Int/Wis        |    
+| Wizard      | Int/Wis        | Dex/Int | Dex/Int | Int/Cha        | Int/Wis        |        
 ^13A-Multiclassing-Table-II
-
 
 |             | Paladin | Ranger         | Rogue   | Sorcerer       | Wizard  |
 |-------------|---------|----------------|---------|----------------|---------|
@@ -225,7 +217,7 @@ The important things to remember in keeping track of the key ability for a multi
 | Ranger      | **Str/Dex** | X              | **Str/Dex** | Dex/Cha        | Dex/Int |
 | Rogue       | **Str/Dex** | **Str/Dex**        | X       | Dex/Cha        | Dex/Int |
 | Sorcerer    | Str/Cha | Dex/Cha        | Dex/Cha | X              | Int/Cha |
-| Wizard      | Str/Int | Dex/Int        | Dex/Int | Int/Cha        | X       |    
+| Wizard      | Str/Int | Dex/Int        | Dex/Int | Int/Cha        | X       |        
 ^13A-Multiclassing-Table-III
 
 *Note:* Multiclasses that include only the barbarian, bard, commander, fighter, paladin, ranger, and rogue classes don’t take the weapon damage die penalty suffered by other multiclass characters. The multiclass ability scores of these combinations appear in italics above.
@@ -234,5 +226,4 @@ The important things to remember in keeping track of the key ability for a multi
 > The source PDF and the word document from Pelgrane Press did not italicize the text as indicted above, so we believe this only exists in the printed books or full paid PDF versions of the source materials.
 >
 > We have gone ahead and bolded the combinations instead, but encourage you to double check our work and report any errors.
-
 

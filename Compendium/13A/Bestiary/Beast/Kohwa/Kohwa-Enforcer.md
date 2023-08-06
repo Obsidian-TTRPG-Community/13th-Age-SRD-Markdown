@@ -1,14 +1,11 @@
 ---
 aliases: [Kohwa Enforcer]
-created: 2023-05-29
 level: 7
-publish: 
 role: troop
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Kohwa", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

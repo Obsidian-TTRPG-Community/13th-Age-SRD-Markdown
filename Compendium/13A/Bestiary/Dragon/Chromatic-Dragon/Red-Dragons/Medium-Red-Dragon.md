@@ -1,14 +1,11 @@
 ---
 aliases: [Medium Red Dragon]
-created: 2023-05-23
 level: 6
-publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Red", "13A/Monsters/Type/Wrecker"]
 type: dragon
-updated: 2023-05-31
 ---
 
 ```statblock

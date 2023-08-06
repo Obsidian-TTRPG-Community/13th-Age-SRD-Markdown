@@ -1,10 +1,6 @@
 ---
 aliases: [Baseline Stats for Huge or Triple-Strength Monsters]
-created: 2023-05-12
-permalink: 
-publish: 
 tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Huge]
-updated: 2023-05-29
 ---
 
 ## Baseline Stats for Huge or Triple-Strength Monsters
@@ -25,5 +21,5 @@ updated: 2023-05-29
 | 11            | 16           | 210           | 864  | 27 | 25             | 21             | 96                  |
 | 12            | 17           | 270           | 1080 | 28 | 26             | 22             | 120                 |
 | 13            | 18           | 330           | 1296 | 29 | 27             | 23             | 144                 |
-| 14            | 19           | 405           | 1728 | 30 | 28             | 24             | 192                 |    
+| 14            | 19           | 405           | 1728 | 30 | 28             | 24             | 192                 |        
 ^13A-Monster-Baseline-Huge

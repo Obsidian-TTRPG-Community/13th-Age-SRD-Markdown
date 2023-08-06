@@ -1,10 +1,6 @@
 ---
 aliases: [Weapons]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Weapons]
-updated: 2023-05-29
 ---
 
 ## Weapons

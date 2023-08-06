@@ -1,14 +1,11 @@
 ---
 aliases: [Glittering Bearer]
-created: 2023-05-29
 level: 6
-publish: 
 role: caster
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Underground", "13A/Monsters/Type/Caster"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

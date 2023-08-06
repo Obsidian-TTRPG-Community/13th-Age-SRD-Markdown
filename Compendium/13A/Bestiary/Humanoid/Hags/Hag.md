@@ -1,14 +1,11 @@
 ---
 aliases: [Hag]
-created: 2023-05-24
 level: 6
-publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Hags", "13A/Monsters/Type/Spoiler"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

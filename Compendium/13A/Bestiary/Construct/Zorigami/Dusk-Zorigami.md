@@ -1,13 +1,10 @@
 ---
 aliases: [Dusk Zorigami]
-created: 2023-05-23
 level: 10
-publish: 
 role: wrecker
 strength: normal
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Zorigami", "13A/Monsters/Type/Wrecker"]
 type: construct
-updated: 2023-05-30
 ---
 
 ```statblock

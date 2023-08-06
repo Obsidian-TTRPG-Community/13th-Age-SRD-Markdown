@@ -1,14 +1,11 @@
 ---
 aliases: [Jotun Auroch]
-created: 2023-05-23
 level: 6
-publish: 
 role: mook
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

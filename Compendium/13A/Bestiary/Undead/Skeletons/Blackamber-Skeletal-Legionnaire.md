@@ -1,14 +1,11 @@
 ---
 aliases: [Blackamber Skeletal Legionnaire]
-created: 2023-05-28
 level: 4
-publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Skeletons", "13A/Monsters/Type/Troop"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

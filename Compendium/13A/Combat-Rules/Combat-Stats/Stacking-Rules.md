@@ -1,9 +1,6 @@
 ---
 aliases: [Stacking Rules]
-created: 2023-05-13
-publish: 
 tags: [13A/Combat/Rules/Stats]
-updated: 2023-05-30
 ---
 
 ## Stacking Rules

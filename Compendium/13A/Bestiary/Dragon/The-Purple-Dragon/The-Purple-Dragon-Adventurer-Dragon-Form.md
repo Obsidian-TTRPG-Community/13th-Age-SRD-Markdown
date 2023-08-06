@@ -1,14 +1,11 @@
 ---
 aliases: ["Adventurer Purple Dragon", "The Purple Dragon (Adventurer, Dragon Form)"]
-created: 2023-05-28
 level: 4
-publish: 
 role: caster
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragon-Purple", "13A/Monsters/Type/Caster", "13A/Monsters/Strength/triple"]
 type: dragon
-updated: 2023-05-31
 ---
 
 ```statblock

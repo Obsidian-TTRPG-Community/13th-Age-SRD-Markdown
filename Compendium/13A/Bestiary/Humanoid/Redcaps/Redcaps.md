@@ -1,9 +1,6 @@
 ---
 aliases: [Redcaps]
-created: 2023-05-24
-publish: 
 tags: [13A/Monsters/Factions/Redcaps]
-updated: 2023-05-31
 ---
 
 All redcaps have special abilities based on *The Bad Word*. 

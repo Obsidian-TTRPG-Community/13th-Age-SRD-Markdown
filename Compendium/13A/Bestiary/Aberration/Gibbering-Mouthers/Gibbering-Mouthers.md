@@ -1,9 +1,6 @@
 ---
 aliases: [Gibbering Mouthers]
-created: 2023-05-28
-publish: 
 tags: [13A/Monsters/Factions/Gibbering-Mouthers]
-updated: 2023-05-31
 ---
 
 ## Abilities for All Gibbering Mouthers

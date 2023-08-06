@@ -1,14 +1,11 @@
 ---
 aliases: [Hallowed Gargoyle]
-created: 2023-05-29
 level: 6
-publish: 
 role: leader
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Hallowed-Gargoyles", "13A/Monsters/Type/Leader"]
 type: construct
-updated: 2023-05-30
 ---
 
 ```statblock

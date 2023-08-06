@@ -1,9 +1,6 @@
 ---
 aliases: [Disengaging]
-created: 2023-05-14
-publish: 
 tags: [13A/Combat/Rules/Movement/Disengaging]
-updated: 2023-05-30
 ---
 
 ## Disengaging

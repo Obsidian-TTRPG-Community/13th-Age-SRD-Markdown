@@ -1,10 +1,6 @@
 ---
 aliases: [Leveling Up]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Gamemastery/Leveling]
-updated: 2023-05-29
 ---
 
 ## Levelling Up
@@ -16,19 +12,12 @@ Characters advance a level after three or four [[Compendium/13A/Combat-Rules/Res
 When you level up, you get these benefits:
 
 - +1 to attacks, defences, and skill checks.
-
 - An additional die of damage with weapon attacks.
-
 - More [[Compendium/13A/Combat-Rules/Combat-Stats/Hit-Points|hit points]] (by class).
-
 - An additional feat. Choose any feat whose prerequisites your character satisfies. [[Compendium/13A/Character-Rules/Feats/Feats|Feats]] are classed as adventurer (can be chosen at any level), champion (can be chosen at level 5+), and epic (can be chosen at level 8+).
-
 - The ability to wield an additional magic item. (See [[Compendium/13A/Magic-Items/True-Magic-Items#Magic Item Personalities & Quirks|Magic Item Personalities & Quirks]].)
-
 - At 4th level, 7th level, and 10th level, you add +1 to three different ability scores.
-
 - At 5th level and 8th level, gain an additional icon relationship point, and possibly more talents depending on your class.
-
 - Possibly more powers and spells, and possibly an increase in their strength. (See [[Compendium/13A/Classes/Classes|Classes]].)
 
 ### Incremental Advance
@@ -100,7 +89,7 @@ The table below lists the highest amount of gold pieces you should consider awar
 | 7        | 425              |
 | 8        | 500              |
 | 9        | 650              |
-| 10       | 850              |  
+| 10       | 850              |        
 ^13A-Loot-Gold-Heal
 
 ##### Optional No Math System
@@ -115,5 +104,5 @@ Each player rolls a d20 and checks the table below. Results are not cumulative; 
 | 3–4   | One healing potion, lower tier.                               |
 | 5–10  | One healing potion from PC’s tier.                            |
 | 11–15 | Two potions/oils/runes of PC’s choice from PC’s tier.         |
-| 16–20 | Three potions/oils/runes of PC’s choice from PC’s tier.       |      
+| 16–20 | Three potions/oils/runes of PC’s choice from PC’s tier.       |            
 ^13A-Loot-Items-Heal

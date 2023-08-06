@@ -1,10 +1,6 @@
 ---
 aliases: [Wand]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Wand]
-updated: 2023-05-29
 ---
 
 ## Wand

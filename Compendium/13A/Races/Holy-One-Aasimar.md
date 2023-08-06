@@ -1,10 +1,6 @@
 ---
 aliases: ["Holy One", "Aasimar"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/Holy-One, 13A/Characters/Races/Aasimar]
-updated: 2023-05-29
 ---
 
 ## Holy One/Aasimar

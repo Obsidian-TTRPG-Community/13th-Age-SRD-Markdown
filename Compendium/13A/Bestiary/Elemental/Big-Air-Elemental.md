@@ -1,14 +1,11 @@
 ---
 aliases: [Big Air Elemental]
-created: 2023-05-23
 level: 7
-publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Type/Wrecker"]
 type: elemental
-updated: 2023-05-31
 ---
 
 ```statblock

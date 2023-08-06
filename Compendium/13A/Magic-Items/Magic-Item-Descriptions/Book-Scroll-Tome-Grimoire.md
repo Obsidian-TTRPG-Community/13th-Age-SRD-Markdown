@@ -1,10 +1,6 @@
 ---
 aliases: ["Book, Scroll, Tome, Grimoire"]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Book, 13A/Items/Magic/Descriptions/Scroll, 13A/Items/Magic/Descriptions/Tome, 13A/Items/Magic/Descriptions/Grimoire]
-updated: 2023-05-29
 ---
 
 ## Book, Scroll, Tome, Grimoire

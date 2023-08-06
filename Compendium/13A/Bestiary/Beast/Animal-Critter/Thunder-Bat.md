@@ -1,14 +1,11 @@
 ---
 aliases: [Thunder Bat]
-created: 2023-05-23
 level: 5
-publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Archer"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

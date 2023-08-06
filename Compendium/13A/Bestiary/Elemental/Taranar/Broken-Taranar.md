@@ -1,14 +1,11 @@
 ---
 aliases: [Broken Taranar]
-created: 2023-05-29
 level: 4
-publish: 
 role: troop
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Taranar", "13A/Monsters/Type/Troop"]
 type: elemental
-updated: 2023-05-31
 ---
 
 ```statblock

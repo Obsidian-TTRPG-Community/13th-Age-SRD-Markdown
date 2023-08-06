@@ -1,14 +1,11 @@
 ---
 aliases: [Hellwarped Spawn]
-created: 2023-05-29
 level: 6
-publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Hellwarped-Beasts", "13A/Monsters/Type/Wrecker"]
 type: aberration
-updated: 2023-05-31
 ---
 
 ```statblock

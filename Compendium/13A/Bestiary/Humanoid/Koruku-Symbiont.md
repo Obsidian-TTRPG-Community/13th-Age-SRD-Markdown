@@ -1,14 +1,11 @@
 ---
 aliases: [Koruku Symbiont]
-created: 2023-05-29
 level: 7
-publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Koruku"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,14 +1,11 @@
 ---
 aliases: [Wendigo Spirit]
-created: 2023-05-28
 level: 5
-publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/Wendigo"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

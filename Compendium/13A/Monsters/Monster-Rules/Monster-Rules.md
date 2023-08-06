@@ -1,12 +1,7 @@
 ---
 aliases: [Monster Rules]
-created: 2023-05-30
-permalink: 
-publish: 
-tags: 
-updated: 2023-05-30
+tags: []
 ---
-
 
 ## Index
 

@@ -1,10 +1,6 @@
 ---
 aliases: ["Helmet, Crown, Diadem, Circlet"]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Helmet, 13A/Items/Magic/Descriptions/Crown, 13A/Items/Magic/Descriptions/Diadem, 13A/Items/Magic/Descriptions/Circlet]
-updated: 2023-05-29
 ---
 
 ## Helmet, Crown, Diadem, Circlet

@@ -1,14 +1,11 @@
 ---
 aliases: [Flaming Skull]
-created: 2023-05-28
 level: 5
-publish: 
 role: caster
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Haunted-Skull", "13A/Monsters/Type/Caster"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

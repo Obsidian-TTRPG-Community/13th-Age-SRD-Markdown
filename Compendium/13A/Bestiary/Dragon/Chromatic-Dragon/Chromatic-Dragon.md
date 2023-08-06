@@ -1,9 +1,6 @@
 ---
 aliases: ["Dragons, Chromatic", "Chromatic Dragon"]
-created: 2023-05-23
-publish: 
 tags: [13A/Monsters/Factions/Dragon]
-updated: 2023-05-31
 ---
 
 **Standard dragon abilities:** All dragons have the following two abilities:
@@ -35,5 +32,5 @@ updated: 2023-05-31
 | 11                                         | Damage aura              | When an enemy starts its turn engaged with the dragon, it takes damage equal to the dragon’s level (adventurer tier), double the level (champion tier), or triple the level (epic tier). The damage type is the same as the dragon’s breath weapon.                                                    |
 | 12                                         | More breath              | The dragon can use its *intermittent breath* `dice: 1d4` more times each battle. If its breath weapon isn’t intermittent (white and green dragons), the dragon gains the extra uses anyway, making it more dangerous than lesser specimens of its color.                                               |
 | 13                                         | Humanoid form            | The dragon is capable of shapechanging into a humanoid form, usually of a warrior or spellcaster appropriate to its nature and usually not obviously draconic, registering as a normal humanoid. The dragon has the PC-style racial power of their humanoid form, but only while in shapechanged form. |
-| 14                                         | Some Unique Thing        | The dragon has an entirely unique characteristic, something akin to a player character’s one unique thing except that the dragon’s version may be relevant to combat. GM, if you don’t feel like making something up, choose an ability from the list above.                                           |                    
+| 14                                         | Some Unique Thing        | The dragon has an entirely unique characteristic, something akin to a player character’s one unique thing except that the dragon’s version may be relevant to combat. GM, if you don’t feel like making something up, choose an ability from the list above.                                           |                        
 ^13A-Dragon-Chromatic-Ability

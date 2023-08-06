@@ -1,9 +1,6 @@
 ---
 aliases: [Salamanders]
-created: 2023-05-29
-publish: 
 tags: [13a/Monsters/Factions/Salamanders]
-updated: 2023-05-31
 ---
 
 ## Abilities for All Salamanders

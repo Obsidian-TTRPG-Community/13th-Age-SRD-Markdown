@@ -1,14 +1,11 @@
 ---
 aliases: [Giant Bird of Prey]
-created: 2023-05-29
 level: 4
-publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Spoiler"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

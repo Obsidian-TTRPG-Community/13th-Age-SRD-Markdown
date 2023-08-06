@@ -1,9 +1,6 @@
 ---
 aliases: [High Druid]
-created: 2023-05-18
-publish: 
 tags: [13A/Icons/High-Druid]
-updated: 2023-05-30
 ---
 
 ## The High Druid

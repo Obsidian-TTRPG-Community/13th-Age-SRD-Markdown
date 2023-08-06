@@ -1,10 +1,6 @@
 ---
 aliases: [Halfling]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/Halfling]
-updated: 2023-05-29
 ---
 
 ## Halfling

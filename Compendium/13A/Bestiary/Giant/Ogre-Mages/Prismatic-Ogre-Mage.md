@@ -1,14 +1,11 @@
 ---
 aliases: [Prismatic Ogre Mage]
-created: 2023-05-28
 level: 9
-publish: 
 role: caster
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Ogre-Mages", "13A/Monsters/Type/Caster"]
 type: giant
-updated: 2023-05-31
 ---
 
 ```statblock

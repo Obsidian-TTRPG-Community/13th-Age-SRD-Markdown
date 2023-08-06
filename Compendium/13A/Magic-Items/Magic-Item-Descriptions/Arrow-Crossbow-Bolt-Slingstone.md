@@ -1,10 +1,6 @@
 ---
 aliases: ["Arrow, Crossbow Bolt, Slingstone"]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Arrow, 13A/Items/Magic/Descriptions/Crossbow-Bolt, 13A/Items/Magic/Descriptions/Slingstone]
-updated: 2023-05-29
 ---
 
 ## Arrow and Crossbow Bolt and Slingstone

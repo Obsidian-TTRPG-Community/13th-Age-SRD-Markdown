@@ -1,9 +1,6 @@
 ---
 aliases: [Kohwa]
-created: 2023-05-28
-publish: 
 tags: [13A/Monsters/Factions/Kohwa]
-updated: 2023-05-31
 ---
 
 ## Abilities for All Kohwa
