@@ -1,0 +1,117 @@
+
+.callout[data-callout="13a-spell"] {
+  font-family: serif;
+  font-size: 1rem;
+
+  color: #000;
+  border: none;
+
+  padding-bottom: 0;
+
+  background-color: #fefaf0;
+
+  & strong {
+    color: #000;
+  }
+
+  & em {
+    color: #000;
+  }
+
+
+  & .callout-title {
+    padding: 0;
+    gap: 0;
+    margin-bottom: -0.5em;
+
+    & .callout-title-inner {
+      font-family: masonregular, serif;
+      font-size: 1.5rem;
+      color: #000;
+    }
+    & .callout-icon {
+      display: none;
+    }
+  }
+  & .callout-content {
+    background-color: #fefaf0;
+    margin-top: -0.5em;
+
+
+    > :is(h1, h2, h3, h4, h5, h6) {
+      font-family: serif;
+      font-size: 1.25rem;
+      font-weight: bold;
+      font-style: italic;
+      float: left;
+      margin: 0.125em;
+      padding: 0.125em;
+      text-align: left;
+      color: #2C2E35;
+
+      background: rgb(204,200,207);
+
+      + p {
+        font-size: 1.25rem;
+        margin: 0.125em;
+        padding: 0.125em;
+        background: linear-gradient(90deg, rgba(204,200,207) 8%, rgba(224,220,218,1) 50%, rgba(254,250,240,1) 100%);
+      }
+    }
+
+
+
+    > table {
+      border: none;
+
+      > thead tr {
+        background-color: transparent;
+
+        > th {
+          display: none;
+
+        }
+      }
+
+      tbody tr {
+        background-color: transparent;
+
+        > td:first-child {
+          border: none;
+          width: max-content;
+          min-width: max-content;
+          white-space: nowrap;
+
+        }
+
+        > td:nth-child(2n+2) {
+          border: none;
+          background-color: transparent;
+        }
+
+        > td:last-child {
+          border: none;
+          background-color: transparent;
+        }
+      }
+
+    }
+
+    & ul, ol {
+      padding-inline-start: 2.5rem;
+
+      & li {
+        & sup {
+        }
+      }
+
+      & li::marker {
+        color: transparent;
+      }
+    }
+  }
+
+  & .dice-roller {
+    vertical-align: middle;
+  }
+}

@@ -1,0 +1,86 @@
+.callout[data-callout="13a-spell"] {
+  font-family: serif;
+  font-size: 1rem;
+  color: #000;
+  border: none;
+  padding-bottom: 0;
+  background-color: #fefaf0;
+}
+.callout[data-callout="13a-spell"] strong {
+  color: #000;
+}
+.callout[data-callout="13a-spell"] em {
+  color: #000;
+}
+.callout[data-callout="13a-spell"] .callout-title {
+  padding: 0;
+  gap: 0;
+  margin-bottom: -0.5em;
+}
+.callout[data-callout="13a-spell"] .callout-title .callout-title-inner {
+  font-family: masonregular, serif;
+  font-size: 1.5rem;
+  color: #000;
+}
+.callout[data-callout="13a-spell"] .callout-title .callout-icon {
+  display: none;
+}
+.callout[data-callout="13a-spell"] .callout-content {
+  background-color: #fefaf0;
+  margin-top: -0.5em;
+}
+.callout[data-callout="13a-spell"] .callout-content > :is(h1, h2, h3, h4, h5, h6) {
+  font-family: serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  font-style: italic;
+  float: left;
+  margin: 0.125em;
+  padding: 0.125em;
+  text-align: left;
+  color: #2C2E35;
+  background: rgb(204, 200, 207);
+}
+.callout[data-callout="13a-spell"] .callout-content > :is(h1, h2, h3, h4, h5, h6) + p {
+  font-size: 1.25rem;
+  margin: 0.125em;
+  padding: 0.125em;
+  background: linear-gradient(90deg, rgb(204, 200, 207) 8%, rgb(224, 220, 218) 50%, rgb(254, 250, 240) 100%);
+}
+.callout[data-callout="13a-spell"] .callout-content > table {
+  border: none;
+}
+.callout[data-callout="13a-spell"] .callout-content > table > thead tr {
+  background-color: transparent;
+}
+.callout[data-callout="13a-spell"] .callout-content > table > thead tr > th {
+  display: none;
+}
+.callout[data-callout="13a-spell"] .callout-content > table tbody tr {
+  background-color: transparent;
+}
+.callout[data-callout="13a-spell"] .callout-content > table tbody tr > td:first-child {
+  border: none;
+  width: max-content;
+  min-width: max-content;
+  white-space: nowrap;
+}
+.callout[data-callout="13a-spell"] .callout-content > table tbody tr > td:nth-child(2n+2) {
+  border: none;
+  background-color: transparent;
+}
+.callout[data-callout="13a-spell"] .callout-content > table tbody tr > td:last-child {
+  border: none;
+  background-color: transparent;
+}
+.callout[data-callout="13a-spell"] .callout-content ul, .callout[data-callout="13a-spell"] .callout-content ol {
+  padding-inline-start: 2.5rem;
+}
+.callout[data-callout="13a-spell"] .callout-content ul li::marker, .callout[data-callout="13a-spell"] .callout-content ol li::marker {
+  color: transparent;
+}
+.callout[data-callout="13a-spell"] .dice-roller {
+  vertical-align: middle;
+}
+
+/*# sourceMappingURL=13A-Spells.css.map */
