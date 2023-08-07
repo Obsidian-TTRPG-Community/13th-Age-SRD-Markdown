@@ -41,7 +41,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | None  | 10 | -      |
 | Light | 10 | -      |
 | Heavy | 11 | -2     |
-| Shield| +1 | -2     |  
+| Shield| +1 | -2     |        
 ^13A-Class-Chaos-Mage-Armor
 
 ### Melee Weapons
@@ -50,7 +50,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------------------- | ------------------------ |
 | Small            | `dice: 1d4` dagger, pronged fork         | `dice: 1d6` club, staff          |
 | Light or Simple  | `dice: 1d6` (-2 atk) axe, shortsword     | `dice: 1d8` (-4 atk) spear       |
-| Heavy or Martial | `dice: 1d8` (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |  
+| Heavy or Martial | `dice: 1d8` (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |      
 ^13A-Class-Chaos-Mage-Melee
 
 ### Ranged Weapons
@@ -77,7 +77,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | 4       | 2        | 7th level       | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 5       | 2        | 7th level       | —      | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 5       | 2        | 9th level       | —      | 3 x ability modifier   |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 6       | 2        | 9th level       | +1 to 3 abilities        | 3 x ability modifier   |  
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 6       | 2        | 9th level       | +1 to 3 abilities        | 3 x ability modifier   |        
 ^13A-Class-Chaos-Mage-Progression
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.  
@@ -220,7 +220,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | 96–97         | Something related to your one unique thing goes very right for you. This is on you and the GM to work out together. The GM has the final say, though.                                                                                                                                                                                                                                                                           |
 | 98            | If you and your allies flee RIGHT NOW, you don’t take a campaign loss for your discretion. This may take some explaining. It’s all about the chaos magic.                                                                                                                                                                                                                                                                       |
 | 99            | Roll twice more on this table. If you wish you can ignore one of the rolled results but must stick with the other. If you roll the same result twice, you get that weirdness just once.                                                                                                                                                                                                                                         |
-| 100           | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |  
+| 100           | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |        
 ^13A-ChaosMage-HighWeirdness
 
 ## Class Talents
@@ -246,7 +246,7 @@ When your random spell choice indicates an attack spell, roll a d6 to determine 
 | 3  | Fire: Until the end of your next turn, you can pop free from staggered enemies as a quick action.        |
 | 4  | Water: You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier      |
 | 5  | Metal: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
-| 6  | Void: During your next turn, you can use a move action to teleport to a nearby location you can see.     |
+| 6  | Void: During your next turn, you can use a move action to teleport to a nearby location you can see.     |      
 ^13A-Class-Chaos-Mage-Attacking-Warp
 
 **Adventurer Feat**  
@@ -280,8 +280,8 @@ When your random spell choice indicates a defence spell, roll a d6 to determine 
 | 3  | **Fire**: Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).|
 | 4  | **Water**: Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing (double your Wisdom modifier at 5th level; triple it at 8th level). |
 | 5  | Metal: Until the end of your next turn, you gain a +2 bonus to AC.|
-| 6  | **Void**: Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack.    |
-^13A-Class-Chaos-Mage-Defensive-Warp
+| 6  | **Void**: Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack.    |      
+^13A-Class-Chaos-Mage-Defensive-Warp  
 **Adventurer Feat**  
 When you heal using a recovery, add hit points equal to the escalation die to that healing.
 
@@ -304,8 +304,8 @@ When your random spell choice indicates an iconic spell, roll a d6 to determine 
 | 3 | **Fire**: Until the end of your next turn, you gain the once-per-battle racial power of a random nearby ally; ignore this benefit if it duplicates your own racial power or if it doesn’t make sense during the battle (human, for example). |
 | 4 | **Water**: Until the end of your next turn, you gain a bonus to saves equal to your Intelligence modifier.     |
 | 5 | **Metal**: Until the end of your next turn, critical hits scored against you only count as normal hits.        |
-| 6 | **Void**: When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |
-^13A-Class-Chaos-Mage-Iconic-Warp
+| 6 | **Void**: When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |      
+^13A-Class-Chaos-Mage-Iconic-Warp  
 **Adventurer Feat**  
 Once per battle when you roll for an iconic warp effect, roll the d6 twice and choose the result you want.
 
@@ -391,144 +391,17 @@ If you don’t like the first random sorcerer spell you select for the day, you 
 
 ## Attack Spells (1st Level+)
 
-### Force Tentacle
+![[Compendium/13A/Spells/Chaos-Ray#^spell]]
 
-Ranged spell
+![[Compendium/13A/Spells/Blarrrrgh#^spell]]
 
-At-Will
-
-**Target:** One random nearby enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 1d10`+ Charisma force damage.
-
-**Miss:** Damage equal to your level.
-3rd level spell: `dice: 3d10`damage.
-5th level spell: `dice: 5d10`damage.
-7th level spell: `dice: 7d10`damage.
-9th level spell: `dice: 9d10`damage.
-
-**Adventurer Feat**
-
-You can now also target faraway enemies.
-
-**Champion Feat**
-
-This spell’s damage dice increase by one size to d12s.
-
-**Epic Feat**
-
-One battle per day, you can deal half damage on a natural even miss with this spell.
-
-### Chaos Ray
-
-Ranged spell
-
-Once per battle
-
-**Target:** One nearby or faraway enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 1d8` + Charisma damage.
-
-**Natural Even Hit:** As a hit, plus another nearby enemy takes half damage.
-
-**Miss:** `dice: 1d6` damage to a different nearby enemy.
-
-3rd level spell `dice: 4d6`damage: `dice: 1d10`damage on a miss.
-
-5th level spell `dice: 6d6`damage: `dice: 2d12` damage on a miss.
+![[Compendium/13A/Spells/Force-Tentacle#^spell|Force-Tentacle]]
 
 7th level spell `dice: 6d10`damage: `dice: 3d12` damage on a miss.
 
-9th level spell `dice: 8d10`damage: `dice: 5d12` damage on a miss.
+![[Compendium/13A/Spells/Chaos-Blessing#^spell|Chaos Blessing]]
 
-### Blarrrrgh
-
-Ranged spell
-
-Daily
-
-**Targets:** `dice: 1d6` nearby enemies
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 3d6` + Charisma damage, and roll a d4 for the effect (same damage for all targets but a separate effect for each one).
-
-| d4 | Effect     |
-|----|---------------------------------------------------------|
-| 1  | The target is dazed (save ends).      |
-| 2  | The target is weakened (save ends).   |
-| 3  | The target is hampered until the end of your next turn. |
-| 4  | The target is confused until the end of your next turn. |
-
-**Miss:** Damage equal to your level.
-
-3rd level spell: `dice: 6d6`damage.
-
-5th level spell: `dice: 6d10`damage.
-
-7th level spell: `dice: 10d10` damage.
-
-9th level spell: `dice: 2d8*10` damage.
-
-## defence Spells (1st Level+)
-
-### Chaos Blessing
-
-Close-quarters spell
-
-At-Will
-
-**Effect:** Roll a d20 to determine which effect the blessing grants. Higher-level versions of the spell improve the first three blessings, but you still get only the blessing you roll.
-
-| d20   | Effect|
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1–4   | Gift—You or one of your nearby allies gains 7 temporary hit points.  |
-| 5–8   | Resilience—You gain 7 temporary hit points.        |
-| 9–12  | Aura/tentacles—The next enemy that moves to engage you this battle takes `dice: 2d6` damage.   |
-| 13–16 | defence bonus—You gain a +2 bonus to the defence of your choice (AC, PD, or MD) until an attack against that defence misses you or until the end of the battle.|
-| 17–20 | Healing—You or your nearby ally with the fewest hit points can heal using a recovery. (If you’re the one with the fewest hit points among you and your nearby allies, it’s you.) |
-
-3rd level spell: *gift* and *resilience* now grant 12 temporary hit points; *aura/tentacles* damage is `dice:2d10`.
-
-5th level spell: *gift* and *resilience* now grant 20 temporary hit points; *aura/tentacles* damage is `dice: 4d10`.
-
-7th level spell: *gift* and *resilience* now grant 35 temporary hit points; *aura/tentacles* damage is `dice: 6d8`.
-
-9th level spell: *gift* and *resilience* now grant 60 temporary hit points; *aura/tentacles* damage is `dice: 10d8`.
-
-**Adventurer Feat**
-
-The *defence bonus* effect now applies to all the target’s defences (and therefore ends as soon as the target is missed by an attack).
-
-**Champion Feat**
-
-A number of times per day equal to your highest non-Charisma modifier, you can roll twice when you cast *chaos blessing* and gain both effects (reroll a duplicate result).
-
-**Epic Feat**
-
-The damage dice for the *aura/tentacles* effect increase by one size (for example, d8s to d10s).
-
-### Warped Healing
-
-Close-quarters spell
-
-Once per battle
-
-**Targets:** Two nearby allies, or you and one nearby ally
-
-**Effect:** Randomly choose one of the targets. That target can heal using a recovery. The other target gains 10 temporary hit points and grows a strange eye, limb, or other physical feature that lasts as long as the temporary hit points do.
-
-3rd level spell: 20 temporary hit points.
-
-5th level spell: 30 temporary hit points.
-
-7th level spell: 45 temporary hit points.
-
-9th level spell: 70 temporary hit points.
+![[Compendium/13A/Spells/Warped-Healing#^spell|Warped Healing]]
 
 ## Iconic Spells & Feats
 
@@ -538,634 +411,54 @@ Multiple icons should belong to each group. Each group should have at-will spell
 
 ### Blood of Warriors
 
-#### Castigation (1st level+)
+![[Compendium/13A/Spells/Castigation#^spell|Castigation]]
 
-Close-quarters spell
+![[Compendium/13A/Spells/Terribly-Spiked-Armor#^spell|Terribly Spiked Armor]]
 
-At-Will
+![[Compendium/13A/Spells/Yours#^spell|Yours]]
 
-**Target:** One enemy you are engaged with if possible; if not, then one nearby enemy
+![[Compendium/13A/Spells/Ours#^spell|Ours]]
 
-**Attack:** Charisma + Level vs. MD
+![[Compendium/13A/Spells/Fiery-Claw#^spell|Fiery-Claw]]
 
-**Hit:** `dice: 1d8` + Charisma psychic damage
+![[Compendium/13A/Spells/Final-Wrath#^spell|Final-Wrath]]
 
-**Hit vs. a Staggered Target:** As a hit, except there is no damage roll; the target takes maximum damage.
+![[Compendium/13A/Spells/War-Drums#^spell|War-Drums]]
 
-**Miss:** Damage equal to your level.
-
-3rd level spell: `dice: 3d6` damage.
-
-5th level spell: `dice: 5d6` damage.
-
-7th level spell: `dice: 5d8`damage.
-
-9th level spell: `dice: 6d10`damage.
-
-**Adventurer Feat**
-
-When you hit a demon with this spell, it’s also hampered (save ends).
-
-**Champion Feat**
-
-The damage dice for the spell increase by one size (for example, d6s to d8s).
-
-3rd level spell: `dice: 3d8` damage.
-
-5th level spell: `dice: 5d8` damage.
-
-7th level spell: `dice: 5d8`damage.
-
-9th level spell: `dice: `dice: 6d12` damage.
-
-**Epic Feat**
-
-The spell now deals half damage on a miss.
-
-#### Terribly Spiky Armor (3rd level+)
-
-Ranged spell
-
-Daily
-
-**Effect:** Until the end of the battle, you gain a +3 bonus to AC and when an enemy engaged with you misses you with an attack, it takes `dice: 3d6` + Charisma damage.
-
-5th level spell: `dice: 5d6` damage.
-
-7th level spell: `dice: 5d8`damage.
-
-9th level spell: `dice: 7d10`damage.
-
-#### Yours! (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Target:** You or one ally in the battle, chosen randomly
-
-**Effect:** Roll a d20.
-
-*1–10:* The target can heal using a recovery.
-
-*11–20:* The target can make a basic attack as a free action.
-
-**Adventurer Feat**
-
-When this spell allows a target to attack, the attack deals half damage on a miss instead of normal miss damage.
-
-**Champion Feat**
-
-The target can move as a free action before using a recovery or attacking.
-
-**Epic Feat**
-
-When the target heals using a recovery, it adds hit points equal to `dice: 1d10`x the escalation die to that healing.
-
-#### Ours! (1st level+)
-
-Ranged spell
-
-Daily
-
-**Target:** One nearby ally
-
-**Effect:** The target can heal using a free recovery, adding hit points equal to `dice: 1d6` x the escalation die to that healing. Unless you or the target is a dwarf, randomly choose one of the target’s true magic items. You actively gain that item’s quirk until the end of the day.
-
-#### Fiery Claw (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Special:** This spell attack ignores all the target’s resistances.
-
-**Target:** One nearby enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 1d8` + Charisma fire damage, and the target loses its *resist damage* abilities, if any (hard save ends, 16+).
-
-**Miss:** Damage equal to your level.
-
-3rd level spell `dice: 3d8`damage.
-
-5th level spell `dice: 5d8`damage.
-
-7th level spell `dice: 7d8` damage.
-
-9th level spell `dice: 9d8` damage.
-
-**Adventurer Feat**
-
-This spell can now deal holy damage instead of fire damage.
-
-**Champion Feat**
-
-The damage dice for this spell increase from d8s to d10s.
-
-**Epic Feat**
-
-This spell now deals half damage on a miss.
-
-#### Final Wrath (5th level+)
-
-Ranged spell
-
-Daily
-
-**Targets:** `dice: 1d4` nearby enemies in a group
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 7d6` + Charisma fire damage.
-
-**Natural Even Hit:** As a hit, plus if the target is staggered after the attack, it’s also stunned until the end of its next turn.
-
-**Miss:** Damage equal to your level.
-
-7th level spell: `dice: 9d10`damage.
-
-9th level spell: `dice: 2d6*10` damage.
-
-**Champion Feat**
-
-This spell now deals half damage on a miss.
-
-**Epic Feat**
-
-This spell now targets 2d3 enemies in a group.
-
-#### War Drums (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Effect:** The next natural odd attack roll you or one of your allies makes this battle that hits an enemy deals 13 extra damage.
-
-3rd level spell: 23 extra damage.
-
-5th level spell: 33 extra damage.
-
-7th level spell: 53 extra damage.
-
-9th level spell: 83 extra damage.
-
-**Adventurer Feat**
-
-Add your Charisma modifier to the extra damage (double your Charisma modifier at 5th level; triple it at 8th level).
-
-**Champion Feat**
-
-When you cast this spell, each nearby enemy that’s staggered also takes `dice: 2d6` thunder damage (`dice: 4d6` thunder damage at 8th level).
-
-**Epic Feat**
-
-When this spell’s effect deals the extra damage, you can roll a hard save (16+). If you succeed, the *war drums* keep beating and the effect extends to the next natural odd hit this battle! (And so on if you keep succeeding.)
-
-#### Savage Endings (3rd level+)
-
-Ranged spell
-
-Daily
-
-**Targets:** Each nearby creature that’s staggered (yes, including allies, even those who are dying)
-
-**Effect:** Each target takes `dice: 5d6` + Charisma damage.
-
-5th level spell: `dice: 5d8`damage.
-
-7th level spell: `dice: 7d10`damage.
-
-9th level spell: `dice: 10d10` damage.
-
-**Adventurer Feat**
-
-The spell no longer targets your allies.
-
-**Champion Feat**
-
-The spell’s damage dice increase by one size (for example, d10s to d12s).
-
-**Epic Feat**
-
-When you drop one or more non-mook creatures to 0 hp with this spell, you can heal using a free recovery.
+![[Compendium/13A/Spells/Savage-Endings#^spell|Savage-Endings]]
 
 ### Light of the High Ones
 
-#### Silver Arrows (1st level+)
+![[Compendium/13A/Spells/Silver-Arrows#^spell|Silver-Arrows]]
 
-Ranged spell
+![[Compendium/13A/Spells/Cascading-Power#^spell|Cascading-Power]]
 
-At-Will
+![[Compendium/13A/Spells/Shards-of-Magic#^spell|Shards-of-Magic]]
 
-**Targets:** `dice: 1d3` nearby enemies
+![[Compendium/13A/Spells/Coronation#^spell|Coronation]]
 
-**Effect:** The target takes 4 force damage.
+![[Compendium/13A/Spells/Bolt-and-Thunder#^spell|Bolt-and-Thunder]]
 
-3rd level spell: 7 damage.
-
-5th level spell: 10 damage.
-
-7th level spell: 14 damage.
-
-9th level spell: 27 damage.
-
-**Adventurer Feat**
-
-This spell now targets `dice: 1d4` nearby or faraway enemies.
-
-**Champion Feat**
-
-This spell now targets `dice: 1d6` nearby or faraway enemies.
-
-**Epic Feat**
-
-This spell now targets a number of nearby or faraway enemies equal to the escalation die.
-
-#### Cascading Power (5th level+)
-
-Ranged spell
-
-Daily
-
-**Targets:** A number of random nearby creatures equal to the escalation die
-
-**Effect:** The targets are embroiled in silver fire! Each targeted ally can roll an immediate easy save (6+); if that ally succeeds, they regain one daily or recharge power of their choice. Then each targeted enemy takes damage equal to `dice: 1d10`x the escalation die.
-
-After the damage, roll the escalation die and use the new result.
-
-7th level spell: Damage equal to `dice: 2d6` x the escalation die.
-
-9th level spell: Damage equal to `dice: 2d12` x the escalation die.
-
-#### Shards of Magic (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Target:** One nearby or faraway enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Natural Even Hit:** `dice: 1d6` + Charisma force damage, and you can roll a hard save (16+). If you succeed, you get an extra standard action this turn.
-
-**Natural Odd Hit:** 7 ongoing damage.
-
-**Natural Even Miss:** You can teleport to a nearby location you can see as a free action.
-
-3rd level spell: Even hit: `dice: 3d6` damage; Odd hit: 10 ongoing damage.
-
-5th level spell: Even hit: `dice: 5d6` damage; Odd hit: 18 ongoing damage.
-
-7th level spell: Even hit: `dice: 5d8`damage; Odd hit: 28 ongoing damage.
-
-9th level spell: Even hit: `dice: 7d10`damage; Odd hit: 40 ongoing damage.
-
-**Adventurer Feat**
-
-A natural odd miss now deals damage equal to your level.
-
-**Champion Feat**
-
-A natural odd miss now deals half the force damage an even hit would have dealt.
-
-**Epic Feat**
-
-A natural even miss now allows you to teleport to a faraway location you can see as a free action.
-
-#### Coronation (3rd level+)
-
-Close-quarters spell
-
-Daily
-
-**Effect:** Until the end of the battle, when a staggered enemy hits you with an attack, you can make the following attack against that enemy as a free action after the attack.
-
-**Attack:** Charisma + Level vs. MD
-
-**Hit:** The target is confused until the end of its next turn.
-
-**Champion Feat**
-
-Once per battle when a staggered enemy misses you with an attack while this spell’s effect is active, you can make the attack against that enemy.
-
-**Epic Feat**
-
-When you make a natural even roll with a *coronation* attack, you can have the target become confused (save ends) instead of taking damage.
-
-#### Bolt and Thunder (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Target:** One nearby enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 1d4` + Charisma lightning damage, and a different random nearby enemy takes the same amount of thunder damage.
-
-3rd level spell: `dice: 2d6` damage.
-
-5th level spell: `dice: 3d6` damage.
-
-7th level spell: `dice: 5d6` damage.
-
-9th level spell: `dice: 5d8`damage.
-
-**Adventurer Feat**
-
-This spell now deals damage equal to your level on a miss.
-
-**Champion Feat**
-
-The damage dice for this spell increase by one size (for example, from `dice: 3d6` to `dice: 3d8`).
-
-**Epic Feat**
-
-This spell now deals half damage on a miss.
-
-#### The Final Surge (3rd level+)
-
-Ranged spell
-
-Daily
-
-**Effect:** You and each of your nearby allies each heal hit points equal to `dice: 1d6` x the number of recoveries that character has expended this day. (And no, free recoveries don’t count; this spell only counts the resources you’ve expended.)
-
-5th level spell: `dice: 1d10`x the number of recoveries.
-
-7th level spell: `dice: 2d6` x the number of recoveries.
-
-9th level spell: `dice: 2d10` x the number of recoveries.
+![[Compendium/13A/Spells/The-Final-Surge#^spell|The-Final-Surge]]
 
 ### Twisted Path
 
-#### Tortured Scream (1st level+)
+![[Compendium/13A/Spells/Tortured-Scream#^spell|Tortured-Scream]]
 
-Ranged spell
+![[Compendium/13A/Spells/Trace-of-Corruption#^spell|Trace-of-Corruption]]
 
-At-Will
+![[Compendium/13A/Spells/Evil-Touch#^spell|Evil-Touch]]
 
-**Target:** One nearby enemy
+![[Compendium/13A/Spells/Unsommoning#^spell|Unsommoning]]
 
-**Special:** When you cast the spell, you or a willing nearby ally of your choice loses `dice: 1d6` hit points.
+![[Compendium/13A/Spells/Holy-Spark#^spell|Holy-Spark]]
 
-**Attack:** Charisma + Level vs. MD
+![[Compendium/13A/Spells/Temple-Bells#^spell|Temple-Bells]]
 
-**Hit:** `dice: 3d6` + Charisma psychic damage.
+![[Compendium/13A/Spells/Shadow-Dance#^spell|Shadow-Dance]]
 
-**Miss:** Damage equal to your level.
+![[Compendium/13A/Spells/Step-Into-Shadow#^spell|Step-Into-Shadow]]
 
-3rd level spell: `dice: 6d6`damage, you or ally loses `dice: 2d6` hit points.
+![[Compendium/13A/Spells/Twisted-Beam#^spell|Twisted-Beam]]
 
-5th level spell: `dice: 6d10`damage, you or ally loses `dice: 4d6`hit points.
-
-7th level spell: `dice: 10d10` damage, you or ally loses `dice: 6d6`hit points.
-
-9th level spell: `dice: 2d8*10` damage, you or ally loses `dice: 8d6` hit points.
-
-**Adventurer Feat**
-
-The spell now deals half damage on a miss.
-
-**Champion Feat**
-
-You or an ally now lose one less die of hit points (for example, `dice: 3d6` instead of `dice: 4d6`).
-
-**Epic Feat**
-
-The first time each battle you miss with this spell, if the escalation die is 3+, you can reroll the attack by having you or your ally lose the same amount of hit points again.
-
-#### Trace of Corruption (1st level+)
-
-Ranged spell
-
-Daily
-
-**Target:** You or one nearby ally; the target must have a positive or conflicted relationship with a villainous icon
-
-**Effect:** The target rolls a save against each save ends effect affecting it. Then the target can heal using a recovery from a nearby ally (target’s choice, even if that ally isn’t willing).
-
-#### Evil Touch (1st level+)
-
-Close-quarters spell
-
-At-Will
-
-**Target:** One enemy engaged with you
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 1d10`+ Charisma negative energy damage.
-
-**Natural Even Hit:** As a hit, plus you gain 5 temporary hit points if the target drops to 0 hp during the battle.
-
-**Miss:** Damage equal to your level.
-
-3rd level spell: `dice: 3d10`damage, 8 temporary hit points.
-
-5th level spell: `dice: 5d10`damage, 10 temporary hit points.
-
-7th level spell: `dice: 7d10`damage, 15 temporary hit points.
-
-9th level spell: `dice: 9d10`damage, 25 temporary hit points.
-
-**Adventurer Feat**
-
-This spell now deals half damage on a miss.
-
-**Champion Feat**
-
-When the target drops to 0 hp, instead of gaining temporary hit points, you can choose to deal that amount of negative energy damage to one nearby enemy as a free action.
-
-**Epic Feat**
-
-This spell can now target a nearby enemy.
-
-#### Unsummoning (7th level+)
-
-Ranged spell
-
-Daily
-
-**Target:** One nearby non-undead enemy that the GM hasn’t given a proper name, or that doesn’t play a key role in the current storyline
-
-**Attack:** Charisma + Level vs. MD
-
-**Hit:** The target is sent elsewhere, possibly to a location that’s close enough for the PCs to have to deal with it in a subsequent battle. It might also go somewhere “interesting.”
-
-Replace the target with the GM’s choice of an undamaged and hostile undead creature that is one level lower than the original target. If the target was a large or double-strength creature, the replacement must be large or double-strength, or perhaps two normal undead instead of one show up. Ditto for huge/triple-strength targets. Therefore you’re only slightly reducing the raw power of the opposition; the advantage of using the spell is that you’re getting rid of an enemy you match up badly against and dropping the level of the opposition by one. The disadvantage, of course, is that you’ll probably have to face that enemy again.
-
-**Miss:** `dice: 7d10`+ Charisma psychic damage.
-
-9th level spell: `dice: 8d10`+ Charisma psychic damage on a miss.
-
-**Champion Feat**
-
-This spell can now also target an entire mob of mooks. If the attack hits, replace them with a mob of undead mooks that is one level lower.
-
-**Epic Feat**
-
-You don’t expend the spell when you miss with it.
-
-#### Holy Spark (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Target:** One nearby enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Hit:** `dice: 1d8` + Charisma holy damage, and one nearby ally gains 3 temporary hit points.
-
-**Miss:** Damage equal to your level.
-
-3rd level spell: `dice: 3d8`damage, 5 temporary hit points.
-
-5th level spell: `dice: 5d8`damage, 8 temporary hit points.
-
-7th level spell: `dice: 7d8` damage, 10 temporary hit points.
-
-9th level spell: `dice: 9d8` damage, 15 temporary hit points.
-
-**Adventurer Feat**
-
-When you miss with the spell, one of your nearby allies now gains the temporary hit points.
-
-**Champion Feat**
-
-This spell now deals half damage on a miss.
-
-**Epic Feat**
-
-You can now target a faraway enemy with this spell. In addition, the spell’s damage dice increase by one size from d8s to d10s.
-
-#### Temple Bells (1st level+)
-
-Ranged spell
-
-Daily
-
-**Targets:** You and each nearby ally that has 10 hp or fewer
-
-**Effect:** The target can heal using a recovery.
-
-3rd level spell: Target with 20 hp or fewer.
-
-5th level spell: Target with 40 hp or fewer.
-
-7th level spell: Target with 60 hp or fewer.
-
-9th level spell: Target with 100 hp or fewer.
-
-**Adventurer Feat**
-
-One target that heals can also roll a save against a save ends effect.
-
-**Champion Feat**
-
-The recovery is now free.
-
-**Epic Feat**
-
-Add 50 hp to the hit point threshold for targets that can be affected.
-
-#### Shadow Dance (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Targets:** Two nearby creatures, enemies or allies (including you)
-
-**Effect:** The targets teleport and swap places. Each teleported enemy takes `dice: 1d6` damage. You and your allies don’t take damage from teleporting.
-
-3rd level spell: `dice: 2d6` damage.
-
-5th level spell: `dice: 2d10` damage.
-
-7th level spell: `dice: 3d12` damage.
-
-9th level spell: `dice: 4d12` damage.
-
-**Adventurer Feat**
-
-Once per day, one or more targets of the spell can be faraway.
-
-**Champion Feat**
-
-The damage increases by one die (for example, `dice: 2d10` becomes `dice: 3d10`).
-
-**Epic Feat**
-
-The spell can now target up to three nearby creatures.
-
-#### Step into Shadow (3rd level+)
-
-Close-quarters spell
-
-Once per battle
-
-**Effect:** Remove yourself from the battle (you can’t be targeted by attacks or effects while in the shadows). At the start of your next turn, return to the battle nearby your previous location and roll a d6 to determine a random benefit you gain from coming out of the shadows.
-
-*1–4:* You can heal using a recovery.
-
-*5+:* You deal double damage to the first target you hit with a chaos mage spell this turn.
-
-**Champion Feat**
-
-You can choose to add +1 to the d6 roll after seeing it.
-
-**Epic Feat**
-
-If you roll 6+, you gain both effects.
-
-#### Twisted Beam (1st level+)
-
-Ranged spell
-
-At-Will
-
-**Target:** One nearby enemy
-
-**Attack:** Charisma + Level vs. PD
-
-**Natural Even Hit:** `dice: 1d6` + Charisma fire damage.
-
-**Natural Odd Hit:** Lightning damage equal to half the damage from a natural even hit, and you can roll another *twisted beam* attack against an enemy you haven’t targeted with it this turn.
-
-**Natural Even Miss:** 3 ongoing acid damage.
-
-3rd level spell: `dice: 3d6` damage, 6 ongoing damage.
-
-5th level spell: `dice: 5d6` damage, 9 ongoing damage.
-
-7th level spell: `dice: 7d8` damage, 12 ongoing damage.
-
-9th level spell: `dice: 9d8` damage, 18 ongoing damage.
-
-**Adventurer Feat**
-
-This spell can now target faraway enemies.
-
-**Champion Feat**
-
-A natural odd miss now deals half natural even hit damage.
-
-**Epic Feat**
-
-The first save against the ongoing damage from a natural even miss is a hard save (16+). The second and subsequent saves are normal.
-
-#### Ancient Scales (3rd level+)
-
-Ranged spell
-
-Daily
-
-**Effect:** Until the end of the battle, you have *flight* while the escalation die is even. While the escalation die is odd, you can cast *twisted beam* once during your turn as a quick action.
+![[Compendium/13A/Spells/Ancient-Scales#^spell|Ancient-Scales]]
