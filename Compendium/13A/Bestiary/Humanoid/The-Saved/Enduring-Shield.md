@@ -1,14 +1,11 @@
 ---
 aliases: [Enduring Shield]
-created: 2023-05-28
 level: 2
-publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/The-Saved"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,10 +1,6 @@
 ---
 aliases: ["Curse of Chaos"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/Tiefling/Power, 13A/Characters/Races/Demontouched/Power]
-updated: 2023-05-29
 ---
 
 ## Curse of Chaos

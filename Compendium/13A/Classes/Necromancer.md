@@ -1,10 +1,6 @@
 ---
 aliases: [Necromancer]
-created: 2023-05-07
-permalink: 
-publish: 
 tags: [13A/Characters/Classes/Necromancer]
-updated: 2023-05-30
 ---
 
 ## Ability Scores
@@ -30,7 +26,7 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 10      | —  |
 | Heavy      | 11      | -2 |
-| Shield     | 1       | -2 |  
+| Shield     | 1       | -2 |      
 ^13A-Class-Necromancer-Armor
 
 ### Melee Weapons
@@ -39,7 +35,7 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ----------------------------------------- | ------------------------------- |
 | Small            | `dice: 1d4` dagger                        | `dice: 1d6` club, staff         |
 | Light or Simple  | `dice: 1d6` (-2 atk) mace, shortsword     | `dice: 1d8` (-4 atk) spear      |
-| Heavy or Martial | `dice: 1d8` (-5 atk) longsword, warhammer | `dice: 1d10`(-6 atk) greatsword |  
+| Heavy or Martial | `dice: 1d8` (-5 atk) longsword, warhammer | `dice: 1d10`(-6 atk) greatsword |      
 ^13A-Class-Necromancer-Melee
 
 ### Ranged Weapons
@@ -48,7 +44,7 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ---------------------------- | ----------------------------------- | ----------------------------- |
 | Small            | `dice: 1d4` dagger, star     | `dice: 1d4` hand crossbow           | —                             |
 | Light or Simple  | `dice: 1d6` (-2 atk) javelin | `dice: 1d6` (-1 atk) light crossbow | `dice: 1d6` (-2 atk) shortbow |
-| Heavy or Martial | —                            | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |  
+| Heavy or Martial | —                            | `dice: 1d8` (-4 atk) heavy crossbow | `dice: 1d8` (-5 atk) longbow  |      
 ^13A-Class-Necromancer-Ranged
 
 ## Level Progression
@@ -65,7 +61,7 @@ Necromancers may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | —    | —    | 3    | 5    | —    | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | —    | —    | —    | 8    | —    |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | —    | —    | —    | 3    | 6    |        | 3 x ability modifier   |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | —    | —    | —    | —    | 9    | +1 to 3 abilities        | 3 x ability modifier   |  
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | —    | —    | —    | —    | 9    | +1 to 3 abilities        | 3 x ability modifier   |      
 ^13A-Class-Necromancer-Progression
 
 Although not listed on the table, this class gets three talents. It does not get more at higher levels.
@@ -92,7 +88,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Talents | 3      |
 | Feats   | 1 per Level     |
 | Feats   | 1 per Level     |
-| Ability Bonus    | +2 Strength or Constitution (different from racial bonus)    |  
+| Ability Bonus    | +2 Strength or Constitution (different from racial bonus)    |      
 ^13A-Class-Necromancer-Stats
 
 ## Basic Attacks

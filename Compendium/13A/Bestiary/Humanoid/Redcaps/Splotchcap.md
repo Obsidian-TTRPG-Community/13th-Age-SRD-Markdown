@@ -1,14 +1,11 @@
 ---
 aliases: [Splotchcap]
-created: 2023-05-28
 level: 2
-publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Archer", "13A/Monsters/Factions/Redcaps"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

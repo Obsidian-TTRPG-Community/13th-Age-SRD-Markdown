@@ -1,10 +1,6 @@
 ---
 aliases: ["Leveling Up Monsters"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Monsters/Rules/Leveling]
-updated: 2023-05-29
 ---
 
 ## Levelling up
@@ -21,5 +17,5 @@ Use these guidelines to raise an existing monster by one or more levels.
 | +3 levels        | x 2.0                 |
 | +4 levels        | x 2.5                 |
 | +5 levels        | x 3.2                 |
-| +6 levels        | x 4.0                 |      
+| +6 levels        | x 4.0                 |          
 ^13A-Monster-Leveling

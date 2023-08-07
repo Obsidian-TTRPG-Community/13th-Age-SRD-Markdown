@@ -1,9 +1,6 @@
 ---
 aliases: [Escalation Die]
-created: 2023-05-13
-publish: 
 tags: [13A/Combat/Rules/Escalation]
-updated: 2023-05-30
 ---
 
 ## Escalation Die

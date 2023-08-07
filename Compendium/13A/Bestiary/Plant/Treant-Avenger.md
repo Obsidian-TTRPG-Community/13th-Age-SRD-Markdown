@@ -1,14 +1,11 @@
 ---
 aliases: [Treant Avenger]
-created: 2023-05-29
 level: 12
-publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: plant
-updated: 2023-05-31
 ---
 
 ```statblock

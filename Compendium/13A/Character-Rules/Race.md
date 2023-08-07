@@ -1,10 +1,6 @@
 ---
 aliases: [Race in 13th Age]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: []
-updated: 2023-05-30
 ---
 
 ## Race

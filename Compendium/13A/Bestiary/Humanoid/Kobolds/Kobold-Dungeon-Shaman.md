@@ -1,14 +1,11 @@
 ---
 aliases: [Kobold Dungeon Shaman]
-created: 2023-05-28
 level: 4
-publish: 
 role: caster
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kobolds", "13A/Monsters/Type/Caster"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,10 +1,6 @@
 ---
 aliases: ["Icon Relationships"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Icons]
-updated: 2023-05-29
 ---
 
 ## Icon Relationships

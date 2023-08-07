@@ -1,9 +1,6 @@
 ---
 aliases: [Eidolon]
-created: 2023-05-27
-publish: 
 tags: [13A/Monsters/Factions/Eidolon]
-updated: 2023-05-31
 ---
 
 ## Eidolon Specific Rules

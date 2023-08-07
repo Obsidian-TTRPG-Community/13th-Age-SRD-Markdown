@@ -1,14 +1,11 @@
 ---
 aliases: [Demonic Icon-Wizard]
-created: 2023-05-30
 level: 4
-publish: 
 role: caster
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Demonic-Icon-Cult", "13A/Monsters/Type/caster"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

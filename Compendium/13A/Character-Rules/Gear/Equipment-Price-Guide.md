@@ -1,10 +1,6 @@
 ---
 aliases: [Equipment Price Guide, 13th Age Equipment Price Guide]
-created: 2023-05-01
-permalink: 
-publish: 
 tags: [13A/Gear/Prices]
-updated: 2023-05-29
 ---
 
 ## Equipment Price Guide

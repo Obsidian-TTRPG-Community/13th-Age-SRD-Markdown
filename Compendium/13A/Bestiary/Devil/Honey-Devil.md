@@ -1,14 +1,11 @@
 ---
 aliases: [Honey Devil, Slime Devil]
-created: 2023-05-24
 level: 4
-publish: 
 role: troop
 statblock: inline
 strength: weakling 
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: Devil
-updated: 2023-05-31
 ---
 
 ```statblock

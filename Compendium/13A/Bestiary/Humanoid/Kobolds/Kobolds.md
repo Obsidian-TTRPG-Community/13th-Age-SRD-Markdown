@@ -1,9 +1,6 @@
 ---
 aliases: [Kobolds]
-created: 2023-05-24
-publish: 
 tags: [13A/Monsters/Factions/Kobolds]
-updated: 2023-05-31
 ---
 
 All kobolds have the *trapster* ability. When a kobold makes a *trapster* attack and rolls a natural attack roll that is higher than the target’s Wisdom, the creature has maneuvered the target into a trap with the attack. A creature can only be subjected to one trap per round.

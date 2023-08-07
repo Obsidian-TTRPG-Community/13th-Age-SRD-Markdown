@@ -1,10 +1,6 @@
 ---
 aliases: [Monster Baseline Stats for Normal Monsters, Baseline Stats for Normal Monsters]
-created: 2023-05-12
-permalink: 
-publish: 
 tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Normal]
-updated: 2023-05-29
 ---
 
 ## Baseline Stats for Normal Monsters
@@ -25,5 +21,5 @@ updated: 2023-05-29
 | 11            | 16           | 70            | 288 | 27 | 25             | 21             | 96                  |
 | 12            | 17           | 90            | 360 | 28 | 26             | 22             | 120                 |
 | 13            | 18           | 110           | 432 | 29 | 27             | 23             | 144                 |
-| 14            | 19           | 135           | 576 | 30 | 28             | 24             | 192                 |    
+| 14            | 19           | 135           | 576 | 30 | 28             | 24             | 192                 |        
 ^13A-Monster-Baseline-Normal

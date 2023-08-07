@@ -1,9 +1,6 @@
 ---
 aliases: [Quick Rests]
-created: 2023-05-14
-publish: 
 tags: [13A/Combat/Rules/Rest/Quick-Rests]
-updated: 2023-05-30
 ---
 
 ## Quick Rests

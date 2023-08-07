@@ -1,14 +1,11 @@
 ---
 aliases: [Fungaloid Drudge]
-created: 2023-05-23
 level: 3
-publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Troop"]
 type: plant
-updated: 2023-05-31
 ---
 
 ```statblock

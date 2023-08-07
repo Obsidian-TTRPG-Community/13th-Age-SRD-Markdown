@@ -1,10 +1,6 @@
 ---
 aliases: ["Further Backgrounding", "Adventure Further Backgrounding", "Champion Further Backgrounding", "Epic Further Backgrounding"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Feats/Adventure, 13A/Characters/Feats/Champion, 13A/Characters/Feats/Epic]
-updated: 2023-05-29
 ---
 
 ## Further Backgrounding

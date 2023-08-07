@@ -1,13 +1,7 @@
 ---
 aliases: ["Combat Stats"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Combat]
-updated: 2023-05-29
 ---
-
-
 
 ## Combat Stats
 

@@ -1,14 +1,11 @@
 ---
 aliases: [Manticore]
-created: 2023-05-28
 level: 6
-publish: 
 role: archer
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Manticores", "13A/Monsters/Type/Archer"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

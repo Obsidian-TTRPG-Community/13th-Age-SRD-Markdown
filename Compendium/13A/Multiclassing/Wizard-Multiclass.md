@@ -1,10 +1,6 @@
 ---
 aliases: ["Wizard Multiclass"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Multiclass/Wizard]
-updated: 2023-05-29
 ---
 
 ## Wizard Multiclass

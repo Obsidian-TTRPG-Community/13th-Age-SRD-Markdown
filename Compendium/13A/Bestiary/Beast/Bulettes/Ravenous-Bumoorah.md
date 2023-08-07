@@ -1,14 +1,11 @@
 ---
 aliases: [Ravenous Bumoorah]
-created: 2023-05-23
 level: 5
-publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Bulettes", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,9 +1,6 @@
 ---
 aliases: [Intercepting]
-created: 2023-05-14
-publish: 
 tags: [13A/Combat/Rules/Positions/Faraway]
-updated: 2023-05-30
 ---
 
 ## Intercepting

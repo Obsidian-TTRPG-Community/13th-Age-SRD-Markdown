@@ -1,14 +1,11 @@
 ---
 aliases: [Werewolf]
-created: 2023-05-28
 level: 3
-publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/", "13A/Monsters/Type/Troop"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

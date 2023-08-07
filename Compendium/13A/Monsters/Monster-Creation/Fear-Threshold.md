@@ -1,10 +1,6 @@
 ---
 aliases: [Monster Fear Threshold, Fear Threshold]
-created: 2023-05-12
-permalink: 
-publish: 
 tags: [13A/Monsters/Creation/Fear-Threshold]
-updated: 2023-05-29
 ---
 
 ## Fear Threshold

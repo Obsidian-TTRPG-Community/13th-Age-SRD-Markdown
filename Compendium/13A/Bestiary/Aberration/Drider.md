@@ -1,14 +1,11 @@
 ---
 aliases: [Drider]
-created: 2023-05-23
 level: 6
-publish: 
 role: caster
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-31
 ---
 
 ```statblock

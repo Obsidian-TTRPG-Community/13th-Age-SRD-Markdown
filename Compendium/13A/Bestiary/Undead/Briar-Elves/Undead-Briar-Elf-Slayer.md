@@ -1,14 +1,11 @@
 ---
 aliases: [Undead Briar Elf Slayer]
-created: 2023-05-30
 level: 6
-publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/undead", "13A/Monsters/Type/troop"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

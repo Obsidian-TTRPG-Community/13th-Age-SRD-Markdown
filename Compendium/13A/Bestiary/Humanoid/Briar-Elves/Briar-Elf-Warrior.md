@@ -1,14 +1,11 @@
 ---
 aliases: [Briar Elf-Warrior]
-created: 2023-05-30
 level: 9
-publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/troop"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

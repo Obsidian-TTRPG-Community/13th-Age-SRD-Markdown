@@ -1,9 +1,6 @@
 ---
 aliases: [Lich King, The Lich King]
-created: 2023-05-18
-publish: 
 tags: [13A/Icons/Lich-King]
-updated: 2023-05-30
 ---
 
 ## Lich King

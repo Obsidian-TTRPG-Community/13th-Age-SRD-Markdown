@@ -1,14 +1,11 @@
 ---
 aliases: [Xombie Spiders]
-created: 2023-05-29
 level: 3
-publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Blocker"]
 type: aberration
-updated: 2023-05-30
 ---
 
 ```statblock

@@ -1,10 +1,6 @@
 ---
 aliases: [13th Age Monster List]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Monsters]
-updated: 2023-05-29
 ---
 
 ## Monster List
@@ -411,5 +407,5 @@ This list is sorted by level, then role, then monster name.
 | 13      | huge red dragon                 | huge     | wrecker  | dragon           |
 | 14      | huge gold dragon                | large    | caster   | dragon           |
 | 14      | pit fiend                       | huge     | wrecker  | devil            |
-| 15      | tarrasque                       | huge     | wrecker  | beast            |    
+| 15      | tarrasque                       | huge     | wrecker  | beast            |        
 ^13A-Bestiary-List-SRD

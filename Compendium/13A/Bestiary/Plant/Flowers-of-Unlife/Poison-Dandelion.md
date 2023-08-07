@@ -1,14 +1,11 @@
 ---
 aliases: [Poison Dandelion]
-created: 2023-05-23
 level: 6
-publish: 
 role: spoiler
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Spoiler"]
 type: plant
-updated: 2023-05-31
 ---
 
 ```statblock

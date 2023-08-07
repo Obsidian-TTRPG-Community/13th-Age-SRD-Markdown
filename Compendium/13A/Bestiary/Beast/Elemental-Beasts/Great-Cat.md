@@ -1,14 +1,11 @@
 ---
 aliases: [Great Cat]
-created: 2023-05-29
 level: 3
-publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

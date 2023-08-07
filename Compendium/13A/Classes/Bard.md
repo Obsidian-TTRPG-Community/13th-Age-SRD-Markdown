@@ -1,10 +1,6 @@
 ---
 aliases: [Bard]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Classes/Bard]
-updated: 2023-05-29
 ---
 
 ## Bard
@@ -45,7 +41,7 @@ Bards may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | -  |
 | Light      | 12      | -  |
 | Heavy      | 13      | -2 |
-| Shield     | +1      | -1  |  
+| Shield     | +1      | -1  |      
 ^13A-Class-Bard-Armor
 
 #### Melee Weapons
@@ -72,7 +68,7 @@ Bards may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7 | (7 + CON mod) x 12 | 4 adventurer 3 champion | 4, up to 7thlevel | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
 | Level 8 | (7 + CON mod) x 16 | 4 adventurer 3 champion 1 epic | 5, up to 7thlevel | — | — | — | 6 | — |  | 3 x ability modifier |
 | Level 9 | (7 + CON mod) x 20 | 4 adventurer 3 champion 2 epic | 5, up to 9thlevel | — | — | — | 4 | 3 |  | 3 x ability modifier |
-| Level 10 | (7 + CON mod) x 24 | 4 adventurer 3 champion 3 epic | 6, up to 9thlevel | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |  
+| Level 10 | (7 + CON mod) x 24 | 4 adventurer 3 champion 3 epic | 6, up to 9thlevel | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |      
 ^13A-Class-Bard-Progression 
 
 >[!info] Although not listed on the table, this class gets three talents. It does not gain more at higher levels
@@ -95,7 +91,7 @@ Bards may start with either 25 gp or `dice: 1d6*10` gp.
 | Backgrounds | 8 points, max 5 in any one background |
 | Icon Relationships | 3 points |
 | Talents | 3 |
-| Feats | 1 per Level |  
+| Feats | 1 per Level |      
 ^13A-Class-Bard-Stats
 
 ### Basic Attacks
@@ -349,7 +345,7 @@ If the escalation die is 3+, two nearby conscious allies (instead of one) can ea
 
 #### Song of Heroes
 
-*Bardic song* 
+*Bardic song*  
 Recharge 11+ after battle  
 Quick action each turn; 11+ to sustain  
 **Opening & Sustained Effect:** You and your nearby allies gain a +1 attack bonus until the start of your next turn.  
@@ -365,7 +361,7 @@ Quick action each turn; 11+ to sustain
 
 #### Song of Spilt Blood
 
-*Bardic song* 
+*Bardic song*  
 Daily  
 Quick action each turn; 6+ to sustain  
 **Opening & Sustained Effect:** Any attack against you takes a penalty equal to the number of your allies in the battle who have more hit points than you.  
@@ -763,7 +759,7 @@ The battle cry can now trigger on a natural 19+.
 
 #### Song of Blood & Legends
 
-*Bardic song* 
+*Bardic song*  
 Daily  
 Standard action each turn; 16+ to sustain  
 **Opening & Sustained Effect:** Each nearby ally who hits at least one enemy with an attack during their turn can heal using a recovery.  
@@ -772,10 +768,10 @@ Standard action each turn; 16+ to sustain
 
 #### Song of Victory
 
-*Bardic song* 
+*Bardic song*  
 Daily  
 Quick action each turn; 16+ to sustain  
-**Opening & Sustained Effect:** Each nearby enemy that has fewer hit points than you is dazed until the end of your next turn.
+**Opening & Sustained Effect:** Each nearby enemy that has fewer hit points than you is dazed until the end of your next turn.  
 **Final Verse:** Each nearby enemy takes `dice: 5d6` + Charisma psychic damage.  
 **9th level song**: `dice: 7d6` damage.
 

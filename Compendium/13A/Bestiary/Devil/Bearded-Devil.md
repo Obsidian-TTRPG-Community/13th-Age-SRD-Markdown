@@ -1,14 +1,11 @@
 ---
 aliases: [Bearded Devil, Barbazu]
-created: 2023-05-23
 level: 6
-publish: 
 role: blocker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Blocker"]
 type: devil
-updated: 2023-05-31
 ---
 
 ```statblock

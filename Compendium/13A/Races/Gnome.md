@@ -1,10 +1,6 @@
 ---
 aliases: [Gnome]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/Gnome]
-updated: 2023-05-29
 ---
 
 ## Gnome

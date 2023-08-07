@@ -1,14 +1,11 @@
 ---
 aliases: [Redscale Fiery Vanquisher]
-created: 2023-05-29
 level: 7
-publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Kroma-Dragonic", "13A/Monsters/Type/Wrecker"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

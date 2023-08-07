@@ -1,9 +1,6 @@
 ---
 aliases: ["Devil, Fang"]
-created: 2023-05-23
-publish: 
 tags: [13A/Monsters/Factions/Devil-Fang]
-updated: 2023-05-31
 ---
 
 ## Devil, Fang

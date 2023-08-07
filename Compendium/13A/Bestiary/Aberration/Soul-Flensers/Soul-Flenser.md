@@ -1,14 +1,11 @@
 ---
 aliases: [Soul Flenser]
-created: 2023-05-24
 level: 9
-publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Soul-Flensers", "13A/Monsters/Type/Spoiler"]
 type: aberration
-updated: 2023-05-31
 ---
 
 ```statblock

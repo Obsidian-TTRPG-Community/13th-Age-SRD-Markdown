@@ -1,9 +1,6 @@
 ---
 aliases: [Flexible Attacks]
-created: 2023-05-14
-publish: 
 tags: [13A/Combat/Rules/Attacks/Flexible]
-updated: 2023-05-30
 ---
 
 ## Flexible Attacks

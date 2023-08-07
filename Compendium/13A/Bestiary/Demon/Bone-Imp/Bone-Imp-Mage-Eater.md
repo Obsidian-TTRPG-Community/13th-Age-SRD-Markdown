@@ -1,14 +1,11 @@
 ---
 aliases: [Bone Imp Mage Eater]
-created: 2023-05-30
 level: 2
-publish: 
 role: mook
 statblock: inline
 strength: weakling
 tags: ["13A/Bestiary/demon", "13A/Monsters/Type/mook", "13A/Monsters/Factions/Bone-Imp"]
 type: demon
-updated: 2023-05-31
 ---
 
 ```statblock

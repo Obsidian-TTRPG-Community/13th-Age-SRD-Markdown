@@ -1,14 +1,11 @@
 ---
 aliases: [Headless Zombie]
-created: 2023-05-28
 level: 9
-publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Type/Troop"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

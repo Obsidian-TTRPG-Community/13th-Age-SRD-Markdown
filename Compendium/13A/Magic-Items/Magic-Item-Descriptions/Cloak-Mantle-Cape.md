@@ -1,10 +1,6 @@
 ---
 aliases: ["Cloak, Mantle, Cape"]
-created: 2023-05-18
-permalink: 
-publish: 
 tags: [13A/Items/Magic/Descriptions/Cloak, 13A/Items/Magic/Descriptions/Mantle, 13A/Items/Magic/Descriptions/Cape]
-updated: 2023-05-29
 ---
 
 ## Cloak, Mantle, Cape

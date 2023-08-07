@@ -1,14 +1,11 @@
 ---
 aliases: [Remorhaz Queen]
-created: 2023-05-28
 level: 11
-publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Type/Wrecker"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,14 +1,11 @@
 ---
 aliases: [Doomlantern Salamander]
-created: 2023-05-29
 level: 4
-publish: 
 role: blocker
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Salamanders", "13A/Monsters/Type/Blocker"]
 type: elemental
-updated: 2023-05-31
 ---
 
 ```statblock

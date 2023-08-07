@@ -1,26 +1,19 @@
 ---
 aliases: [Running the Game in 13th Age]
-created: 2316-02-07
-permalink: 
-publish: 
 tags: [13A/Gamemastery]
-updated: 2023-05-29
 ---
 
 ## Running the Game
 
 This section has instruction for the GM on running the game.
 
-
 ## Map of Content
 
-%% Begin Waypoint %%
 - **[[Running-the-Game]]**
 	- [[Building-Battles]]
 	- [[Leveling-Up]]
 	- [[Rituals]]
 
-%% End Waypoint %%
 
 ## Rules
 
@@ -99,7 +92,7 @@ The GM determines the environs where the adventure takes place.
 | 7     | Mostly champion, some epic       |
 | 8     | Half champion, half epic         |
 | 9     | Mostly epic, some champion       |
-| 10    | Always epic                      |      
+| 10    | Always epic                      |          
 ^13A-Environment-Chart
 
 #### Environment DCs for Skill Checks
@@ -112,7 +105,7 @@ The environment the PCs are in determines the DC of skill checks and other chall
 |------------------------|-------|
 | Normal task            | DC 15 |
 | Hard task              | DC 20 |
-| Ridiculously hard task | DC 25 |      
+| Ridiculously hard task | DC 25 |          
 ^13A-DC-Adventurer-Skill
 
 ##### Champion-tier Skill Check DCs
@@ -121,7 +114,7 @@ The environment the PCs are in determines the DC of skill checks and other chall
 |------------------------|-------|
 | Normal task            | DC 20 |
 | Hard task              | DC 25 |
-| Ridiculously hard task | DC 30 |      
+| Ridiculously hard task | DC 30 |          
 ^13A-DC-Champion-Skill
 
 ##### Epic-tier Skill Check DCs
@@ -130,7 +123,7 @@ The environment the PCs are in determines the DC of skill checks and other chall
 |------------------------|-------|
 | Normal task            | DC 25 |
 | Hard task              | DC 30 |
-| Ridiculously hard task | DC 35 |      
+| Ridiculously hard task | DC 35 |          
 ^13A-DC-Epic-Skill
 
 #### Impromptu Damage
@@ -155,7 +148,7 @@ Use the skill check DC on the table to give you a general guideline for PCs atte
 | Champion   | Ridiculously hard   | 30             | +20                                       | `dice:4d8` or `dice: 2d20`                      | `dice: 2d12` or `dice: 3d10`                        |
 | Epic       | Normal              | 25             | +15                                       | `dice: 2d20` or `dice: 3d20`                     | `dice: 3d12` or `dice: 4d10`                        |
 | Epic       | Hard                | 30             | +20                                       | `dice: 3d20`                             | `dice: 4d10`                                |
-| Epic       | Ridiculously hard   | 35             | +25                                       | `dice: 3d20` or `dice: 4d20`                     | `dice: 4d10` or `dice: 4d12`                        |    
+| Epic       | Ridiculously hard   | 35             | +25                                       | `dice: 3d20` or `dice: 4d20`                     | `dice: 4d10` or `dice: 4d12`                        |        
 ^13A-Environmental-DC
 
 ### Full Heal-ups

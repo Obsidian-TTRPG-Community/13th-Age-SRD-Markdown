@@ -1,14 +1,11 @@
 ---
 aliases: [Atrocious Gibbering Mouther]
-created: 2023-05-29
 level: 6
-publish: 
 role: spoiler
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Gibbering-Mouthers", "13A/Monsters/Type/Spoiler"]
 type: aberration
-updated: 2023-05-31
 ---
 
 ```statblock

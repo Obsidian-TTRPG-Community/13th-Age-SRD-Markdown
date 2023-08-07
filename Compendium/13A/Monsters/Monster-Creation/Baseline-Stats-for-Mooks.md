@@ -1,10 +1,6 @@
 ---
 aliases: [Baseline Stats for Mooks]
-created: 2023-05-12
-permalink: 
-publish: 
 tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Mooks]
-updated: 2023-05-29
 ---
 
 ## Baseline Stats for Mooks
@@ -25,5 +21,5 @@ updated: 2023-05-29
 | 11            | 16           | 46            | 72                      | 27 | 25             | 21             |
 | 12            | 17           | 60            | 90                      | 28 | 26             | 22             |
 | 13            | 18           | 74            | 108                     | 29 | 27             | 23             |
-| 14            | 19           | 90            | 144                     | 30 | 28             | 24             |    
+| 14            | 19           | 90            | 144                     | 30 | 28             | 24             |        
 ^13A-Monster-Baseline-Mooks

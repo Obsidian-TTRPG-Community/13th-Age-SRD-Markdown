@@ -1,14 +1,11 @@
 ---
 aliases: [Zombie of the Silver Rose]
-created: 2023-05-28
 level: 4
-publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Type/Mook"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

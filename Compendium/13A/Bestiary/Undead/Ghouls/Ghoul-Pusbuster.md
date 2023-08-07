@@ -1,14 +1,11 @@
 ---
 aliases: [Ghoul Pusbuster]
-created: 2023-05-28
 level: 4
-publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghouls", "13A/Monsters/Type/Spoiler"]
 type: undead
-updated: 2023-05-31
 ---
 
 ```statblock

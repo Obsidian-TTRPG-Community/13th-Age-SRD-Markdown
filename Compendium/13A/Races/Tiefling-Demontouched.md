@@ -1,10 +1,6 @@
 ---
 aliases: ["Tiefling", "Demontouched"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/Tiefling, 13A/Characters/Races/Demontouched]
-updated: 2023-05-29
 ---
 
 ## Tiefling - Demontouched

@@ -1,9 +1,6 @@
 ---
 aliases: [Xorn]
-created: 2023-05-29
-publish: 
 tags: [13A/Monsters/Factions/Xorn]
-updated: 2023-05-31
 ---
 
 ## Abilities for All Xorn

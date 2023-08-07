@@ -1,14 +1,11 @@
 ---
 aliases: [Ice Devil, Gelugon]
-created: 2023-05-23
 level: 11
-publish: 
 role: leader
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Leader"]
 type: devil
-updated: 2023-05-31
 ---
 
 ```statblock

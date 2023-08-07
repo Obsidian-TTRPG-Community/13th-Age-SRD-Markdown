@@ -1,14 +1,11 @@
 ---
 aliases: [Fire Giant]
-created: 2023-05-23
 level: 8
-publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
 type: giant
-updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,14 +1,11 @@
 ---
 aliases: [Big Flux Elemental]
-created: 2023-05-30
 level: 7
-publish: 
 role: troop
 statblock: inline
 strength: Normal
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Flux-Elemental", "13A/Monsters/Type/Troop"]
 type: elemental
-updated: 2023-05-31
 ---
 
 ```statblock

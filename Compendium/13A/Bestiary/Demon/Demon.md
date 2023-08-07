@@ -1,10 +1,7 @@
 ---
 aliases: [Demon]
-created: 2023-05-23
-publish: 
 statblock: inline
 tags: [13A/Monsters/Factions/Demon]
-updated: 2023-05-31
 ---
 Demons may or may not have a special demonic ability. Roll `dice: 1d10` for each non-mook normal-sized demon. If you roll less than or equal to the demon’s level, it has a random ability. Large or huge (or double- or triple-strength) demons automatically get one at least one random ability.
 
@@ -19,5 +16,5 @@ When a demon has an ability, roll a d6 or d8 (GM’s choice) on the table below 
 | 5                          | Fear aura         | Enemies engaged with the demon who are below its fear hit point threshold are dazed and can’t use the escalation die. See Fear.                                                                                                             |
 | 6                          | Teleport          | `dice: 1d3` times per battle, as a move action, the demon can teleport anywhere it can see nearby.                                                                                                                                          |
 | 7                          | Demonic speed     | The demon can take an extra action each turn while the escalation die is 4+.                                                                                                                                                                |
-| 8                          | Gate              | Once per battle as a standard action, if the demon is staggered, it can summon a single demon ally at least two levels below its own level. The allied demon rolls initiative and does not appear on the battlefield until its turn starts. |                      
+| 8                          | Gate              | Once per battle as a standard action, if the demon is staggered, it can summon a single demon ally at least two levels below its own level. The allied demon rolls initiative and does not appear on the battlefield until its turn starts. |                          
 ^13A-Demon-Ability

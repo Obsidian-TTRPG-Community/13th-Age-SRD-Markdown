@@ -1,13 +1,8 @@
 ---
 aliases: [5e DnD Player's Guide to 13A]
 author: Mike Shea
-created: 2023-05-01
-description: 
-image: 
-publish: 
 source: [https://pelgranepress.com/2017/10/30/a-5th-edition-dd-players-guide-to-13th-age/]
 tags: [13A/Guide/5e]
-updated: 2023-05-01
 ---
 
 ## A 5th Edition D&D Player’s Guide to 13th Age
@@ -66,9 +61,9 @@ Whenever a character in *13th Age* attempts something that would require a skill
 
 The open-ended nature of these backgrounds help players define their characters’ role in the world. Instead of “Sage”, a player may define part of the world with a background like “former sage of the Crusader’s inquisition, now on the run”.
 
->[!example]
-> A paladin with the +3 background “Student in the Hidden Monastery of the [[Compendium/13A/Icons/Great-Gold-Wyrm|Great Gold Wyrm]]” has to cross a tightrope across a pit. 
-> The paladin’s player says to the GM, “The monastery I trained in as a youth sits on a mountain cliffside, and all the buildings are only connected by tightropes. So I’m really good at walking tightropes.” 
+>[!example]  
+> A paladin with the +3 background “Student in the Hidden Monastery of the [[Compendium/13A/Icons/Great-Gold-Wyrm|Great Gold Wyrm]]” has to cross a tightrope across a pit.  
+> The paladin’s player says to the GM, “The monastery I trained in as a youth sits on a mountain cliffside, and all the buildings are only connected by tightropes. So I’m really good at walking tightropes.”  
 > The GM agrees that the +3 bonus applies to this skill check, and quietly writes a note to herself, “Future adventure: party goes to the hidden monastery, has awesome battle on tightropes.”
 
 *13th Age* characters are further defined by their “[[Compendium/13A/Character-Rules/One-Unique-Thing|one unique thing]]”. This trait sets their character apart from everyone else in the world. This can be something relatively personal like, “is guided by three ghost witches only she can see” or something larger in scope like, “is the only person in the world who can hear the laments of the Koru”. Like backgrounds, these unique features help the player define parts of the world beyond the bounds of the character sheet.
@@ -121,5 +116,5 @@ Unbound from the need to embrace the elements of traditional fantasy RPGs, *13th
 
 I love *13th Age*. I also love 5th edition D&D. These games are not mutually exclusive. We can love many roleplaying game systems and each one gives us things we can use in the others. In a single volume, *13th Age* gives us a beautiful system of high fantasy roleplaying that every GM should try. Whatever system you prefer, you’re sure to find ideas in *13th Age* you can use in any system. And who knows? It just might become your system of choice.
 
-> [!summary] About the Writer
+> [!summary] About the Writer  
 > Mike Shea is a writer, gamer, technologist, and webmaster for the D&D website [Sly Flourish](http://slyflourish.com/). Mike has freelanced for Wizards of the Coast, and wrote the books [The Lazy Dungeon Master](http://slyflourish.com/lazydm/) and [Sly Flourish’s Fantastic Locations](http://slyflourish.com/fantasticlocations/). Mike lives in Vienna, Virginia with his gamer wife Michelle and their dire worg Jebu.

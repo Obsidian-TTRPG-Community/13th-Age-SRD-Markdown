@@ -1,9 +1,6 @@
 ---
 aliases: [Combat-Sequence]
-created: 2023-05-13
-publish: 
 tags: [13A/Combat/Rules/Sequence]
-updated: 2023-05-30
 ---
 
 ## Combat Sequence

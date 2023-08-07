@@ -1,10 +1,6 @@
 ---
 aliases: [Fighter]
-created: 2023-05-07
-permalink: 
-publish: 
 tags: [13A/Characters/Classes/Fighter]
-updated: 2023-05-29
 ---
 
 ## Ability Scores
@@ -30,7 +26,7 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 13      | —  |
 | Heavy      | 15      | —  |
-| Shield     | 1       | —  |  
+| Shield     | 1       | —  |      
 ^13A-Class-Fighter-Armor
 
 ### Melee Weapons
@@ -39,7 +35,7 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------------------- | -------------------------------- |
 | Small            | `dice: 1d4` dagger               | `dice: 1d6` club                 |
 | Light or Simple  | `dice: 1d6` shortsword, hand axe | `dice: 1d8` spear                |
-| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |
+| Heavy or Martial | `dice: 1d8` longsword, warhammer | `dice: 1d10`greatsword, greataxe |    
 ^13A-Class-Fighter-Melee
 
 ### Ranged Weapons
@@ -48,7 +44,7 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | ------------------------ | -------------------------- | -------------------- |
 | Small            | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —                    |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —                        | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
+| Heavy or Martial | —                        | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |    
 ^13A-Class-Fighter-Ranged
 
 ## Level Progression
@@ -65,7 +61,7 @@ Fighters may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (8 + CON mod) x 12| 4 adventurer 3 champion        | 6 | 7th level | 4    | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (8 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 7 | 7th level | 4    |        | 3 x ability modifier   |
 | Level 9   | (8 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 7 | 9th level | 4    |        | 3 x ability modifier   |
-| Level 10  | (8 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 8 | 9th level | 4    | +1 to 3 abilities        | 3 x ability modifier   |  
+| Level 10  | (8 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 8 | 9th level | 4    | +1 to 3 abilities        | 3 x ability modifier   |      
 ^13a-Class-Fighter-Progression
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
@@ -90,7 +86,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Icon Relationships | 3 points        |
 | Talents   | 3 (see level progression chart)   |
 | Feats     | 1 per Level     |
-| Ability Bonus      | +2 Strength or Constitution (different from racial bonus)    |  
+| Ability Bonus      | +2 Strength or Constitution (different from racial bonus)    |      
 ^13A-Class-Fighter-Stats
 
 ## Basic Attacks
@@ -224,9 +220,6 @@ You can also use the power against an attack that targets PD.
 #### Epic Feat
 
 Once per day, you can reroll a recharge roll for a magic armor power.
-
-  
-  
 
 ### Power Attack
 

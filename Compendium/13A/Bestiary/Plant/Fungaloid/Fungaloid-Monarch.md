@@ -1,14 +1,11 @@
 ---
 aliases: [Fungaloid Monarch]
-created: 2023-05-23
 level: 4
-publish: 
 role: leader
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Leader"]
 type: plant
-updated: 2023-05-31
 ---
 
 ```statblock

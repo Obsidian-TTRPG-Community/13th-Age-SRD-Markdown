@@ -1,14 +1,11 @@
 ---
 aliases: [Phase Spider]
-created: 2023-05-28
 level: 7
-publish: 
 role: spoiler
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/None"]
 type: beast
-updated: 2023-05-31
 ---
 
 ```statblock

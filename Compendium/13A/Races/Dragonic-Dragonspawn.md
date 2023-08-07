@@ -1,10 +1,6 @@
 ---
 aliases: ["Dragonic", "Dragonspawn"]
-created: 2023-02-07
-permalink: 
-publish: 
 tags: [13A/Characters/Races/Dragonic, 13A/Characters/Races/Dragonspawn]
-updated: 2023-05-29
 ---
 
 ## Dragonic - Dragonspawn

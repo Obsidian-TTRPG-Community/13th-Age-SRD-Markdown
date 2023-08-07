@@ -1,14 +1,11 @@
 ---
 aliases: [Derro Sage]
-created: 2023-05-23
 level: 4
-publish: 
 role: caster
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Derro", "13A/Monsters/Type/Caster"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

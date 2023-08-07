@@ -1,14 +1,11 @@
 ---
 aliases: [Minotaur]
-created: 2023-05-28
 level: 4
-publish: 
 role: troop
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop", "13A/Monsters/Factions/None"]
 type: humanoid
-updated: 2023-05-31
 ---
 
 ```statblock

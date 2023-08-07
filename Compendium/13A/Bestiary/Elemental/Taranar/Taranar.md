@@ -1,10 +1,7 @@
 ---
 aliases: []
-created: 2023-05-29
-publish: 
 statblock: inline
 tags: [13A/Monsters/Factions/Taranar]
-updated: 2023-05-31
 ---
 
 ## Special Abilities for All Taranar

@@ -1,14 +1,11 @@
 ---
 aliases: [Fire Giant Priest General]
-created: 2023-05-29
 level: 8
-publish: 
 role: leader
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Fire-Giant", "13A/Monsters/Type/Leader"]
 type: giant
-updated: 2023-05-31
 ---
 
 ```statblock

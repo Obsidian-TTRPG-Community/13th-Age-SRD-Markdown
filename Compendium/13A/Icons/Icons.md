@@ -1,9 +1,6 @@
 ---
 aliases: [Icons, 13th Age Icons]
-created: 2023-02-07
-publish: 
 tags: [13A/Icons]
-updated: 2023-05-30
 ---
 
 ## Icons
