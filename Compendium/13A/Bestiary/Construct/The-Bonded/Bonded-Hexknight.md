@@ -1,11 +1,14 @@
 ---
 aliases: [Bonded Hexknight]
+created: 2023-05-25
 level: 7
+publish: 
 role: troop
 statblock: inline
 strength: 3×
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Troop"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

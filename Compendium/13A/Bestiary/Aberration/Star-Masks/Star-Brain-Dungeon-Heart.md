@@ -1,11 +1,14 @@
 ---
 aliases: [Star Brain Dungeon Heart]
+created: 2023-05-29
 level: 14
+publish: 
 role: wrecker
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Wrecker"]
 type: aberration
+updated: 2023-05-30
 ---
 
 ```statblock

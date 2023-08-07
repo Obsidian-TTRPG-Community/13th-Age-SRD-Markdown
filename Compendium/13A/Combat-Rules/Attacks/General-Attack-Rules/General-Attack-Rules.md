@@ -1,6 +1,9 @@
 ---
 aliases: [General Attack Rules]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Attacks/General]
+updated: 2023-05-30
 ---
 
 ## General Attack Rules

@@ -1,6 +1,9 @@
 ---
 aliases: [Other Actions when it’s Not Your Turn]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Actions/Other]
+updated: 2023-05-30
 ---
 
 ## Other Actions when it’s Not Your Turn

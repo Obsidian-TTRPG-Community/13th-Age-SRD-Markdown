@@ -1,11 +1,14 @@
 ---
 aliases: [Massive Mutant Chuul]
+created: 2023-05-23
 level: 10
+publish: 
 role: wrecker
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chuuls", "13A/Monsters/Type/Wrecker"]
 type: aberration
+updated: 2023-05-31
 ---
 
 ```statblock

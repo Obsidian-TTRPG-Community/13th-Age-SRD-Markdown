@@ -1,11 +1,14 @@
 ---
 aliases: [Watch Skull]
+created: 2023-05-28
 level: 1
+publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Haunted-Skull", "13A/Monsters/Type/Troop"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

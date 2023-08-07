@@ -1,6 +1,10 @@
 ---
 aliases: ["High Elf"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/High-Elf]
+updated: 2023-05-29
 ---
 
 ## High Elf

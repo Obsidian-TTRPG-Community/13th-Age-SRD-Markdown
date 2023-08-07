@@ -1,6 +1,9 @@
 ---
 aliases: [Readying an Action]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Rules/Sequence/Initiative/Ready]
+updated: 2023-05-30
 ---
 
 ## Readying an Action

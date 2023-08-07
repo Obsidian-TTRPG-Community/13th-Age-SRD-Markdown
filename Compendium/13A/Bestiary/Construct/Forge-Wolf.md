@@ -1,10 +1,13 @@
 ---
 aliases: [Forge Wolf]
+created: 2023-05-29
 level: 6
+publish: 
 role: mook
 strength: large
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Fire-Giants", "13A/Monsters/Type/Mook"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

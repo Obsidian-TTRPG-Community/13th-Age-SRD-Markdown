@@ -1,6 +1,10 @@
 ---
 aliases: [One Use Items]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Items/Rules/Potions, 13A/Items/Rules/Oils, 13A/Items/Rules/Runes, 13A/Items/Rules/One-Use]
+updated: 2023-05-29
 ---
 
 ## One-use Items
@@ -24,7 +28,7 @@ A healing potion lets the creature drinking it heal using one of their [recoveri
 | Adventurer | 50 gp  | Recovery +`dice: 1d8` hp | 30     |
 | Champion   | 100 gp | Recovery +`dice: 2d8` hp | 60     |
 | Epic       | 200 gp | Recovery +`dice: 3d8` hp | 100    |
-| Iconic     | 300 gp | Recovery +`dice: 4d8` hp | 130    |          
+| Iconic     | 300 gp | Recovery +`dice: 4d8` hp | 130    |      
 ^13A-Costs-Potions-Healing
 
 #### Potion of [Energy] Resistance
@@ -42,7 +46,7 @@ For the types of resistance available, see [Other Damage Types](Compendium/13A/C
 | ---- | ---------- | ------ |
 | Adventurer     | Resist 16+ | 100 gp |
 | Champion      | Resist 16+ | 200 gp |
-|   Epic   | Resist 16+ | 400 gp |          
+|   Epic   | Resist 16+ | 400 gp |      
 ^13A-Costs-Potions-Resistance
 
 ### Oils

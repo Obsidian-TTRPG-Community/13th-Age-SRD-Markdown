@@ -1,11 +1,14 @@
 ---
 aliases: [Hagunemnon]
+created: 2023-05-23
 level: 13
+publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Elder-Beasts", "13A/Monsters/Type/Wrecker"]
 type: aberration
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,11 +1,14 @@
 ---
 aliases: [Spriggan]
+created: 2023-05-29
 level: 6
+publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Blocker"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

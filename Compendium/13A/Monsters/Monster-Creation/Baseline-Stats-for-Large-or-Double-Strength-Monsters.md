@@ -1,6 +1,10 @@
 ---
 aliases: [Baseline Stats for Large or Double-Strength Monsters]
+created: 2023-05-12
+permalink: 
+publish: 
 tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Large]
+updated: 2023-05-29
 ---
 
 ## Baseline Stats for Large or Double-Strength Monsters
@@ -21,5 +25,5 @@ tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Large]
 | 11            | 16           | 140           | 576  | 27 | 25             | 21             | 96                  |
 | 12            | 17           | 180           | 720  | 28 | 26             | 22             | 120                 |
 | 13            | 18           | 220           | 864  | 29 | 27             | 23             | 144                 |
-| 14            | 19           | 270           | 1152 | 30 | 28             | 24             | 192                 |        
+| 14            | 19           | 270           | 1152 | 30 | 28             | 24             | 192                 |    
 ^13A-Monster-Baseline-Large

@@ -1,11 +1,14 @@
 ---
 aliases: [Beast Gauntlet's Mascot]
+created: 2023-05-30
 level: 6
+publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,6 +1,9 @@
 ---
 aliases: [Situational Weapon Use]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Rules/Special-Attacks/Situational-Weapons]
+updated: 2023-05-30
 ---
 
 ## Situational Weapon Use

@@ -1,11 +1,14 @@
 ---
 aliases: [Ettercap Acolyte]
+created: 2023-05-23
 level: 1
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Ettercap", "13A/Monsters/Type/Mook"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

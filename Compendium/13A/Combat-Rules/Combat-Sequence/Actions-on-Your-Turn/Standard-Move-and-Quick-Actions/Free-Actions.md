@@ -1,6 +1,9 @@
 ---
 aliases: [Free Actions]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Rules/Sequence/Actions/Free]
+updated: 2023-05-30
 ---
 
 ## Free Actions

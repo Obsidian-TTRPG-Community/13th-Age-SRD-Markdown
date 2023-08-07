@@ -1,6 +1,10 @@
 ---
 aliases: [Never Say Die]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Forgeborn/Power, 13A/Characters/Races/Dwarf-forged/Power]
+updated: 2023-05-29
 ---
 
 ## Never Say Die

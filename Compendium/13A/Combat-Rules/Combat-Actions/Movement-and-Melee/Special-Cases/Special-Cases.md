@@ -1,6 +1,9 @@
 ---
 aliases: [Special Cases]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Movement/Special]
+updated: 2023-05-30
 ---
 
 ## Special Cases

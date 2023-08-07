@@ -1,6 +1,9 @@
 ---
 aliases: ["Great Gold Wyrm"]
+created: 2023-05-18
+publish: 
 tags: [13A/Icons/Great-Gold-Wyrm]
+updated: 2023-05-30
 ---
 
 ## Great Gold Wyrm

@@ -1,6 +1,10 @@
 ---
 aliases: [Chaos Mage]
+created: 2023-05-03
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Chaos-Mage]
+updated: 2023-05-29
 ---
 
 ## Chaos Mage
@@ -37,7 +41,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | None  | 10 | -      |
 | Light | 10 | -      |
 | Heavy | 11 | -2     |
-| Shield| +1 | -2     |      
+| Shield| +1 | -2     |  
 ^13A-Class-Chaos-Mage-Armor
 
 ### Melee Weapons
@@ -46,7 +50,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------------------- | ------------------------ |
 | Small            | `dice: 1d4` dagger, pronged fork         | `dice: 1d6` club, staff          |
 | Light or Simple  | `dice: 1d6` (-2 atk) axe, shortsword     | `dice: 1d8` (-4 atk) spear       |
-| Heavy or Martial | `dice: 1d8` (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |      
+| Heavy or Martial | `dice: 1d8` (-5 atk) scimitar, warhammer | `dice: 1d10`(-6 atk) greatsword |  
 ^13A-Class-Chaos-Mage-Melee
 
 ### Ranged Weapons
@@ -73,7 +77,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | 4       | 2        | 7th level       | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 5       | 2        | 7th level       | —      | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 5       | 2        | 9th level       | —      | 3 x ability modifier   |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 6       | 2        | 9th level       | +1 to 3 abilities        | 3 x ability modifier   |      
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 6       | 2        | 9th level       | +1 to 3 abilities        | 3 x ability modifier   |  
 ^13A-Class-Chaos-Mage-Progression
 
 **(M)**: Indicates columns in which multiclass characters lag one level behind.  
@@ -94,7 +98,7 @@ Chaos Mages may start with either 25 gp or `dice: 1d6*10` gp.
 | Recovery Dice      | 8 points, max 5 in any one background      |
 | Backgrounds        | 3 points (4 at 5th level; 5 at 8th level)  |
 | Icon Relationships | 3      |
-| Talents   | 1 per Level     |      
+| Talents   | 1 per Level     |  
 ^13A-Class-Chaos-Mage-Stats
 
 ## Basic Attacks
@@ -151,8 +155,7 @@ Once per day when you draw an iconic spell, before rolling, choose an icon you h
 **Epic Feat**  
 You can use the champion feat power a second time, but only if you choose an icon that you have at least a two-point relationship with.
 
-### High Weirdness
-
+**High Weirdness**  
 Chaos mages usually display an uncanny weirdness that presents itself through their spellcasting, and sometimes even bleeds through to their general demeanor. This weirdness is represented in game mechanics through the High Weirdness table below.
 
 When an enemy scores a critical hit against you, roll high weirdness and consult the table to see what effect applies. If you hate the effect you’re experiencing, you can use a standard action to change it. Unless otherwise specified, the high weirdness effects last until the end of the battle.
@@ -217,7 +220,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | 96–97         | Something related to your one unique thing goes very right for you. This is on you and the GM to work out together. The GM has the final say, though.                                                                                                                                                                                                                                                                           |
 | 98            | If you and your allies flee RIGHT NOW, you don’t take a campaign loss for your discretion. This may take some explaining. It’s all about the chaos magic.                                                                                                                                                                                                                                                                       |
 | 99            | Roll twice more on this table. If you wish you can ignore one of the rolled results but must stick with the other. If you roll the same result twice, you get that weirdness just once.                                                                                                                                                                                                                                         |
-| 100           | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |      
+| 100           | You gain an extra standard action during the next turn after this weirdness goes into effect.                                                                                                                                                                                                                                                                                                                                   |  
 ^13A-ChaosMage-HighWeirdness
 
 ## Class Talents
@@ -243,7 +246,7 @@ When your random spell choice indicates an attack spell, roll a d6 to determine 
 | 3  | Fire: Until the end of your next turn, you can pop free from staggered enemies as a quick action.        |
 | 4  | Water: You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier      |
 | 5  | Metal: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
-| 6  | Void: During your next turn, you can use a move action to teleport to a nearby location you can see.     |    
+| 6  | Void: During your next turn, you can use a move action to teleport to a nearby location you can see.     |
 ^13A-Class-Chaos-Mage-Attacking-Warp
 
 **Adventurer Feat**  
@@ -254,10 +257,11 @@ When you roll a successful disengage check, you gain temporary hit points equal 
 
 While you are flying due to any effect, you gain a bonus to disengage checks equal to your Dexterity modifier.
 
-Calendarium  
-Dice Roller  
-Initiative  
+Calendarium
+Dice Roller
+Initiative
 Statblocks
+
 
 **Epic Feat**
 
@@ -276,8 +280,8 @@ When your random spell choice indicates a defence spell, roll a d6 to determine 
 | 3  | **Fire**: Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).|
 | 4  | **Water**: Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing (double your Wisdom modifier at 5th level; triple it at 8th level). |
 | 5  | Metal: Until the end of your next turn, you gain a +2 bonus to AC.|
-| 6  | **Void**: Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack.    |    
-^13A-Class-Chaos-Mage-Defensive-Warp  
+| 6  | **Void**: Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack.    |
+^13A-Class-Chaos-Mage-Defensive-Warp
 **Adventurer Feat**  
 When you heal using a recovery, add hit points equal to the escalation die to that healing.
 
@@ -300,8 +304,8 @@ When your random spell choice indicates an iconic spell, roll a d6 to determine 
 | 3 | **Fire**: Until the end of your next turn, you gain the once-per-battle racial power of a random nearby ally; ignore this benefit if it duplicates your own racial power or if it doesn’t make sense during the battle (human, for example). |
 | 4 | **Water**: Until the end of your next turn, you gain a bonus to saves equal to your Intelligence modifier.     |
 | 5 | **Metal**: Until the end of your next turn, critical hits scored against you only count as normal hits.        |
-| 6 | **Void**: When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |    
-^13A-Class-Chaos-Mage-Iconic-Warp  
+| 6 | **Void**: When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |
+^13A-Class-Chaos-Mage-Iconic-Warp
 **Adventurer Feat**  
 Once per battle when you roll for an iconic warp effect, roll the d6 twice and choose the result you want.
 
@@ -345,8 +349,8 @@ If the wizard spell refers to Intelligence, you can replace that ability score w
 **Adventurer Feat**  
 You gain a random wizard talent at the start of each day. Roll a d3. 
 
-1: Abjuration  
-2: Evocation  
+1: Abjuration
+2: Evocation
 3: High Arcana (*counter magic*). 
 
 Replace references to “wizard” in these talents with “chaos mage” and Intelligence with Charisma.
@@ -387,14 +391,144 @@ If you don’t like the first random sorcerer spell you select for the day, you 
 
 ## Attack Spells (1st Level+)
 
-- [[Compendium/13A/Spells/Chaos-Ray|Chaos Ray]]
-- [[Compendium/13A/Spells/Blarrrrgh|Blarrrrgh]]
-- [[Compendium/13A/Spells/Force-Tentacle|Force Tentacle]]
+### Force Tentacle
 
-## Defence Spells (1st Level+)
+Ranged spell
 
-- [[Compendium/13A/Spells/Chaos-Blessing|Chaos Blessing]]  
-- [[Compendium/13A/Spells/Warped-Healing|Warped Healing]]
+At-Will
+
+**Target:** One random nearby enemy
+
+**Attack:** Charisma + Level vs. PD
+
+**Hit:** `dice: 1d10`+ Charisma force damage.
+
+**Miss:** Damage equal to your level.
+3rd level spell: `dice: 3d10`damage.
+5th level spell: `dice: 5d10`damage.
+7th level spell: `dice: 7d10`damage.
+9th level spell: `dice: 9d10`damage.
+
+**Adventurer Feat**
+
+You can now also target faraway enemies.
+
+**Champion Feat**
+
+This spell’s damage dice increase by one size to d12s.
+
+**Epic Feat**
+
+One battle per day, you can deal half damage on a natural even miss with this spell.
+
+### Chaos Ray
+
+Ranged spell
+
+Once per battle
+
+**Target:** One nearby or faraway enemy
+
+**Attack:** Charisma + Level vs. PD
+
+**Hit:** `dice: 1d8` + Charisma damage.
+
+**Natural Even Hit:** As a hit, plus another nearby enemy takes half damage.
+
+**Miss:** `dice: 1d6` damage to a different nearby enemy.
+
+3rd level spell `dice: 4d6`damage: `dice: 1d10`damage on a miss.
+
+5th level spell `dice: 6d6`damage: `dice: 2d12` damage on a miss.
+
+7th level spell `dice: 6d10`damage: `dice: 3d12` damage on a miss.
+
+9th level spell `dice: 8d10`damage: `dice: 5d12` damage on a miss.
+
+### Blarrrrgh
+
+Ranged spell
+
+Daily
+
+**Targets:** `dice: 1d6` nearby enemies
+
+**Attack:** Charisma + Level vs. PD
+
+**Hit:** `dice: 3d6` + Charisma damage, and roll a d4 for the effect (same damage for all targets but a separate effect for each one).
+
+| d4 | Effect     |
+|----|---------------------------------------------------------|
+| 1  | The target is dazed (save ends).      |
+| 2  | The target is weakened (save ends).   |
+| 3  | The target is hampered until the end of your next turn. |
+| 4  | The target is confused until the end of your next turn. |
+
+**Miss:** Damage equal to your level.
+
+3rd level spell: `dice: 6d6`damage.
+
+5th level spell: `dice: 6d10`damage.
+
+7th level spell: `dice: 10d10` damage.
+
+9th level spell: `dice: 2d8*10` damage.
+
+## defence Spells (1st Level+)
+
+### Chaos Blessing
+
+Close-quarters spell
+
+At-Will
+
+**Effect:** Roll a d20 to determine which effect the blessing grants. Higher-level versions of the spell improve the first three blessings, but you still get only the blessing you roll.
+
+| d20   | Effect|
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1–4   | Gift—You or one of your nearby allies gains 7 temporary hit points.  |
+| 5–8   | Resilience—You gain 7 temporary hit points.        |
+| 9–12  | Aura/tentacles—The next enemy that moves to engage you this battle takes `dice: 2d6` damage.   |
+| 13–16 | defence bonus—You gain a +2 bonus to the defence of your choice (AC, PD, or MD) until an attack against that defence misses you or until the end of the battle.|
+| 17–20 | Healing—You or your nearby ally with the fewest hit points can heal using a recovery. (If you’re the one with the fewest hit points among you and your nearby allies, it’s you.) |
+
+3rd level spell: *gift* and *resilience* now grant 12 temporary hit points; *aura/tentacles* damage is `dice:2d10`.
+
+5th level spell: *gift* and *resilience* now grant 20 temporary hit points; *aura/tentacles* damage is `dice: 4d10`.
+
+7th level spell: *gift* and *resilience* now grant 35 temporary hit points; *aura/tentacles* damage is `dice: 6d8`.
+
+9th level spell: *gift* and *resilience* now grant 60 temporary hit points; *aura/tentacles* damage is `dice: 10d8`.
+
+**Adventurer Feat**
+
+The *defence bonus* effect now applies to all the target’s defences (and therefore ends as soon as the target is missed by an attack).
+
+**Champion Feat**
+
+A number of times per day equal to your highest non-Charisma modifier, you can roll twice when you cast *chaos blessing* and gain both effects (reroll a duplicate result).
+
+**Epic Feat**
+
+The damage dice for the *aura/tentacles* effect increase by one size (for example, d8s to d10s).
+
+### Warped Healing
+
+Close-quarters spell
+
+Once per battle
+
+**Targets:** Two nearby allies, or you and one nearby ally
+
+**Effect:** Randomly choose one of the targets. That target can heal using a recovery. The other target gains 10 temporary hit points and grows a strange eye, limb, or other physical feature that lasts as long as the temporary hit points do.
+
+3rd level spell: 20 temporary hit points.
+
+5th level spell: 30 temporary hit points.
+
+7th level spell: 45 temporary hit points.
+
+9th level spell: 70 temporary hit points.
 
 ## Iconic Spells & Feats
 
@@ -442,7 +576,7 @@ The damage dice for the spell increase by one size (for example, d6s to d8s).
 
 7th level spell: `dice: 5d8`damage.
 
-9th level spell: `dice: 6d12` damage.
+9th level spell: `dice: `dice: 6d12` damage.
 
 **Epic Feat**
 

@@ -1,10 +1,13 @@
 ---
 aliases: [Wibble]
+created: 2023-05-28
 level: 1
+publish: 
 role: mook
 strength: normal
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/None", "13A/Monsters/Type/Mook"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

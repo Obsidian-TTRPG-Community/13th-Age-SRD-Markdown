@@ -1,6 +1,10 @@
 ---
 aliases: [True Magic Items, Magic Item Personalities & Quirks]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Items/Rules/True-Magic]
+updated: 2023-05-29
 ---
 
 ## True Magic Items

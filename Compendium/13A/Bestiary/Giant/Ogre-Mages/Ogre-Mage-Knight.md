@@ -1,11 +1,14 @@
 ---
 aliases: [Ogre Mage Knight]
+created: 2023-05-28
 level: 6
+publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Ogre-Mages", "13A/Monsters/Type/Wrecker"]
 type: giant
+updated: 2023-05-31
 ---
 
 ```statblock

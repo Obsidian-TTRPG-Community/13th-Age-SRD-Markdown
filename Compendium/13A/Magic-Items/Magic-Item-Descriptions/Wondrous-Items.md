@@ -1,6 +1,10 @@
 ---
 aliases: ["Wondrous Items"]
+created: 2023-05-18
+permalink: 
+publish: 
 tags: [13A/Items/Magic/Descriptions/Wondrous]
+updated: 2023-05-29
 ---
 
 ## Wondrous Items

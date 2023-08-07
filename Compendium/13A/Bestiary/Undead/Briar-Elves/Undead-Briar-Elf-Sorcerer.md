@@ -1,11 +1,14 @@
 ---
 aliases: [Undead Briar Elf Sorcerer]
+created: 2023-05-30
 level: 10
+publish: 
 role: caster
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/undead", "13A/Monsters/Type/caster"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

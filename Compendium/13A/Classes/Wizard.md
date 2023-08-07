@@ -1,6 +1,10 @@
 ---
 aliases: [Wizard]
+created: 2023-05-07
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Wizard]
+updated: 2023-05-29
 ---
 
 ## Wizard
@@ -28,7 +32,7 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 10      | —  |
 | Heavy      | 11      | –2 |
-| Shield     | 1       | -2 |    
+| Shield     | 1       | -2 |
 ^13A-Class-Wizard-Armor
 
 #### Melee Weapons
@@ -37,7 +41,7 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|-------------------------|---------------------------|
 | Small   | `dice: 1d4` dagger     | `dice: 1d6` staff        |
 | Light or Simple  | `dice: 1d6` (-2 atk) shortsword | `dice: 1d8` (-2 atk) spear*       |
-| Heavy or Martial | `dice: 1d8` (-5 atk) longsword  | `dice: 1d10`(-5 atk) greatsword* |    
+| Heavy or Martial | `dice: 1d8` (-5 atk) longsword  | `dice: 1d10`(-5 atk) greatsword* |
 ^13A-Class-Wizard-Melee
 
 #### Ranged Weapons
@@ -46,7 +50,7 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------|------------------------------|------------------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow   | —    |
 | Light or Simple  | `dice: 1d6` (-2) javelin | `dice: 1d6` (–1 atk) light crossbow* | `dice: 1d6` (-2 atk) shortbow* |
-| Heavy or Martial | —       | `dice: 1d8` (–4 atk) heavy crossbow* | `dice: 1d8` (-5 atk) longbow*  |    
+| Heavy or Martial | —       | `dice: 1d8` (–4 atk) heavy crossbow* | `dice: 1d8` (-5 atk) longbow*  |
 ^13A-Class-Wizard-Ranged
 
 - A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
@@ -65,7 +69,7 @@ Wizards may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | — | 1 | 4 | 5 | — | +1 to 3 abilities        |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | — | — | 3 | 8 | — |        |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | — | — | 1 | 5 | 6 |        |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | — | — | — | 3 | 9 | +1 to 3 abilities        |    
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | — | — | — | 3 | 9 | +1 to 3 abilities        |
 ^13A-Class-Wizard-Progression
 
 > [!info] Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
@@ -88,7 +92,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Backgrounds      | 8 points, max 5 in any one background      |
 | Icon Relationships        | 3 points        |
 | Talents | 3      |
-| Feats   | 1 per Level     |    
+| Feats   | 1 per Level     |
 ^13A-Class-Wizard-Stats
 
 ### Basic Attacks

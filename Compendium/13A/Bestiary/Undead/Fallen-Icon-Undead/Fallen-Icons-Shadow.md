@@ -1,11 +1,14 @@
 ---
 aliases: [Fallen Icons Shadow]
+created: 2023-05-29
 level: 13
+publish: 
 role: troop
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Troop"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

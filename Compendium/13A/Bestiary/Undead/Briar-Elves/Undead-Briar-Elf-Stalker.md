@@ -1,11 +1,14 @@
 ---
 aliases: [Undead Briar Elf Stalker]
+created: 2023-05-30
 level: 8
+publish: 
 role: archer
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/undead", "13A/Monsters/Type/archer"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

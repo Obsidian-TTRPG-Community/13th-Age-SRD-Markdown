@@ -1,6 +1,10 @@
 ---
 aliases: [Bracers]
+created: 2023-05-18
+permalink: 
+publish: 
 tags: [13A/Items/Magic/Descriptions/Bracers]
+updated: 2023-05-29
 ---
 
 ## Bracers

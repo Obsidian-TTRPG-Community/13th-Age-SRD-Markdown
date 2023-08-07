@@ -1,6 +1,9 @@
 ---
 aliases: [Troglodytes]
+created: 2023-05-28
+publish: 
 tags: [13A/Monsters/Factions/Troglodytes]
+updated: 2023-05-31
 ---
 
 ## For All Troglodytes
@@ -17,5 +20,5 @@ Humanoids affected by *trog stench* can make a normal save (with a penalty) at t
 | Humans, halflings, half-elves, holy ones, tieflings, almost everyone else | –3 |
 | Half-orcs, dragonics | –2 |
 | Dwarves | –1 |
-| Forgeborn | 0 |              
+| Forgeborn | 0 |          
 ^13A-Monsters-Trog-Penalty

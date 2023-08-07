@@ -1,6 +1,10 @@
 ---
 aliases: [Magic Item Basics]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Items/Magic]
+updated: 2023-05-29
 ---
 
 ## Magic Item Basics
@@ -39,5 +43,5 @@ The majority of magic item powers list a recharge number (6+, 11+, or 16+). You 
 | [[Compendium/13A/Classes/Ranger\|Ranger]]      | one-handed martial weapons, bow, arrows, possibly other ranged weapons, light armour |
 | [[Compendium/13A/Classes/Rogue\|Rogue]]       | light weapon, light armour                                                           |
 | [[Compendium/13A/Classes/Sorcerer\|Sorcerer]]    | wand/staff, shirt (armour)                                                           |
-| [[Compendium/13A/Classes/Wizard\|Wizard]]      | wand/staff, shirt (armour)                                                           |              
+| [[Compendium/13A/Classes/Wizard\|Wizard]]      | wand/staff, shirt (armour)                                                           |          
 ^13A-Magic-Items-Class

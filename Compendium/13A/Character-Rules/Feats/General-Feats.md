@@ -1,6 +1,9 @@
 ---
 aliases: ["General Feats"]
+created: 2023-02-07
+publish: 
 tags: [13A/Characters/Feats/General]
+updated: 2023-05-31
 ---
 
 ## General Feats

@@ -1,11 +1,14 @@
 ---
 aliases: [Temple Lion]
+created: 2023-05-29
 level: 7
+publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Hallowed-Gargoyles", "13A/Monsters/Type/Wrecker"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

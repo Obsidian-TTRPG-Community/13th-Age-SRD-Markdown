@@ -1,11 +1,14 @@
 ---
 aliases: [Chimera]
+created: 2023-05-23
 level: 9
+publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Chimeras", "13A/Monsters/Type/Wrecker"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock

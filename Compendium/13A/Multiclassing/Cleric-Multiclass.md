@@ -1,6 +1,10 @@
 ---
 aliases: ["Cleric Multiclass"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Multiclass/Cleric]
+updated: 2023-05-29
 ---
 
 ## Cleric Multiclass

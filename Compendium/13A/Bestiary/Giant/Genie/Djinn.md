@@ -1,11 +1,14 @@
 ---
 aliases: [Djinn]
+created: 2023-05-23
 level: 9
+publish: 
 role: spoiler
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/Genie", "13A/Monsters/Type/Spoiler"]
 type: giant
+updated: 2023-05-31
 ---
 
 ```statblock

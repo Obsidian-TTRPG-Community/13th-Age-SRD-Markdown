@@ -1,6 +1,10 @@
 ---
 aliases: [Barbarian]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Barbarian]
+updated: 2023-05-29
 ---
 
 ## Barbarian
@@ -33,27 +37,24 @@ Barbarians may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | -  |
 | Light      | 12      | -  |
 | Heavy      | 13      | -2 |
-| Shield     | +1      | -  |    
+| Shield     | +1      | -  |
 ^13A-Class-Barbarian-Armor
-
 #### Melee Weapons
 
-| **One-Handed**      | **Two-Handed**       |  
-| ---------------- | ------------------------ | ------------------------- |  
-| Small   | `dice: 1d4` dagger      | `dice: 1d6` club|  
-| Light or Simple  | `dice: 1d6` hand-axe, warclub    | `dice: 1d8` spear        |  
-| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, greataxe |  
+|| **One-Handed**      | **Two-Handed**       |
+| ---------------- | ------------------------ | ------------------------- |
+| Small   | `dice: 1d4` dagger      | `dice: 1d6` club|
+| Light or Simple  | `dice: 1d6` hand-axe, warclub    | `dice: 1d8` spear        |
+| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, greataxe |
 ^13A-Class-Barbarian-Melee
-
 #### Ranged Weapons
 
-| **Thrown**| **Crossbow**  | **Bow** |  
-| ---------------- | ----------------------- | --------------------------- | ------------ |  
-| Small   | `dice: 1d4` dagger     | `dice: 1d4` (-5 atk) hand crossbow  | -   |  
-| Light or Simple  | `dice: 1d6` javelin, axe, spear | `dice: 1d6` (-5 atk) light crossbow | `dice: 1d6` shortbow |  
-| Heavy or Martial | -     | `dice: 1d8` (-5 atk) heavy crossbow | `dice: 1d8` longbow  |  
+|| **Thrown**| **Crossbow**  | **Bow** |
+| ---------------- | ----------------------- | --------------------------- | ------------ |
+| Small   | `dice: 1d4` dagger     | `dice: 1d4` (-5 atk) hand crossbow  | -   |
+| Light or Simple  | `dice: 1d6` javelin, axe, spear | `dice: 1d6` (-5 atk) light crossbow | `dice: 1d6` shortbow |
+| Heavy or Martial | -     | `dice: 1d8` (-5 atk) heavy crossbow | `dice: 1d8` longbow  |
 ^13A-Class-Barbarian-Ranged
-
 ### Level Progression
 
 | **Barbarian Level**    | **Total Hit Points**  | **Total Feats**  | **Class Talents (M)**     | **Level-up Ability Bonuses** | **Damage Bonus from Ability Score** |
@@ -68,8 +69,8 @@ Barbarians may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (7 + CON mod) x 12| 4 adventurer 3 champion        | 3 adventurer 1 champion        | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (7 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 3 adventurer 1 champion 1 epic |        | 3 x ability modifier   |
 | Level 9   | (7 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 3 adventurer 1 champion 1 epic |        | 3 x ability modifier   |
-| Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 3 adventurer 1 champion 1 epic | +1 to 3 abilities        | 3 x ability modifier   |          
-^13A-Class-Barbarian-Progression  
+| Level 10  | (7 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 3 adventurer 1 champion 1 epic | +1 to 3 abilities        | 3 x ability modifier   |      
+^13A-Class-Barbarian-Progression
 **(M)**: Indicates columns in which multiclass characters lag one level behind.
 
 ### Stats
@@ -89,9 +90,8 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Backgrounds        | 8 points, max 5 in any one background       |
 | Icon Relationships | 3 points|
 | Talents   | 3 (see level progression chart)    |
-| Feats     | 1 per Level      |    
+| Feats     | 1 per Level      |
 ^13A-Class-Barbarian-Stats
-
 ### Basic Attacks
 
 #### Melee Attack

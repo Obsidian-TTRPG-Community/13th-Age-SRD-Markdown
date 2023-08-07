@@ -1,6 +1,9 @@
 ---
 aliases: [Crit Range]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Attacks/Crit/Range]
+updated: 2023-05-30
 ---
 
 ## Crit Range

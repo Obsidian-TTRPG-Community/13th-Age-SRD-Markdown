@@ -1,11 +1,14 @@
 ---
 aliases: [Hill Giant]
+created: 2023-05-23
 level: 6
+publish: 
 role: troop
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Giant", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: giant
+updated: 2023-05-31
 ---
 
 ```statblock

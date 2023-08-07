@@ -1,11 +1,14 @@
 ---
 aliases: [Taranar Warrior]
+created: 2023-05-29
 level: 8
+publish: 
 role: spoiler
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Taranar", "13A/Monsters/Type/Spoiler"]
 type: elemental
+updated: 2023-05-31
 ---
 
 ```statblock

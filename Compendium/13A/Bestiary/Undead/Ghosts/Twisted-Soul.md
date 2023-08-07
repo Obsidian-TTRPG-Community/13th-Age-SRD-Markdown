@@ -1,11 +1,14 @@
 ---
 aliases: [Twisted Soul]
+created: 2023-05-29
 level: 7
+publish: 
 role: spoiler
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Ghosts", "13A/Monsters/Type/Spoiler"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

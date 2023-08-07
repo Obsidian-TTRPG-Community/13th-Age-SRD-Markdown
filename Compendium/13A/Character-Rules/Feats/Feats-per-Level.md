@@ -1,6 +1,10 @@
 ---
 aliases: ["13th Age Feats per Level"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Feats/Leveling]
+updated: 2023-05-29
 ---
 
 ## Feats per Level
@@ -16,7 +20,7 @@ tags: [13A/Characters/Feats/Leveling]
 | 7     | 4 Adventurer and 3 Champion          |
 | 8     | 4 Adventurer, 3 Champion, and 1 Epic |
 | 9     | 4 Adventurer, 3 Champion, and 2 Epic |
-| 10    | 4 Adventurer, 3 Champion, and 3 Epic                                     |        
+| 10    | 4 Adventurer, 3 Champion, and 3 Epic                                     |    
 ^13A-Player-Feats-Level
 
 >[!info] Since humans start with an additional feat at 1st level, add one to the number of adventurer [[Compendium/13A/Character-Rules/Feats/Feats|feats]] humans possess all the way up the chart.

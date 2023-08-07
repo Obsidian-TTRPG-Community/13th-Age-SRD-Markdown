@@ -1,11 +1,14 @@
 ---
 aliases: [Laughing Demon]
+created: 2023-05-30
 level: 8
+publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing", "13A/Monsters/Type/troop"]
 type: demon
+updated: 2023-05-31
 ---
 
 ```statblock

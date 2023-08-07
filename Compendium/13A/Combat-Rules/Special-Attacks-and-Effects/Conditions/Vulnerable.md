@@ -1,6 +1,9 @@
 ---
 aliases: [Vulnerable]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Conditions/Vulnerable]
+updated: 2023-05-30
 ---
 
 ## Vulnerable

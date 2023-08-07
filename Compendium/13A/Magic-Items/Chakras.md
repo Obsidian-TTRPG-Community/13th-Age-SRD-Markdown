@@ -1,6 +1,10 @@
 ---
 aliases: [Chakras]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Items/Rules/Chakras]
+updated: 2023-05-29
 ---
 
 ## Chakras
@@ -25,7 +29,7 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 | [[Compendium/13A/Magic-Items/Magic-Item-Descriptions/Wand\|Wand]] (implement)                              | Attack and damage (arcane spell or attack); adventurer and champion tier only      |
 | Weapon, melee                                 | Attack and damage (using the weapon)                                               |
 | Weapon, ranged                                | Attack and damage (using the weapon)                                               |
-| Wondrous item                                 | No default. Anything goes                                                          |          
+| Wondrous item                                 | No default. Anything goes                                                          |      
 ^13A-Chakras
 
 ## One Size Fits

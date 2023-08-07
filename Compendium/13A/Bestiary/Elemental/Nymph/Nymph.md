@@ -1,6 +1,9 @@
 ---
 aliases: [Elemental Nymph]
+created: 2023-05-29
+publish: 
 tags: [13A/Monsters/Factions/Nymph]
+updated: 2023-05-31
 ---
 
 ## Standard Powers for All Nymphs

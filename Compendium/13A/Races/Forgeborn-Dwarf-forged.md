@@ -1,6 +1,10 @@
 ---
 aliases: ["Forgeborn", "Dwarf-forged"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Forgeborn, 13A/Characters/Races/Dwarf-forged]
+updated: 2023-05-29
 ---
 
 ## Forgeborn/Dwarf-forged

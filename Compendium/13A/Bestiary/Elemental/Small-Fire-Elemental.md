@@ -1,11 +1,14 @@
 ---
 aliases: [Small Fire Elemental]
+created: 2023-05-23
 level: 3
+publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/elemental", "13A/Monsters/Type/Troop"]
 type: elemental
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,6 +1,9 @@
 ---
 aliases: [Damage]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Rest/Damage]
+updated: 2023-05-30
 ---
 
 ## Damage

@@ -1,11 +1,14 @@
 ---
 aliases: [Militant Ranger Squad]
+created: 2023-05-29
 level: 11
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Fallen-Icon-Nature"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

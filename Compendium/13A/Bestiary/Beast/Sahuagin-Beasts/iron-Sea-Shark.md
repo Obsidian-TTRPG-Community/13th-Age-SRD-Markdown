@@ -1,11 +1,14 @@
 ---
 aliases: [iron Sea Shark]
+created: 2023-05-28
 level: 5
+publish: 
 role: mook
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Sahuagin"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock

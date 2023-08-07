@@ -1,6 +1,10 @@
 ---
 aliases: [Artifacts, 13th Age Artifacts]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Items/Rules/Artifacts]
+updated: 2023-05-29
 ---
 
 ## Artifacts

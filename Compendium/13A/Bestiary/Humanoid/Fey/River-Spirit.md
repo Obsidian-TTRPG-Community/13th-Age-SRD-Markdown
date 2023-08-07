@@ -1,11 +1,14 @@
 ---
 aliases: [River Spirit]
+created: 2023-05-29
 level: 7
+publish: 
 role: spoiler
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Spoiler"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

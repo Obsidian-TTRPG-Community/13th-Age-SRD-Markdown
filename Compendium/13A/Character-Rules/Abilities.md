@@ -1,6 +1,10 @@
 ---
 aliases: ["Abilities", "Ability Scores"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/AbilityScores]
+updated: 2023-05-29
 ---
 
 ## Abilities
@@ -23,7 +27,7 @@ You get 28 points to buy your abilities using the table below.
 | 17      | **13**   |   12      |  **4**    |
 | 16      | **10**   |   11      |   **3**   |
 | 15      | **8**    |   10      |   **2**   |
-| 14      | **6**    |   9      |  **1**    |          
+| 14      | **6**    |   9      |  **1**    |      
 ^13A-Ability-Point-Buy
 
 Ability points that are 8 or less cost zero (0).

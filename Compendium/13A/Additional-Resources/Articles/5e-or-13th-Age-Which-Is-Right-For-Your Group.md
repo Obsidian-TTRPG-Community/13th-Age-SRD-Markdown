@@ -1,7 +1,10 @@
 ---
 aliases: ["5e or 13th Age: Which is Right For Your Group?"]
-source: [https://pelgranepress.com/2017/10/03/5e-or-13th-age-which-is-right-for-your-group/]
+created: 2023-05-31
+publish: 
 tags: [13A/Guide/5e]
+source: [https://pelgranepress.com/2017/10/03/5e-or-13th-age-which-is-right-for-your-group/]
+updated: 2023-05-31
 ---
 
 We were as surprised as anyone that our announcement of *13th Age*—a new d20-rolling fantasy RPG by the lead designers of 3rd edition and 4th edition—happened right when Wizards of the Coast announced that 5th edition was on the way. Though part of the same tradition, the games had fundamental differences in approach, and provide very different experiences of the same genre.
@@ -26,9 +29,9 @@ So, which one is right for *your* group? We’ve linked to some forum threads an
 > 
 > **Source**:: [RPG.Net](https://forum.rpg.net/index.php?threads/what-are-the-use-cases-for-using-dnd5e-over-13th-age.765530/)
 
-## What Does 13th Age Do Better than DnD5e
+## What does 13th Age Do Better than DnD5e
 
->[!quote] **Michael Kailus** responds…  
+>[!quote] **Michael Kailus** responds...
 > In practice, 5E works much better for games where the players roleplaying creativity goes more towards “playing an adventurer” vs. “telling a fun action story.” 5E answers the question “how would I get past the trolls if I was Bilbo Baggins” and *13th Age* answers the question “what is the sickest shield kickflip I could do if I was Orlando Bloom Legolas?” …As a GM, this has an interesting effect. GMing 5E is largely about prepping a story and situation and then seeing what the characters do. In *13th Age*, meanwhile, you pretty much plan out a series of combat encounters (the actual action) but develop the story behind them collaboratively with the players. You know they’re going to fight five level three monsters before the “third act” of the adventure, but you might not know who hired those monsters or why the players need to stop them. By contrast, in 5E I’d plan out a group of monsters and their leader and the players might not fight them at all.
 > 
 > I have a very short explanation for you: The DC cinematic universe runs on 5E, but the Marvel cinematic universe runs on *13th Age*. DCU is trying to be serious about conserving the legacy of iconic characters like Superman and Batman, whereas Marvel is like, “here’s a talking raccoon.”

@@ -1,6 +1,9 @@
 ---
 aliases: [Devil, Devils]
+created: 2023-05-23
+publish: 
 tags: [13A/Monsters/Factions/Devils]
+updated: 2023-05-31
 ---
 
 ## Devil

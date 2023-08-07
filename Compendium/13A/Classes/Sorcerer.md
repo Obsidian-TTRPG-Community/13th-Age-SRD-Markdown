@@ -1,6 +1,10 @@
 ---
 aliases: [Sorcerer]
+created: 2023-05-07
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Sorcerer]
+updated: 2023-05-29
 ---
 
 ## Sorcerer
@@ -28,7 +32,7 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 10      | —  |
 | Heavy      | 11      | –2 |
-| Shield     | 1       | -2 |    
+| Shield     | 1       | -2 |
 ^13A-Class-Sorcerer-Armor
 
 #### Melee Weapons
@@ -37,7 +41,7 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------------|---------------------------|
 | Small   | `dice: 1d4` dagger    | `dice: 1d6` staff        |
 | Light or Simple  | `dice: 1d6` shortsword| `dice: 1d8` spear        |
-| Heavy or Martial | `dice: 1d8` (-2 atk) longsword | `dice: 1d10`(-2 atk) greatsword* |    
+| Heavy or Martial | `dice: 1d8` (-2 atk) longsword | `dice: 1d10`(-2 atk) greatsword* |
 ^13A-Class-Sorcerer-Melee
 
 #### Ranged Weapons
@@ -46,7 +50,7 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|-------------|------------------------------|------------------------|
 | Small   | `dice: 1d4` dagger  | `dice: 1d4` hand crossbow   | —    |
 | Light or Simple  | `dice: 1d6` javelin | `dice: 1d6` (–1 atk) light crossbow* | `dice: 1d6` (-2 atk) shortbow* |
-| Heavy or Martial | —  | `dice: 1d8` (–3 atk) heavy crossbow* | `dice: 1d8` (-4 atk) longbow*  |    
+| Heavy or Martial | —  | `dice: 1d8` (–3 atk) heavy crossbow* | `dice: 1d8` (-4 atk) longbow*  |
 ^13A-Class-Sorcerer-Ranged
   
 - A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
@@ -65,7 +69,7 @@ Sorcerers may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | — | — | 3 | 5 | — | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic | — | — | — | 8 | — |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic | — | — | — | 3 | 6 |        | 3 x ability modifier   |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | — | — | — | — | 9 | +1 to 3 abilities        | 3 x ability modifier   |    
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | — | — | — | — | 9 | +1 to 3 abilities        | 3 x ability modifier   |
 ^13A-Class-Sorcerer-Progression
 
 > [!info] Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
@@ -88,7 +92,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Backgrounds      | 8 points, max 5 in any one background      |
 | Icon Relationships        | 3 points        |
 | Talents | 3      |
-| Feats   | 1 per Level     |    
+| Feats   | 1 per Level     |
 ^13A-Class-Sorcerer-Stats
 
 ### Basic Attacks
@@ -157,7 +161,7 @@ If you get a benefit that deals damage to enemies, you can choose the type of da
 | --------- | ---------------------------------------------------------------- |
 | 1-2       | You gain a +1 bonus to AC until the start of your next turn.     |
 | 3-4       | Deal damage equal to your level to all nearby staggered enemies. |
-| 5-6       | Deal damage equal to your level to one nearby enemy.    |    
+| 5-6       | Deal damage equal to your level to one nearby enemy.    |
 ^13A-Class-Sorcerer-Chaotic-Benefit-Adventure
 
 ##### Chaotic Benefit, Champion Tier (levels 5–7)
@@ -166,7 +170,7 @@ If you get a benefit that deals damage to enemies, you can choose the type of da
 | --------- | ----------------------------------------------------------------------------------------- |
 | 1-2       | You gain a +1 bonus to AC and Physical Defense until the start of your next turn.|
 | 3-4       | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. |
-| 5-6       | Deal damage equal to your level + your Charisma modifier to one nearby enemy.    |    
+| 5-6       | Deal damage equal to your level + your Charisma modifier to one nearby enemy.    |
 ^13A-Class-Sorcerer-Chaotic-Benefit-Champion
 
 ##### Chaotic Benefit, Epic Tier (levels 8–10)
@@ -175,7 +179,7 @@ If you get a benefit that deals damage to enemies, you can choose the type of da
 | --------- | ----------------------------------------------------------------------------------------------- |
 | 1-2       | You gain a +1 bonus to all defences until the start of your next turn.        |
 | 3-4       | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
-| 5-6       | Deal damage equal to your level + twice your Charisma modifier to one nearby enemy.    |    
+| 5-6       | Deal damage equal to your level + twice your Charisma modifier to one nearby enemy.    |
 ^13A-Class-Sorcerer-Chaotic-Benefit-Epic
 
 After you have gathered power, you can use your next standard action to cast an empowered sorcerer spell. Empowered sorcerer spells deal double the damage of a normal sorcerer spell. This means that you double the damage results of the hit or a miss from the single spell. Non-attack spells generally don’t improve when cast empowered; use empowered casting for attacks.
@@ -209,7 +213,7 @@ Some sorcerer spells deal damage of a random type. If it matters for the situati
 | 1| Cold        |
 | 2| Fire        |
 | 3| Lightning   |
-| 4| Thunder     |    
+| 4| Thunder     |
 ^13A-Class-Sorcerer-Random-Energy
 
 ### Class Talents
@@ -266,7 +270,7 @@ One battle per day, when you roll initiative, you can choose to invoke your Fey 
 |-----------|-------------------------------|
 | 1-2n      | Cruel (drow)|
 | 3-4n      | Highblood teleport (high elf) |
-| 5-6n      | Elven grace (wood elf)        |    
+| 5-6n      | Elven grace (wood elf)        |
 ^13A-Class-Sorcerer-Fey-Heritage
 
 ##### Adventurer Feat

@@ -1,11 +1,14 @@
 ---
 aliases: [Taranar Avalanche]
+created: 2023-05-29
 level: 6
+publish: 
 role: wrecker
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Taranar", "13A/Monsters/Type/Wrecker"]
 type: elemental
+updated: 2023-05-31
 ---
 
 ```statblock

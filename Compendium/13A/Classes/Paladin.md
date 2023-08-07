@@ -1,6 +1,10 @@
 ---
 aliases: [Paladin]
+created: 2023-05-07
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Paladin]
+updated: 2023-05-29
 ---
 
 ## Paladin
@@ -28,8 +32,9 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 | None       | 10      | —  |
 | Light      | 12      | —  |
 | Heavy      | 16      | —  |
-| Shield     | 1       | —  |    
+| Shield     | 1       | —  |
 ^13A-Class-Paladin-Armor
+  
 
 #### Melee Weapons
 
@@ -37,7 +42,7 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 | ---------------- | -------------------------------- | ------------------------------- |
 | Small            | `dice: 1d4` dagger               | `dice: 1d6` club                |
 | Light or Simple  | `dice: 1d6` scimitar, shortsword | `dice: 1d8` spear               |
-| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, halberd |    
+| Heavy or Martial | `dice: 1d8` longsword, battleaxe | `dice: 1d10`greatsword, halberd |
 ^13A-Class-Paladin-Melee
 
 #### Ranged Weapons
@@ -46,7 +51,7 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 |------------------|------------------|--------------------|--------------|
 | Small   | `dice: 1d4` dagger       | `dice: 1d4` hand crossbow  | —   |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` light crossbow | `dice: 1d6` shortbow |
-| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |    
+| Heavy or Martial | —       | `dice: 1d8` heavy crossbow | `dice: 1d8` longbow  |
 ^13A-Class-Paladin-Ranged
 
 ### Level Progression
@@ -63,7 +68,7 @@ Paladins may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (8 + CON mod) x 12| 4 adventurer 3 champion        | 4        | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (8 + CON mod) x 16| 4 adventurer 3 champion 1 epic | 5        |        | 3 x ability modifier   |
 | Level 9   | (8 + CON mod) x 20| 4 adventurer 3 champion 2 epic | 5        |        | 3 x ability modifier   |
-| Level 10  | (8 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 5        | +1 to 3 abilities        | 3 x ability modifier   |    
+| Level 10  | (8 + CON mod) x 24| 4 adventurer 3 champion 3 epic | 5        | +1 to 3 abilities        | 3 x ability modifier   |
 ^13A-Class-Paladin-Progression
 
 ### Stats
@@ -83,7 +88,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Backgrounds        | 8 points, max 5 in any one background      |
 | Icon Relationships | 3 points        |
 | Talents   | 3 (see level progression chart)   |
-| Feats     | 1 per Level     |    
+| Feats     | 1 per Level     |
 ^13A-Class-Paladin-Stats
 
 ### Basic Attacks

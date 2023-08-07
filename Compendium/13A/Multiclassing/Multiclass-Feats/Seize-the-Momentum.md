@@ -1,6 +1,10 @@
 ---
 aliases: ["Seize the Momentum"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Multiclass/Rogue/Trait]
+updated: 2023-05-29
 ---
 
 ## Seize the Momentum

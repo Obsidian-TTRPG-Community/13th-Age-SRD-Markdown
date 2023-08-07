@@ -1,11 +1,14 @@
 ---
 aliases: [Treant Titan]
+created: 2023-05-28
 level: 10
+publish: 
 role: spoiler
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Treants", "13A/Monsters/Type/Spoiler"]
 type: plant
+updated: 2023-05-31
 ---
 
 ```statblock

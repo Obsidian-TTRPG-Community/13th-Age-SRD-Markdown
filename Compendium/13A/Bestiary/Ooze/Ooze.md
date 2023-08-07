@@ -1,6 +1,9 @@
 ---
 aliases: [Ooze]
+created: 2023-05-24
+publish: 
 tags: [13A/Monsters/Factions/Ooze]
+updated: 2023-05-31
 ---
 
 ## Ooze

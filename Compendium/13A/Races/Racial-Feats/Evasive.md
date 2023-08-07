@@ -1,6 +1,10 @@
 ---
 aliases: [Evasive]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Halfling/Power]
+updated: 2023-05-29
 ---
 
 ## Evasive

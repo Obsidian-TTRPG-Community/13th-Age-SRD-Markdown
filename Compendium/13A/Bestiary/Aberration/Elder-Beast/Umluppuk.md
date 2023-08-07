@@ -1,11 +1,14 @@
 ---
 aliases: [Umluppuk]
+created: 2023-05-23
 level: 7
+publish: 
 role: spoiler
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Elder-Beasts", "13A/Monsters/Type/Spoiler"]
 type: aberration
+updated: 2023-05-31
 ---
 
 ```statblock

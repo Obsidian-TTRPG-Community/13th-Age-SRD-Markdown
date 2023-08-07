@@ -1,6 +1,9 @@
 ---
 aliases: [Actions]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Actions]
+updated: 2023-05-30
 ---
 
 ## Index

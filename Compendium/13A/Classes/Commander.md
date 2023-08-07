@@ -1,6 +1,10 @@
 ---
 aliases: [Commander]
+created: 2023-05-04
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Commander]
+updated: 2023-05-30
 ---
 
 ## Commander
@@ -39,7 +43,7 @@ Commanders may start with either 25 gp or `dice: 1d6*10` gp.
 | Small            | `dice: 1d4` dagger                        | `dice: 1d6` club                |
 | Light or Simple  | `dice: 1d6` mace, shortsword              | `dice: 1d8` spear               |
 | Heavy or Martial | `dice: 1d8` (-2 atk) longsword, warhammer | `dice: 1d10`(–2 atk) greatsword |
-| Shield           | 1                                         | —                               |        
+| Shield           | 1                                         | —                               |    
 ^13A-Class-Commander-Melee
 
 #### Ranged Weapons

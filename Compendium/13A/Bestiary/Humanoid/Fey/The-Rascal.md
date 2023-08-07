@@ -1,11 +1,14 @@
 ---
 aliases: [The Rascal]
+created: 2023-05-29
 level: 3
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Mook"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

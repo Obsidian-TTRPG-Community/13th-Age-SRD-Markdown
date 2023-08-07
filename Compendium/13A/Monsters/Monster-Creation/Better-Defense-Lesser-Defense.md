@@ -1,6 +1,10 @@
 ---
 aliases: [Better Defense, Lesser Defense, "Better Defense/Lesser Defense"]
+created: 2023-05-12
+permalink: 
+publish: 
 tags: [13A/Monsters/Creation/Better-Defense]
+updated: 2023-05-30
 ---
 
 ## Better Defense/Lesser Defense

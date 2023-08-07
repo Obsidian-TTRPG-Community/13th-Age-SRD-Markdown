@@ -1,10 +1,13 @@
 ---
 aliases: [Marble Golem]
+created: 2023-05-28
 level: 9
+publish: 
 role: troop
 strength: large
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Golem", "13A/Monsters/Type/Troop"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

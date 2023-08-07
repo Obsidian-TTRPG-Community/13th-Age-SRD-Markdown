@@ -1,6 +1,10 @@
 ---
 aliases: [Halo]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Holy-One/Power, 13A/Characters/Races/Aasimar/Power]
+updated: 2023-05-29
 ---
 
 ## Halo

@@ -1,6 +1,10 @@
 ---
 aliases: ["Dwarf Champion Feat"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Dwarf/Power]
+updated: 2023-05-29
 ---
 
 ## Dwarf Champion Feat

@@ -1,11 +1,14 @@
 ---
 aliases: [Marilith, Serpent Demon]
+created: 2023-05-23
 level: 12
+publish: 
 role: troop
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
 type: demon
+updated: 2023-05-31
 ---
 
 ```statblock

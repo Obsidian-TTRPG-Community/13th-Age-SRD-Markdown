@@ -1,6 +1,10 @@
 ---
 aliases: ["Commander Multiclass"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Multiclass/Commander]
+updated: 2023-05-29
 ---
 
 ## Commander Multiclass

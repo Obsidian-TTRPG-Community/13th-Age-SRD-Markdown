@@ -1,11 +1,14 @@
 ---
 aliases: [Lizardman Savage]
+created: 2023-05-28
 level: 2
+publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Lizardman", "13A/Monsters/Type/Wrecker"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

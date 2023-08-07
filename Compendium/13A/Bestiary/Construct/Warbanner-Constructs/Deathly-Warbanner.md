@@ -1,10 +1,13 @@
 ---
 aliases: [Deathly Warbanner]
+created: 2023-05-28
 level: 4
+publish: 
 role: caster
 strength: "2×"
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Warbanners", "13A/Monsters/Type/Caster"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

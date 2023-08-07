@@ -1,6 +1,10 @@
 ---
 aliases: ["Occultist Multiclass"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Multiclass/Occultist]
+updated: 2023-05-29
 ---
 
 ## Occultist Multiclass

@@ -1,11 +1,14 @@
 ---
 aliases: [River Devil]
+created: 2023-05-23
 level: 10
+publish: 
 role: wrecker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Wrecker"]
 type: devil
+updated: 2023-05-31
 ---
 
 ```statblock

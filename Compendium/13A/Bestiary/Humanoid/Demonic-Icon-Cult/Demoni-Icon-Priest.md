@@ -1,11 +1,14 @@
 ---
 aliases: [Demoni Icon-Priest]
+created: 2023-05-30
 level: 3
+publish: 
 role: leader
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Demonic-Icon-Cult", "13A/Monsters/Type/leader"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

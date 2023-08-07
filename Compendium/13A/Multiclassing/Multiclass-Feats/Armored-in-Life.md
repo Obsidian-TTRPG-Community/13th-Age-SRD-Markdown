@@ -1,6 +1,10 @@
 ---
 aliases: ["Armored in Life"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Multiclass/Paladin/Trait]
+updated: 2023-05-29
 ---
 
 ## Armored in Life

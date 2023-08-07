@@ -1,6 +1,10 @@
 ---
 aliases: ["Elven Grace"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Wood-Elf/Power]
+updated: 2023-05-29
 ---
 
 ## Elven Grace
@@ -21,7 +25,7 @@ Each time you successfully gain an extra action, the size of the die you roll in
 | d8   | `dice: 1d8`   |
 | d10  | `dice: 1d10`  |
 | d12  | `dice: 1d12`  |
-| d20  | `dice: 1d20`              |    
+| d20  | `dice: 1d20`              |
 ^13A-Racial-Wood-Elf-Elven-Grace
 
 If you get an extra action after rolling a d20, you can’t get any more extra actions that battle.

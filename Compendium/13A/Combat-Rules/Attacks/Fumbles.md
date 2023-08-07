@@ -1,6 +1,9 @@
 ---
 aliases: [Fumbles]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Attacks/Fumbles]
+updated: 2023-05-30
 ---
 
 ## Fumbles

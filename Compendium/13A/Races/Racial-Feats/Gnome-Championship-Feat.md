@@ -1,6 +1,10 @@
 ---
 aliases: ["Gnome Championship Feat"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/Races/Gnome/Power]
+updated: 2023-05-29
 ---
 
 ## Gnome Championship Feat

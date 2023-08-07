@@ -1,11 +1,14 @@
 ---
 aliases: [Lemure]
+created: 2023-05-23
 level: 3
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Mook"]
 type: devil
+updated: 2023-05-31
 ---
 
 ```statblock

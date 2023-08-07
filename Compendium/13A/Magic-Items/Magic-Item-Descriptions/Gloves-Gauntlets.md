@@ -1,6 +1,10 @@
 ---
 aliases: ["Gloves Gauntlets"]
+created: 2023-05-18
+permalink: 
+publish: 
 tags: [13A/Items/Magic/Descriptions/Gloves, 13A/Items/Magic/Descriptions/Gauntlets]
+updated: 2023-05-29
 ---
 
 ## Gloves, Gauntlets

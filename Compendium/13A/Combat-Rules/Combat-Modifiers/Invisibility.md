@@ -1,6 +1,9 @@
 ---
 aliases: [Invisibility]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Modifiers/Invisibility]
+updated: 2023-05-30
 ---
 
 ## Invisibility

@@ -1,6 +1,10 @@
 ---
 aliases: ["Dire Animals"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Monsters/Rules/Dire-Animal]
+updated: 2023-05-29
 ---
 
 ## Dire Animals
@@ -16,5 +20,5 @@ Dire animals are bigger (large-sized) versions of normal animals. Dire animals u
 | 3        | Carnage           | The dire animal’s attacks that miss deal damage equal to its level. When [[Compendium/13A/Combat-Rules/Damage-and-Healing/Staggered\|staggered]], its missed attacks deal damage equal to double its level. |
 | 4        | Poison            | The dire animal’s main attack also deals 5 ongoing poison damage per tier (5 ongoing poison at levels 1–4, 10 at 5–7, etc.).                  |
 | 5        | Dire regeneration | When the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die\|escalation die]] is even, this animal heals damage equal to triple its level at the start of its turn.                                 |
-| 6        | Fury              | While staggered, the dire animal gains a +2 attack bonus and deals +4 damage, but at the end of each of its turns it takes 2d6 damage.        |          
+| 6        | Fury              | While staggered, the dire animal gains a +2 attack bonus and deals +4 damage, but at the end of each of its turns it takes 2d6 damage.        |      
 ^13A-Monster-Dire-Animal-Traits

@@ -1,7 +1,13 @@
 ---
 aliases: ["One Unique Thing"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Characters/OneThing]
+updated: 2023-05-29
 ---
+
+
 
 ## One Unique Thing
 

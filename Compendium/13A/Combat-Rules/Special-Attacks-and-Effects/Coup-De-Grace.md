@@ -1,6 +1,9 @@
 ---
 aliases: [Coup De Grace]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Rules/Special-Attacks/Coup-De-Grace]
+updated: 2023-05-30
 ---
 
 ## Coup De Grace

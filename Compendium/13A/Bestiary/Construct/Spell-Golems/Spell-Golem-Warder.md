@@ -1,11 +1,14 @@
 ---
 aliases: [Spell Golem Warder]
+created: 2023-05-29
 level: 6
+publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Spell-Golems", "13A/Monsters/Type/Blocker"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

@@ -1,6 +1,12 @@
 ---
 aliases: [13th Age SRD Table of Contents]
-tags: [13A]
+created: +002023-02-07 2316
+description: 
+image: 
+permalink: 
+publish: 
+tags: 13A
+updated: +002023-04-30 1238
 ---
 
 ![13thage_intro](Compendium/13A/13th-Age-Index-image-1.jpeg)

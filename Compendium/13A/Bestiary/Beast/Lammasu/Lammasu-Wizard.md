@@ -1,11 +1,14 @@
 ---
 aliases: [Lammasu Wizard]
+created: 2023-05-28
 level: 8
+publish: 
 role: spoiler
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Lammasu", "13A/Monsters/Type/Spoiler"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock

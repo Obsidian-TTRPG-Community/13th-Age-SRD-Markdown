@@ -1,11 +1,14 @@
 ---
 aliases: [Attached Eidolon]
+created: 2023-05-29
 level: 3
+publish: 
 role: troop
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Eidolon", "13A/Monsters/Type/Troop"]
 type: spirit
+updated: 2023-05-31
 ---
 
 ```statblock

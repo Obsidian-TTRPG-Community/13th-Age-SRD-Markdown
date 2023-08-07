@@ -1,11 +1,14 @@
 ---
 aliases: [Skeletal Hound]
+created: 2023-05-28
 level: 1
+publish: 
 role: blocker
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Skeletons", "13A/Monsters/Type/Blocker"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,11 +1,14 @@
 ---
 aliases: [Star Mask Cult Leader]
+created: 2023-05-29
 level: 6
+publish: 
 role: leader
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Leader"]
 type: aberration
+updated: 2023-05-30
 ---
 
 ```statblock

@@ -1,11 +1,14 @@
 ---
 aliases: [Star Mask Brainbuster]
+created: 2023-05-29
 level: 7
+publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Spoiler"]
 type: aberration
+updated: 2023-05-30
 ---
 
 ```statblock

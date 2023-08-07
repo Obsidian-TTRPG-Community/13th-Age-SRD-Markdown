@@ -1,6 +1,9 @@
 ---
 aliases: [Target Hit Points]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Attacks/General/Target-HP]
+updated: 2023-05-30
 ---
 
 ## Target Hit Points

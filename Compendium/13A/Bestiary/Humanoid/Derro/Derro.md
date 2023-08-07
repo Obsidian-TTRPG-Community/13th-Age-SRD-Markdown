@@ -1,6 +1,9 @@
 ---
 aliases: [Derro]
+created: 2023-05-23
+publish: 
 tags: [13A/Monsters/Factions/Derro]
+updated: 2023-05-31
 ---
 
 ## Derro and Confusion

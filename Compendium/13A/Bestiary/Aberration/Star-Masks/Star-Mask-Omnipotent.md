@@ -1,11 +1,14 @@
 ---
 aliases: [Star Mask Omnipotent]
+created: 2023-05-29
 level: 12
+publish: 
 role: caster
 statblock: inline
 strength: huge
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Caster"]
 type: aberration
+updated: 2023-05-30
 ---
 
 ```statblock

@@ -1,6 +1,10 @@
 ---
 aliases: [Races]
+created: 2023-05-14
+permalink: 
+publish: 
 tags: [13A/Characters/Races]
+updated: 2023-05-29
 ---
 
 ## Races
@@ -25,8 +29,8 @@ Each race is associated with two **ability scores**, one of which can be chosen 
 | [[Compendium/13A/Races/Dragonic-Dragonspawn\|Dragonic]]\/Dragonspawn  | +2      |         |         |         |         | +2      |         |
 | [[Compendium/13A/Races/Holy-One-Aasimar\|Holy One]]/Aasimar      |         |         |         |         | +2      | +2      |         |
 | [[Compendium/13A/Races/Forgeborn-Dwarf-forged\|Forgeborn]]/Dwarf-Forged | +2      | +2      |         |         |         |         |         |
-| [[Compendium/13A/Races/Tiefling-Demontouched\|Tiefling]]/Demontouched  | +2      |         |         | +2      |         |         |         |    
-^13A-Races-Ability-Scores  
+| [[Compendium/13A/Races/Tiefling-Demontouched\|Tiefling]]/Demontouched  | +2      |         |         | +2      |         |         |         |
+^13A-Races-Ability-Scores
 The character also receives a separate class bonus. These two bonuses must apply to different ability scores.
 
 Each race also provides the character a special power that can be used once per battle. (It is regained after a quick rest.) This is called the *racial power*.

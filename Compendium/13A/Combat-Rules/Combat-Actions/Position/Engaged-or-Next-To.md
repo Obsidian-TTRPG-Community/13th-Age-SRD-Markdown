@@ -1,6 +1,9 @@
 ---
 aliases: [Engaged or Next To]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Positions/Engaged]
+updated: 2023-05-30
 ---
 
 ## Engaged/Next To

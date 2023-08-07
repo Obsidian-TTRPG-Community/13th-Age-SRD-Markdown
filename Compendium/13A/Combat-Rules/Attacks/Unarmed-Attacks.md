@@ -1,6 +1,9 @@
 ---
 aliases: [Unarmed Attacks]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Attacks/Unarmed]
+updated: 2023-05-30
 ---
 
 ## Unarmed Attacks

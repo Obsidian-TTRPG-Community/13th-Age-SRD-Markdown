@@ -1,6 +1,10 @@
 ---
 aliases: ["Boots, Shoes, Sandals, Slippers"]
+created: 2023-05-18
+permalink: 
+publish: 
 tags: [13A/Items/Magic/Descriptions/Boots, 13A/Items/Magic/Descriptions/Shoes, 13A/Items/Magic/Descriptions/Sandals, 13A/Items/Magic/Descriptions/Slippers]
+updated: 2023-05-29
 ---
 
 ## Boots, Shoes, Sandals, Slippers

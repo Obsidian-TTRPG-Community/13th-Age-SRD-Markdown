@@ -1,6 +1,9 @@
 ---
 aliases: [The Three]
+created: 2023-05-18
+publish: 
 tags: [13A/Icons/The-Three]
+updated: 2023-05-30
 ---
 
 ## The Three

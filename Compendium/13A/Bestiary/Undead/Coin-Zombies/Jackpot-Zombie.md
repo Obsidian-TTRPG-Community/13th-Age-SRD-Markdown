@@ -1,11 +1,14 @@
 ---
 aliases: [Jackpot Zombie]
+created: 2023-05-30
 level: 5
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Coin-Zombies", "13A/Monsters/Type/mook"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

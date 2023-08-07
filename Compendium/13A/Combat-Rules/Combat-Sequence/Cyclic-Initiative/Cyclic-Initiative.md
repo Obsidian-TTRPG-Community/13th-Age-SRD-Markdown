@@ -1,6 +1,9 @@
 ---
 aliases: ["Cyclic Initiative"]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Rules/Sequence/Initiative]
+updated: 2023-05-30
 ---
 
 ## Cyclic Initiative

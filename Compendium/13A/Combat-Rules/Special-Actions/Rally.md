@@ -1,6 +1,9 @@
 ---
 aliases: [Rally]
+created: 2023-05-13
+publish: 
 tags: [13A/Combat/Rules/Special-Actions/Rally]
+updated: 2023-05-30
 ---
 
 ## Rally

@@ -1,6 +1,10 @@
 ---
 aliases: ["Large and Huge Monsters"]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Monsters/Rules/Large, 13A/Monsters/Rules/Huge]
+updated: 2023-05-29
 ---
 
 ## Large and Huge Monsters

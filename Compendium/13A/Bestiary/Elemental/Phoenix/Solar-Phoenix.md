@@ -1,11 +1,14 @@
 ---
 aliases: [Solar Phoenix]
+created: 2023-05-29
 level: 12
+publish: 
 role: caster
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Phoenix", "13A/Monsters/Type/Caster"]
 type: elemental
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,6 +1,9 @@
 ---
 aliases: [Movement and Melee]
+created: 2023-05-14
+publish: 
 tags: [13A/Combat/Rules/Movement]
+updated: 2023-05-30
 ---
 
 ## Movement and Melee

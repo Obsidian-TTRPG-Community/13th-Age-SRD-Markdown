@@ -1,6 +1,10 @@
 ---
 aliases: ["Necklace Pendant"]
+created: 2023-05-18
+permalink: 
+publish: 
 tags: [13A/Items/Magic/Descriptions/Necklace, 13A/Items/Magic/Descriptions/Pendant]
+updated: 2023-05-29
 ---
 
 ## Necklace, Pendant

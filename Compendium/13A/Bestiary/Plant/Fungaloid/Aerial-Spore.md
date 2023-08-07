@@ -1,11 +1,14 @@
 ---
 aliases: [Aerial Spore]
+created: 2023-05-23
 level: 2
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Mook"]
 type: plant
+updated: 2023-05-31
 ---
 
 ```statblock

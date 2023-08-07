@@ -1,6 +1,9 @@
 ---
 aliases: [Specters]
+created: 2023-05-24
+publish: 
 tags: [13A/Monsters/Factions/Specter]
+updated: 2023-05-31
 ---
 
 ## Nastier Specials for All Specters

@@ -1,11 +1,14 @@
 ---
 aliases: [Great Xorn]
+created: 2023-05-29
 level: 8
+publish: 
 role: troop
 statblock: inline
 strength: elite
 tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Xorn", "13A/Monsters/Type/Troop"]
 type: elemental
+updated: 2023-05-31
 ---
 
 ```statblock

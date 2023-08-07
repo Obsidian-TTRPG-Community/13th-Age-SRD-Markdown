@@ -1,6 +1,10 @@
 ---
 aliases: [Druid]
+created: 2023-05-04
+permalink: 
+publish: 
 tags: [13A/Characters/Classes/Druid]
+updated: 2023-05-30
 ---
 
 ## Druid
@@ -39,7 +43,7 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 | Small            | `dice: 1d4` dagger                     | `dice: 1d6` club, staff                   |
 | Light or Simple  | `dice: 1d6` mace, axe, shell blade     | `dice: 1d8` spear                         |
 | Heavy or Martial | `dice: 1d8` (-2 atk)* warhammer, flail | `dice: 1d10`(–2 atk) dire flail, greataxe |
-| Shield           | 1                                      | -2*                                       |      
+| Shield           | 1                                      | -2*                                       |  
 ^13A-Class-Druid-Melee  
 
 \*Warrior druid talent choices can change shield and one-handed weapon stats.
@@ -51,7 +55,7 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 | Small            | `dice: 1d4` dagger       | `dice: 1d4` (-2 atk)hand crossbow   | —                            |
 | Light or Simple  | `dice: 1d6` javelin, axe | `dice: 1d6` (-2 atk) light crossbow | `dice: 1d6` shortbow         |
 | Heavy or Martial | —                        | `dice: 1d8` (–5 atk) heavy crossbow | `dice: 1d8` (–2 atk) longbow |
-| Shield           | 1                        | -2*                                 | 3                            |      
+| Shield           | 1                        | -2*                                 | 3                            |  
 ^13A-Class-Druid-Ranged
 
 #### Level Progression
@@ -68,9 +72,8 @@ Druids may start with either 25 gp or `dice: 1d6*10` gp.
 | Level 7   | (6 + CON mod) x 12| 4 adventurer 3 champion        | +1 to 3 abilities        | 2 x ability modifier   |
 | Level 8   | (6 + CON mod) x 16| 4 adventurer 3 champion 1 epic |        | 3 x ability modifier   |
 | Level 9   | (6 + CON mod) x 20| 4 adventurer 3 champion 2 epic |        | 3 x ability modifier   |
-| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | +1 to 3 abilities        | 3 x ability modifier   |    
+| Level 10  | (6 + CON mod) x 24| 4 adventurer 3 champion 3 epic | +1 to 3 abilities        | 3 x ability modifier   |
 ^13A-Class-Druid-Progression
-
 ### Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.  
@@ -87,7 +90,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Backgrounds               | 8 points, max 5 in any one background                           |
 | Icon Relationships        | 3 (4 at 5th level; 5 at 8th level)                              |
 | Talents                   | 3                                                               |
-| Feats                     | 1 per Level                                                     |    
+| Feats                     | 1 per Level                                                     |
 ^13A-Class-Druid-Stats
 
 ### Basic Attacks
@@ -164,9 +167,8 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 | Level 7   | —| — | 1 | 1 | —|
 | Level 8   | —| — | 1 | 2 | —|
 | Level 9   | —| — | — | 2 | 1|
-| Level 10  | —| — | — | 1 | 2|    
+| Level 10  | —| — | — | 1 | 2|
 ^13A-Class-Druid-Elemental-Caster-Initiate
-
 ##### Elemental Caster Adept Level Progression
 
 | Druid Level        | 1st level | 3rd level  | 5th level  | 7th level  | 9th level  |
@@ -181,9 +183,8 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 | Level 7   | —| — | 3 | 2 | — |
 | Level 8   | —| — | 1 | 4 | — |
 | Level 9   | —| — | — | 3 | 3 |
-| Level 10  | —| — | — | 2 | 4 |    
+| Level 10  | —| — | — | 2 | 4 |
 ^13A-Class-Druid-Elemental-Caster-Adept
-
 ##### Air Mastery
 
 ###### Adventurer Feat
@@ -642,7 +643,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 | Level 7   | 1     | 2     | 1      |
 | Level 8   | 2     | 2     | 2      |
 | Level 9   | 2     | 2     | 2      |
-| Level 10  | 2     | 2     | 2      |    
+| Level 10  | 2     | 2     | 2      |
 ^13A-Class-Druid-Shifter-Initiate
 
 ##### Shifter Adept Level Progression
@@ -659,7 +660,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 | Level 7   | 2     | At-will        | 4      |
 | Level 8   | 3     | At-will        | 5      |
 | Level 9   | 3     | At-will        | 5      |
-| Level 10  | 3     | At-will        | 5      |    
+| Level 10  | 3     | At-will        | 5      |
 ^13A-Class-Druid-Shifter-Adept
 
 ##### Scout Form
@@ -981,6 +982,7 @@ There are eight different ranges of terrain that are relevant to druidic magic:
 7.  ruins
     
 8.  swamp, lake, river
+    
 
 At-will or once-per-battle spells provided by terrain caster adventurer feats can be cast in any terrain you like. Daily spells must match the type of terrain you’re in, though you don’t have to memorize them like a wizard, and the spell level you cast them at is your current character level.
 
@@ -1763,6 +1765,7 @@ Spending a single talent on Warrior Druid lets you choose *one* of the three fol
 -   You don’t take opportunity attacks from enemies engaged with you when you cast ranged druid spells.
     
 -   Your base hit points are 7 + CON mod instead of 6 + CON mod.
+    
 
 If you use two talents to become a Warrior Druid adept, choose *three* of the following benefits:
 
@@ -1775,6 +1778,7 @@ If you use two talents to become a Warrior Druid adept, choose *three* of the fo
 -   You can use one-handed `dice: 1d8` martial weapons without taking the –2 attack penalty that other druids suffer.
     
 -   You can use a shield (in human form) without taking an attack penalty like other druids.
+    
 
 Like the fighter class, you gain access to flexible attacks when you make basic melee attacks during your turn. Roll your attack, then choose one of the flexible attacks you know that can be triggered by your natural attack roll. Unlike the fighter, you can usually use each of your flexible attacks only once per battle.
 
@@ -1798,9 +1802,8 @@ Choose another Warrior Druid benefit you weren’t able to start with. Whether y
 | Level 7   | 3    |
 | Level 8   | 4    |
 | Level 9   | 4    |
-| Level 10  | 4    |    
+| Level 10  | 4    |
 ^13A-Class-Druid-Warrior-Druid-Initiate
-
 ##### Warrior Druid Adept Level Progression
 
 | Druid Level        | Druid Flexible Attacks |
@@ -1815,7 +1818,7 @@ Choose another Warrior Druid benefit you weren’t able to start with. Whether y
 | Level 7   | 5    |
 | Level 8   | 6    |
 | Level 9   | 6    |
-| Level 10  | 6    |    
+| Level 10  | 6    |
 ^13A-Class-Druid-Warrior-Druid-Adept
 
 ##### Flexible Attacks
@@ -2138,7 +2141,7 @@ Once per day as a free action when a target of one of your *regeneration* spells
 | Level 7   | 1   | 2       | —      | 1    |
 | Level 8   | 1   | 2       | —      | 1    |
 | Level 9   | 1   | 2       | —      | 2    |
-| Level 10  | 1   | 2       | —      | 2    |    
+| Level 10  | 1   | 2       | —      | 2    |
 ^13A-Class-Druid-Wild-Healer-Initiate
 
 ##### Wild Healer Adept Level Progression
@@ -2155,7 +2158,7 @@ Once per day as a free action when a target of one of your *regeneration* spells
 | Level 7   | 2   | 2       | 1      | 2    |
 | Level 8   | 2   | 2       | 2      | 2    |
 | Level 9   | 2   | 3       | 2      | 2    |
-| Level 10  | 2   | 3       | 2      | 3    |    
+| Level 10  | 2   | 3       | 2      | 3    |
 ^13A-Class-Druid-Wild-Healer-Adept
 
 ##### Regeneration
@@ -2326,7 +2329,7 @@ Use the following stats as the baseline for your animal companion. Remember that
 | 7     | +14 vs. AC | `dice: 7d6`    | 25  | 23| 19| 108 (54)  |
 | 8     | +15 vs. AC | `dice: 8d6`    | 26  | 24| 20| 144 (72)  |
 | 9     | +17 vs. AC | `dice: 9d6`    | 27  | 25| 21| 180 (90)  | 
-| 10    | +18 vs. AC | `dice: 10d6`   | 28  | 26| 22| 216 (108) |    
+| 10    | +18 vs. AC | `dice: 10d6`   | 28  | 26| 22| 216 (108) |
 ^13A-Class-Druid-Wolf-Stats
 
 #### Animal Companion Feats
@@ -2342,6 +2345,7 @@ Druid animal companion feats are designed so that they do not build on each othe
 -   Once per day, reroll one of your animal companion’s missed attack rolls.
     
 -   Your animal companion adds the escalation die to its attacks.
+    
 
 ##### Champion Feats
 
@@ -2350,12 +2354,14 @@ Druid animal companion feats are designed so that they do not build on each othe
 -   Your Lethal Hunter talent also applies to your animal companion.
     
 -   Increase your animal companion’s Physical Defense and Mental Defense by +1.
+    
 
 ##### Epic Feats
 
 -   Increase your animal companion’s damage die by one size (for example, from d6s to d8s, or d8s to d10s).
     
 -   Increase your animal companion’s AC by +1.
+    
 
 #### Animal Companion Spells
 
@@ -2374,7 +2380,7 @@ Animal Companion spells are not available to Animal Companion initiates.
 | 7  | 8       | 3   | 7th level |
 | 8  | 9       | 4   | 7th level |
 | 9  | 10      | 4   | 9th level |
-| 10 | -       | 4   | 9th level |    
+| 10 | -       | 4   | 9th level |
 ^13A-Class-Druid-Animal-Companion
 
 #### 1st Level Spells

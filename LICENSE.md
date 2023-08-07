@@ -1,9 +1,9 @@
 ---
-aliases:
-  - 13th Age License
-  - 13th Age Legal Notice
-tags:
-  - 13A/Legal
+aliases: [13th Age License, 13th Age Legal Notice]
+created: 2023-02-07
+publish: 
+tags: [13A/Legal]
+updated: 2023-05-31
 ---
 
 ## 13th Age SRD for Obsidian Markdown

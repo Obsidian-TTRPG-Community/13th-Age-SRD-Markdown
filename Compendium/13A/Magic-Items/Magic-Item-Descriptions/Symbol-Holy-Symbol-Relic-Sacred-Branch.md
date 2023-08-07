@@ -1,6 +1,10 @@
 ---
 aliases: ["Symbol, Holy Symbol, Relic, Sacred Branch"]
+created: 2023-05-18
+permalink: 
+publish: 
 tags: [13A/Items/Magic/Descriptions/Symbol, 13A/Items/Magic/Descriptions/Holy-Symbol, 13A/Items/Magic/Descriptions/Relic, 13A/Items/Magic/Descriptions/Sacred-Branch]
+updated: 2023-05-29
 ---
 
 ## Symbol, Holy Symbol, Relic, Sacred Branch

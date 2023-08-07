@@ -1,11 +1,14 @@
 ---
 aliases: [Rust Monster]
+created: 2023-05-28
 level: 3
+publish: 
 role: spoiler
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Rust-Monsters", "13A/Monsters/Type/Spoiler"]
 type: aberration
+updated: 2023-05-31
 ---
 
 ```statblock

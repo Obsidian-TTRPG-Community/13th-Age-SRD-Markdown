@@ -1,11 +1,14 @@
 ---
 aliases: [Dread Specter]
+created: 2023-05-28
 level: 9
+publish: 
 role: wrecker
 statblock: inline
 strength: 3×
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Specter", "13A/Monsters/Type/Wrecker"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

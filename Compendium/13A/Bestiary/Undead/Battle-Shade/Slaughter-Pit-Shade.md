@@ -1,11 +1,14 @@
 ---
 aliases: [Slaughter Pit Shade]
+created: 2023-05-25
 level: 4
+publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Battle-Shade", "13A/Monsters/Type/Wrecker"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,11 +1,14 @@
 ---
 aliases: [Tempter]
+created: 2023-05-29
 level: 7
+publish: 
 role: blocker
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Undead-Icon-Cult", "13A/Monsters/Type/Blocker"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

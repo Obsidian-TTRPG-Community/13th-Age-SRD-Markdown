@@ -1,11 +1,14 @@
 ---
 aliases: [Eidolon in War Form]
+created: 2023-05-29
 level: 4
+publish: 
 role: troop
 statblock: inline
 strength: 3×
 tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Eidolon", "13A/Monsters/Type/Troop"]
 type: spirit
+updated: 2023-05-31
 ---
 
 ```statblock

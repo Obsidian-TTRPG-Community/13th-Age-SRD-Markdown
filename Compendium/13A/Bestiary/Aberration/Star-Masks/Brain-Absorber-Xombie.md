@@ -1,11 +1,14 @@
 ---
 aliases: [Brain Absorber Xombie]
+created: 2023-05-29
 level: 4
+publish: 
 role: caster
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Caster"]
 type: aberration
+updated: 2023-05-30
 ---
 
 ```statblock

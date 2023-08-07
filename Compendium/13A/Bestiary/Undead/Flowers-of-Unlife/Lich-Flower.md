@@ -1,11 +1,14 @@
 ---
 aliases: [Lich Flower]
+created: 2023-05-23
 level: 6
+publish: 
 role: blocker
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Blocker"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

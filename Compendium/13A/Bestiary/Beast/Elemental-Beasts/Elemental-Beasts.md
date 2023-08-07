@@ -1,6 +1,9 @@
 ---
 aliases: [Elemental Beasts]
+created: 2023-05-27
+publish: 
 tags: [13A/Monsters/Factions/Elemental-Beasts]
+updated: 2023-05-31
 ---
 
 ## Making Elemental Beasts

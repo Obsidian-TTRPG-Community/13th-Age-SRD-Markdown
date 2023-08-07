@@ -1,11 +1,14 @@
 ---
 aliases: [Dire Rat]
+created: 2023-05-23
 level: 1
+publish: 
 role: mook
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Mook"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock

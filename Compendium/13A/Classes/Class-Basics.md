@@ -1,6 +1,10 @@
 ---
 aliases: [Class Basics]
+created: 2023-05-07
+permalink: 
+publish: 
 tags: [13A/Characters/Classes]
+updated: 2023-05-29
 ---
 
 ## Class Basics
@@ -59,7 +63,7 @@ You can gain a higher-level power or spell from an incremental advance. If you o
 | Ranger      | 7       | 14       | 11  | 10| 8        | d8/lvl        |
 | Rogue       | 6       | 12       | 12  | 10| 8        | d8/lvl        |
 | Sorcerer    | 6       | 10       | 11  | 10| 8        | d6/lvl        |
-| Wizard      | 6       | 10       | 10  | 12| 8        | d6/lvl        |    
+| Wizard      | 6       | 10       | 10  | 12| 8        | d6/lvl        |
 ^13A-Class-Starting-Stats
 
 [^1]: The base AC numbers assume that the PC is in the armor that suits  

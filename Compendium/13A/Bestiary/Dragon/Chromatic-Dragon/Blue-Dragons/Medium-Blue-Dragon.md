@@ -1,11 +1,14 @@
 ---
 aliases: [Medium Blue Dragon]
+created: 2023-05-23
 level: 5
+publish: 
 role: caster
 statblock: inline
 strength: normal
 tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Blue", "13A/Monsters/Type/Caster"]
 type: dragon
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,11 +1,14 @@
 ---
 aliases: [Horned Azinth Calf]
+created: 2023-05-29
 level: 3
+publish: 
 role: wrecker
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Horned-Azinth", "13A/Monsters/Type/Wrecker"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock

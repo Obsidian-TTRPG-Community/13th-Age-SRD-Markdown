@@ -1,10 +1,13 @@
 ---
 aliases: [Bronze Golem]
+created: 2023-05-24
 level: 7
+publish: 
 role: blocker
 strength: large
 tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Golem", "13A/Monsters/Type/Blocker"]
 type: construct
+updated: 2023-05-30
 ---
 
 ```statblock

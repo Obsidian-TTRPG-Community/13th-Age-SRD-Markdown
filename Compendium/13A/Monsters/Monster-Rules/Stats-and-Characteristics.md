@@ -1,6 +1,10 @@
 ---
 aliases: [Stats and Characteristics]
+created: 2023-05-01
+permalink: 
+publish: 
 tags: [13A/Monsters/Rules/Stats]
+updated: 2023-05-29
 ---
 
 Most monster attacks generally deal a specific amount of damage (instead of rolling for damage) and don’t add on the escalation die. Only exceptional [monsters](../Monsters.md) get to add the [[Compendium/13A/Combat-Rules/Combat-Sequence/Escalation-Die|escalation die]] to their attacks.

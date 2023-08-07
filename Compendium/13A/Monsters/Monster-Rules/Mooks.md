@@ -1,6 +1,10 @@
 ---
 aliases: [13th Age Mooks, Mooks]
+created: 2023-02-07
+permalink: 
+publish: 
 tags: [13A/Monsters/Rules/Mooks]
+updated: 2023-05-29
 ---
 
 ## Mooks

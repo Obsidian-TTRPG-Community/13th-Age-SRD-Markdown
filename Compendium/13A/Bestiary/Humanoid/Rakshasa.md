@@ -1,11 +1,14 @@
 ---
 aliases: [Rakshasa]
+created: 2023-05-28
 level: 8
+publish: 
 role: caster
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/None"]
 type: humanoid
+updated: 2023-05-31
 ---
 
 ```statblock

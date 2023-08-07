@@ -1,11 +1,14 @@
 ---
 aliases: [Death Blossom]
+created: 2023-05-23
 level: 6
+publish: 
 role: caster
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Caster"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

@@ -1,6 +1,9 @@
 ---
 aliases: [Briar Elves]
+created: 2023-05-25
+publish: 
 tags: [13A/Monsters/Factions/Briar-Elves]
+updated: 2023-05-31
 ---
 
 ## Environmental Effects

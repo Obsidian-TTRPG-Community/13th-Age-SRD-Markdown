@@ -1,11 +1,14 @@
 ---
 aliases: [Lich Prince]
+created: 2023-05-28
 level: 12
+publish: 
 role: spoiler
 statblock: inline
 strength: "2×"
 tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Lich", "13A/Monsters/Type/Spoiler"]
 type: undead
+updated: 2023-05-31
 ---
 
 ```statblock

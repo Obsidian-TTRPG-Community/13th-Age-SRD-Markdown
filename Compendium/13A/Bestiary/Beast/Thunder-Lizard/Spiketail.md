@@ -1,11 +1,14 @@
 ---
 aliases: [Spiketail]
+created: 2023-05-29
 level: 4
+publish: 
 role: wrecker
 statblock: inline
 strength: large
 tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Thunder-Lizards", "13A/Monsters/Type/Wrecker"]
 type: beast
+updated: 2023-05-31
 ---
 
 ```statblock
