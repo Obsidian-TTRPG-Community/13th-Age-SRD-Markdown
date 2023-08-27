@@ -6,9 +6,9 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Intellect-Devourers", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Intellect-Devourers", "13A/Monsters/Role/Blocker"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-06
 ---
 
 ```statblock

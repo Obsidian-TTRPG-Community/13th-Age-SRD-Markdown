@@ -3,7 +3,7 @@ aliases: [Monster Rules]
 created: 2023-05-30
 permalink: 
 publish: 
-tags: 
+tags: [13A/Monsters/Rules]
 updated: 2023-05-30
 ---
 

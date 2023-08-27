@@ -6,9 +6,9 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Role/Troop"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -33,7 +33,7 @@ actions:
       desc: "The target is stunned (save ends)"
       traits:
           - name: "Limited use"
-            desc: "The remorhaz can use trilling vibrations only when the escalation die is odd."
+            desc: "The remorhaz can use _trilling vibrations_ only when the escalation die is odd."
 traits:
     - name: "Burrow"
       desc: "As the standard monster ability, except the remorhaz only needs to roll 6+ in snow."

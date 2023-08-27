@@ -5,7 +5,7 @@ level: 6
 publish: 
 role: mook
 strength: large
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Fire-Giants", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Fire-Giants", "13A/Monsters/Role/Mook"]
 type: construct
 updated: 2023-05-30
 ---
@@ -18,6 +18,7 @@ size: "large"
 level: "6"
 levelOrdinal: "6th"
 role: "mook"
+mook: "yes"
 type: "construct"
 initiative: "10"
 vulnerability: "cold"

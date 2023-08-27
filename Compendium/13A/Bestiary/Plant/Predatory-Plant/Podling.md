@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Predatory-Plant", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Predatory-Plant", "13A/Monsters/Role/Mook"]
 type: plant
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "3"
 levelOrdinal: "3rd"
 role: "mook"
+mook: "yes"
 type: "plant"
 initiative: "9"
 actions:

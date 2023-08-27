@@ -6,9 +6,9 @@ publish:
 role: archer
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Archer"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Role/Archer"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-06-07
 ---
 
 ```statblock
@@ -34,11 +34,11 @@ actions:
 traits:
     - name: "Group ability"
       desc: "For every two star-mask cultists in the battle (round up), one of them can use _coordinated attack_ once as a free action during the battle."
-    - name: "Coordinated attack (group)"
+    - name: "[Group ability] Coordinated attack"
       desc: "Until the start of its next turn, the star-mask cultist gains a +2 attack bonus against enemies that are engaged with the cultist’s allies."
 nastier_traits:
     - name: "New host"
-      desc: "When this cultist drops to 0 hp, a new scuttling star-mask joins the battle (in the same location as the dead cultist) and immediately makes a _suffocating thoughts_ attack as a free action against the closest enemy."
+      desc: "When this cultist drops to 0 hp, a new [[Scuttling-Star-Mask|scuttling star-mask]] joins the battle (in the same location as the dead cultist) and immediately makes a _suffocating thoughts_ attack as a free action against the closest enemy."
 ac: "19"
 pd: "15"
 md: "17"

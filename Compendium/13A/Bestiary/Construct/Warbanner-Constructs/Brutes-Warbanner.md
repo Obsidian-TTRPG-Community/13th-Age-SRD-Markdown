@@ -4,8 +4,8 @@ created: 2023-05-28
 level: 3
 publish: 
 role: caster
-strength: "2×"
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Warbanners", "13A/Monsters/Type/Caster"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/Warbanners", "13A/Monsters/Role/Caster"]
 type: construct
 updated: 2023-05-30
 ---
@@ -14,7 +14,7 @@ updated: 2023-05-30
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Brute's Warbanner"
-size: "2×"
+size: "double-strength"
 level: "3"
 levelOrdinal: "3rd"
 role: "caster"

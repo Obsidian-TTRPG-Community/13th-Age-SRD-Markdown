@@ -6,7 +6,7 @@ tags: [13A/Monsters/Factions/Devils]
 updated: 2023-05-31
 ---
 
-## Devil
+## Devils
 
 Although devils vary between campaigns, they need to retain certain key elements. Devils:
 

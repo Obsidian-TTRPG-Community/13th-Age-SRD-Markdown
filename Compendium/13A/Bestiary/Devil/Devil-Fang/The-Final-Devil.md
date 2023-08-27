@@ -6,7 +6,7 @@ publish:
 role: leader
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Leader"]
 type: devil
 updated: 2023-05-31
 ---
@@ -26,7 +26,7 @@ actions:
       desc: "50 damage"
       traits:
           - name: "Natural even hit"
-            desc: "The target pops free from each enemy and moves next to the Devil, which engages and grabs it. (The Devil can grab any number of enemies simultaneously.) If it has quick actions left, it will use its devil’s beak and cutting talon attacks."
+            desc: "The target pops free from each enemy and moves next to the Devil, which engages and grabs it (The Devil can grab any number of enemies simultaneously). If it has quick actions left, it will use its _devil’s beak_ and cutting talon attacks."
           - name: "Miss"
             desc: "30 damage."
     - name: "Cutting talon +18 (+22 against a grabbed enemy) vs. AC"
@@ -43,6 +43,8 @@ traits:
       desc: "When you choose to add the escalation die to an attack against the Final Devil, one of the Final Devil’s nearby allies can make an attack as an interrupt action before your attack."
     - name: "Resist energy 13+"
       desc: "When an energy attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 nastier_traits:
     - name: "The icons are speechless"
       desc: "Icon relationship dice don’t provide any help in a battle (or even an adventure) that involves the Final Devil. The Devil broke the icons’ hold on it, and it’s up to pure mortals to solve this problem, because the icons can’t cope."

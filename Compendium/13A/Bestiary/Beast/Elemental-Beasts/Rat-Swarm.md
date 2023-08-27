@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Elemental-Beasts", "13A/Monsters/Role/Spoiler"]
 type: beast
 updated: 2023-05-31
 ---
@@ -34,7 +34,7 @@ nastier_traits:
     - name: "Disease carrier"
       desc: "When an enemy engaged with the rat swarm heals using a recovery, they must reroll the highest die and take the second roll."
     - name: "Overwhelming distraction"
-      desc: "Enemies engaged with the rat swarm take a –2 penalty to attack any other enemy than the rat swarm.<br/>AC 18<br/>PD 14 HP 24<br/>MD 11"
+      desc: "Enemies engaged with the rat swarm take a –2 penalty to attack any other enemy than the rat swarm."
 ac: "18"
 pd: "14"
 md: "11"

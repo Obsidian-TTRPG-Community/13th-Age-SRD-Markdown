@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Caster"]
 type: devil
 updated: 2023-05-31
 ---
@@ -26,7 +26,7 @@ actions:
       desc: "12 damage"
       traits:
           - name: "Natural 16+"
-            desc: "The barbed devil can make a whirling barbs attack as a free action."
+            desc: "The barbed devil can make a _whirling barbs_ attack as a free action."
           - name: "Miss"
             desc: "6 damage."
     - name: "R: Ball of hellfire +15 vs. PD (1d3 nearby enemies in a group)"
@@ -43,6 +43,8 @@ traits:
       desc: "While engaged with a single enemy, the barbed devil can “take 11” on a disengage check, taking a natural result of 11 instead of rolling. When it does so and successfully disengages, it can make a whirling barbs attack against that enemy as part of the move action."
     - name: "Resist fire 13+"
       desc: "When a fire attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 triggered_actions:
     - name: "Whirling barbs +15 vs. PD"
       desc: "9 damage"

@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Blocker"]
 type: devil
 updated: 2023-05-31
 ---
@@ -40,9 +40,11 @@ traits:
       desc: "A bearded devil can intercept an enemy while engaged with other enemies. As a free action, it can either make a disengage check to try to move to intercept the enemy, or move to intercept the enemy and only take half damage from opportunity attacks."
     - name: "Resist fire 13+"
       desc: "When a fire attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 nastier_traits:
     - name: "Toxic beard"
-      desc: "The target of the bearded devil’s filthy beard attack now takes 10 ongoing poison damage and is weakened (save ends both) instead."
+      desc: "The target of the bearded devil’s _filthy beard_ attack now takes 10 ongoing poison damage and is weakened (save ends both) instead."
 ac: "23"
 pd: "20"
 md: "20"

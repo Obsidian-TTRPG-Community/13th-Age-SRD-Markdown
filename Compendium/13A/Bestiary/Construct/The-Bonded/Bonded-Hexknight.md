@@ -5,8 +5,8 @@ level: 7
 publish: 
 role: troop
 statblock: inline
-strength: 3×
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Troop"]
+strength: "triple-strength"
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Role/Troop"]
 type: construct
 updated: 2023-05-30
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-30
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Bonded Hexknight"
-size: "3×"
+size: "triple-strength"
 level: "7"
 levelOrdinal: "7th"
 role: "troop"

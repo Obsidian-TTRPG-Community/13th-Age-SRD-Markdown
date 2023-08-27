@@ -5,8 +5,8 @@ level: 2
 publish: 
 role: mook
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Orcs", "13A/Monsters/Type/Mook"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Orcs", "13A/Monsters/Role/Mook"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -15,10 +15,11 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Pit-Spawn Orc"
-size: "2×"
+size: "double-strength"
 level: "2"
 levelOrdinal: "2nd"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "2"
 actions:

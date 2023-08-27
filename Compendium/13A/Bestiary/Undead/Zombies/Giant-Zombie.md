@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Role/Mook"]
 type: undead
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "large"
 level: "9"
 levelOrdinal: "9th"
 role: "mook"
+mook: "yes"
 type: "undead"
 initiative: "8"
 vulnerability: "holy"

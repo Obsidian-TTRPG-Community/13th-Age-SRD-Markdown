@@ -6,9 +6,9 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/None", "13A/Monsters/Role/Troop"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock

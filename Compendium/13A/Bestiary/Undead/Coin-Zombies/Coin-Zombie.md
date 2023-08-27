@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Coin-Zombies", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Coin-Zombies", "13A/Monsters/Role/Mook"]
 type: undead
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "2"
 levelOrdinal: "2nd"
 role: "mook"
+mook: "yes"
 type: "undead"
 initiative: "2"
 actions:

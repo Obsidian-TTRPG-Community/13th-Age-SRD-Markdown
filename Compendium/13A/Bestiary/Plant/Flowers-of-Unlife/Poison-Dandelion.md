@@ -5,8 +5,8 @@ level: 6
 publish: 
 role: spoiler
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Spoiler"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Role/Spoiler"]
 type: plant
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Poison Dandelion"
-size: "2×"
+size: "double-strength"
 level: "6"
 levelOrdinal: "6th"
 role: "spoiler"

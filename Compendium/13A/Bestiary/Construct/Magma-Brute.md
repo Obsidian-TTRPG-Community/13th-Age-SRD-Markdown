@@ -5,7 +5,7 @@ level: 3
 publish: 
 role: wrecker
 strength: normal
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/Azer"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Role/Wrecker", "13A/Monsters/Factions/Azer"]
 type: construct
 updated: 2023-05-30
 ---

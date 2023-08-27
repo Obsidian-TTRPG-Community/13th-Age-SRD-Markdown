@@ -1,24 +1,15 @@
 ---
-aliases: []
+aliases: [Meteorite Xombie]
 created: 2023-05-29
-publish: 
-tags: []
-updated: 2023-05-30
+level: 1
+publish:
+role: mook
+statblock: inline
+strength: normal
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Role/Mook"]
+type: aberration
+updated: 2023-06-06
 ---
----
-aliases: [Meteorite Xombie]  
-created:  
-description:  
-image:  
-level: 1  
-publish:  
-role: mook  
-statblock: inline  
-strength: normal  
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Faction/Star-Masks", "13A/Monsters/Type/mook"]  
-type: aberration  
-updated:  
----''
 
 ```statblock
 layout: Basic 13th Age Monster Layout
@@ -28,6 +19,7 @@ size: "normal"
 level: "1"
 levelOrdinal: "1st"
 role: "mook"
+mook: "yes"
 type: "aberration"
 initiative: "8"
 actions:
@@ -35,7 +27,9 @@ actions:
       desc: "3 damage"
       traits:
           - name: "Natural 16+"
-            desc: "The attack does double damage, but the xombie takes 1d6 damage.<br/>[Group ability]C: Vomit tentacles +6 vs. PD (1d3 nearby enemies in a group)—4 damage"
+            desc: "The attack does double damage, but the xombie takes `dice: 1d6` damage."
+    - name: "[Group ability] C: Vomit tentacles +6 vs. PD (1d3 nearby enemies in a group)"
+      desc: "4 damage"
 traits:
     - name: "Group ability"
       desc: "For every four meteorite xombies in the battle (round up), one of them can use _vomit tentacles_ once during the battle."

@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Dragon-Other/Shadow"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Dragons/Other/Shadow"]
 type: dragon
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "8"
 levelOrdinal: "8th"
 role: "mook"
+mook: "yes"
 type: "dragon"
 initiative: "17"
 actions:

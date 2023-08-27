@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Role/Blocker"]
 type: beast
 updated: 2023-05-31
 ---
@@ -30,7 +30,7 @@ traits:
     - name: "Big but brittle"
       desc: "While the dire mantis might rate as a huge monster in terms of size, its stats are based on those for a large monster."
     - name: "One random dire feature"
-      desc: "Use the dire features table."
+      desc: "Use the [[Dire-Animals|dire features]] table."
 nastier_traits:
     - name: "Clacking mandibles"
       desc: "When the dire mantis starts its turn grabbing an enemy, it can make a chomp attack against that enemy as a free action."

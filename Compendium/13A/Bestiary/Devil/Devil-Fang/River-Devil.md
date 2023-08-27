@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Wrecker"]
 type: devil
 updated: 2023-05-31
 ---
@@ -41,6 +41,8 @@ traits:
       desc: "When you choose to add the escalation die to an attack against a river devil, you only heal half the normal hit points the next time you heal using a recovery this battle. The effect is cumulative (so the second time you heal, the third time, etc.) if you pay the devil’s due more than once before using a recovery."
     - name: "Resist energy 13+"
       desc: "When an energy attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 ac: "25"
 pd: "25"
 md: "25"

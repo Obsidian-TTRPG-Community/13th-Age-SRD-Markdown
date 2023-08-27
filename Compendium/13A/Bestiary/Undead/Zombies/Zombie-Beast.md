@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Zombies", "13A/Monsters/Role/Troop"]
 type: undead
 updated: 2023-05-31
 ---

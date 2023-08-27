@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Mook"]
 type: beast
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "huge"
 level: "6"
 levelOrdinal: "6th"
 role: "mook"
+mook: "yes"
 type: "beast"
 initiative: "7"
 actions:

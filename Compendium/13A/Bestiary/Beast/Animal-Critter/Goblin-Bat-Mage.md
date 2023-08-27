@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Bestiary/Humanoid", "13A/Monsters/Role/Spoiler"]
 type: beast
 updated: 2023-05-31
 ---
@@ -19,7 +19,7 @@ size: "normal"
 level: "3"
 levelOrdinal: "3rd"
 role: "spoiler"
-type: "beast"
+type: "beast & humanoid"
 initiative: "7"
 vulnerability: "thunder"
 actions:
@@ -40,8 +40,14 @@ traits:
       desc: "When a ranged attack targets this creature while it’s flying, the attacker must roll a natural 16+ on the attack roll or it only deals half damage."
     - name: "Skittish"
       desc: "A goblin bat mage engaged with a conscious enemy after attacking it will attempt to disengage and fly into the air if it has a move action remaining that turn."
+    - name: "Flight"
+      desc: "Bigger bats fly more awkwardly."
     - name: "Unwieldy flyer"
       desc: "When the goblin bat mage is staggered, it must roll an immediate save. On a failure, it loses its ability to fly until the end of its next turn. If flying near the ground, it lands immediately. If flying far away from the ground, it lands badly and takes 15 damage."
+    - name: "Echolocation"
+      desc: "Bats rely on sound waves to sense their surroundings. A bat can “see” in total darkness, and can detect creatures using invisibility or visual illusions to hide."
+    - name: "Wall-crawler"
+      desc: "A bat can climb on ceilings and walls as easily as it moves on the ground."
 ac: "19"
 pd: "16"
 md: "16"

@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chaos-Beasts", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Chaos-Beasts", "13A/Monsters/Role/Wrecker"]
 type: aberration
 updated: 2023-05-31
 ---
@@ -32,8 +32,8 @@ actions:
           - name: "Miss"
             desc: "1d3 random nearby enemies each take 10 psychic damage."
 traits:
-    - name: "Chaos combined: Once a chaos brute is staggered, it can combine with another chaos brute or chaos beast* next to it as a quick action to become a full-strength chaos behemoth"
-      desc: "the new creature rolls initiative as if it had just entered the battle.<br/>*If a chaos beast and a chaos brute combine to create a chaos behemoth, the behemoth starts with 70 hp instead of 90 hp and takes a –1 penalty to all attacks and defences."
+    - name: "Chaos combined"
+      desc: "Once a chaos brute is staggered, it can combine with another chaos brute or [[Chaos-Beast|chaos beast]]&ast; next to it as a quick action to become a full-strength [[Chaos-Behemoth|chaos behemoth]]: the new creature rolls initiative as if it had just entered the battle.<br/>&ast;If a [[Chaos-Beast|chaos beast]] and a chaos brute combine to create a [[Chaos-Behemoth|chaos behemoth]], the behemoth starts with 70 hp instead of 90 hp and takes a –1 penalty to all attacks and defences."
 ac: "20"
 pd: "17"
 md: "13"

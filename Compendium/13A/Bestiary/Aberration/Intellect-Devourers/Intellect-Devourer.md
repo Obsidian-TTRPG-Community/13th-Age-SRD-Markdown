@@ -6,9 +6,9 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Intellect-Devourers", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Intellect-Devourers", "13A/Monsters/Role/Spoiler"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-06
 ---
 
 ```statblock
@@ -43,9 +43,10 @@ traits:
       desc: "An intellect devourer remembers the current escalation die value the first time its host body drops to 0 hit points in a battle and gains a bonus equal to that value to all attacks and defences until the end of the battle."
 nastier_traits:
     - name: "Increased trauma"
-      desc: "Add the following extra effect trigger to the intellect devourer’s recall trauma attack."
-    - name: "Natural 5, 10, 15, 20"
-      desc: "The target can’t cast spells until the end of its next turn."
+      desc: "Add the following extra effect trigger to the intellect devourer’s _recall trauma_ attack."
+      traits:
+          - name: "Natural 5, 10, 15, 20"
+            desc: "The target can’t cast spells until the end of its next turn."
 ac: "19"
 pd: "15"
 md: "19"

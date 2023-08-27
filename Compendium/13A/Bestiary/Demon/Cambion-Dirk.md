@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Mook"]
 type: demon
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "4"
 levelOrdinal: "4th"
 role: "mook"
+mook: "yes"
 type: "demon"
 initiative: "8"
 actions:

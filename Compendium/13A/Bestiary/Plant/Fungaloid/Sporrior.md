@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Role/Wrecker"]
 type: plant
 updated: 2023-05-31
 ---

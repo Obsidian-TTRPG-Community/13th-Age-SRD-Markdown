@@ -5,8 +5,8 @@ level: 6
 publish: 
 role: blocker
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Type/Blocker"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Flowers-of-Unlife", "13A/Monsters/Role/Blocker"]
 type: undead
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Lich Flower"
-size: "2×"
+size: "double-strength"
 level: "6"
 levelOrdinal: "6th"
 role: "blocker"

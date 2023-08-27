@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Naiad", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Naiad", "13A/Monsters/Role/Mook"]
 type: plant
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "4"
 levelOrdinal: "4th"
 role: "mook"
+mook: "yes"
 type: "plant"
 initiative: "7 (keeps same initiative if created by a dying kelpling)"
 actions:

@@ -5,8 +5,8 @@ level: 12
 publish: 
 role: spoiler
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Lich", "13A/Monsters/Type/Spoiler"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Lich", "13A/Monsters/Role/Spoiler"]
 type: undead
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Lich Prince"
-size: "2×"
+size: "double-strength"
 level: "12"
 levelOrdinal: "12th"
 role: "spoiler"

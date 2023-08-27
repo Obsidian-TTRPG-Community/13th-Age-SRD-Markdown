@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Animal-Critter", "13A/Monsters/Role/Troop"]
 type: beast
 updated: 2023-05-31
 ---
@@ -31,7 +31,7 @@ traits:
     - name: "Savage"
       desc: "The dire bear gains a +2 attack bonus against staggered enemies."
     - name: "One dire feature"
-      desc: "Roll randomly unless you know this beast’s story already."
+      desc: "Roll randomly on [[Dire-Animals|Dire Animals]] unless you know this beast’s story already."
 ac: "19"
 pd: "19"
 md: "14"

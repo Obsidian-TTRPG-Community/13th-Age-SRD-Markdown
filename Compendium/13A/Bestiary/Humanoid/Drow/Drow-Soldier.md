@@ -6,9 +6,9 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Role/Mook"]
 type: humanoid
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -19,6 +19,7 @@ size: "normal"
 level: "4"
 levelOrdinal: "4th"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "9"
 actions:
@@ -29,6 +30,9 @@ actions:
 traits:
     - name: "With my dying breath I curse at thee"
       desc: "When the drow soldier drops to 0 hp, one enemy engaged with it takes 2 poison damage before the drow soldier dies."
+nastier_traits:
+    - name: "Well equipped"
+      desc: "The drow has a potion or poison that it can use as a quick action twice this battle (see [[Drow|Drow Abilities]])."
 ac: "20"
 pd: "19"
 md: "14"

@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Troop"]
 type: demon
 updated: 2023-05-31
 ---
@@ -35,6 +35,8 @@ actions:
 traits:
     - name: "Improved dark step"
       desc: "While cloaked, the cambion sickle automatically succeeds on all disengage checks and gains a +2 bonus to all defences against ranged attacks."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "21"
 pd: "19"
 md: "15"

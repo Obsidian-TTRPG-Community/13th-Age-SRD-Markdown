@@ -6,9 +6,9 @@ publish:
 role: wrecker
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Type/Wrecker", "13A/Monsters/Factions/None"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Wrecker", "13A/Monsters/Factions/None"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -49,20 +49,22 @@ actions:
           - name: "Miss"
             desc: "The target is dazed until the end of its next turn."
 traits:
+    - name: "Beast of Legends"
+      desc: "The tarrasque can make one close attack and one melee attack each round as a standard action. Note that flying is usually no defense against the tarrasque, which is huge and powerful enough to pluck or whack enemies out of the sky with surprising leaps."
     - name: "Amphibious"
       desc: "The tarrasque can swim and breathe underwater (or it holds so much air in its vast lungs that it makes no difference)."
     - name: "Enormously bulky"
       desc: "The tarrasque is so huge that it ignores opportunity attacks. In addition, normal-sized enemies are like fleas to it, and disengaging from the tarrasque requires only an easy save (6+), unless the target is grabbed."
     - name: "Immortal"
       desc: "The tarrasque can’t be killed, save by the explicit will of a god (and not some jumped-up local god, either) or, perhaps, the sacrifice of a great icon. The tarrasque’s HP total indicates the amount of damage required to make it disgorge swallowed enemies and flee to go hibernate while it regenerates the damage it suffered and decide if it wants to rampage again."
-    - name: "Inflexible: The tarrasque can’t easily fight foes that get onto its back, and may not even notice them if they aren’t attacking it. When it does tire of a passenger, it can either use its tail slam attack (–2 attack penalty"
-      desc: "on a hit, the target only takes half damage and is knocked off the tarrasque [possibly falling damage]; on a miss, the target takes no damage) or a drag attack as a standard action, crushing the rider between its shell and a mountainside or other high, hard obstacle."
+    - name: "Inflexible"
+      desc: "The tarrasque can’t easily fight foes that get onto its back, and may not even notice them if they aren’t attacking it. When it does tire of a passenger, it can either use its _tail slam_ attack (–2 attack penalty: on a hit, the target only takes half damage and is knocked off the tarrasque [possibly falling damage]; on a miss, the target takes no damage) or a _drag_ attack as a standard action, crushing the rider between its shell and a mountainside or another high, hard obstacle."
     - name: "Legendary resistance"
       desc: "The tarrasque is immune to normal conditions and effects (stunned, weakened, etc.), but it isn’t completely impervious. Bypassing its resistances requires icon-supported effort. A PC can use one 5 or 6 they acquired from icon relationship dice rolls to overcome the resistance each time they use an attack or power that would apply a condition or effect upon the tarrasque. Of course, they must also provide a story to go along with the reason the tarrasque is affected."
     - name: "Leveler"
-      desc: "When the escalation die is even, as a move action the tarrasque can demolish any ordinary structure it can reach, such as a house, castle wall, temple, or ship. The beast automatically reduces the structure to rubble, rendering it useless. Each creature on top of or within the structure is subject to a collapse attack."
+      desc: "When the escalation die is even, as a move action the tarrasque can demolish any ordinary structure it can reach, such as a house, castle wall, temple, or ship. The beast automatically reduces the structure to rubble, rendering it useless. Each creature on top of or within the structure is subject to a _collapse_ attack."
     - name: "Swallow whole"
-      desc: "Once a creature is swallowed, it goes inside one of the tarrasque’s gigantic stomachs. It can still act while inside the tarrasque, but it will have to deal with the beast’s stomach acid that is splashing around. A swallowed creature must deal 400 damage to the tarrasque to force it to disgorge the contents of its gullet, freeing the creature. During the tarrasque’s turn, it can make a gullet digestion attack against the target as a free action."
+      desc: "Once a creature is swallowed, it goes inside one of the tarrasque’s gigantic stomachs. It can still act while inside the tarrasque, but it will have to deal with the beast’s stomach acid that is splashing around. A swallowed creature must deal 400 damage to the tarrasque to force it to disgorge the contents of its gullet, freeing the creature. During the tarrasque’s turn, it can make a _gullet digestion_ attack against the target as a free action."
     - name: "Soft-ish innerbelly"
       desc: "The tarrasque doesn’t have scales on the inside. It takes a –5 penalty to all defences against attacks from inside its gullet, though only melee and close attacks can be made in there. The tarrasque’s insides are immune to acid damage, however."
 nastier_traits:

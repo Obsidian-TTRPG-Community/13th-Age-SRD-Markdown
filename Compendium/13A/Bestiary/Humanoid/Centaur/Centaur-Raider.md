@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Centaur", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Centaur", "13A/Monsters/Role/Wrecker"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -26,7 +26,7 @@ actions:
       desc: "15 damage"
       traits:
           - name: "Natural even hit"
-            desc: "As a free action, the centaur raider can move and make another hoof and weapon attack against a different nearby enemy (it will take opportunity attacks for moving)."
+            desc: "As a free action, the centaur raider can move and make another _hoof and weapon_ attack against a different nearby enemy (it will take opportunity attacks for moving)."
     - name: "R: Short bow +9 vs. AC"
       desc: "18 damage"
       traits:
@@ -37,7 +37,7 @@ traits:
       desc: "The centaur raider gains a +4 AC bonus against opportunity attacks and only takes half damage from opportunity attacks that hit it."
 nastier_traits:
     - name: "Barreling charge"
-      desc: "When the escalation die is even, the centaur raider can use a standard action and a move action to make a sweeping blow attack against multiple enemies as it moves past them (it will take opportunity attacks). It ends this move and attack unengaged."
+      desc: "When the escalation die is even, the centaur raider can use a standard action and a move action to make a _sweeping blow_ attack against multiple enemies as it moves past them (it will take opportunity attacks). It ends this move and attack unengaged."
 triggered_actions:
     - name: "Sweeping blow +10 vs. AC (1d3 nearby enemies)"
       desc: "15 damage, and the target loses its next move action."

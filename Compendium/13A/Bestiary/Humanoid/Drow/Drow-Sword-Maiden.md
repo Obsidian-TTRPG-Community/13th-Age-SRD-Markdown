@@ -6,9 +6,9 @@ publish:
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Drow", "13A/Monsters/Role/Troop"]
 type: humanoid
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -34,6 +34,8 @@ nastier_traits:
       desc: "Once per round when an attack misses the sword maiden, she can move or make a cruel cutlass attack as a free action."
     - name: "Arcane warrior"
       desc: "The sword maiden has a true magic item (probably a weapon) and uses it to her benefit (adjust stats accordingly)."
+    - name: "Well equipped"
+      desc: "The drow has a potion or poison that it can use as a quick action twice this battle (see [[Drow|Drow Abilities]])."
 ac: "21"
 pd: "19"
 md: "15"

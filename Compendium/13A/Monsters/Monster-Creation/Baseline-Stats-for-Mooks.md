@@ -3,7 +3,7 @@ aliases: [Baseline Stats for Mooks]
 created: 2023-05-12
 permalink: 
 publish: 
-tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Type/Mooks]
+tags: [13A/Monsters/Creation/Baseline-Stats, 13A/Monsters/Strength/Mooks]
 updated: 2023-05-29
 ---
 

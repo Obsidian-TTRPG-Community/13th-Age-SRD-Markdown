@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Shadow-Mongoose", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Spirit", "13A/Monsters/Factions/Shadow-Mongoose", "13A/Monsters/Role/Spoiler"]
 type: spirit
 updated: 2023-05-31
 ---

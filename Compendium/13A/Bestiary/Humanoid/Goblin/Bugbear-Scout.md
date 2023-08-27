@@ -5,8 +5,8 @@ level: 2
 publish: 
 role: troop
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Goblins", "13A/Monsters/Type/Troop"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Goblins", "13A/Monsters/Role/Troop"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Bugbear Scout"
-size: "2×"
+size: "double-strength"
 level: "2"
 levelOrdinal: "2nd"
 role: "troop"

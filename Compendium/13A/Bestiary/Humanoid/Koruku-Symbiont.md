@@ -6,9 +6,9 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/Koruku"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Spoiler", "13A/Monsters/Factions/Koruku"]
 type: humanoid
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ```statblock
@@ -45,9 +45,9 @@ actions:
             desc: "1/battle when the escalation die is 4+."
 traits:
     - name: "Scuttle forth"
-      desc: "When the koruku symbiont drops to 0 hit points, it rolls a normal save (11+). If the save succeeds, place a 5th level koruku larva with 30 hit points on the battlefield where it has detached itself from its former host. The staggered larva maintains the initiative of its host, but any conditions placed upon the host end. (If the save fails, the larva gets squashed along with its host!)"
+      desc: "When the koruku symbiont drops to 0 hit points, it rolls a normal save (11+). If the save succeeds, place a 5th level [[Koruku-Larva|koruku larva]] with 30 hit points on the battlefield where it has detached itself from its former host. The staggered larva maintains the initiative of its host, but any conditions placed upon the host end. (If the save fails, the larva gets squashed along with its host!)"
     - name: "It’s been fun"
-      desc: "When the koruku symbiont is nearby a behemoth, the koruku detaches itself from its host and leaps onto the behemoth. Once it finds a likely spot for hibernation is secrets a slime which hardens into a cocoon. The host reverts back to its original stats, losing all of the benefits it gained as a symbiont, but takes no damage."
+      desc: "When the koruku symbiont is nearby a Behemoth, the koruku detaches itself from its host and leaps onto the Behemoth. Once it finds a likely spot for hibernation is secrets a slime which hardens into a cocoon. The host reverts back to its original stats, losing all of the benefits it gained as a symbiont, but takes no damage."
 triggered_actions:
     - name: "C: Acid spew +12 vs. PD"
       desc: "20 acid damage"

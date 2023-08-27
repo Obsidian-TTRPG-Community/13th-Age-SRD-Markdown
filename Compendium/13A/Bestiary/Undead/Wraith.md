@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Type/Spoiler", "13A/Monsters/Factions/None"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Role/Spoiler", "13A/Monsters/Factions/None"]
 type: undead
 updated: 2023-05-31
 ---

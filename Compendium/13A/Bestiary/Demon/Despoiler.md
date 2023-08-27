@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Caster"]
 type: demon
 updated: 2023-05-31
 ---
@@ -34,6 +34,9 @@ actions:
       traits:
           - name: "Limited use"
             desc: "1/day, as a quick action."
+traits:
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "19"
 pd: "14"
 md: "18"

@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/None", "13A/Monsters/Type/Troop", "13A/Monsters/Factions/Hellcats"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Troop", "13A/Monsters/Factions/Hellcats"]
 type: devil
 updated: 2023-05-31
 ---
@@ -40,11 +40,13 @@ traits:
       desc: "While in bright light, the hellcat is invisible; attacks against it have a 50% miss chance."
     - name: "Resist fire 13+"
       desc: "When a fire attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Corona aura"
+      desc: "Fire attacks that target an enemy engaged with the hellcat gain"
       traits:
-          - name: "Corona aura: Fire attacks that target an enemy engaged with the hellcat gain"
-            desc: ""
           - name: "Natural 16+"
             desc: "The target takes 5 extra fire damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 nastier_traits:
     - name: "Fearless pursuer"
       desc: "A hellcat takes only half damage from opportunity attacks."

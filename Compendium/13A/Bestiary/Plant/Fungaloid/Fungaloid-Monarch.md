@@ -5,8 +5,8 @@ level: 4
 publish: 
 role: leader
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Type/Leader"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Fungaloid", "13A/Monsters/Role/Leader"]
 type: plant
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Fungaloid Monarch"
-size: "2×"
+size: "double-strength"
 level: "4"
 levelOrdinal: "4th"
 role: "leader"

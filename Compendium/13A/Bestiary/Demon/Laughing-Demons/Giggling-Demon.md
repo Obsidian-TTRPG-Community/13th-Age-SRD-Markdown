@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: weakling
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing", "13A/Monsters/Type/mook"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demon-Laughing", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Demons"]
 type: demon
 updated: 2023-05-31
 ---
@@ -14,11 +14,12 @@ updated: 2023-05-31
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
-name: "Giggling-Demon"
+name: "Giggling Demon"
 size: "weakling"
 level: "6"
 levelOrdinal: "6th"
 role: "mook"
+mook: "yes"
 type: "demon"
 initiative: "10"
 actions:

@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Caster"]
 type: demon
 updated: 2023-05-31
 ---
@@ -42,6 +42,8 @@ actions:
 traits:
     - name: "Aura of betrayal"
       desc: "At the start of each of the despoiler mage’s turns, choose a random nearby enemy. Until the start of the despoiler mage’s next turn, that creature’s allies no longer consider it an ally, though its enemies’ powers can still target it as an enemy. The creature isn’t compelled to attack its former friends."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "24"
 pd: "19"
 md: "23"

@@ -6,9 +6,9 @@ publish:
 role: wrecker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Role/Wrecker"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ```statblock
@@ -36,7 +36,7 @@ traits:
     - name: "Acid blood"
       desc: "Each creature engaged with a damaged koruku larva at the start of its turn takes 2d6 acid damage."
     - name: "Join with us"
-      desc: "The koruku larva can physically and magically bond with a willing humanoid, or a humanoid it has reduced to 0 hp, and evolve over the course of a day into a koruku symbiont."
+      desc: "The koruku larva can physically and magically bond with a willing humanoid, or a humanoid it has reduced to 0 hp, and evolve over the course of a day into a [[Koruku-Symbiont|koruku symbiont]]."
 ac: "21"
 pd: "18"
 md: "16"

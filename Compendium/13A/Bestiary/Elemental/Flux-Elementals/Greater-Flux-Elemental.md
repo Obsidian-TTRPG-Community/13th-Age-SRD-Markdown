@@ -6,12 +6,14 @@ publish:
 role: troop
 statblock: inline
 strength: Normal
-tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Flux-Elemental", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Elemental", "13A/Monsters/Factions/Flux-Elemental", "13A/Monsters/Role/Troop"]
 type: elemental
-updated: 2023-05-31
+updated: 2023-06-06
 ---
 
 ```statblock
+layout: Basic 13th Age Monster Layout
+columns: 1
 name: "Greater Flux Elemental"
 size: "normal"
 level: "9"

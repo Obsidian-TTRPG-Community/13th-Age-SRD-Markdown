@@ -5,8 +5,8 @@ level: 3
 publish: 
 statblock: inline
 strength: normal
-tags: [13A/Bestiary/Beast, 13A/Monsters/Type/Mook, 13A/Monsters/Factions/Azer]
-updated: 2023-05-31
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Azer"]
+updated: 2023-06-05
 ---
 
 See [Fire Bat](../Bat/Fire-Bat.md) below.

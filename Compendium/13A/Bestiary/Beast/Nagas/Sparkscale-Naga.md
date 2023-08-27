@@ -6,9 +6,9 @@ publish:
 role: leader
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Nagas", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Nagas", "13A/Monsters/Role/Leader"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ```statblock
@@ -42,9 +42,12 @@ actions:
       desc: "20 lightning damage, and the target is vulnerable (save ends)"
 traits:
     - name: "Arcane mirror"
-      desc: "When an enemy targets the sparkscale naga with a spell, the naga regains the use of sparking aura if it’s expended. In addition, if that spell is a recharge spell, roll its recharge check immediately after the spell is cast. If the spell is a per-battle or daily spell, roll a hard save (16+) immediately after the spell is cast; on a success, the spellcaster doesn’t expend the spell."
+      desc: "When an enemy targets the sparkscale naga with a spell, the naga regains the use of _sparking aura_ if it’s expended. In addition, if that spell is a recharge spell, roll its recharge check immediately after the spell is cast. If the spell is a per-battle or daily spell, roll a hard save (16+) immediately after the spell is cast; on a success, the spellcaster doesn’t expend the spell."
     - name: "Mystic escalator"
       desc: "The naga and each of its nearby allies can use the escalation die unless the naga has been targeted by an enemy’s spell since its last turn."
+nastier_traits:
+    - name: "Arcane balance"
+      desc: "Whenever the naga rolls a natural 1–5 with an attack roll, it can cancel one magical effect created by a spell or magic item that is affecting the naga or a nearby creature (including beneficial effect on a PC). It can be an ongoing effect, an effect that only lasts a round, or even an effect that was supposed to last until the end of the battle. Use your sense of what is magical and what isn’t: a bard’s song is clearly magical, but a rogue’s Shadow Walk talent probably isn’t, despite the wizard’s arguments that it *should* be."
 ac: "21"
 pd: "20"
 md: "16"

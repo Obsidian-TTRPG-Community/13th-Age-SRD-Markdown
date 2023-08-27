@@ -6,9 +6,9 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Remorhaz", "13A/Monsters/Role/Mook"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -19,6 +19,7 @@ size: "normal"
 level: "0"
 levelOrdinal: "0th"
 role: "mook"
+mook: "yes"
 type: "beast"
 initiative: "0"
 actions:

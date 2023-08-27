@@ -6,9 +6,9 @@ publish:
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Type/Caster", "13A/Monsters/Factions/None"]
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Role/Caster", "13A/Monsters/Factions/None"]
 type: aberration
-updated: 2023-05-31
+updated: 2023-06-07
 ---
 
 ```statblock
@@ -26,12 +26,12 @@ actions:
       desc: "20 damage"
       traits:
           - name: "Natural even hit"
-            desc: "The drider can make a poison bite attack as a free action."
+            desc: "The drider can make a _poison bite_ attack as a free action."
     - name: "R: Lightning bolt spell +11 vs. PD"
       desc: "30 lightning damage"
       traits:
           - name: "Natural even hit"
-            desc: "The drider can make a lightning bolt spell attack against a second nearby enemy, followed by a third and final different nearby enemy if the second attack is also a natural even hit."
+            desc: "The drider can make a _lightning bolt spell_ attack against a second nearby enemy, followed by a third and final different nearby enemy if the second attack is also a natural even hit."
     - name: "C: Web attack +11 vs. PD (up to 2 nearby enemies in a group)"
       desc: "The target is hampered (save ends)"
       traits:

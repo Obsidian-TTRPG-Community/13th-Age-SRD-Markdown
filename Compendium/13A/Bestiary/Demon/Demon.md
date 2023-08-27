@@ -3,12 +3,12 @@ aliases: [Demon]
 created: 2023-05-23
 publish: 
 statblock: inline
-tags: [13A/Monsters/Factions/Demon]
+tags: [13A/Monsters/Factions/Demons]
 updated: 2023-05-31
 ---
-Demons may or may not have a special demonic ability. Roll `dice: 1d10` for each non-mook normal-sized demon. If you roll less than or equal to the demon’s level, it has a random ability. Large or huge (or double- or triple-strength) demons automatically get one at least one random ability.
+Demons (see #13A/Monsters/Factions/Demons ) may or may not have a special demonic ability. Roll a d10 (`dice: 1d10`) for each non-mook normal-sized demon. If you roll less than or equal to the demon’s level, it has a random ability. Large or huge (or double- or triple-strength) demons automatically get one at least one random ability.
 
-When a demon has an ability, roll a d6 or d8 (GM’s choice) on the table below to determine what it is.
+When a demon has an ability, roll a d6 (`dice: d6`) or d8 (`dice: d8`) (GM’s choice) on the table below to determine what it is.
 
 | `dice: 1d6` or `dice: 1d8` | Demonic Ability   | Description                                                                                                                                                                                                                                 |
 | -------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

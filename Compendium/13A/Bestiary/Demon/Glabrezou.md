@@ -6,7 +6,7 @@ publish:
 role: caster
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Caster"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Caster"]
 type: demon
 updated: 2023-05-31
 ---
@@ -32,10 +32,12 @@ actions:
     - name: "C: Hellfire +13 vs. PD (1d3 nearby enemies in a group and any glabrezou allies engaged with those enemies)"
       desc: "50 fire damage"
 traits:
-    - name: "Mirror images: At will, as a move action, a glabrezou can create multiple images of itself that make it harder to target. The next time an attack would hit the glabrezou, the attacker has to roll 11+ with another d20 roll"
-      desc: "Success indicates a hit; failure is a miss that hits one of the mirror images instead, dealing no miss damage to the glabrezou but dispelling all the images.<br/>Once the glabrezou is staggered, it takes 2d10 damage whenever it uses mirror image, so movement or escape start registering as alternatives."
+    - name: "Mirror images"
+      desc: "At will, as a move action, a glabrezou can create multiple images of itself that make it harder to target. The next time an attack would hit the glabrezou, the attacker has to roll 11+ with another d20 roll: Success indicates a hit; failure is a miss that hits one of the mirror images instead, dealing no miss damage to the glabrezou but dispelling all the images.<br/>Once the glabrezou is staggered, it takes 2d10 damage whenever it uses _mirror image_, so movement or escape start registering as alternatives."
     - name: "Power word stun"
       desc: "Once per day as a free action, the glabrezou can utter a word of power, canceling a single action just taken by a nearby creature with fewer hit points than the glabrezou — whether it was casting a spell, healing an ally, or whatever. The GM can see the results of the action, such as a die roll, before deciding whether to use the power word."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "22"
 pd: "22"
 md: "18"

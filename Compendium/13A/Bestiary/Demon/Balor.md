@@ -6,7 +6,7 @@ publish:
 role: wrecker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/None", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Factions/Demons", "13A/Monsters/Role/Wrecker"]
 type: demon
 updated: 2023-05-31
 ---
@@ -45,9 +45,11 @@ traits:
       desc: "As the standard monster ability."
     - name: "Shadow and flame"
       desc: "The balor gains a +5 bonus to all defences against attacks by far away enemies."
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 nastier_traits:
     - name: "Vorpal blade"
-      desc: "Critical hits with the abyssal blade deal triple damage instead of double damage."
+      desc: "Critical hits with the _abyssal blade_ deal triple damage instead of double damage."
 ac: "29"
 pd: "27"
 md: "23"

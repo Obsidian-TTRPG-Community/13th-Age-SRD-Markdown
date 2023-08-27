@@ -6,9 +6,9 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons-Chromatic/Black", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Dragon", "13A/Monsters/Factions/Dragons/Chromatic/Black", "13A/Monsters/Role/Spoiler"]
 type: dragon
-updated: 2023-05-31
+updated: 2023-06-02
 ---
 
 ```statblock
@@ -34,13 +34,15 @@ actions:
     - name: "C: Venom breath +13 vs. PD (1d3 + 1 nearby enemies)"
       desc: "35 damage"
       traits:
-          - name: "Swarming motes: Each time the dragon uses this attack, a swarm of light motes that resolve into scorpions and stinging insects swirl around the targets. The swarm harasses each targeted enemy, hit or miss. During its next turn, any enemy being swarmed this way must choose one"
-            desc: "Take 25 damage; OR roll twice for each attack roll it makes that turn, taking the lower result."
+          - name: "Swarming motes"
+            desc: "Each time the dragon uses this attack, a swarm of light motes that resolve into scorpions and stinging insects swirl around the targets. The swarm harasses each targeted enemy, hit or miss. During its next turn, any enemy being swarmed this way must choose one: Take 25 damage; OR roll twice for each attack roll it makes that turn, taking the lower result."
 traits:
     - name: "Three heads are better than one"
-      desc: "The empyrean dragon can make two gleaming bite attacks as a single standard action, one each from two heads. The third head is assumed to be maneuvering the body around. It can choose not to make one of those attacks to end any condition affecting it except for ongoing damage (this includes the stunned condition, even though it technically doesn’t get an action when stunned).<br/>An enemy who scores a critical hit against an empyrean dragon can forego the extra damage to lop off one of the dragon’s heads. If an enemy deals 150 damage with a single attack against the dragon, the attack will also remove a head. An empyrean dragon with two remaining heads can make only one gleaming bite attack as a standard action and can’t sacrifice that attack to remove conditions. The dragon dies if all three heads are removed."
+      desc: "The empyrean dragon can make two _gleaming bite_ attacks as a single standard action, one each from two heads. The third head is assumed to be maneuvering the body around. It can choose not to make one of those attacks to end any condition affecting it except for ongoing damage (this includes the stunned condition, even though it technically doesn’t get an action when stunned).<br/>An enemy who scores a critical hit against an empyrean dragon can forego the extra damage to lop off one of the dragon’s heads. If an enemy deals 150 damage with a single attack against the dragon, the attack will also remove a head. An empyrean dragon with two remaining heads can make only one _gleaming bite_ attack as a standard action and can’t sacrifice that attack to remove conditions. The dragon dies if all three heads are removed."
     - name: "Intermittent breath"
-      desc: "An empyrean dragon can use venom breath 1d2 + 1 times per battle, but never two turns in a row."
+      desc: "An empyrean dragon can use _venom breath_ `dice: 1d2+1` times per battle, but never two turns in a row."
+    - name: "Additional Chromatic Dragon Abilty"
+      desc: "As per the [[Chromatic-Dragon|Chromatic Dragon Abilities]]"
 triggered_actions:
     - name: "C: Crying heavens +13 vs. MD (each enemy in the battle)"
       desc: "20 ongoing damage"

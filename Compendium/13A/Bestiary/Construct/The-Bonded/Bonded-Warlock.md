@@ -5,8 +5,8 @@ level: 8
 publish: 
 role: caster
 statblock: inline
-strength: 3×
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Type/Caster"]
+strength: "triple-strength"
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/The-Bonded", "13A/Monsters/Role/Caster"]
 type: construct
 updated: 2023-05-30
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-30
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Bonded Warlock"
-size: "3×"
+size: "triple-strength"
 level: "8"
 levelOrdinal: "8th"
 role: "caster"

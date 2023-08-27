@@ -6,7 +6,7 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Demon", "13A/Monsters/Type/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Role/Blocker", "13A/Monsters/Factions/Ebon-Gauntlets", "13A/Monsters/Factions/Demons"]
 type: Demon
 updated: 2023-05-31
 ---
@@ -27,6 +27,9 @@ actions:
       traits:
           - name: "Natural even hit"
             desc: "Target takes a cumulative –2 penalty to disengage checks until the end of the battle."
+traits:
+    - name: "Random Demonic Ability"
+      desc: "As per [[Demon|the demonic abilities]]"
 ac: "24"
 pd: "18"
 md: "22"

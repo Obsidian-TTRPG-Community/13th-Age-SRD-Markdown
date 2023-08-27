@@ -6,9 +6,9 @@ publish:
 role: wrecker
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Type/Wrecker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Frogfolk", "13A/Monsters/Role/Wrecker"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-05
 ---
 
 ```statblock
@@ -34,7 +34,7 @@ actions:
             desc: "The bullfrog may also make a _bite_ attack as a free action."
 traits:
     - name: "Roar of pain"
-      desc: "The bullfrog bellows as a free action when first staggered or when the escalation die becomes even…"
+      desc: "The bullfrog _bellows_ as a free action when first staggered or when the escalation die becomes even…"
 nastier_traits:
     - name: "Frenzy"
       desc: "The bullfrog may add the escalation die to its attack rolls when staggered."

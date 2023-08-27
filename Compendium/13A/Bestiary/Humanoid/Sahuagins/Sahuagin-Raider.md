@@ -6,7 +6,7 @@ publish:
 role: troop
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Troop", "13A/Monsters/Factions/Sahuagins"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Troop", "13A/Monsters/Factions/Sahuagins"]
 type: humanoid
 updated: 2023-05-31
 ---

@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Reavers", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Undead", "13A/Monsters/Factions/Reavers", "13A/Monsters/Role/Mook"]
 type: undead
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "7"
 levelOrdinal: "7th"
 role: "mook"
+mook: "yes"
 type: "undead"
 initiative: "7, or immediately after the reaver that created it"
 vulnerability: "holy"

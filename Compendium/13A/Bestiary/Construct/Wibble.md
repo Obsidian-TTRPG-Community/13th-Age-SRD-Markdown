@@ -5,7 +5,7 @@ level: 1
 publish: 
 role: mook
 strength: normal
-tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/None", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Construct", "13A/Monsters/Factions/None", "13A/Monsters/Role/Mook"]
 type: construct
 updated: 2023-05-30
 ---
@@ -18,6 +18,7 @@ size: "normal"
 level: "1"
 levelOrdinal: "1st"
 role: "mook"
+mook: "yes"
 type: "construct"
 initiative: "1"
 actions:

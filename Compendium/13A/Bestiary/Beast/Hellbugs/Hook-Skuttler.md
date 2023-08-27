@@ -6,9 +6,9 @@ publish:
 role: blocker
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Hellbugs", "13A/Monsters/Type/Blocker"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Hellbugs", "13A/Monsters/Role/Blocker"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock

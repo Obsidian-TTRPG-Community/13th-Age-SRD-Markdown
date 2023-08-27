@@ -5,17 +5,17 @@ level: 6
 publish: 
 role: leader
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Type/Leader"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Aberration", "13A/Monsters/Factions/Star-Masks", "13A/Monsters/Role/Leader"]
 type: aberration
-updated: 2023-05-30
+updated: 2023-06-07
 ---
 
 ```statblock
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Star-Mask Cult Leader"
-size: "2×"
+size: "double-strength"
 level: "6"
 levelOrdinal: "6th"
 role: "leader"
@@ -30,7 +30,7 @@ actions:
       desc: "18 psychic damage, and 18 ongoing psychic damage"
       traits:
           - name: "Natural even hit or miss"
-            desc: "One dead (or unconscious or otherwise out of the fight) star-mask cultist, dead star-mask cult leader, or dead star-mask brute becomes a living scuttling star-mask mook."
+            desc: "One dead (or unconscious or otherwise out of the fight) [[Star-Mask-Cultist|star-mask cultist]], dead star-mask cult leader, or dead [[Star-Mask-Brute|star-mask brute]] becomes a living [[Scuttling-Star-Mask|scuttling star-mask]] mook."
 ac: "22"
 pd: "15"
 md: "19"

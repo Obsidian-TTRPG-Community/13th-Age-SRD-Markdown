@@ -5,8 +5,8 @@ level: 10
 publish: 
 role: caster
 statblock: inline
-strength: 3×
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Type/Caster"]
+strength: "triple-strength"
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fey", "13A/Monsters/Role/Caster"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Grandmother"
-size: "3×"
+size: "triple-strength"
 level: "10"
 levelOrdinal: "10th"
 role: "caster"

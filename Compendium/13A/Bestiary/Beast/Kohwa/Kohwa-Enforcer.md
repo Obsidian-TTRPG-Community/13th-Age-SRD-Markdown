@@ -6,9 +6,9 @@ publish:
 role: troop
 statblock: inline
 strength: large
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Kohwa", "13A/Monsters/Type/Troop"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Kohwa", "13A/Monsters/Role/Troop"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-03
 ---
 
 ```statblock
@@ -34,6 +34,12 @@ traits:
       desc: "When staggered, the kohwa enforcer gains a bonus to damage equal to triple the escalation die."
     - name: "Acid rain"
       desc: "The first time the enforcer is struck by a critical hit, provided it survives the blow, it sprays horrible acidic urine on its enemies using its _pitter patter_ attack as a free action."
+    - name: "Flight"
+      desc: "Kohwa are winged, and therefore capable of flight. While they are strong fliers and able to travel great distances in this way, they are acutely aware of how ungainly they look while doing so, and therefore prefer to walk or run unless they are certain no one is watching."
+    - name: "Swimming"
+      desc: "Unlike many cat species, kohwa are perfectly at home in the water, so diving into a lake or river is a poor defense against them."
+    - name: "Telepathy"
+      desc: "Kohwa are capable of short-range telepathy with non-kohwa. It is assumed (although no one is entirely sure) that they are capable of communicating with others of their species at greater distances, as when one is in trouble, others are sure to appear—eventually."
 nastier_traits:
     - name: "Leaps and bounds"
       desc: "If the enforcer is unengaged and moves to engage an enemy, it can make a _leaping strike_ attack as a standard action."

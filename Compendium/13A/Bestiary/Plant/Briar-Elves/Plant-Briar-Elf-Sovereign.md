@@ -5,8 +5,8 @@ level: 12
 publish: 
 role: leader
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Type/leader"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Plant", "13A/Monsters/Factions/Briar-Elves", "13A/Monsters/Role/Leader"]
 type: plant
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Plant Briar Elf Sovereign"
-size: "2×"
+size: "double-strength"
 level: "12"
 levelOrdinal: "12th"
 role: "leader"

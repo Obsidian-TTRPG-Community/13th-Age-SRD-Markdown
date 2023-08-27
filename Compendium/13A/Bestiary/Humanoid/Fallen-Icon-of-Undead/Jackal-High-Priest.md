@@ -5,8 +5,8 @@ level: 10
 publish: 
 role: leader
 statblock: inline
-strength: "2×"
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Leader"]
+strength: "double-strength"
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Role/Leader"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -15,7 +15,7 @@ updated: 2023-05-31
 layout: Basic 13th Age Monster Layout
 columns: 1
 name: "Jackal High Priest"
-size: "2×"
+size: "double-strength"
 level: "10"
 levelOrdinal: "10th"
 role: "leader"

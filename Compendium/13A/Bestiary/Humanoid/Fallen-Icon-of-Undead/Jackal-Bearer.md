@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Type/Mook"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Factions/Fallen-Icon-Undead", "13A/Monsters/Role/Mook"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "5"
 levelOrdinal: "5th"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "8 (+6 when physically carrying a corpse)"
 actions:

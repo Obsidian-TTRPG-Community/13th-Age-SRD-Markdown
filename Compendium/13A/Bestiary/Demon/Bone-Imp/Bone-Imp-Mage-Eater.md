@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: weakling
-tags: ["13A/Bestiary/demon", "13A/Monsters/Type/mook", "13A/Monsters/Factions/Bone-Imp"]
+tags: ["13A/Bestiary/Demon", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Bone-Imp", "13A/Monsters/Factions/Demons"]
 type: demon
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "weakling"
 level: "2"
 levelOrdinal: "2nd"
 role: "mook"
+mook: "yes"
 type: "demon"
 initiative: "10"
 actions:

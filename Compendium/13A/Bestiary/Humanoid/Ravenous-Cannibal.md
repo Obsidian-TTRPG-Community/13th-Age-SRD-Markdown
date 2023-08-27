@@ -6,7 +6,7 @@ publish:
 role: mook
 statblock: inline
 strength: normal
-tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Type/Mook", "13A/Monsters/Factions/Wendigo"]
+tags: ["13A/Bestiary/Humanoid", "13A/Monsters/Role/Mook", "13A/Monsters/Factions/Wendigo"]
 type: humanoid
 updated: 2023-05-31
 ---
@@ -19,6 +19,7 @@ size: "normal"
 level: "4"
 levelOrdinal: "4th"
 role: "mook"
+mook: "yes"
 type: "humanoid"
 initiative: "9"
 actions:

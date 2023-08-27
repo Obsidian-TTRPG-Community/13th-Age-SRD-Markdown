@@ -6,9 +6,9 @@ publish:
 role: leader
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Type/Leader"]
+tags: ["13A/Bestiary/Beast", "13A/Monsters/Factions/Koruku", "13A/Monsters/Role/Leader"]
 type: beast
-updated: 2023-05-31
+updated: 2023-06-04
 ---
 
 ```statblock
@@ -27,22 +27,21 @@ actions:
       traits:
           - name: "Miss"
             desc: "40 damage."
-traits:
-    - name: "First miss"
-      desc: "The koruku landkiller makes a second _thrashing tail_ attack against a different target."
-      traits:
+          - name: "First miss"
+            desc: "The koruku landkiller makes a second _thrashing tail_ attack against a different target."
           - name: "Natural 1-5 on either attack"
             desc: "The koruku landkiller regains its _stolen magic_ attack if it’s expended."
+    - name: "Earth-gouging plates +13 vs. PD (2 attacks)"
+      desc: "55 damage"
+traits:
     - name: "Escalating saves"
       desc: "The koruku landkiller adds twice the escalation die to its saves."
     - name: "Stolen magic"
-      desc: "Once per battle as a standard action, a koruku landkiller can make one of the following magical attacks. The first five attacks can add the escalation die when rolled against a target that has an icon relationship with the icon the power has been stolen from! Feel free to roll a d6 if you don’t want to spend time choosing between attacks. (If its _thrashing tail_ attack roll allows the landkiller to regain _stolen magic_, it doesn’t have to choose which magical attack it will use until it actually uses the attack.)"
+      desc: "Once per battle as a standard action, a koruku landkiller can make one of the following magical attacks: _Flame of the Magic Icon_, _Snare of the Nature Icon_, _Roar of the Brute Icon_, _Treachery of the Draconic Icon_, _Storm of the Zealous Icon_ or _Wrath of the sea_ . The first five attacks can add the escalation die when rolled against a target that has an icon relationship with the icon the power has been stolen from! Feel free to roll a d6 if you don’t want to spend time choosing between attacks. (If its _thrashing tail_ attack roll allows the landkiller to regain _stolen magic_, it doesn’t have to choose which magical attack it will use until it actually uses the attack.)"
 nastier_traits:
     - name: "So many servitors"
-      desc: "When the koruku landkiller is hit by an attack, add a koruku servitor to the battle."
+      desc: "When the koruku landkiller is hit by an attack, add a [[Koruku-Servitor|koruku servitor]] to the battle."
 triggered_actions:
-    - name: "Earth-gouging plates +13 vs. PD (2 attacks)"
-      desc: "55 damage"
     - name: "C: Flame of the Magic Icon +13 vs. PD (1d3 nearby or faraway enemies in a group)"
       desc: "114 fire damage"
       traits:

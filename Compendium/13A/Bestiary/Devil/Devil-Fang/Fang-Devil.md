@@ -6,7 +6,7 @@ publish:
 role: spoiler
 statblock: inline
 strength: huge
-tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Type/Spoiler"]
+tags: ["13A/Bestiary/Devil", "13A/Monsters/Factions/Devil-Fang", "13A/Monsters/Factions/Devils", "13A/Monsters/Role/Spoiler"]
 type: devil
 updated: 2023-05-31
 ---
@@ -26,7 +26,7 @@ actions:
       desc: "20 damage"
       traits:
           - name: "Natural even hit"
-            desc: "The target pops free from each enemy and moves next to the Devil, which engages and grabs it. (The Devil can grab any number of enemies simultaneously.) If it has quick actions left, it will use its devil’s beak and cutting talon attacks."
+            desc: "The target pops free from each enemy and moves next to the Devil, which engages and grabs it (The Devil can grab any number of enemies simultaneously). If it has quick actions left, it will use its _devil’s beak_ and cutting talon attacks."
           - name: "Miss"
             desc: "10 damage."
     - name: "Cutting talon +12 (+16 against a grabbed enemy) vs. AC"
@@ -43,6 +43,8 @@ traits:
       desc: "When you choose to add the escalation die to an attack against the Fang Devil, you are hampered until the end of your next turn after you make the attack."
     - name: "Resist energy 13+"
       desc: "When an energy attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage."
+    - name: "Additional Devil Ability"
+      desc: "As per the [[Devil|devil abilities]]"
 triggered_actions:
     - name: "Devil’s beak +16 vs. AC (one enemy it’s grabbing; includes +4 grab bonus)"
       desc: "30 damage"

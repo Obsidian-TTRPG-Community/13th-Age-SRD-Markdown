@@ -2,7 +2,7 @@
 aliases: [13th Age Bestiary, Monsters Reference]
 created: 2023-05-29
 publish: 
-tags: [13a/Bestiary]
+tags: [13A/Bestiary]
 updated: 2023-05-30
 ---
 
@@ -39,7 +39,7 @@ updated: 2023-05-30
 		- [[Compendium/13A/Bestiary/Aberration/Rust-Monster|Rust Monster]]
 		- **Soul-Flensers**
 			- [[Compendium/13A/Bestiary/Aberration/Soul-Flensers/Soul-Flenser|Soul Flenser]]
-			- [[Compendium/13A/Bestiary/Aberration/Soul-Flensers/The-Flenses|The Flenses]]
+			- [[The-Flensed|The Flenses]]
 		- **[[Star-Masks]]**
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Brain-Absorber-Xombie|Brain Absorber Xombie]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Fast-Xombie|Fast Xombie]]
@@ -54,7 +54,7 @@ updated: 2023-05-30
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Cult-Puppet|Star Mask Cult Puppet]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Cultist|Star Mask Cultist]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Floating-Brain|Star Mask Floating Brain]]
-			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Omnipotent|Star Mask Omnipotent]]
+			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Star-Mask-Omnipotent-Brain|Star Mask Omnipotent Brain]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Xombie-Egg-Swarm|Xombie Egg Swarm]]
 			- [[Compendium/13A/Bestiary/Aberration/Star-Masks/Xombie-Spiders|Xombie Spiders]]
 		- [[Compendium/13A/Bestiary/Aberration/Whispering-Prophet|Whispering Prophet]]
@@ -71,7 +71,7 @@ updated: 2023-05-30
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Fire-Bat|Fire Bat]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Ant|Giant Ant]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Praying-Mantis|Giant Praying Mantis]]
-			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Scorpian|Giant Scorpian]]
+			- [[Giant-Scorpion|Giant Scorpian]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Giant-Web-Spider|Giant Web Spider]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Goblin-Bat-Mage|Goblin Bat Mage]]
 			- [[Compendium/13A/Bestiary/Beast/Animal-Critter/Hunting-Spider|Hunting Spider]]
@@ -96,7 +96,7 @@ updated: 2023-05-30
 		- **[[Couatls]]**
 			- [[Couatl]]
 			- [[Elder-Couatl]]
-		- **[[Compendium/13A/Bestiary/Beast/Drow-Beasts/Drow]]**
+		- **[[Compendium/13A/Bestiary/Beast/Drow/Drow|Beast/Drow]]**
 			- [[Lokkris]]
 			- [[Spider-Mount]]
 		- **[[Elemental-Beasts]]**
@@ -110,7 +110,7 @@ updated: 2023-05-30
 		- **Hellbugs**
 			- [[Boombug]]
 			- [[Hellwasp]]
-			- [[hellwasp]]
+			- [[Hellwasp]]
 			- [[Hook-Skuttler]]
 			- [[Swarming-Maw]]
 		- [[Hellhound]]
@@ -146,10 +146,11 @@ updated: 2023-05-30
 			- [[Swaysong-Naga]]
 		- [[Owlbear]]
 		- [[Phase-Spider]]
-		- **[[Purple-Worm]]**
-			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Ancient-Purple-Worm]]
-			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Parasitic-Lightning-Beetle]]
-			- [[Compendium/13A/Bestiary/Beast/Purple-Worms/Purple-Larva]]
+		- **Purple-Worm**
+			- [[Purple-Worm]]
+			- [[Ancient-Purple-Worm|Ancient Purple Worm]]
+			- [[Parasitic-Lightning-Beetle|Parasitic Lightning Beetle]]
+			- [[Purple-Larva|Purple Larva]]
 		- **Remorhaz**
 			- [[Adult-Remorhaz]]
 			- [[Barbellite]]
@@ -160,8 +161,10 @@ updated: 2023-05-30
 			- [[iron-Sea-Shark]]
 			- [[Razor-Shark]]
 		- **Stirges**
+			- [[Archer-Stirge]]
+			- [[Cobbler-Stirge]]
 			- [[Stirge]]
-			- [[Stirgelings]]
+			- [[Stirgeling]]
 		- [[Tarrasque]]
 		- **Thunder-Lizard**
 			- [[Clubtail]]
@@ -241,7 +244,7 @@ updated: 2023-05-30
 		- [[Frenzy-Demon]]
 		- [[Giant-Vrock]]
 		- [[Glabrezou]]
-		- [[Hedzou]]
+		- [[Hezrou]]
 		- [[Hooked-Demon]]
 		- [[Imp]]
 		- **Laughing-Demons**
@@ -278,11 +281,11 @@ updated: 2023-05-30
 			- **Black-Dragons**
 				- [[Catacomb-Dragon]]
 				- [[Empyrean-Dragon]]
-				- [[Gorge Dragon]]
-				- [[Huge Black Dragon]]
-				- [[Large Black Dragon]]
-				- [[Medium Black Dragon]]
-				- [[Void Dragon]]
+				- [[Gorge-Dragon]]
+				- [[Huge-Black-Dragon]]
+				- [[Large-Black-Dragon]]
+				- [[Medium-Black-Dragon]]
+				- [[Void-Dragon]]
 			- **Blue-Dragons**
 				- [[Huge-Blue-Dragon]]
 				- [[Large-Blue-Dragon]]
@@ -300,47 +303,47 @@ updated: 2023-05-30
 				- [[Large-Red-Dragon]]
 				- [[Medium-Red-Dragon]]
 				- [[Volcanic-Dragon]]
-			- [[Compendium/13A/Bestiary/Construct/Smoke-Minions]]
+			- [[Compendium/13A/Bestiary/Construct/Smoke-Minions|Smoke-Minions]]
 			- **White-Dragons**
-				- [[Blizzard Dragon]]
+				- [[Blizzard-Dragon]]
 				- [[Cenotaph-Dragon]]
-				- [[Huge White Dragon]]
-				- [[Large White Dragon]]
-				- [[Mausoleum Dragon]]
-				- [[Medium White Dragon]]
-				- [[Moon Dragon]]
-				- [[White Dragon Hatchling]]
+				- [[Huge-White-Dragon]]
+				- [[Large-White-Dragon]]
+				- [[Mausoleum-Dragon]]
+				- [[Medium-White-Dragon]]
+				- [[Moon-Dragon]]
+				- [[White-Dragon-Hatchling]]
 		- **[[Metallic-Dragon]]**
 			- **Brass-Dragons**
-				- [[Huge Brass Dragon]]
-				- [[Large Brass Dragon]]
-				- [[Medium Brass Dragon]]
+				- [[Huge-Brass-Dragon]]
+				- [[Large-Brass-Dragon]]
+				- [[Medium-Brass-Dragon]]
 			- **Bronze-Dragons**
-				- [[Huge Bronze Dragon]]
-				- [[Large Bronze Dragon]]
-				- [[Medium Bronze Dragon]]
+				- [[Huge-Bronze-Dragon]]
+				- [[Large-Bronze-Dragon]]
+				- [[Medium-Bronze-Dragon]]
 			- **Copper-Dragons**
-				- [[Huge Copper Dragon]]
-				- [[Large Copper Dragon]]
-				- [[Medium Copper Dragon]]
+				- [[Huge-Copper-Dragon]]
+				- [[Large-Copper-Dragon]]
+				- [[Medium-Copper-Dragon]]
 			- **Gold-Dragons**
-				- [[Huge Gold Dragon]]
-				- [[Large Gold Dragon]]
-				- [[Medium Gold Dragon]]
+				- [[Huge-Gold-Dragon]]
+				- [[Large-Gold-Dragon]]
+				- [[Medium-Gold-Dragon]]
 			- **Silver-Dragons**
-				- [[Huge Silver Dragon]]
-				- [[Large Silver Dragon]]
-				- [[Medium Silver Dragon]]
+				- [[Huge-Silver-Dragon]]
+				- [[Large-Silver-Dragon]]
+				- [[Medium-Silver-Dragon]]
 		- **Other**
 			- [[Shadow-Dragon]]
 			- [[Shadow-Thief]]
 		- **[[The-Purple-Dragon]]**
-			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Adventurer-Dragon-Form]]
-			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Adventurer-Human-Form]]
-			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Champion-Dragon-Form]]
-			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Champion-Human-Form]]
-			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Epic-Dragon-Form]]
-			- [[Compendium/13A/Bestiary/Dragon/The-Purple-Dragon/The-Purple-Dragon-Epic-Human-Form]]
+			- [[The-Purple-Dragon-Adventurer-Dragon-Form|The Purple Dragon (Adventurer, Dragon Form)]]
+			- [[The-Purple-Dragon-Adventurer-Human-Form|The Purple Dragon (Adventurer, Human Form)]]
+			- [[The-Purple-Dragon-Champion-Dragon-Form|The Purple Dragon (Champion, Dragon Form)]]
+			- [[The-Purple-Dragon-Champion-Human-Form|The Purple Dragon (Champion, Human Form)]]
+			- [[The-Purple-Dragon-Epic-Dragon-Form|The Purple Dragon (Epic, Dragon Form)]]
+			- [[The-Purple-Dragon-Epic-Human-Form|The Purple Dragon (Epic, Human Form)]]
 	- **Elemental**
 		- [[Air-Elemental]]
 		- [[Big-Air-Elemental]]
@@ -354,7 +357,7 @@ updated: 2023-05-30
 		- [[Epic-Water-Elemental]]
 		- [[Fire-Elemental]]
 		- **Flux-Elementals**
-		- **[[Compendium/13A/Bestiary/Elemental/Nymph-Elemental/Nymph]]**
+		- **[[Compendium/13A/Bestiary/Elemental/Nymph/Nymph|Nymph]]**
 			- [[Wild-Dryad]]
 			- [[Wild-Naiad]]
 			- [[Wild-Nereid]]
